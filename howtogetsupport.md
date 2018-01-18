@@ -67,8 +67,6 @@ You can also open a support ticket using one of the following options:
 ## Contacting support for {{site.data.keyword.Bluemix_notm}} Dedicated or Local
 {: #contacting-bluemix-support-dedicated-local}
 
-<!-- Admin sub-collection links to this anchor -->
-
 If your account is either {{site.data.keyword.Bluemix_notm}} Dedicated or Local, support is provided by the {{site.data.keyword.Bluemix_notm}} support team. However, if you do not have an {{site.data.keyword.ibmid}}, you have a few different options for getting support.
 
 * Contact support by opening a new ticket using the
