@@ -24,8 +24,6 @@ When you receive an error message from {{site.data.keyword.Bluemix}}, you can us
 **Message**: The page wasn't loaded because {{site.data.keyword.Bluemix_notm}} didn't detect whether a session exists.
 
 For instructions to fix this problem, see the [{{site.data.keyword.Bluemix_notm}} page can't be loaded](https://www.{DomainName}/docs/troubleshoot/ts_accessing.html#ts_err){: new_window} troubleshooting topic.
-<!-- BXNUI0002E to be deleted -->
-<!-- BXNUI0003E to be deleted -->
 
 ## BXNUI0004E
 **Message**: The '{0}' app wasn't deleted because a problem occurred contacting Cloud Foundry.
@@ -41,8 +39,6 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 **Message**: The '{0}' app didn't stop because a problem occurred contacting Cloud Foundry.
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
-
-<!-- BXNUI0007E removed -->
 
 ## BXNUI0008E
 **Message**: The '{0}' app details weren't retrieved because a problem occurred contacting Cloud Foundry.
@@ -202,10 +198,6 @@ On the app's Overview page, click **Routes and domains** drop-down, and select *
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
 
-<!-- BXNUI0041E to be deleted -->
-<!-- BXNUI0042E to be deleted -->
-<!-- BXNUI0043E to be deleted -->
-
 ## BXNUI0044E
 **Message**: Information wasn't retrieved from the server because a problem occurred contacting Cloud Foundry.
 
@@ -322,11 +314,6 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 **Message**: The data for the plans wasn't retrieved because a problem occurred contacting Cloud Foundry.
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
-
-<!-- ## BXNUI0068E
-**Message**:The operation on the client timed out.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}. -->
 
 ## BXNUI0070E
 **Message**: The certificate for the '{0}' domain wasn't retrieved because a problem occurred contacting IBM DataPower Gateway.
@@ -512,17 +499,6 @@ Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_no
 **Message**: The {0} service instance wasn't deleted because its credentials weren't deleted.
 
 Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
-
-<!-- ## BXNUI0115E
-**Message**:Containers weren't retrieved because a problem occurred contacting IBM Containers.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}. -->
-
-<!-- ## BXNUI0117E
-
-**Message**:The spaces in the organization weren't retrieved because of a network connection problem.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.  -->
 
 ## BXNUI0118E
 
@@ -886,18 +862,10 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
 
-<!-- BXNUI2003E removed -->
-
 ## BXNUI2004E
 **Message**: The app was not created because of an error from the cloud server.
 
 Try again. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
-
-<!-- BXNUI2005E removed -->
-
-<!-- BXNUI2006E removed -->
-
-<!-- BXNUI2007E removed -->
 
 ## BXNUI2008E
 **Message**: The app was not created because a .zip file could not be created for the {0} app that uses the {1} starter.
@@ -1328,11 +1296,6 @@ For details about the number of allowed certificates and how to delete or replac
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
 
-<!-- BXNUI2095E was removed -->
-<!-- BXNUI2096E was removed -->
-<!-- BXNUI2097E was removed -->
-<!-- BXNUI2098E was removed -->
-
 ## BXNUI2099E
 **Message**: {{site.data.keyword.Bluemix_notm}} service billing issued an unexpected exception with this message: "{0}""
 
@@ -1367,10 +1330,6 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 **Message**: The attempt to connect to Cloud Foundry failed.
 
 If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixsupport){: new_window}.
-
-<!-- BXNUI2106E removed -->
-
-<!-- BXNUI2107E removed -->
 
 ## BXNUI2108E
 **Message**: The contents of the uploaded certificate weren't read because a problem occurred: {0}.
