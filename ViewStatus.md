@@ -103,8 +103,3 @@ You can also use a third-party service to automatically send an email for each R
 {: #setting-up-notifications}
 
 For {{site.data.keyword.Bluemix_notm}} Public, you can sign up for platform notifications. Platform notifications are optional email alerts for incident and maintenance events for the {{site.data.keyword.Bluemix_notm}} platform. You can choose to receive these email notifications by clicking **Manage** > **Account** > **Notifications** and selecting the **Platform** tab. For more information about setting account notifications, see [Setting notifications](/docs/account/notifications.html#setting-notifications).
-
-## Using the Account menu items
-{: #using-accountmenu}
-
-Use the **Manage** > **Account** menu items to stay up-to-date with platform notifications, manage organization and team members, and view both organization usage information and current charges.
