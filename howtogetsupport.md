@@ -113,7 +113,7 @@ After setting the **EU Supported** option, you can also take advantage of additi
 
 {{site.data.keyword.Bluemix_notm}} platform services (Germany region only):
   * Data & Analytics: Compose (all versions) and {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.contdelivery_full}}, {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, GitHub Enterprise on {{site.data.keyword.Bluemix_notm}} Dedicated
+  * DevOps: {{site.data.keyword.contdelivery_full}} (Public only), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, GitHub Enterprise on {{site.data.keyword.Bluemix_notm}} Dedicated
   * Application services: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * APIs: {{site.data.keyword.apiconnect_long}}
   * Security: {{site.data.keyword.SecureGatewayfull}}
