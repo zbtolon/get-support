@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-29"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -56,7 +56,7 @@ If you have a valid {{site.data.keyword.Bluemix_notm}} account, you can  open a 
   1. From the menu bar, click **Support** > **Support Center**.
   2. From the **Get help** section, click **Open a ticket**.
   3. Select the resource context and the ticket type.
-  4. Complete the required information and click **Submit**. The information that is required depends on the resource content and ticket type you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
+  4. Complete the required information and click **Submit**. The information that is required depends on the resource context and ticket type you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
 
 When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity) for information about the different severities. If your support inquiry requires a more immediate response, consider upgrading to the Standard or Premium support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email sales@bluemix.net.
 
