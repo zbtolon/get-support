@@ -47,7 +47,7 @@ The Stack Overflow forum, for technical questions, and the dW Answers forum, for
 
 {{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and dW Answers, and follow the questions that are tagged with **ibm-cloud**. When you create a question in either forum, add the **ibm-cloud** tag to your question to ensure that it is seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
 
-If the problem is not due to an outage and you if you can't find an answer for your specific problem, you can contact customer support by opening a support ticket.
+If the problem is not due to an outage, and if you can't find an answer for your specific problem, you can contact customer support by opening a support ticket.
 
 ## Opening a support ticket
 {: #open-ticket}
