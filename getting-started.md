@@ -49,7 +49,7 @@ You can use the Support Center to search the documentation and Stack Overflow or
   2. To search for answers to technical questions from IBM Cloud documentation and Stack overflow, enter your search text in the search bar.
   3. To search for answers to non-technical questions, under the **Community forums** section, click **IBM developerWorks Answers**.
 
-You can also ask questions on the Stack overflow dW Answers and sites.  For more information, see [Asking a question](/docs/get-support/howtogetsupport.html#asking-a-question).
+You can also ask questions on the Stack overflow and dW Answers sites.  For more information, see [Asking a question](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Step 3: Contact customer support
 {: #contact-customer-support}
