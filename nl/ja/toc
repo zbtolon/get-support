@@ -1,0 +1,39 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
+サポートの利用
+
+    {: .navgroup id="howto"}
+    {: .topicgroup}
+    お客様サポートの利用
+        howtogetsupport.md
+        getstarttssup.md
+        ViewStatus.md
+        servicessupport.md
+
+    {: .topicgroup}
+    チケットの処理
+        mantick.md
+        ticketweight.md
+        quicktickresp.md
+
+    {: .topicgroup}
+    トラブルシューティング
+        ts_overview.md
+        ../troubleshoot/ts_manageticket.md
+        ../troubleshoot/ts_runtimes.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    bxnui.md
+
+    {: .topicgroup}
+    既知の問題
+        appsectls.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
+    [スタック・オーバーフロー](http://stackoverflow.com/questions/tagged/ibm-bluemix)
+    {: .navgroup-end}

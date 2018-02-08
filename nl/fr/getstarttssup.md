@@ -1,0 +1,75 @@
+---
+
+copyright:
+
+  years: 2015, 2018
+
+lastupdated: "2018-01-11"
+
+---
+
+{:shortdesc: .shortdesc}
+{:codeblock: .codeblock}
+{:screen: .screen}
+{:tip: .tip}
+{:new_window: target="_blank"}
+
+# Fonctionnement du processus de support client
+{: #gs_supoverview}
+
+Tous les clients {{site.data.keyword.Bluemix}} bénéficient d'un support technique gratuit via les communautés et les blogues. Les types supplémentaires de support dont vous pouvez disposer, ainsi que leur disponibilité, sont fonction du niveau de support de votre compte.
+{:shortdesc}
+
+Vous pouvez accéder aux options de support disponibles, telles que la communauté {{site.data.keyword.Bluemix_notm}} ou Stack Overflow pour les problèmes techniques, depuis le centre de support de la console {{site.data.keyword.Bluemix_notm}}. Le niveau de support que vous avez sélectionné pour votre compte détermine les options qui sont affichées dans le centre de support. Voir [Utilisation du centre de support](/docs/get-support/howtogetsupport.html#using-avatar) pour plus d'informations. Ce niveau de support détermine également le niveau de gravité que vous pouvez affecter aux tickets de demande de service lorsque vous contactez le support client. Voir [Comment les tickets sont-ils affectés et pondérés ?](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations.
+
+## Types de support
+{: #typesofsupport}
+
+Différents niveaux de support sont fournis pour {{site.data.keyword.Bluemix_notm}} Public afin de répondre aux besoins des différents clients. Les niveaux de support varient selon qu'il s'agit d'un compte premium, standard, de base ou promo, comme décrit dans les sections suivantes.
+
+### Support Premium
+{: #premium-support}
+
+Le support Premium est assuré pour les environnements critiques pour l'activité de l'entreprise avec une dépendance stratégique envers {{site.data.keyword.Bluemix_notm}}.
+
+Gravité prise en charge | Prise en charge de langues | Client success manager (CSM) affecté | Grand nombre de numéros d'appel gratuits
+--- | --- | --- | --- |
+Gravité 1 à 4 incluses | anglais, japonais |  Inclus, 8 heures par semaine | Inclus |
+{: caption="Tableau 1. Support premium" caption-side="top"}
+
+### Support standard
+{: #standard-support}
+
+Le support standard est assuré pour les environnements avec un nombre limité d'applications critiques pour l'activité de l'entreprise. Les clients de l'environnement {{site.data.keyword.Bluemix_notm}} dédié et de l'environnement {{site.data.keyword.Bluemix_notm}} local bénéficient du support standard.
+
+Gravité prise en charge | Prise en charge de langues | Client success manager (CSM) affecté | Grand nombre de numéros d'appel gratuits
+--- | --- | --- | --- |
+Gravité 1 à 4 incluses | anglais, japonais | Non inclus | Non inclus |
+{: caption="Tableau 2. Support standard" caption-side="top"}
+
+### Support de base
+{: #basic-support}
+
+Le support de base est assuré pour les environnements non destinés à la production et pour les charges de travail pour lesquelles les niveaux de gravité et les temps de réponse traditionnels ne sont pas requis.
+
+Gravité prise en charge | Prise en charge de langues | Client success manager (CSM) affecté | Grand nombre de numéros d'appel gratuits
+--- | --- | --- | --- |
+Gravité 4 uniquement prise en charge | Anglais | Non inclus | Non inclus |
+{: caption="Tableau 3. Support de base" caption-side="top"}
+
+### Support Promo
+{: #trial-support}
+
+Le support Promo s'adresse à tous les clients de la version d'essai de {{site.data.keyword.Bluemix_notm}}.
+
+Gravité prise en charge | Prise en charge de langues | Client success manager (CSM) affecté | Grand nombre de numéros d'appel gratuits
+--- | --- | --- | --- |
+Gravité 4 uniquement prise en charge | Anglais | Non inclus | Non inclus |
+{: caption="Tableau 4. Support Promo" caption-side="top"}
+
+**Important :** La prise en charge du japonais est disponible pour les tickets de gravité 2 à 4 du lundi à vendredi de 9h00 à 17h00 (heure du Japon), à l'exception des jours fériés. La communauté et les services tiers sont exclus. Les tickets de gravité 1 sont traités en anglais uniquement.
+
+## Enquêtes de satisfaction sur le support {{site.data.keyword.Bluemix_notm}}  
+{: #survey}
+
+IBM envoie périodiquement des sondages aux clients {{site.data.keyword.Bluemix_notm}} pour solliciter leurs commentaires sur leurs récentes expériences avec le support client. L'enquête se concentre sur la qualité du support et leur expérience globale. La direction d'IBM étudie les résultats de l'enquête pour améliorer leur expérience avec le support.
