@@ -73,7 +73,7 @@ To use the alternate endpoints, your client must support the Server Name Indicat
 
 ### Watson products and services
 
-For Watson products and services that you connect to using `gateway.watsonplatform.net` or `stream.wastonplatform.net` replace thise with `gateway-tls12.watsonplatform.net` or `stream-tls12.watsonplatform.net`. These alternate endpoints support TLS 1.2 only. If you are able to successfully connect to these, you will not be impacted. If you cannot successfully connect you will be impacted and must change your client, client libraries, or client configuration to enable TLS 1.2.
+For Watson products and services that you connect to using `gateway.watsonplatform.net` or `stream.wastonplatform.net` replace these with `gateway-tls12.watsonplatform.net` or `stream-tls12.watsonplatform.net`. These alternate endpoints support TLS 1.2 only. If you are able to successfully connect to these, you will not be impacted. If you cannot successfully connect you will be impacted and must change your client, client libraries, or client configuration to enable TLS 1.2.
 
 Alternate endpoints for Watson products and services in regions other than US South are not provided as these already support only TLS 1.2.
 
@@ -109,7 +109,7 @@ Some products or services, such as Cloud Foundry on {{site.data.keyword.Bluemix_
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### Data & Analytics
 
