@@ -48,7 +48,7 @@ All connections to Cloud Foundry that use TLS are potentially impacted, includin
 
 All Cloud Foundry application endpoints on the `*.mybluemix.net` domain can be accessed through an alternate endpoint that supports only TLS 1.2.
 
-To use the alternate endpoint add `alt.` after your application’s subdomain, for example, if your application is hosted at `https://myapplication.mybluemix.net` use `https://myapplication.alt.mybluemix.net`. Or, for `https://myaplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
+To use the alternate endpoint add `alt.` after your application’s subdomain, for example, if your application is hosted at `https://myapplication.mybluemix.net` use `https://myapplication.alt.mybluemix.net`. Or, for `https://myapplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 If you are able to successfully connect to the alternate endpoint you will not be impacted.
 
