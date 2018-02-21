@@ -58,7 +58,7 @@ If you cannot successfully connect, you will be impacted and must change your cl
 
 You can configure your Cloud Foundry application to automatically redirect to the alternate endpoints available on the `*.mybluemix.net` domain when connecting to other applications by using the following command:
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 After you set `BLUEMIX_TLS10_DISABLED` to `true` your application must be restaged by using the following command for this change to take effect:
