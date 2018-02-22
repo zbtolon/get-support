@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-01-11"
 {{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因判別を開始し、解決策を探すためにヘルプを利用するには、いくつかのオプションがあります。
 {:shortdesc}
 
-アカウントが {{site.data.keyword.Bluemix_notm}} コンソールで作成された場合、または SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルから作成され、それがリンクされたアカウントである場合は、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。リンクされたアカウントは、{{site.data.keyword.Bluemix_notm}} と {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのサービス間でリンクされています。詳しくは、[IBM ID ユーザー・アカウントのリンク](/docs/admin/softlayerlink.html#link_user_accounts)を参照してください。
+アカウントが {{site.data.keyword.Bluemix_notm}} コンソールで作成された場合、または SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルから作成され、それがリンクされたアカウントである場合は、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。 リンクされたアカウントは、{{site.data.keyword.Bluemix_notm}} と {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのサービス間でリンクされています。  詳しくは、[IBM ID ユーザー・アカウントのリンク](/docs/admin/softlayerlink.html#link_user_accounts)を参照してください。
 
 アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルで作成された SoftLayer アカウントだが、リンクされたアカウントではない場合、カスタマー・ポータルからのサポート・チケットのオープンについて詳しくは、[{{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのサポートの利用](/docs/customer-portal/cpsupport.html#customerportal_support)を参照してください。
 
@@ -40,7 +40,7 @@ lastupdated: "2018-01-11"
 ### 質問する
 {: #asking-a-question}
 
-技術的な質問のためのスタック・オーバーフロー・フォーラムと、一般的質問のための dW Answers フォーラムのどちらも、{{site.data.keyword.Bluemix_notm}} の質問に対するさまざまな検索可能な答えを提供します。 既存の答えが見つからない場合は、新規に質問します。スタック・オーバーフローと dW Answers には、サポート・センターからアクセスするか、または以下のリンクを使用します。
+技術的な質問のためのスタック・オーバーフロー・フォーラムと、一般的質問のための dW Answers フォーラムのどちらも、{{site.data.keyword.Bluemix_notm}} の質問に対するさまざまな検索可能な答えを提供します。 既存の答えが見つからない場合は、新規に質問します。 スタック・オーバーフローと dW Answers には、サポート・センターからアクセスするか、または以下のリンクを使用します。
 
   * {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} にアクセスしてください。
   * {{site.data.keyword.Bluemix_notm}} オファリングおよび開始手順に関する一般的な質問をするには、[dW Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} にアクセスしてください。
@@ -57,13 +57,13 @@ lastupdated: "2018-01-11"
   1. メニュー・バーで**「サポート」**>**「サポート・センター」**をクリックします。
   2. **「ヘルプの利用」**セクションから、**「チケットのオープン」**をクリックします。
   3. リソース・コンテキストとチケット・タイプを選択します。
-  4. 必要な情報を入力し、**「送信」**をクリックします。必要な情報は、選択したリソース・コンテキストとチケット・タイプのほか、アカウントのサポート・プランのタイプによっても異なります。サポート・タイプについて詳しくは、[サポートのタイプ](/docs/get-support/getstarttssup.html#typesofsupport)を参照してください。
+  4. 必要な情報を入力し、**「送信」**をクリックします。 必要な情報は、選択したリソース・コンテキストとチケット・タイプのほか、アカウントのサポート・プランのタイプによっても異なります。 サポート・タイプについて詳しくは、[サポートのタイプ](/docs/get-support/getstarttssup.html#typesofsupport)を参照してください。
 
-サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。 重大度によってチケットの処理方法が決まります。 各種の重大度については、[サポート・チケットの重大度および回答時間](/docs/get-support/ticketweight.html#support-ticket-severity)を参照してください。サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「標準」または「プレミアム」のサポート層にアップグレードすることを検討してください。 アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} に連絡するか、sales@bluemix.net に E メールを送信してください。
+サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。 重大度によってチケットの処理方法が決まります。 各種の重大度については、[サポート・チケットの重大度および回答時間](/docs/get-support/ticketweight.html#support-ticket-severity)を参照してください。 サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「標準」または「プレミアム」のサポート層にアップグレードすることを検討してください。 アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} に連絡するか、sales@bluemix.net に E メールを送信してください。
 
 サポート・チケットは、以下のいずれかのオプションを使用してオープンすることも可能です。
 * メニュー・バーで**「サポート」** > **「チケットの追加」**をクリックします。 チケット・フォームでチケット・タイプとして**「テクニカル (Technical)」**を選択し、フォームに記入して、テクニカル・サポートが必要な理由を示します。 「プレミアム」レベル・サポートをお持ちの場合、問題の重大度レベルを選択します。 数分後に、チケットについて E メール通知を受信します。 問題に関するさらなるやり取りについては、E メール内の指示に従います。
-* [{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.ibm.biz/bluemixsupport){: new_window} のヘルプ・ページを使用します。販売、IBM ID とログイン、請求、および技術サポートの問題についてチケットを送信できます。 技術サポートの問題では、問題を特定の領域やサービスに絞り込むことができます。 特定サービスに関する支援が必要な場合は、該当するサービス・カテゴリーを選択してください。 サービスが属するカテゴリーを判別するには、メニュー・バーで**「カタログ」**をクリックし、カテゴリーを検討してください。  
+* [{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.ibm.biz/bluemixsupport){: new_window} のヘルプ・ページを使用します。 販売、IBM ID とログイン、請求、および技術サポートの問題についてチケットを送信できます。 技術サポートの問題では、問題を特定の領域やサービスに絞り込むことができます。 特定サービスに関する支援が必要な場合は、該当するサービス・カテゴリーを選択してください。 サービスが属するカテゴリーを判別するには、メニュー・バーで**「カタログ」**をクリックし、カテゴリーを検討してください。  
 
 ## {{site.data.keyword.Bluemix_notm}} Dedicated または Private のサポートへのお問い合わせ
 {: #contacting-bluemix-support-dedicated-local}
@@ -71,7 +71,7 @@ lastupdated: "2018-01-11"
 アカウントが {{site.data.keyword.Bluemix_notm}} Dedicated または Private の場合、サポートは {{site.data.keyword.Bluemix_notm}} サポート・チームによって提供されます。 ただし、{{site.data.keyword.ibmid}} を持っていない場合は、サポートを取得するためのいくつかの異なるオプションがあります。
 
 * [{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.ibm.biz/bluemixsupport){: new_window}
-のヘルプ・ページを使用して新しいチケットをオープンすることで、サポートに連絡します。このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_notm}} Dedicated」**または**「{{site.data.keyword.Bluemix_notm}} Private」**オプションを選択してください。
+のヘルプ・ページを使用して新しいチケットをオープンすることで、サポートに連絡します。 このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_notm}} Dedicated」**または**「{{site.data.keyword.Bluemix_notm}} Private」**オプションを選択してください。
 サポート・チームがサポート要請をアクティブにモニターする時間について詳しくは、『[営業時間](/docs/get-support/ticketweight.html#support-hours-operation)』を参照してください。
 * {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックして、**「チケットの追加」**を選択します。 問題に合ったトピック領域を選択し、プロンプトに従ってチケットを送信します。
 * {{site.data.keyword.ibmid}} をお持ちでない場合は、IBM ID を持っている組織内のユーザーに相談するか、IBM 担当員にご連絡ください。
@@ -93,14 +93,14 @@ EU サポートは、EU サポート対象オプションを選択されたお�
 
 アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべてのチケットに適用されます。 このオプションを設定する前にオープンしたチケットには影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
 
-{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。詳しくは、[EU サポート対象オプションの有効化](/docs/pricing/eusupported.html#bill_eusupported)を参照してください。
+{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[EU サポート対象オプションの有効化](/docs/pricing/eusupported.html#bill_eusupported)を参照してください。
 
 {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのお客様のうち、リンクされたアカウントをお持ちでないお客様の場合、カスタマー・ポータルの「アカウントのプロファイル」ウィンドウから**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」オプションの設定](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)を参照してください。
 
 ### EU サポート対象のサービス
 {: #eusupportedservices}
 
-**「EU サポート対象 (EU Supported)」**オプションを設定した後は、{{site.data.keyword.Bluemix_notm}} を EU からサポートおよび操作する追加のコントロールも利用できます。以下のサービスを対象に、ライト・プランを除くすべてのプランがヨーロッパでホストされ、EU サポート対象として使用可能です。
+**「EU サポート対象 (EU Supported)」**オプションを設定した後は、{{site.data.keyword.Bluemix_notm}} を EU からサポートおよび操作する追加のコントロールも利用できます。 以下のサービスを対象に、ライト・プランを除くすべてのプランがヨーロッパでホストされ、EU サポート対象として使用可能です。
 
 以下のカテゴリーに含まれる {{site.data.keyword.Bluemix_notm}} インフラストラクチャー・サービス
   * コンピュート
@@ -114,7 +114,7 @@ EU サポートは、EU サポート対象オプションを選択されたお�
 
 {{site.data.keyword.Bluemix_notm}} プラットフォーム・サービス (ドイツ地域のみ)
   * データ & 分析: Compose (すべてのバージョン) および {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}、{{site.data.keyword.loganalysislong}}、{{site.data.keyword.ghe_dedicated_short}} ({{site.data.keyword.Bluemix_notm}} Dedicated のみ)
+  * DevOps: {{site.data.keyword.contdelivery_full}} (Public のみ)、{{site.data.keyword.monitoringlong}}、{{site.data.keyword.loganalysislong}}
   * アプリケーション・サービス: {{site.data.keyword.blockchainfull}}、{{site.data.keyword.messagehub_full}}、{{site.data.keyword.appserver_full}}
   * API: {{site.data.keyword.apiconnect_long}}
   * セキュリティー: {{site.data.keyword.SecureGatewayfull}}

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-01-10"
 # TLS 1.0 および 1.1 のサポート終了
 {: #tlssupportwithdraw}
 
-IBM は、2018 年 3 月 1 日付けでクラウド製品ならびにサービスの多くで TLS 1.0 および TLS 1.1 のサポートを終了します。TLS 1.0 および 1.1 のサポートを終了するいずれの {{site.data.keyword.Bluemix_notm}} 製品およびサービスでも、TLS 1.2 は引き続きサポートされます。
+IBM は、2018 年 3 月 1 日付けでクラウド製品ならびにサービスの多くで TLS 1.0 および TLS 1.1 のサポートを終了します。 TLS 1.0 および 1.1 のサポートを終了するいずれの {{site.data.keyword.Bluemix_notm}} 製品およびサービスでも、TLS 1.2 は引き続きサポートされます。
 {:shortdesc}
 
 ## この変更を行う理由
@@ -48,7 +48,7 @@ Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS 
 
 `*.mybluemix.net` ドメインのすべての Cloud Foundry アプリケーション・エンドポイントに、TLS 1.2 のみをサポートする代替エンドポイントからアクセスできます。
 
-代替エンドポイントを使用するには、アプリケーションのサブドメインの後に `alt.` を追加します。例えば、アプリケーションが `https://myapplication.mybluemix.net` でホストされている場合、`https://myapplication.alt.mybluemix.net` を使用します。 また、`https://myaplication.eu-gb.mybluemix.net` であれば、`https://myapplication.alt.eu-gb.mybluemix.net` を使用します。
+代替エンドポイントを使用するには、アプリケーションのサブドメインの後に `alt.` を追加します。例えば、アプリケーションが `https://myapplication.mybluemix.net` でホストされている場合、`https://myapplication.alt.mybluemix.net` を使用します。 また、`https://myapplication.eu-gb.mybluemix.net` であれば、`https://myapplication.alt.eu-gb.mybluemix.net` を使用します。
 
 代替エンドポイントに正常に接続できる場合、影響を受けることはありません。
 
@@ -73,7 +73,7 @@ cf restage <application_name>
 
 ### Watson 製品およびサービス
 
-`gateway.watsonplatform.net` または `stream.wastonplatform.net` を使用して接続している先の Watson 製品やサービスについては、それらを `gateway-tls12.watsonplatform.net` または `stream-tls12.watsonplatform.net` に置き換えてください。 これらの代替エンドポイントは、TLS 1.2 のみをサポートします。 そこに正常に接続できる場合、影響を受けることはありません。 正常に接続できない場合は、影響を受けることになるので、クライアント、クライアント・ライブラリー、またはクライアント構成を変更して、TLS 1.2 に対応できるようにする必要があります。
+`gateway.watsonplatform.net` または `stream.wastonplatform.net` を使用して接続している先の Watson 製品やサービスについては、これらを `gateway-tls12.watsonplatform.net` または `stream-tls12.watsonplatform.net` に置き換えてください。 これらの代替エンドポイントは、TLS 1.2 のみをサポートします。 そこに正常に接続できる場合、影響を受けることはありません。 正常に接続できない場合は、影響を受けることになるので、クライアント、クライアント・ライブラリー、またはクライアント構成を変更して、TLS 1.2 に対応できるようにする必要があります。
 
 米国南部以外の地域にある Watson 製品およびサービスの代替エンドポイントは提供されません。それらのエンドポイントでは既に TLS 1.2 しかサポートしていません。
 
@@ -109,7 +109,7 @@ cf restage <application_name>
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### データ & 分析
 
