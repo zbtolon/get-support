@@ -17,7 +17,7 @@ lastupdated: "2018-01-09"
 # 서비스에 대한 지원은 어떻게 받습니까?
 {: #support-different-services}
 
-지원을 요청하는 경우 근본 원인 분석이 완료됩니다. 다음 절에 설명된 대로 지원 팀은 근본 원인, 문제를 지정한 심각도 및 서비스의 유형에 따라 응답합니다. 
+지원을 요청하는 경우 근본 원인 분석이 완료됩니다. 다음 절에 설명된 대로 지원 팀은 근본 원인, 문제를 지정한 심각도 및 서비스의 유형에 따라 응답합니다.
 
 ## IBM의 일반 공개 서비스 또는 컨테이너 이미지
 {: #s-services-gaorcont}
@@ -33,7 +33,6 @@ IBM은 베타 릴리스로 분류되는 서비스 또는 컨테이너 이미지�
 {: #s-services-exporcont}
 
 IBM은 시범으로 분류되는 서비스 또는 컨테이너 이미지를 릴리스합니다. 이러한 서비스는 불안정하거나 자주 변경될 수 있으며 갑자기 중단될 수 있습니다. 시범 서비스로 분류되는 서비스인 경우에는 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}(기술적 문제의 경우) 및 [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}(기타 문제의 경우)를 통해 커뮤니티 지원을 받을 수 있습니다.
-
 
 ## 써드파티 서비스
 {: #s-services-3p}

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 �
 
 TLS 1.2만 지원하는 대체 엔드포인트를 통해 `*.mybluemix.net` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트에 액세스할 수 있습니다.
 
-대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 다음에 `alt.`를 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.mybluemix.net`에서 호스팅되는 경우 `https://myapplication.alt.mybluemix.net`을 사용하십시오. 또는 `https://myaplication.eu-gb.mybluemix.net`의 경우 `https://myapplication.alt.eu-gb.mybluemix.net`을 사용하십시오.
+대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 다음에 `alt.`를 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.mybluemix.net`에서 호스팅되는 경우 `https://myapplication.alt.mybluemix.net`을 사용하십시오. 또는 `https://myapplication.eu-gb.mybluemix.net`의 경우에는 `https://myapplication.alt.eu-gb.mybluemix.net`을 사용하십시오. 
 
 대체 엔드포인트에 연결할 수 있는 경우 영향을 받지 않습니다.
 
@@ -73,7 +73,7 @@ cf restage <application_name>
 
 ### Watson 제품 및 서비스
 
-`gateway.watsonplatform.net` 또는 `stream.wastonplatform.net`을 사용하여 연결하는 Watson 제품 및 서비스에 대해 이를 `gateway-tls12.watsonplatform.net` 또는 `stream-tls12.watsonplatform.net`으로 바꾸십시오. 이러한 대체 엔드포인트는 TLS 1.2만 지원합니다. 성공적으로 연결할 수 있는 경우 영향을 받지 않습니다. 연결에 실패하면 영향을 받으며 TLS 1.2를 사용하도록 클라이언트, 클라이언트 라이브러리 또는 클라이언트 구성을 변경해야 합니다.
+`gateway.watsonplatform.net` 또는 `stream.wastonplatform.net`을 사용하여 연결 중인 Watson 제품 및 서비스의 경우에는 이를 `gateway-tls12.watsonplatform.net` 또는 `stream-tls12.watsonplatform.net`으로 바꾸십시오. 이러한 대체 엔드포인트는 TLS 1.2만 지원합니다. 성공적으로 연결할 수 있는 경우 영향을 받지 않습니다. 연결에 실패하면 영향을 받으며 TLS 1.2를 사용하도록 클라이언트, 클라이언트 라이브러리 또는 클라이언트 구성을 변경해야 합니다.
 
 미국 남부 외 지역의 Watson 제품 및 서비스는 이미 TLS 1.2만 지원하므로 이에 대한 대체 엔드포인트는 제공되지 않습니다.
 
@@ -109,7 +109,7 @@ cf restage <application_name>
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### 데이터 및 분석
 
@@ -241,7 +241,7 @@ TLS 1.0 및 1.1에 대한 지원이 `api.softlayer.com` 및 `api.service.softlay
 
 지원이 중단된 후 Watson 제품과 서비스에 연결할 때 TLS 1.0 또는 1.1을 계속 사용해야 하는 경우 `gateway.watsonplatform.net`을 `gateway-tls10.wastonplatform.net`으로 바꾸거나 `stream.watsonplatform.net`을 `stream-tls10.watsonplatform.net`으로 바꿀 수 있습니다. `gateway-tls10.watsonplatform.net` 및 `stream-tls10.watsonplatform.net`은 TLS 1.0, 1.1 및 1.2를 지원하며 TLS 1.0 및 1.1이 `gateway.watsonplatform.net` 및 `stream.watsonplatform.net`에서 제거된 후에도 계속 사용 가능합니다.
 
-## 연락하기
+## 문의하기
 {: #tlssupport}
 
-질문, 관심사항 또는 문제점이 있는 경우 [지원에 문의![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud/support){: new_window}하십시오. 
+질문, 관심사항 또는 문제점이 있는 경우 [지원 센터에 문의![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud/support){: new_window}하십시오.

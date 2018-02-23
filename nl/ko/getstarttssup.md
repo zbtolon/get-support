@@ -20,12 +20,12 @@ lastupdated: "2018-01-11"
 커뮤니티 및 블로그를 통해 모든 {{site.data.keyword.Bluemix}} 고객에게 무료 기술 지원이 제공됩니다. 사용 가능한 추가 지원 유형(사용 가능한 경우)이 계정의 지원 레벨에 따라 달라집니다.
 {:shortdesc}
 
-{{site.data.keyword.Bluemix_notm}} 콘솔 지원 센터에서 기술적인 문제에 대해 {{site.data.keyword.Bluemix_notm}} 커뮤니티 또는 Stack Overflow와 같은 지원 옵션에 액세스할 수 있습니다. 계정에 대해 선택한 지원 레벨로 지원 센터에 표시되는 옵션이 결정됩니다. 자세한 정보는 [지원 센터 사용](/docs/get-support/howtogetsupport.html#using-avatar)을 참조하십시오. 또한 계정에 대해 선택한 지원 레벨은 고객 지원에 대해 문의할 때 지원 티켓에 지정할 수 있는 심각도도 결정됩니다. 자세한 방법은 [티켓이 지정되고 가중되는 방법은 무엇입니까?](/docs/get-support/ticketweight.html#support-ticket-severity)를 참조하십시오. 
+{{site.data.keyword.Bluemix_notm}} 콘솔 지원 센터에서 기술적인 문제에 대해 {{site.data.keyword.Bluemix_notm}} 커뮤니티 또는 Stack Overflow와 같은 지원 옵션에 액세스할 수 있습니다. 계정에 대해 선택한 지원 레벨로 지원 센터에 표시되는 옵션이 결정됩니다. 자세한 정보는 [지원 센터 사용](/docs/get-support/howtogetsupport.html#using-avatar)을 참조하십시오. 또한 계정에 대해 선택한 지원 레벨은 고객 지원에 대해 문의할 때 지원 티켓에 지정할 수 있는 심각도도 결정됩니다. 자세한 방법은 [티켓이 지정되고 가중되는 방법은 무엇입니까?](/docs/get-support/ticketweight.html#support-ticket-severity)를 참조하십시오.
 
 ## 지원 유형
 {: #typesofsupport}
 
-다양한 고객 요구사항을 충족할 수 있도록 다양한 레벨의 지원이 {{site.data.keyword.Bluemix_notm}} 퍼블릭에 제공됩니다. 지원 레벨은 다음 절에서 설명하는 대로 프리미엄, 표준, 기본 및 프로모션 간에 서로 다릅니다. 
+다양한 고객 요구사항을 충족할 수 있도록 다양한 레벨의 지원이 {{site.data.keyword.Bluemix_notm}} 퍼블릭에 제공됩니다. 지원 레벨은 다음 절에서 설명하는 대로 프리미엄, 표준, 기본 및 프로모션 간에 서로 다릅니다.
 
 ### 프리미엄 지원
 {: #premium-support}
