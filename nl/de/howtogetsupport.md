@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-01-11"
 Wenn Probleme mit {{site.data.keyword.Bluemix}} auftreten, haben Sie verschiedene Möglichkeiten, mit der Ursachenermittlung für das Problem zu beginnen und Hilfe bei der Lösungssuche zu erhalten.
 {:shortdesc}
 
-Falls Ihr Konto mit der {{site.data.keyword.Bluemix_notm}}-Konsole oder Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und ein verknüpftes Konto ist, können Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Verknüpfte Konten werden zwischen {{site.data.keyword.Bluemix_notm}} und den Services der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur verknüpft. Weitere Informationen finden Sie unter [IBMid-Benutzerkonten verknüpfen](/docs/admin/softlayerlink.html#link_user_accounts).
+Falls Ihr Konto mit der {{site.data.keyword.Bluemix_notm}}-Konsole oder Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und ein verknüpftes Konto ist, können Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Verknüpfte Konten werden zwischen {{site.data.keyword.Bluemix_notm}} und den Services der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur verknüpft.  Weitere Informationen finden Sie unter [IBMid-Benutzerkonten verknüpfen](/docs/admin/softlayerlink.html#link_user_accounts).
 
 Falls Ihr Konto ein nicht verknüpftes SoftLayer-Konto ist und im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde, finden Sie im Abschnitt [Support für {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erhalten](/docs/customer-portal/cpsupport.html#customerportal_support) weitere Informationen dazu, wie Sie Support-Tickets im Kundenportal öffnen können.
 
@@ -53,7 +53,7 @@ Wenn das Problem nicht auf einer Betriebsunterbrechung beruht und Sie keine Antw
 {: #open-ticket}
 
 Falls Sie ein gültiges {{site.data.keyword.Bluemix_notm}}-Konto besitzen, können Sie ein Support-Ticket mit den folgenden Schritten im Support Center öffnen:
-  1. Klicken Sie in der Menüleiste auf **Support** > **Support Center**. 
+  1. Klicken Sie in der Menüleiste auf **Support** > **Support Center**.
   2. Klicken Sie im Abschnitt **Hilfe anfordern** auf **Ticket öffnen**.
   3. Wählen Sie den Ressourcenkontext und den Tickettyp aus.
   4. Geben Sie die erforderlichen Informationen ein und klicken Sie auf **Abschicken**. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext und Tickettyp sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
@@ -69,11 +69,13 @@ Zum Öffnen eines Support-Tickets können Sie auch eines der folgenden Verfahren
 
 Wenn Ihr Konto ein {{site.data.keyword.Bluemix_notm}} Dedicated oder Local-Konto ist, wird die Unterstützung vom {{site.data.keyword.Bluemix_notm}}-Support-Team bereitgestellt. Auch wenn Sie möglicherweise keine {{site.data.keyword.ibmid}} haben, stehen Ihnen jedoch einige verschiedene Optionen zum Abrufen der Unterstützung zur Verfügung.
 
-* Fordern Sie Unterstützung an, indem Sie auf der Hilfeseite des [{{site.data.keyword.Bluemix_notm}}-Supports ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://www.ibm.biz/bluemixsupport){: new_window} ein neues Ticket öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_notm}} Dedicated** oder **{{site.data.keyword.Bluemix_notm}} Local** für das Feld 'Region' aus. Unter [Betriebszeiten](/docs/get-support/ticketweight.html#support-hours-operation) finden Sie Informationen zu den Zeiten, in denen das Support-Team Support-Anforderungen aktiv überwacht.
+* Fordern Sie Unterstützung an, indem Sie auf der Hilfeseite des [{{site.data.keyword.Bluemix_notm}}-Supports ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://www.ibm.biz/bluemixsupport){: new_window} ein neues Ticket öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_notm}} Dedicated** oder **{{site.data.keyword.Bluemix_notm}} Local** für das Feld 'Region' aus.
+Unter [Betriebszeiten](/docs/get-support/ticketweight.html#support-hours-operation) finden Sie Informationen zu den Zeiten, in denen das Support-Team Support-Anforderungen aktiv überwacht.
 * Wenn Sie über eine {{site.data.keyword.ibmid}} verfügen und Zugriff auf die {{site.data.keyword.Bluemix_notm}} Public-Umgebung haben, klicken Sie in der Menüleiste auf **Support** und wählen **Ticket hinzufügen** aus. Wählen Sie den Themenbereich für Ihr Problem aus und befolgen Sie die Eingabeaufforderungen, um Ihr Ticket einzureichen.
 * Wenn Sie keine {{site.data.keyword.ibmid}} haben, können Sie sich an eine Person in Ihrer Organisation mit einer solchen ID wenden oder mit Ihrem IBM Ansprechpartner zusammenarbeiten.
 
-Auf Anforderung kann eine Liste der Benutzer in Ihrer Organisation, die als Kontaktpersonen für Support-Tickets fungieren, auf der Seite **Support** der {{site.data.keyword.Bluemix_notm}}-Konsole in Ihrer Dedicated- oder Local-Umgebung angezeigt werden.{:tip}
+Auf Anforderung kann eine Liste der Benutzer in Ihrer Organisation, die als Kontaktpersonen für Support-Tickets fungieren, auf der Seite **Support** der {{site.data.keyword.Bluemix_notm}}-Konsole in Ihrer Dedicated- oder Local-Umgebung angezeigt werden.
+  {:tip}
 
 ## Unterstützung für Ressourcen in der EU anfordern
 {: #eusupported}
@@ -110,7 +112,7 @@ Wenn Sie die Option **Unterstützung in der EU** angegeben haben, können Sie we
 
 {{site.data.keyword.Bluemix_notm}}-Plattformservices (nur Region 'Deutschland'):
   * Data & Analytics: Compose (alle Versionen) und {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (nur {{site.data.keyword.Bluemix_notm}} Dedicated)
+  * DevOps: {{site.data.keyword.contdelivery_full}} (nur öffentlich), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
   * Anwendungsservices: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * APIs: {{site.data.keyword.apiconnect_long}}
   * Sicherheit: {{site.data.keyword.SecureGatewayfull}}

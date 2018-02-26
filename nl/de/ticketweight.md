@@ -18,7 +18,7 @@ lastupdated: "2018-01-10"
 # Zuordnung und Gewichtung von Tickets
 {: #support-ticket-severity}
 
-Wie schnell Ihre Support-Tickets bearbeitet werden, richtet sich nach der Gewichtung, die jedem Ticket durch die Priorität des Problems zugeordnet wird. Die Priorität des Problems ordnen Sie zu, wenn Sie das Ticket öffnen. Weitere Informationen über die Prioritätsstufen, die für den Supporttyp Ihres Kontos verfügbar sind, finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
+Wie schnell Ihre Support-Tickets bearbeitet werden, richtet sich nach der Gewichtung, die jedem Ticket durch die Priorität des Problems zugeordnet wird. Die Priorität des Problems ordnen Sie zu, wenn Sie das Ticket öffnen.  Weitere Informationen über die Prioritätsstufen, die für den Supporttyp Ihres Kontos verfügbar sind, finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
 {:shortdesc}
 
 In der folgenden Tabelle sind einige allgemeine Beispiele für Supportfälle mit vorgeschlagenen Prioritätsstufen und den zugehörigen angestrebten Reaktionszeiten aufgeführt. Die angestrebten Reaktionszeiten geben lediglich die Ziele von IBM wieder und stellen keine Leistungsgarantie dar.

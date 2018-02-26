@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ Alle Verbindungen zu Cloud Foundry, bei denen TLS verwendet wird, sind mögliche
 
 Auf alle Cloud Foundry-Anwendungsendpunkte in der Domäne `*.mybluemix.net` kann über einen alternativen Endpunkt zugegriffen werden, der ausschließlich TLS 1.2 unterstützt.
 
-Fügen Sie zum Verwenden dieses alternativen Endpunkts `alt.` im Anschluss an den Namen der Unterdomäne Ihrer Anwendung ein. Wenn Ihre Anwendung beispielsweise unter `https://myapplication.mybluemix.net` gehostet wird, verwenden Sie `https://myapplication.alt.mybluemix.net`. Ein weiteres Beispiel ist die Verwendung von `https://myaplication.alt.eu-gb.mybluemix.net` anstelle von `https://myapplication.eu-gb.mybluemix.net`.
+Fügen Sie zum Verwenden dieses alternativen Endpunkts `alt.` im Anschluss an den Namen der Unterdomäne Ihrer Anwendung ein. Wenn Ihre Anwendung beispielsweise unter `https://myapplication.mybluemix.net` gehostet wird, verwenden Sie `https://myapplication.alt.mybluemix.net`. Ein weiteres Beispiel ist die Verwendung von `https://myapplication.alt.eu-gb.mybluemix.net` anstelle von `https://myapplication.eu-gb.mybluemix.net`.
 
 Kann die Verbindung zu dem alternativen Endpunkt hergestellt werden, beinhaltet das Einstellen der Unterstützung keine Beeinträchtigungen für Sie.
 
@@ -73,7 +73,7 @@ Ihr Client muss die TLS-Erweiterung SNI (Server Name Indication) unterstützen, 
 
 ### Watson-Produkte und -Services
 
-Bei Watson-Produkten und -Services, zu denen Sie mit `gateway.watsonplatform.net` oder `stream.wastonplatform.net` eine Verbindung herstellen, müssen Sie stattdessen `gateway-tls12.watsonplatform.net` oder `stream-tls12.watsonplatform.net` verwenden. Diese alternativen Endpunkte unterstützen ausschließlich TLS 1.2. Kann eine Verbindung zu diesen alternativen Endpunkten hergestellt werden, beinhaltet das Einstellen der Unterstützung keine Beeinträchtigungen für Sie. Kann die Verbindung nicht erfolgreich hergestellt werden, stehen Beeinträchtigungen an. Sie müssen in diesem Fall Ihren Client, die Clientbibliotheken oder die Clientkonfiguration ändern, um TLS 1.2 zu aktivieren.
+Bei Watson-Produkten und -Services, zu denen Sie mit `gateway.watsonplatform.net` oder `stream.wastonplatform.net` eine Verbindung herstellen, müssen Sie stattdessen `gateway-tls12.watsonplatform.net` bzw. `stream-tls12.watsonplatform.net` verwenden. Diese alternativen Endpunkte unterstützen ausschließlich TLS 1.2. Kann eine Verbindung zu diesen alternativen Endpunkten hergestellt werden, beinhaltet das Einstellen der Unterstützung keine Beeinträchtigungen für Sie. Kann die Verbindung nicht erfolgreich hergestellt werden, stehen Beeinträchtigungen an. Sie müssen in diesem Fall Ihren Client, die Clientbibliotheken oder die Clientkonfiguration ändern, um TLS 1.2 zu aktivieren.
 
 In anderen Regionen als der Region 'Vereinigte Staaten (Süden)' werden keine alternativen Endpunkte für Watson-Produkte und -Services bereitgestellt, da in diesen Regionen bereits ausschließlich TLS 1.2 unterstützt wird.
 

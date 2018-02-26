@@ -51,7 +51,7 @@ Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folge
 ## Kann ich ein Support-Ticket eskalieren?
 {: #escalation}
 
-Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Standard' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.   
+Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Standard' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.  
 {:shortdesc}
 
 Weitere Informationen zu den Supporttypen 'Premium' und 'Standard' finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).

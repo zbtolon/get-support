@@ -49,7 +49,7 @@ Im Support Center können Sie die Dokumentation und die Foren 'Stack Overflow' o
   2. Um nach Antworten auf technische Fragen in der IBM Cloud-Dokumentation und in Stack Overflow zu suchen, geben Sie den Suchtext in der Suchleiste ein.
   3. Um nach Antworten auf nicht technische Fragen zu suchen, klicken Sie im Abschnitt **Community-Foren** auf **developerWorks Answers**.
 
-Auf den Sites 'Stack Overflow' und 'developerWorks Answers' können Sie auch Fragen stellen. Weitere Informationen finden Sie unter [Fragen stellen](/docs/get-support/howtogetsupport.html#asking-a-question).
+Auf den Sites 'Stack Overflow' und 'developerWorks Answers' können Sie ebenfalls Fragen stellen. Weitere Informationen finden Sie unter [Fragen stellen](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Schritt 3: Mit der Kundenunterstützung in Verbindung setzen
 {: #contact-customer-support}
@@ -76,4 +76,4 @@ Zum Abonnieren von Benachrichtigungen greifen Sie auf die Seite 'Benachrichtigun
 ## Nächste Schritte
 {: #next-steps}
 
-Falls Sie beschlossen haben, ein Support-Ticket zu öffnen, um sich mit der Kundenunterstützung in Verbindung zu setzen und Hilfe für Ihr Problem anzufordern, können Sie das Support-Ticket während dieses Prozesses verwalten. Entsprechende Informationen finden Sie unter [Tickets verwalten](/docs/get-support/mantick.html#check-ticket-status).
+Falls Sie beschlossen haben, ein Support-Ticket zu öffnen, um sich mit der Kundenunterstützung in Verbindung zu setzen und Hilfe für Ihr Problem anzufordern, können Sie das Support-Ticket während dieses Prozesses verwalten.  Entsprechende Informationen finden Sie unter [Tickets verwalten](/docs/get-support/mantick.html#check-ticket-status).
