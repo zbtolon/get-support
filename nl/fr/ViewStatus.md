@@ -22,7 +22,7 @@ La page Statut est l'emplacement central pour rechercher des notifications et de
 
 Les informations suivantes sont disponibles sur la page Statut :
 
-  * Statut en cours des services et des composants pour toutes les régions de service {{site.data.keyword.Bluemix_notm}} Foundry. 
+  * Statut en cours des services et des composants pour toutes les régions de service {{site.data.keyword.Bluemix_notm}} Foundry.
   * Liste des annonces, par ordre chronologique, pour la maintenance et les incidents. Vous pouvez appliquer un filtre à la liste ou ouvrir une annonce individuelle pour plus de détails.
   * Fenêtres de maintenance planifiées, publiées au moins 24 heures à l'avance, sauf dans des cas extrêmes.
   * Incidents ou pannes imprévus, publiés dès que l'équipe {{site.data.keyword.Bluemix_notm}} en est informée. Les notifications d'incident sont régulièrement mises à jour jusqu'à leur résolution.

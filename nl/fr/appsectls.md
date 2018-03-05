@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement im
 
 Tous les noeuds finaux d'application Cloud Foundry sur le domaine `*.mybluemix.net` peuvent être accédés via un noeud final alternatif qui ne prend en charge que TLS 1.2.
 
-Pour utiliser le noeud final alternatif, ajoutez `alt.` après le sous-domaine de votre application : ainsi, si votre application est hébergée sur `https://myapplication.mybluemix.net`, utilisez `https://myapplication.alt.mybluemix.net`, ou pour `https://myaplication.eu-gb.mybluemix.net`, utilisez `https://myapplication.alt.eu-gb.mybluemix.net`.
+Pour utiliser le noeud final alternatif, ajoutez `alt.` après le sous-domaine de votre application : ainsi, si votre application est hébergée sur `https://myapplication.mybluemix.net`, utilisez `https://myapplication.alt.mybluemix.net`, ou pour `https://myapplication.eu-gb.mybluemix.net`, utilisez `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 Si vous parvenez à vous connecter au noeud final alternatif, vous ne serez pas impacté.
 
@@ -93,7 +93,7 @@ Certains produits ou services, comme Cloud Foundry on {{site.data.keyword.Bluemi
 
 **Remarque importante :** les déploiements de système {{site.data.keyword.Bluemix_notm}} privé ou {{site.data.keyword.Bluemix_notm}} local ou tous les services {{site.data.keyword.Bluemix_notm}} hébergés dans ces déploiements ne sont pas inclus. Si votre déploiement prend toujours en charge TLS 1.0 ou 1.1, voyez avec votre responsable client ou support quand effectuer le retrait .
 
-### Produits ou services disponibles depuis le catalogue {{site.data.keyword.Bluemix_notm}} 
+### Produits ou services disponibles depuis le catalogue {{site.data.keyword.Bluemix_notm}}
 
 #### Plateforme cloud
 

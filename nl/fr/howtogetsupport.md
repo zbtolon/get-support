@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-01-11"
 Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour commencer à déterminer la cause du problème et vous aider à trouver une solution.
 {:shortdesc}
 
-Si votre compte a été créé avec la console {{site.data.keyword.Bluemix_notm}} ou si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Les comptes liés le sont entre des services {{site.data.keyword.Bluemix_notm}} et d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}. Voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts) pour plus d'informations.
+Si votre compte a été créé avec la console {{site.data.keyword.Bluemix_notm}} ou si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Les comptes liés le sont entre des services {{site.data.keyword.Bluemix_notm}} et d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}.  Voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts) pour plus d'informations.
 
 Si votre compte est un compte SoftLayer créé sur le portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} mais qu'il ne s'agit pas d'un compte lié, voir [Support pour l'infrastructure {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) pour plus d'informations sur l'ouverture de tickets de demande de service depuis le portail client.
 
@@ -75,7 +75,8 @@ Pour plus d'informations sur les créneaux horaires pendant lesquels l'équipe d
 * Si vous possédez un {{site.data.keyword.ibmid}} et que vous avez accès à l'environnement {{site.data.keyword.Bluemix_notm}} public, dans la barre de menus, cliquez sur **Support** et sélectionnez **Ajouter un ticket**. Sélectionnez la zone de rubrique correspondant à votre problème et suivez les invites pour soumettre votre ticket.
 * Si vous ne possédez pas d'{{site.data.keyword.ibmid}}, vous pouvez prendre contact avec une personne de votre organisation qui en possède un ou collaborer avec votre interlocuteur IBM habituel.
 
-Si vous en faites la demande, la liste des utilisateurs de votre organisation pouvant servir de contacts pour les tickets de demande de service peut s'afficher sur la page **Support** dans la console {{site.data.keyword.Bluemix_notm}} de votre environnement dédié ou local.{:tip}
+Si vous en faites la demande, la liste des utilisateurs de votre organisation pouvant servir de contacts pour les tickets de demande de service peut s'afficher sur la page **Support** dans la console {{site.data.keyword.Bluemix_notm}} de votre environnement dédié ou local.
+  {:tip}
 
 ## Demande de support pour des ressources dans l'Union européenne
 {: #eusupported}
@@ -112,7 +113,7 @@ Services de plateforme {{site.data.keyword.Bluemix_notm}} dans les catégories s
 
 Services de plateforme {{site.data.keyword.Bluemix_notm}} (région Allemagne uniquement) :
   * Données et analyse : Compose (toutes versions) et {{site.data.keyword.cloudantfull}}
-  * DevOps : {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} ({{site.data.keyword.Bluemix_notm}} dédié uniquement)
+  * DevOps : {{site.data.keyword.contdelivery_full}} (Public uniquement), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
   * Services d'application : {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * API : {{site.data.keyword.apiconnect_long}}
   * Sécurité : {{site.data.keyword.SecureGatewayfull}}

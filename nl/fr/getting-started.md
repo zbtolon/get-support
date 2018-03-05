@@ -35,7 +35,7 @@ Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix_notm}}, véri
 
 Pour afficher le statut de la plateforme, des services et des contextes d'exécution, utilisez la procédure suivante :
   1. Cliquez sur **Support** > **Statut** depuis la barre de menus.  
-  2. Pour rechercher un problème spécifique, entrez des mots clés de votre problème dans la barre de recherche. 
+  2. Pour rechercher un problème spécifique, entrez des mots clés de votre problème dans la barre de recherche.
   3. Pour voir le statut, cliquez sur **Statut** puis sélectionnez **Tout** pour afficher le statut de tous les composants ou **Problèmes** pour voir uniquement les composants signalant des incidents.
   4. Pour voir les notifications, cliquez sur **Notifications** puis indiquez (sélection) si vous souhaitez afficher des notifications pour les **Incidents**, la **Sécurité**, la **Maintenance** ou les **Annonces** générales.
 
@@ -45,7 +45,7 @@ Voir [Affichage des statuts et notifications IBM Cloud](/docs/get-support/ViewSt
 {: #search-ask}
 
 Vous pouvez utiliser le centre de support pour effectuer une recherche dans la documentation et les forums Stack Overflow ou developerWorks (dW) Answers pour trouver des réponses. Pour rechercher des réponses, utilisez la procédure suivante :
-  1. Cliquez sur **Support** > **Centre de support** dans la barre de menus. 
+  1. Cliquez sur **Support** > **Centre de support** dans la barre de menus.
   2. Pour des réponses à des questions techniques dans la documentation IBM Cloud et sur Stack Overflow, entrez le texte à rechercher dans la barre de recherche.
   3. Pour des réponses à des questions non techniques, à la section **Forums de communauté**, cliquez sur **IBM developerWorks Answers**.
 
@@ -59,7 +59,7 @@ Si vous rencontrez un problème dont la cause ne figure pas sur la page Statut e
 Pour ouvrir un ticket depuis le centre de support, utilisez la procédure suivante :
   1. Cliquez sur **Support** et sélectionnez **Centre de support** dans la barre de menus.
   2. A la section **Obtenir de l'aide**, cliquez sur **Ouvrir un ticket**.
-  3. Fournissez les informations requises puis cliquez sur **Soumettre**. 
+  3. Fournissez les informations requises puis cliquez sur **Soumettre**.
 
 Pour des informations sur d'autres moyens de contacter le support, voir [Ouverture d'un ticket de demande de service](/docs/get-support/howtogetsupport.html#open-ticket).
 
@@ -76,4 +76,4 @@ Pour vous abonner aux notifications, accédez à la page Notifications relatives
 ## Etapes suivantes
 {: #next-steps}
 
-Si vous choisissez d'ouvrir un ticket de demande de service pour contacter le support client et obtenir une assistance pour résoudre votre problème, vous pouvez gérer le ticket via le processus. Voir [Gestion des tickets](/docs/get-support/mantick.html#check-ticket-status) pour plus d'informations.
+Si vous choisissez d'ouvrir un ticket de demande de service pour contacter le support client et obtenir une assistance pour résoudre votre problème, vous pouvez gérer le ticket via le processus.  Voir [Gestion des tickets](/docs/get-support/mantick.html#check-ticket-status) pour plus d'informations.
