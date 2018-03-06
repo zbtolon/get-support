@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-01-11"
 Se você tiver problemas com o {{site.data.keyword.Bluemix}}, existem várias opções para começar a determinar a causa do problema e para obter ajuda para encontrar uma solução.
 {:shortdesc}
 
-Se a sua conta foi criada com o console do {{site.data.keyword.Bluemix_notm}} ou se sua conta do SoftLayer foi criada a partir no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e é uma conta vinculada, será possível abrir chamados de suporte no console do {{site.data.keyword.Bluemix_notm}}. As contas vinculadas são vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e do {{site.data.keyword.BluSoftlayer_notm}}. Veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obter informações adicionais.
+Se a sua conta foi criada com o console do {{site.data.keyword.Bluemix_notm}} ou se sua conta do SoftLayer foi criada a partir no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e é uma conta vinculada, será possível abrir chamados de suporte no console do {{site.data.keyword.Bluemix_notm}}. As contas vinculadas são vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e do {{site.data.keyword.BluSoftlayer_notm}}.  Veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obter informações adicionais.
 
 Se a sua conta for uma conta do SoftLayer que foi criada no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, consulte [Obtendo suporte para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) para obter mais informações sobre como abrir chamados de suporte no portal do cliente.
 
@@ -47,7 +47,7 @@ O fórum do Stack Overflow para questões técnicas e o fórum do dW Answers par
 
 As equipes de desenvolvimento e suporte do {{site.data.keyword.Bluemix_notm}} monitoram ativamente o Stack Overflow e o dW Answers e seguem as perguntas identificadas com **ibm-cloud**. Ao criar uma pergunta em um fórum, inclua a identificação **ibm-cloud** em sua pergunta para assegurar que ela seja vista pelas equipes de desenvolvimento e suporte do {{site.data.keyword.Bluemix_notm}}.
 
-Se o problema não for devido a uma indisponibilidade e se você não puder encontrar uma resposta para seu problema específico, será possível entrar em contato com o suporte ao cliente abrindo um chamado de suporte.
+Se o problema não for devido a uma indisponibilidade e você não puder encontrar uma resposta para seu problema específico, será possível entrar em contato com o suporte ao cliente abrindo um chamado de suporte.
 
 ## Abrindo um chamado de suporte
 {: #open-ticket}
@@ -56,7 +56,7 @@ Se você tiver uma conta do {{site.data.keyword.Bluemix_notm}} válida, será po
   1. Na barra de menus, clique em **Suporte** > **Centro de Suporte**.
   2. Na seção **Obter ajuda**, clique em **Abrir um chamado**.
   3. Selecione o contexto de recurso e o tipo de chamado.
-  4. Conclua as informações necessárias e clique em **Enviar**. As informações que são necessárias dependem do conteúdo de recurso e do tipo de chamado selecionados e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  4. Conclua as informações necessárias e clique em **Enviar**. As informações que são necessárias dependem do contexto do recurso, do tipo de chamado selecionado e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
 
 Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/get-support/ticketweight.html#support-ticket-severity) para obter informações sobre as diferentes severidades. Se a sua consulta de suporte requerer uma resposta mais mediata, considere atualizar para a camada de suporte Padrão ou Premium, para que seja possível abrir chamados de suporte de gravidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envie um e-mail para sales@bluemix.net.
 
@@ -113,7 +113,7 @@ Serviços da plataforma {{site.data.keyword.Bluemix_notm}} nas categorias a segu
 
 Serviços da plataforma {{site.data.keyword.Bluemix_notm}} (somente região da Alemanha):
   * Data & Analytics: Compose (todas as versões) e {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (somente {{site.data.keyword.Bluemix_notm}} Dedicated)
+  * DevOps: {{site.data.keyword.contdelivery_full}} (somente Public), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
   * Serviços de aplicativos: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * APIs: {{site.data.keyword.apiconnect_long}}
   * Segurança: {{site.data.keyword.SecureGatewayfull}}

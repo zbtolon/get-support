@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -25,4 +25,3 @@ Algumas técnicas de resolução de problemas incluem a lista a seguir:
 * É possível [verificar a página de status](/docs/get-support/ViewStatus.html#viewing-bluemix-status) para determinar que o problema que você está enfrentando não é um problema conhecido com a plataforma, o serviço ou um tempo de execução.
 * É possível usar o [Centro de Suporte](/docs/get-support/howtogetsupport.html#using-avatar) para procurar a documentação e o fórum do Stack Overflow.
 * É possível usar o Centro de Suporte para acessar o Stack Overflow e o developerWorks Answers para procurar e [fazer perguntas](/docs/get-support/howtogetsupport.html#asking-a-question).
-* É possível usar a lista compilada de problemas comuns e soluções nas seções a seguir.

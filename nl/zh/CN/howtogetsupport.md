@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -56,7 +56,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
   1. 在菜单栏中，单击**支持** > **支持中心**。
   2. 在**获取帮助**部分中，单击**开具凭单**。
   3. 选择资源上下文和凭单类型。
-  4. 填写必需的信息，然后单击**提交**。必需的信息取决于您所选的资源内容和凭单类型，还取决于您帐户的支持套餐类型。有关支持类型的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
+  4. 填写必需的信息，然后单击**提交**。必需的信息取决于您所选的资源上下文和凭单类型，还取决于您帐户的支持套餐类型。有关支持类型的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
 
 开具支持凭单时，确保为您的凭单指示了适当的严重性。严重性将决定凭单的处理方式。请参阅[支持凭单严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)，以获取有关不同严重性的信息。如果您的支持查询需要更即时的响应，请考虑升级到标准或高级支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 或向 sales@bluemix.net 发送电子邮件。
 
@@ -111,7 +111,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 {{site.data.keyword.Bluemix_notm}} 平台服务（仅针对德国区域）：
   * Data & Analytics：Compose（所有版本）和 {{site.data.keyword.cloudantfull}}
-  * DevOps：{{site.data.keyword.monitoringlong}}、{{site.data.keyword.loganalysislong}} 和 {{site.data.keyword.ghe_dedicated_short}}（仅限 {{site.data.keyword.Bluemix_notm}} Dedicated）
+  * DevOps：{{site.data.keyword.contdelivery_full}}（仅限公用）、{{site.data.keyword.monitoringlong}} 和 {{site.data.keyword.loganalysislong}}
   * 应用程序服务：{{site.data.keyword.blockchainfull}}、{{site.data.keyword.messagehub_full}} 和 {{site.data.keyword.appserver_full}}
   * API：{{site.data.keyword.apiconnect_long}}
   * 安全性：{{site.data.keyword.SecureGatewayfull}}

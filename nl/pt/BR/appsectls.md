@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetad
 
 Todos os terminais de aplicativo Cloud Foundry no domínio `*.mybluemix.net` podem ser acessados por meio de um terminal alternativo que suporta somente o TLS 1.2.
 
-Para usar o terminal alternativo, inclua `alt.` após o subdomínio do seu aplicativo, por exemplo, se seu aplicativo está hospedado em `https://myapplication.mybluemix.net`, use `https://myapplication.alt.mybluemix.net`. Ou, para `https://myaplication.eu-gb.mybluemix.net`, use `https://myapplication.alt.eu-gb.mybluemix.net`.
+Para usar o terminal alternativo, inclua `alt.` após o subdomínio do seu aplicativo, por exemplo, se seu aplicativo está hospedado em `https://myapplication.mybluemix.net`, use `https://myapplication.alt.mybluemix.net`. Ou, para `https://myapplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 Se estiver apto a conectar-se com êxito ao terminal alternativo, você não será afetado.
 
@@ -109,7 +109,7 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### Data & Analytics
 
@@ -124,9 +124,9 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 * Compose for Redis
 * Compose for RethinkDB
 * Compose for ScyllaDB
-* Data Catalog
+* Catálogo de dados
 * Conexão de dados
-* Data Refinary
+* Refinaria de dados
 * Otimização de Decisão
 * Gráfico
 * Informix

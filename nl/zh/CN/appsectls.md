@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ IBM 致力于提供高度安全且符合关于安全和数据隐私的业界最�
 
 `*.mybluemix.net` 域上的所有 Cloud Foundry 应用程序端点都可以通过仅支持 TLS 1.2 的备用端点进行访问。
 
-要使用备用端点，请在应用程序的子域后添加 `alt.`；例如，如果应用程序在 `https://myapplication.mybluemix.net` 上托管，请使用 `https://myapplication.alt.mybluemix.net`。或者，对于 `https://myaplication.eu-gb.mybluemix.net`，请使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
+要使用备用端点，请在应用程序的子域后添加 `alt.`；例如，如果应用程序在 `https://myapplication.mybluemix.net` 上托管，请使用 `https://myapplication.alt.mybluemix.net`。或者，对于 `https://myapplication.eu-gb.mybluemix.net`，请使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
 
 如果能够成功连接到备用端点，说明您不会受到影响。
 
@@ -109,7 +109,7 @@ cf restage <application_name>
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### 数据和分析
 

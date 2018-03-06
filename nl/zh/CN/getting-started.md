@@ -49,7 +49,7 @@ lastupdated: "2018-01-09"
   2. 要在 IBM Cloud 文档和 Stack Overflow 中搜索技术问题的答案，请在搜索栏中输入搜索文本。
   3. 要搜索非技术问题的答案，请单击**社区论坛**部分下的 **IBM developerWorks Answers**。
 
-您还可以在 Stack Overflow、dW Answers 和站点上提出问题。有关更多信息，请参阅[提出问题](/docs/get-support/howtogetsupport.html#asking-a-question)。
+您还可以在 Stack Overflow 和 dW Answers 站点上提出问题。有关更多信息，请参阅[提出问题](/docs/get-support/howtogetsupport.html#asking-a-question)。
 
 ## 步骤 3：联系客户支持
 {: #contact-customer-support}

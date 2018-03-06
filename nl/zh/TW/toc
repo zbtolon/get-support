@@ -22,7 +22,6 @@
     疑難排解
         ts_overview.md
         ../troubleshoot/ts_manageticket.md
-        ../troubleshoot/ts_runtimes.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}

@@ -49,7 +49,7 @@ Consulte [Visualizando o status e as notificações do IBM Cloud](/docs/get-supp
   2. Para procurar respostas para questões técnicas na documentação do IBM Cloud e no Stack Overflow, insira sua procura de texto na barra de procura.
   3. Para procurar respostas para questões não técnicas, na seção **Fóruns da comunidade**, clique em **IBM developerWorks Answers**.
 
-Também é possível fazer perguntas no Stack Overflow dW Answers e nos sites. Para obter mais informações, consulte [Fazendo uma pergunta](/docs/get-support/howtogetsupport.html#asking-a-question).
+Também é possível fazer perguntas no Stack Overflow e nos sites dW Answers. Para obter mais informações, consulte [Fazendo uma pergunta](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Etapa 3: entrar em contato com o suporte ao cliente
 {: #contact-customer-support}
@@ -76,4 +76,4 @@ Para assinar notificações, acesse a página Notificações da plataforma e sel
 ## Próximas Etapas
 {: #next-steps}
 
-Se você optou por abrir um chamado de suporte para entrar em contato com o suporte ao cliente e obter ajuda com seu problema, será possível gerenciar o chamado de suporte durante o processo. Consulte [Gerenciando chamados](/docs/get-support/mantick.html#check-ticket-status) para obter informações adicionais.
+Se você optou por abrir um chamado de suporte para entrar em contato com o suporte ao cliente e obter ajuda com seu problema, será possível gerenciar o chamado de suporte durante o processo.  Consulte [Gerenciando chamados](/docs/get-support/mantick.html#check-ticket-status) para obter informações adicionais.

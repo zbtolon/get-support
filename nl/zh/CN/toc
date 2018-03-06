@@ -22,11 +22,10 @@
     故障诊断
         ts_overview.md
         ../troubleshoot/ts_manageticket.md
-        ../troubleshoot/ts_runtimes.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-bxnui.md
+    bxnui.md
 
     {: .topicgroup}
     已知问题
