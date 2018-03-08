@@ -49,7 +49,7 @@ Puede utilizar el Centro de soporte para buscar respuestas en los foros de docum
   2. Para buscar respuestas a preguntas técnicas desde la documentación de IBM Cloud y Stack Overflow, escriba el texto de búsqueda en la barra de búsqueda.
   3. Para buscar respuestas a preguntas no técnicas, bajo la sección **Foros de la comunidad**, pulse **IBM developerWorks Answers**.
 
-También puede formular preguntas en Stack Overflow dW Answers y en los sitios. Para obtener más información, consulte [Cómo formular una pregunta](/docs/get-support/howtogetsupport.html#asking-a-question).
+También puede formular preguntas en los sitios de Stack Overflow y dW Answers. Para obtener más información, consulte [Cómo formular una pregunta](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Paso 3: Ponerse en contacto con el servicio de atención al cliente
 {: #contact-customer-support}

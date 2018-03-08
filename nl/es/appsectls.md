@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-02-12"
 
 ---
 
@@ -48,7 +48,7 @@ Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, i
 
 Se puede acceder a todos los puntos finales de aplicación de Cloud Foundry del dominio `*.mybluemix.net` mediante un punto final alternativo que solo admite TLS 1.2.
 
-Para utilizar el punto final alternativo, añada `alt.` después del subdominio de la aplicación, por ejemplo, si la aplicación está alojada en `https://myapplication.mybluemix.net`, utilice `https://myapplication.alt.mybluemix.net`. O, para `https://myaplication.eu-gb.mybluemix.net`, utilice `https://myapplication.alt.eu-gb.mybluemix.net`.
+Para utilizar el punto final alternativo, añada `alt.` después del subdominio de la aplicación, por ejemplo, si la aplicación está alojada en `https://myapplication.mybluemix.net`, utilice `https://myapplication.alt.mybluemix.net`. O, para `https://myapplication.eu-gb.mybluemix.net` utilice `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 Si se puede conectar correctamente con el punto final alternativo, no se verá afectado.
 
@@ -73,7 +73,7 @@ Para utilizar los puntos finales alternativos, el cliente debe ser compatible co
 
 ### Productos y servicios de Watson
 
-Para los productos y los servicios de Watson a los que se conecta mediante `gateway.watsonplatform.net` o `stream.wastonplatform.net`, sustituya esos valores con `gateway-tls12.watsonplatform.net` o `stream-tls12.watsonplatform.net`. Estos puntos finales alternativos solo admiten TLS 1.2. Si se puede conectar correctamente con ellos, no se verá afectado. Si no se puede conectar correctamente, se verá afectado y debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
+Para los productos y los servicios de Watson a los que se conecta mediante `gateway.watsonplatform.net` o `stream.wastonplatform.net`, sustituya estos valores con `gateway-tls12.watsonplatform.net` o `stream-tls12.watsonplatform.net`. Estos puntos finales alternativos solo admiten TLS 1.2. Si se puede conectar correctamente con ellos, no se verá afectado. Si no se puede conectar correctamente, se verá afectado y debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
 
 No se proporcionan puntos finales alternativos para productos y servicios de Watson en otras regiones diferentes a EE.UU. sur, ya que estas ya admiten solo TLS 1.2.
 
@@ -109,7 +109,7 @@ Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.key
 * Business Rules
 * Message Hub
 * Voice Agent with Watson\*
-* Watson Content Knowlege Kits\*
+* Watson Content Knowledge Kits\*
 
 #### Datos y análisis
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -56,7 +56,7 @@ Si tiene una cuenta válida de {{site.data.keyword.Bluemix_notm}}, puede abrir u
   1. En la barra de menús, pulse **Soporte** > **Centro de soporte**.
   2. Desde la sección **Obtener ayuda**, pulse **Abrir una incidencia**.
   3. Seleccione el contexto de recurso y el tipo de incidencia.
-  4. Complete la información necesaria y pulse **Enviar**. La información necesaria depende del contenido de recursos y del tipo de incidencia que haya seleccionado y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  4. Complete la información necesaria y pulse **Enviar**. La información necesaria depende del contexto de los recursos y del tipo de incidencia que haya seleccionado, y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
 
 Cuando abra una incidencia de soporte, asegúrese de indicar una gravedad adecuada a su incidencia. La gravedad determina cómo se maneja
 la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades. Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte Estándar o Premium para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o envíe un correo electrónico a sales@bluemix.net.
@@ -116,7 +116,7 @@ Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} en las siguientes
 
 Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} (solo región de Alemania):
   * Datos y análisis: Compose (todas las versiones) y {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (solo {{site.data.keyword.Bluemix_notm}} dedicado)
+  * DevOps: {{site.data.keyword.contdelivery_full}} (solo público), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
   * Servicios de aplicaciones: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * API: {{site.data.keyword.apiconnect_long}}
   * Seguridad: {{site.data.keyword.SecureGatewayfull}}
