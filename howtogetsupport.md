@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-23"
+lastupdated: "2018-03-15"
 
 ---
 
@@ -32,8 +32,8 @@ To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} c
 You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support tickets from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (dw answers) forum for all other questions under the Forums section of the Support Center.  
 
 Depending on the type of account you have, other options are also available from the Support Center.  
-* If you have a [Premium support](/docs/get-support/getstarttssup.html##premium-support) account, you can find call-in numbers to get help.
-* If your account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal, it is linked between PaaS and IaaS services, and it is a [Premium support](/docs/get-support/getstarttssup.html##premium-support) account, you can also start a chat session.
+* If you have a [premium](/docs/get-support/getstarttssup.html#premium-support) or  [advanced](/docs/get-support/getstarttssup.html#standard-support) support account, you can find call-in numbers to get help.
+* If your account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is linked between PaaS and IaaS services, you can also access the **Call US** and **Chat Now** options to call support or to start a chat session.
 
 The Support Center is the preferred method for obtaining support, but if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a ticket.
 
@@ -56,7 +56,7 @@ If you have a valid {{site.data.keyword.Bluemix_notm}} account, there are severa
 
 When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity) for information about the different severities.
 
-If your support inquiry requires a more immediate response, consider upgrading to the Standard or Premium support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email sales@bluemix.net.
+If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} or email sales@bluemix.net.
 {:tip}
 
 You can open a ticket from the Support Center or from the menu bar of the {{site.data.keyword.Bluemix_notm}} console.
@@ -73,7 +73,7 @@ Complete the following steps to provide the required information in the ticket f
     * **Resource group** if you are having a problem with managing your resource groups. See [Managing resource groups](/docs/account/resourcegroups.html#rgs) for more information.
     * **Cloud Foundry** if you are having a problem with a Cloud Foundry app deployment. See [How Cloud Foundry works with {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) for more information about deploying Cloud Foundry apps.
   2. Select **Technical** for the ticket type.
-  3. If you have Premium Level Support, choose the severity level for your issue.
+  3. If you have premium level support, choose the severity level for your issue.
   4. Complete the required information. The information that is required depends on the resource context that you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Click **Submit**.
 
@@ -83,7 +83,7 @@ Complete the following steps to provide the required information in the ticket f
 Complete the following steps to provide the required information in the ticket form to get help with your account issue:
   1. Select either option in the **Select a resource context** field to create the ticket. The associated fields for either option in the ticket form are automatically populated with *Not applicable* when you indicate that the ticket is for an account issue in the next step.
   2. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
-  3. If you have Premium Level Support, choose the severity level for your issue.
+  3. If you have premium level support, choose the severity level for your issue.
   4. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Click **Submit**.
 
