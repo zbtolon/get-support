@@ -35,7 +35,7 @@ lastupdated: "2018-01-11"
 严重性支持 | 支持语言| 分配的客户成功经理 (CSM)| 免费呼叫号码
 --- | --- | --- | --- |
 包含 1-4 的严重性 | 英语、日语|  每周 8 小时的时间内包含| 已包含|
-{: caption="表 1. 高级支持" caption-side="top"}
+{: caption="表 1. 高端支持" caption-side="top"}
 
 ### 标准支持
 {: #standard-support}

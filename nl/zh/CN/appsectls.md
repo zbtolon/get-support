@@ -28,7 +28,7 @@ IBM 致力于提供高度安全且符合关于安全和数据隐私的业界最�
 ## 什么是 TLS？
 {: #what}
 
-[TLS 协议 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 用于对整个网络中的通信进行加密，以确保传输的数据始终保持私有。TLS 发布了三个版本：1.0、1.1 和 1.2。所有 HTTPS 连接都使用 TLS。HTTPS 是用于确保与 {{site.data.keyword.Bluemix_notm}} 产品和服务的连接可信且安全的主要方法。一些 {{site.data.keyword.Bluemix_notm}} 产品和服务允许使用 WebSocket Secure (WSS) 协议（此协议也使用 TLS）来建立安全的连接。撤销对 TLS 1.0 和 1.1 的支持涵盖 HTTPS 和 WSS 连接。
+[TLS 协议 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 用于对整个网络中的通信进行加密，以确保传输的数据始终保持私有。已发布了三个 TLS 版本：1.0、1.1 和 1.2。所有 HTTPS 连接都使用 TLS。HTTPS 是用于确保与 {{site.data.keyword.Bluemix_notm}} 产品和服务的连接可信且安全的主要方法。一些 {{site.data.keyword.Bluemix_notm}} 产品和服务允许使用 WebSocket Secure (WSS) 协议（此协议也使用 TLS）来建立安全的连接。撤销对 TLS 1.0 和 1.1 的支持涵盖 HTTPS 和 WSS 连接。
 
 ## 需要采取什么行动来确保不会受到影响？
 {: #impact}
@@ -41,7 +41,7 @@ IBM 致力于提供高度安全且符合关于安全和数据隐私的业界最�
 
 对于 Cloud Foundry 应用程序，您需要确认从 {{site.data.keyword.Bluemix_notm}} 外部连接到应用程序或从应用程序连接到 {{site.data.keyword.Bluemix_notm}} 上的其他 Cloud Foundry 应用程序时不会受到影响。
 
-与 Cloud Foundry 的所有使用 TLS 的连接都可能会受到影响，包括从 Web 浏览器建立的任何连接。所有现代浏览器都支持 TLS 1.2，包括作为 {{site.data.keyword.Bluemix_notm}} [必备软件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的浏览器。
+与 Cloud Foundry 的所有使用 TLS 的连接都可能会受到影响，包括从 Web 浏览器建立的任何连接。所有新式浏览器都支持 TLS 1.2，包括作为 {{site.data.keyword.Bluemix_notm}} [必备软件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的浏览器。
 {: tip}
 
 #### 连接到 Cloud Foundry 应用程序

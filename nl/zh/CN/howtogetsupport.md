@@ -32,7 +32,7 @@ lastupdated: "2018-02-01"
 可以使用支持中心的搜索字段，在 {{site.data.keyword.Bluemix_notm}} 文档和 Stack Overflow 论坛中查找问题的答案。还可以通过支持中心管理支持凭单。您可以在支持中心的“论坛”部分下找到 Stack Overflow 论坛（有关技术问题）和 developerWorks (dW Answers) 论坛（有关其他所有问题）的链接。  
 
 根据您拥有的帐户类型，还可以从支持中心获取其他选项。  
-* 如果您拥有[高级支持](/docs/get-support/getstarttssup.html##premium-support)帐户，那么可以找到相关呼叫号码以获取帮助。
+* 如果您拥有[高端支持](/docs/get-support/getstarttssup.html##premium-support)帐户，那么可以找到相关呼叫号码以获取帮助。
 * 如果您的帐户是在 {{site.data.keyword.slportal}}中创建的，链接的是 PaaS 和 IaaS 服务，并且是[高端支持](/docs/get-support/getstarttssup.html##premium-support)帐户，那么还可以启动交谈会话。
 
 支持中心是获取支持的首选方法，但如果您无法登录到 {{site.data.keyword.Bluemix_notm}}，那么可以使用[获取帮助](http://www.ibm.biz/bluemixsupport){: new_window}页面来提交凭单。
@@ -58,10 +58,10 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
   3. 选择资源上下文和凭单类型。
   4. 填写必需的信息，然后单击**提交**。必需的信息取决于您所选的资源上下文和凭单类型，还取决于您帐户的支持套餐类型。有关支持类型的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
 
-开具支持凭单时，确保为您的凭单指示了适当的严重性。严重性将决定凭单的处理方式。请参阅[支持凭单严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)，以获取有关不同严重性的信息。如果您的支持查询需要更即时的响应，请考虑升级到标准或高级支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 或向 sales@bluemix.net 发送电子邮件。
+开具支持凭单时，确保为您的凭单指示了适当的严重性。严重性将决定凭单的处理方式。请参阅[支持凭单严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)，以获取有关不同严重性的信息。如果您的支持查询需要更即时的响应，请考虑升级到标准或高端支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 或向 sales@bluemix.net 发送电子邮件。
 
 还可以使用以下其中一个选项来开具支持凭单：
-* 在菜单栏中，单击**支持** > **添加凭单**。在凭单表单中，对于凭单类型，选择**技术**，然后填写表单以指明您需要技术支持提供的帮助。如果您有“高级别支持”，请为您的问题选择严重性级别。您将在数分钟后收到有关该凭单的电子邮件通知。按照电子邮件中的指示信息进行操作，以就该问题作进一步的沟通。
+* 在菜单栏中，单击**支持** > **添加凭单**。在凭单表单中，对于凭单类型，选择**技术**，然后填写表单以指明您需要技术支持提供的帮助。如果您有“高端”支持，请为您的问题选择严重性级别。您将在数分钟后收到有关该凭单的电子邮件通知。按照电子邮件中的指示信息进行操作，以就该问题作进一步的沟通。
 * 使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面。可以提交有关销售、IBM 标识和登录、记帐以及技术支持问题的凭单。对于技术支持问题，可以将问题范围缩小到特定区域或服务。如果需要有关特定服务的帮助，请选择相应的服务类别。要确定服务所属的类别，请单击菜单栏中的**目录**，然后查看类别。  
 
 ## 联系 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Local 支持人员
