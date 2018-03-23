@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-03-23"
 
 ---
 
@@ -70,10 +70,10 @@ After you open a support ticket, you will receive an email notification in a few
 {: #opentechticket}
 
 Complete the following steps to provide the required information in the ticket form to get help with your general technical issue:
-  1. In the **Select a resource context** field, select one of the following options:
+  1. Select **Technical** for the ticket type.
+  2. In the **Select a resource context** field, select one of the following options:
     * **Resource group** if you are having a problem with managing your resource groups. See [Managing resource groups](/docs/account/resourcegroups.html#rgs) for more information.
     * **Cloud Foundry** if you are having a problem with a Cloud Foundry app deployment. See [How Cloud Foundry works with {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) for more information about deploying Cloud Foundry apps.
-  2. Select **Technical** for the ticket type.
   3. If you have premium level support, choose the severity level for your issue.
   4. Complete the required information. The information that is required depends on the resource context that you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Click **Submit**.
@@ -82,8 +82,8 @@ Complete the following steps to provide the required information in the ticket f
 {: #openacctticket}
 
 Complete the following steps to provide the required information in the ticket form to get help with your account issue:
-  1. Select either option in the **Select a resource context** field to create the ticket. The associated fields for either option in the ticket form are automatically populated with *Not applicable* when you indicate that the ticket is for an account issue in the next step.
-  2. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
+  1. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
+  2. Select either option in the **Select a resource context** field to create the ticket. The associated fields for either option in the ticket form are automatically populated with *Not applicable* when you indicate that the ticket is for an account issue in the next step.
   3. If you have premium level support, choose the severity level for your issue.
   4. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Click **Submit**.
