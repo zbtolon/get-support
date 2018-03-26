@@ -48,7 +48,7 @@ TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 �
 
 TLS 1.2만 지원하는 대체 엔드포인트를 통해 `*.mybluemix.net` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트에 액세스할 수 있습니다.
 
-대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 다음에 `alt.`를 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.mybluemix.net`에서 호스팅되는 경우 `https://myapplication.alt.mybluemix.net`을 사용하십시오. 또는 `https://myapplication.eu-gb.mybluemix.net`의 경우에는 `https://myapplication.alt.eu-gb.mybluemix.net`을 사용하십시오. 
+대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 다음에 `alt.`를 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.mybluemix.net`에서 호스팅되는 경우 `https://myapplication.alt.mybluemix.net`을 사용하십시오. 또는 `https://myapplication.eu-gb.mybluemix.net`의 경우에는 `https://myapplication.alt.eu-gb.mybluemix.net`을 사용하십시오.
 
 대체 엔드포인트에 연결할 수 있는 경우 영향을 받지 않습니다.
 
@@ -58,7 +58,7 @@ TLS 1.2만 지원하는 대체 엔드포인트를 통해 `*.mybluemix.net` 도�
 
 다음 명령을 사용하여 다른 애플리케이션에 연결할 때 `*.mybluemix.net` 도메인에서 사용 가능한 대체 엔드포인트로 자동 경로 재지정되도록 Cloud Foundry 애플리케이션을 구성할 수 있습니다.
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 `BLUEMIX_TLS10_DISABLED`를 `true`로 설정한 후 이 변경사항을 적용하려면 다음 명령을 사용하여 애플리케이션을 다시 스테이징해야 합니다.
@@ -244,4 +244,4 @@ TLS 1.0 및 1.1에 대한 지원이 `api.softlayer.com` 및 `api.service.softlay
 ## 문의하기
 {: #tlssupport}
 
-질문, 관심사항 또는 문제점이 있는 경우 [지원 센터에 문의![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud/support){: new_window}하십시오.
+질문, 관심사항 또는 문제점이 있는 경우 [지원 센터에 문의 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud/support){: new_window}하십시오.

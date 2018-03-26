@@ -8,6 +8,7 @@ lastupdated: "2018-01-09"
 
 ---
 
+
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
@@ -49,7 +50,7 @@ IBM ID 신임 정보를 사용하여 {{site.data.keyword.Bluemix_notm}} 콘솔�
   2. IBM Cloud 문서 및 Stack Overflow에서 기술 질문에 대한 답변을 검색하려면 검색 표시줄에 검색 텍스트를 입력하십시오.
   3. 기술 이외의 질문에 대한 답변을 검색하려면 **커뮤니티 포럼** 섹션 아래에서 **IBM developerWorks Answers**를 클릭하십시오.
 
-Stack Overflow 및 dW Answers 사이트에서 질문을 할 수도 있습니다. 자세한 정보는 [질문하기](/docs/get-support/howtogetsupport.html#asking-a-question)를 참조하십시오.
+Stack Overflow 및 dW Answers 사이트에서 질문을 할 수도 있습니다.  자세한 정보는 [질문하기](/docs/get-support/howtogetsupport.html#asking-a-question)를 참조하십시오.
 
 ## 3단계: 고객 지원에 문의
 {: #contact-customer-support}

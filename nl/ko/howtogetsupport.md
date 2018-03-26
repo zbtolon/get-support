@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -17,10 +18,10 @@ lastupdated: "2018-02-01"
 # 필요한 지원은 어떻게 받습니까?
 {: #getting-customer-support}
 
-{{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별을 시작하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다.
+{{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다.
 {:shortdesc}
 
-계정이 {{site.data.keyword.Bluemix_notm}} 콘솔을 사용하여 작성되거나 SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 또는 고객 포털에서 작성되고 연결된 계정인 경우 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 연결된 계정이 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결됩니다.  자세한 정보는 [IBM ID 사용자 계정 연결](/docs/admin/softlayerlink.html#link_user_accounts)을 참조하십시오.
+계정이 {{site.data.keyword.Bluemix_notm}} 콘솔에서 작성되거나 SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되고 연결된 계정인 경우 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 연결된 계정이 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결됩니다. 자세한 정보는 [IBM ID 사용자 계정 연결](/docs/admin/softlayerlink.html#link_user_accounts)을 참조하십시오.
 
 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성된 SoftLayer 계정이고 연결된 계정이 아닌 경우 고객 포털에서 지원 티켓 열기에 대한 자세한 정보는 [{{site.data.keyword.BluSoftlayer_notm}} 인프라에 대한 지원 받기](/docs/customer-portal/cpsupport.html#customerportal_support)를 참조하십시오.
 
@@ -32,8 +33,8 @@ lastupdated: "2018-02-01"
 지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 티켓을 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(dw 응답) 포럼(기타 모든 질문의 경우) 모두에 대한 링크를 찾을 수 있습니다.  
 
 보유 중인 계정의 유형에 따라 기타 옵션도 지원 센터에서 사용 가능합니다.  
-* [프리미엄 지원](/docs/get-support/getstarttssup.html##premium-support) 계정이 있으면 도움을 받기 위한 전화번호를 찾을 수 있습니다.
-* 계정이 {{site.data.keyword.slportal}}에서 작성되고 PaaS 및 IaaS 서비스 간에 연결되었으며 [프리미엄 지원](/docs/get-support/getstarttssup.html##premium-support) 계정인 경우에는 대화 세션을 시작할 수도 있습니다.
+* [프리미엄](/docs/get-support/getstarttssup.html#premium-support) 또는 [고급](/docs/get-support/getstarttssup.html#standard-support) 지원 계정이 있으면 도움을 받기 위한 전화번호를 찾을 수 있습니다.
+* 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되고 PaaS와 IaaS 서비스 사이에 연결된 경우, 지원을 호출하거나 대화 세션을 시작하기 위해 **전화 문의** 및 **지금 대화** 옵션에도 액세스할 수 있습니다. 
 
 지원 센터는 지원을 받기 위한 우선적인 방법입니다. 그러나 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [도움 받기](http://www.ibm.biz/bluemixsupport){: new_window} 페이지를 사용하여 티켓을 제출할 수 있습니다.
 
@@ -47,22 +48,50 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀은 Stack Overflow 및 dW Answers를 적극적으로 모니터하며 **ibm-cloud** 태그가 지정된 질문을 추적합니다. 두 포럼 중 하나에서 질문을 작성하는 경우에는 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀이 볼 수 있도록 질문에 **ibm-cloud** 태그를 추가하십시오.
 
-가동 중단으로 인한 문제점이 아니며 특정 문제점에 대한 해답을 찾을 수 없는 경우에는 지원 티켓을 열어서 고객 지원 부서에 문의할 수 있습니다. 
+가동 중단으로 인한 문제점이 아니며 특정 문제점에 대한 해답을 찾을 수 없는 경우에는 지원 티켓을 열어서 고객 지원 부서에 문의할 수 있습니다.
 
 ## 지원 티켓 열기
 {: #open-ticket}
 
-유효한 {{site.data.keyword.Bluemix_notm}} 계정이 있으면 다음 단계를 수행하여 지원 센터에서 지원 티켓을 열 수 있습니다.
-  1. 메뉴 표시줄에서 **지원** > **지원 센터**를 클릭하십시오.
-  2. **도움 받기** 섹션에서 **티켓 열기**를 클릭하십시오.
-  3. 리소스 컨텍스트 및 티켓 유형을 선택하십시오.
-  4. 필수 정보 제공을 완료하고 **제출**을 클릭하십시오. 필요한 정보는 선택된 리소스 컨텍스트 및 티켓 유형은 물론 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+유효한 {{site.data.keyword.Bluemix_notm}} 계정이 있는 경우 일반 기술 문제 또는 계정 문제에 대해 도움을 얻기 위해 지원 티켓을 열 수 있습니다.
 
-지원 티켓을 열 때, 티켓에 적합한 심각도를 지정하도록 하십시오. 심각도에 따라 티켓 처리 방식이 결정되기 때문입니다. 서로 다른 심각도에 대한 정보는 [지원 티켓 심각도 및 응답 시간](/docs/get-support/ticketweight.html#support-ticket-severity)을 참조하십시오. 지원 조회에 대한 보다 즉각적인 응답이 필요한 경우, 심각도 1-4 지원 티켓을 열 수 있도록 표준 또는 프리미엄 지원 계층으로 업그레이드하는 것을 고려하십시오. 더 높은 지원 레벨로 계정을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
+지원 티켓을 열 때, 티켓에 적합한 심각도를 지정하도록 하십시오. 심각도에 따라 티켓 처리 방식이 결정되기 때문입니다. 서로 다른 심각도에 대한 정보는 [지원 티켓 심각도 및 응답 시간](/docs/get-support/ticketweight.html#support-ticket-severity)을 참조하십시오.
 
-다음 옵션 중 하나를 사용하여 지원 티켓도 열 수 있습니다.
-* 메뉴 표시줄에서 **지원** > **티켓 추가**를 클릭하십시오. 티켓 양식에서 티켓 유형에 대한 **기술**을 선택하고 양식을 채워 필요한 기술 유형을 표시할 수 있습니다. 프리미엄 레벨 지원이 있는 경우 문제에 해당하는 심각도를 선택하십시오. 티켓에 대한 이메일 알림이 몇 분 후 전송됩니다. 문제와 관련된 추가 사항은 이메일의 지시사항을 따르십시오.
-* [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용하십시오. 판매, IBM ID 및 로그인, 청구 및 기술 지원 문제점에 대한 티켓을 제출할 수 있습니다. 기술 지원 문제점의 경우 특정 영역 또는 서비스로 문제 범위를 좁힐 수 있습니다. 특정 서비스에 대한 도움이 필요하면 해당되는 서비스 카테고리를 선택하십시오. 서비스가 속한 카테고리를 판별하려면 메뉴 표시줄에서 **카탈로그**를 클릭하고 카테고리를 검토하십시오.  
+지원 조회에 대한 보다 즉각적인 응답이 필요한 경우, 심각도 1-4 지원 티켓을 열 수 있도록 프리미엄 또는 고급 지원 계층으로 업그레이드하는 것을 고려하십시오. 더 높은 지원 레벨로 계정을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
+{:tip}
+
+지원 센터 또는 {{site.data.keyword.Bluemix_notm}} 콘솔의 메뉴 표시줄에서 티켓을 열 수 있습니다. 
+  * 지원 센터에서 지원 티켓을 열려면 **도움 받기** 섹션에서 **티켓 열기**를 클릭하십시오.  
+  * {{site.data.keyword.Bluemix_notm}} 콘솔 메뉴 표시줄에서 지원 티켓을 열려면 **지원** > **티켓 추가**를 클릭하십시오. 
+
+지원 티켓을 연 후에 티켓에 대한 이메일 알림이 몇 분 후에 전송됩니다. 문제와 관련된 추가 통신은 이메일의 지시사항을 따르십시오.
+
+### 일반 기술 지원 티켓 열기
+{: #opentechticket}
+
+일반 기술 문제에 대해 도움을 얻기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
+  1. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오. 
+    * **리소스 그룹** - 리소스 그룹 관리에 문제가 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/account/resourcegroups.html#rgs)를 참조하십시오.
+    * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제가 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [Cloud Foundry가 {{site.data.keyword.Bluemix_notm}}와 작업하는 방법](/docs/overview/cf.html)을 참조하십시오. 
+  2. 티켓 유형에 **기술**을 선택하십시오. 
+  3. 프리미엄 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오. 
+  4. 필수 정보를 완료하십시오. 필요한 정보는 선택한 리소스 컨텍스트 및 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+  5. **제출**을 클릭하십시오.
+
+### 계정 문제에 대한 지원 티켓 열기
+{: #openacctticket}
+
+계정 문제에 대해 도움을 받기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
+  1. 티켓을 작성하려면 **리소스 컨텍스트 선택** 필드에서 옵션을 선택하십시오. 티켓 양식의 옵션과 연관된 필드는 다음 단계에서 티켓이 계정 문제임을 표시하면 *해당사항 없음*으로 자동으로 채워집니다. 
+  2. 문제를 빠르게 해결하기 위해 티켓이 올바른 지원 팀에 라우팅되도록 티켓 유형에 **계정 & 청구**를 선택하십시오.
+  3. 프리미엄 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오. 
+  4. 수신한 오류 메시지 설명을 제공하여 필수 정보를 완료하십시오. 필요한 정보는 계정의 지원 플랜 유형에 따라 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+  5. **제출**을 클릭하십시오.
+
+### 지원 티켓을 열기 위한 다른 방법
+{: #otheropenticksc}
+
+[{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용할 수도 있습니다. 판매, IBM ID 및 로그인, 청구 및 기술 지원 문제점에 대한 티켓을 제출할 수 있습니다. 기술 지원 문제점의 경우 특정 영역 또는 서비스로 문제 범위를 좁힐 수 있습니다. 특정 서비스에 대한 도움이 필요하면 해당되는 서비스 카테고리를 선택하십시오. 서비스가 속한 카테고리를 판별하려면 메뉴 표시줄에서 **카탈로그**를 클릭하고 카테고리를 검토하십시오.  
 
 ## {{site.data.keyword.Bluemix_notm}} 데디케이티드 또는 로컬에 대한 지원 문의
 {: #contacting-bluemix-support-dedicated-local}
@@ -112,7 +141,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 {{site.data.keyword.Bluemix_notm}} 플랫폼 서비스(독일 지역만):
   * 데이터 및 분석: Compose(모든 버전) 및 {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.contdelivery_full}}(퍼블릭 전용), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
+  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}}({{site.data.keyword.Bluemix_notm}} 데디케이티드에만 해당)
   * 애플리케이션 서비스: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * API: {{site.data.keyword.apiconnect_long}}
   * 보안: {{site.data.keyword.SecureGatewayfull}}

@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -51,10 +52,10 @@ lastupdated: "2018-01-10"
 ## 지원 티켓을 에스컬레이션할 수 있습니까?
 {: #escalation}
 
-프리미엄 또는 표준 지원의 경우, 지원 티켓에 대해 시기 적절한 응답을 받지 못했거나 지원 티켓이 잘못 처리된다고 판단되면 지원 티켓을 에스컬레이션할 수 있습니다.  
+프리미엄 또는 고급 지원의 경우, 지원 티켓에 대해 시기 적절한 응답을 받지 못했거나 지원 티켓이 잘못 처리된다고 판단되면 지원 티켓을 에스컬레이션할 수 있습니다.  
 {:shortdesc}
 
-프리미엄 및 표준 지원에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+프리미엄 및 고급 지원에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
 
 지원 티켓 에스컬레이션 프로세스를 통해 IBM 관리 담당자가 사용자의 문제를 검토하고 사용자와 함께 작업하여 지원 경험을 개선합니다.
 
