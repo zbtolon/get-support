@@ -1,0 +1,38 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
+Richiesta di supporto
+
+    {: .navgroup id="howto"}
+    {: .topicgroup}
+    Richiesta di assistenza clienti
+        howtogetsupport.md
+        getstarttssup.md
+        ViewStatus.md
+        servicessupport.md
+
+    {: .topicgroup}
+    Gestione dei ticket
+        mantick.md
+        ticketweight.md
+        quicktickresp.md
+
+    {: .topicgroup}
+    Risoluzione dei problemi
+        ts_overview.md
+        ../troubleshoot/ts_manageticket.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    bxnui.md
+
+    {: .topicgroup}
+    Problemi noti
+        appsectls.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
+    [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
+    {: .navgroup-end}
