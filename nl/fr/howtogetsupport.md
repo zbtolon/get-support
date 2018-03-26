@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -17,10 +18,10 @@ lastupdated: "2018-02-01"
 # Comment obtenir l'aide dont j'ai besoin ?
 {: #getting-customer-support}
 
-Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour commencer à déterminer la cause du problème et vous aider à trouver une solution.
+Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour déterminer la cause du problème et trouver une solution.
 {:shortdesc}
 
-Si votre compte a été créé avec la console {{site.data.keyword.Bluemix_notm}} ou si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Les comptes liés le sont entre des services {{site.data.keyword.Bluemix_notm}} et d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}.  Voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts) pour plus d'informations.
+Si votre compte a été créé à partir de la console {{site.data.keyword.Bluemix_notm}} ou si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Les comptes liés le sont entre des services {{site.data.keyword.Bluemix_notm}} et d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}. Voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts) pour plus d'informations.
 
 Si votre compte est un compte SoftLayer créé sur le portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} mais qu'il ne s'agit pas d'un compte lié, voir [Support pour l'infrastructure {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) pour plus d'informations sur l'ouverture de tickets de demande de service depuis le portail client.
 
@@ -32,8 +33,8 @@ Pour accéder au centre de support, connectez-vous à la console {{site.data.key
 Vous pouvez utiliser la zone de recherche du centre de support pour trouver des réponses à vos questions dans la documentation {{site.data.keyword.Bluemix_notm}} et sur le forum Stack Overflow. Vous pouvez également gérer des tickets depuis le centre de support. La section Forums du centre de support propose des liens vers le forum Stack Overflow, qui répond à vos questions d'ordre technique, et vers le forum developerWorks (dW Answers) pour toutes les autres questions.  
 
 Selon le type de compte dont vous disposez, d'autres options sont également disponibles dans le centre de support.  
-* Si vous avez un compte [Support Premium](/docs/get-support/getstarttssup.html##premium-support), vous trouverez un grand nombre de numéros d'appel pour obtenir de l'aide.
-* Si votre compte a été créé dans le portail {{site.data.keyword.slportal}}, s'il est lié entre des services PaaS et IaaS, et s'il s'agit d'un compte avec [support Premium](/docs/get-support/getstarttssup.html##premium-support), vous pouvez également démarrer une session de discussion.
+* Si vous avez un compte de support [premium](/docs/get-support/getstarttssup.html#premium-support) ou [avancé](/docs/get-support/getstarttssup.html#standard-support), vous trouverez un grand nombre de numéros d'appel pour obtenir de l'aide.
+* Si votre compte a été créé dans le portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il est lié entre des services PaaS et IaaS, vous pouvez également accéder aux options **Nous appeler** et **Dialoguer en ligne** pour appeler le support ou démarrer une session de discussion.
 
 Bien que le centre de support soit généralement la méthode privilégiée si vous avez besoin d'assistance, si vous ne parvenez pas à vous connecter à {{site.data.keyword.Bluemix_notm}}, vous pouvez utiliser la page [Obtenir de l'aide](http://www.ibm.biz/bluemixsupport){: new_window} pour soumettre un ticket.
 
@@ -47,22 +48,50 @@ Les forums Stack Overflow (dédié aux questions d'ordre technique) et dW Answer
 
 Les équipes de développement et de support {{site.data.keyword.Bluemix_notm}} surveillent activement les forums Stack Overflow et dW Answers et suivent les questions portant l'étiquette **ibm-cloud**. Lorsque vous créez une question sur ces forums, ajoutez l'étiquette **ibm-cloud** à votre question pour vous assurer que celle-ci sera lue par les équipes de développement et de support {{site.data.keyword.Bluemix_notm}}.
 
-Si le problème n'est pas dû à une indisponibilité et si vous ne parvenez pas à trouver de réponse à votre problème spécifique, vous pouvez contacter le support client en ouvrant un ticket de demande de service. 
+Si le problème n'est pas dû à une indisponibilité et si vous ne parvenez pas à trouver de réponse à votre problème spécifique, vous pouvez contacter le support client en ouvrant un ticket de demande de service.
 
 ## Ouverture d'un ticket de demande de service
 {: #open-ticket}
 
-Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, vous pouvez ouvrir un ticket de demande de service depuis le centre de support en utilisant la procédure suivante :
-  1. Dans la barre de menus, cliquez sur **Support** > **Centre de support**.
-  2. A la section **Obtenir de l'aide**, cliquez sur **Ouvrir un ticket**.
-  3. Sélectionnez le contexte de ressources et le type de ticket.
-  4. Fournissez les informations requises puis cliquez sur **Soumettre**. Les informations requises dépendent du contexte de ressources et du type de ticket sélectionnés, ainsi que du plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
+Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, il existe plusieurs façons d'ouvrir un ticket de demande de service afin d'obtenir de l'aide pour les problèmes techniques d'ordre général ou pour un problème de compte. 
 
-Lorsque vous ouvrez un ticket de demande de service, veillez à indiquer une gravité appropriée. Elle détermine la façon dont votre ticket sera traité. Voir [Gravité et temps de réponse du ticket de demande de service](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations sur les différentes gravités. Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support Standard ou Premium afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envoyez un courrier électronique à sales@bluemix.net.
+Lorsque vous ouvrez un ticket de demande de service, veillez à indiquer une gravité appropriée. Elle détermine la façon dont votre ticket sera traité. Voir [Gravité et temps de réponse du ticket de demande de service](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations sur les différentes gravités.
 
-Vous pouvez également ouvrir un ticket de demande de service via l'une des options suivantes :
-* Dans la barre de menus, cliquez sur **Support** > **Ajouter un ticket**. Dans le formulaire de ticket, sélectionnez **Technical** comme type de ticket et remplissez le formulaire en indiquant la raison pour laquelle vous avez besoin d'aide. Si vous bénéficiez du niveau de support premium, choisissez le niveau de gravité de votre problème. Vous recevrez une notification par courrier électronique concernant le ticket quelques minutes après. Suivez les instructions figurant dans le courrier électronique pour toute communication supplémentaire relative au problème.
-* Utilisez la page d'aide du [support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://www.ibm.biz/bluemixsupport){: new_window}. Vous pouvez soumettre des tickets pour des problèmes liés aux ventes, à IBMid et à la connexion, à la facturation, ainsi que pour des problèmes techniques. Pour les problèmes techniques, vous pouvez sélectionner une zone ou un service spécifique. Si vous avez besoin d'aide pour un service spécifique, sélectionnez la catégorie de service correspondante. Pour identifier la catégorie à laquelle votre service appartient, cliquez sur **Catalogue** dans la barre de menus et passez en revue les catégories.  
+Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support premium ou avancé afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envoyez un courrier électronique à sales@bluemix.net.
+{:tip}
+
+Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}. 
+  * Pour ouvrir un ticket de demande de service depuis le centre de support, cliquez sur **Ouvrir un ticket** dans la section **Obtenir de l'aide**. 
+  * Pour ouvrir un ticket de demande de service depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}, cliquez sur **Support** > **Ajouter un ticket**. 
+
+Après avoir ouvert un ticket de demande de service, vous recevez rapidement une notification par courrier électronique concernant le ticket. Suivez les instructions figurant dans le courrier électronique pour toute communication supplémentaire relative au problème.
+
+### Ouverture de tickets de demande de service pour des problèmes techniques d'ordre général
+{: #opentechticket}
+
+Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème technique d'ordre général, procédez comme suit :
+  1. Dans la zone **Sélectionnez un contexte de ressources**, sélectionnez l'une des options suivantes :
+    * **Groupe de ressources** si vous rencontrez un problème lié à la gestion de vos groupes de ressources. Pour plus d'informations, voir[Gestion des groupes de ressources](/docs/account/resourcegroups.html#rgs). 
+    * **Cloud Foundry** si vous rencontrez un problème lié à un déploiement d'application Cloud Foundry. Pour plus d'informations sur le déploiement d'applications Cloud Foundry, voir [Fonctionnement de Cloud Foundry avec {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html). 
+  2. Sélectionnez **Technique** comme type de ticket. 
+  3. Si vous bénéficiez du niveau de support premium, choisissez le niveau de gravité de votre problème. 
+  4. Entrez les informations requises. Les informations requises dépendent du contexte de ressources que vous avez sélectionné, ainsi que du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Cliquez sur **Soumettre**.
+
+### Ouverture de tickets de demande de service pour des problèmes de compte
+{: #openacctticket}
+
+Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème de compte, procédez comme suit :
+  1. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* lorsque vous indiquez que le ticket concerne un problème de compte à l'étape suivante. 
+  2. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu. 
+  3. Si vous bénéficiez du niveau de support premium, choisissez le niveau de gravité de votre problème. 
+  4. Indiquez les informations requises en décrivant les éventuels messages d'erreur que vous avez reçus. Les informations requises dépendent du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Cliquez sur **Soumettre**.
+
+### Autres méthodes d'ouverture d'un ticket de demande de service
+{: #otheropenticksc}
+
+Vous pouvez également utiliser la page d'aide [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://www.ibm.biz/bluemixsupport){: new_window}. Vous pouvez soumettre des tickets pour des problèmes liés aux ventes, à IBMid et à la connexion, à la facturation, ainsi que pour des problèmes techniques. Pour les problèmes techniques, vous pouvez sélectionner une zone ou un service spécifique. Si vous avez besoin d'aide pour un service spécifique, sélectionnez la catégorie de service correspondante. Pour identifier la catégorie à laquelle votre service appartient, cliquez sur **Catalogue** dans la barre de menus et passez en revue les catégories.  
 
 ## Contacter le support pour l'environnement {{site.data.keyword.Bluemix_notm}} dédié ou local
 {: #contacting-bluemix-support-dedicated-local}
@@ -113,7 +142,7 @@ Services de plateforme {{site.data.keyword.Bluemix_notm}} dans les catégories s
 
 Services de plateforme {{site.data.keyword.Bluemix_notm}} (région Allemagne uniquement) :
   * Données et analyse : Compose (toutes versions) et {{site.data.keyword.cloudantfull}}
-  * DevOps : {{site.data.keyword.contdelivery_full}} (Public uniquement), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
+  * DevOps : {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} ({{site.data.keyword.Bluemix_notm}} dédié seulement)
   * Services d'application : {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * API : {{site.data.keyword.apiconnect_long}}
   * Sécurité : {{site.data.keyword.SecureGatewayfull}}

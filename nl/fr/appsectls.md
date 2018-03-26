@@ -58,7 +58,7 @@ Un échec de connexion indique que vous serez touché et qu'il vous faut donc mo
 
 Vous pouvez configurer votre application Cloud Foundry pour une redirection automatique vers les noeuds finaux alternatifs disponibles sur le domaine `*.mybluemix.net` lors de la connexion à d'autres applications, en utilisant la commande suivante :
 ```
-cf <nom_application> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 Une fois que vous avez défini `BLUEMIX_TLS10_DISABLED` à `true`, votre application doit être reconstituée en utilisant la commande suivante, pour que ce changement prenne effet :
