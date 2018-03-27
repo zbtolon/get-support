@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -17,10 +18,10 @@ lastupdated: "2018-02-01"
 # Como obter o suporte de que preciso?
 {: #getting-customer-support}
 
-Se você tiver problemas com o {{site.data.keyword.Bluemix}}, existem várias opções para começar a determinar a causa do problema e para obter ajuda para encontrar uma solução.
+Se você tiver problemas com o {{site.data.keyword.Bluemix}}, terá várias opções para obter ajuda para determinar a causa do problema e localizar uma solução.
 {:shortdesc}
 
-Se a sua conta foi criada com o console do {{site.data.keyword.Bluemix_notm}} ou se sua conta do SoftLayer foi criada a partir no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e é uma conta vinculada, será possível abrir chamados de suporte no console do {{site.data.keyword.Bluemix_notm}}. As contas vinculadas são vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e do {{site.data.keyword.BluSoftlayer_notm}}.  Veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obter informações adicionais.
+Se a sua conta for criada por meio do console do {{site.data.keyword.Bluemix_notm}} ou se a conta do SoftLayer for criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e ela for uma conta vinculada, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. As contas vinculadas são vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e do {{site.data.keyword.BluSoftlayer_notm}}. Veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obter informações adicionais.
 
 Se a sua conta for uma conta do SoftLayer que foi criada no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, consulte [Obtendo suporte para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) para obter mais informações sobre como abrir chamados de suporte no portal do cliente.
 
@@ -29,11 +30,11 @@ Se a sua conta for uma conta do SoftLayer que foi criada no portal do cliente de
 
 Para acessar o Centro de suporte, efetue login no console do {{site.data.keyword.Bluemix_notm}}. Na barra de menus, clique em **Suporte** e selecione **Centro de suporte**.  
 
-É possível usar o campo de procura do Centro de suporte para localizar respostas para suas perguntas na documentação do {{site.data.keyword.Bluemix_notm}} e fórum do Stack Overflow. Também é possível gerenciar os chamados de suporte por meio do Centro de suporte. É possível localizar links para o fórum do Stack Overflow, para questões técnicas e para o fórum do developerWorks (respostas do dw) para todas as outras questões na seção Fóruns do Centro de Suporte.  
+É possível usar o campo de procura do Centro de suporte para localizar respostas para suas perguntas na documentação do {{site.data.keyword.Bluemix_notm}} e fórum do Stack Overflow. Também é possível gerenciar os chamados de suporte por meio do Centro de suporte. É possível localizar links para o fórum do Stack Overflow para questões técnicas e o fórum do developerWorks (dw answers) para todas as outras questões na seção Fóruns do Centro de suporte.  
 
 Dependendo do tipo de conta que você possui, outras opções também estão disponíveis no Centro de suporte.  
-* Se você tiver uma conta de [Suporte Premium](/docs/get-support/getstarttssup.html##premium-support), será possível localizar os números de chamada para obter ajuda.
-* Se a sua conta foi criada no {{site.data.keyword.slportal}}, se ela estiver vinculada entre os serviços PaaS e IaaS e for uma conta de [suporte Premium](/docs/get-support/getstarttssup.html##premium-support), também será possível iniciar uma sessão de bate-papo.
+* Se você tiver uma conta de suporte [premium](/docs/get-support/getstarttssup.html#premium-support) ou [avançada](/docs/get-support/getstarttssup.html#standard-support), será possível localizar os números de chamada para obter ajuda.
+* Se a sua conta for criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e estiver vinculada entre os serviços PaaS e IaaS, também será possível acessar as opções **Entre em contato conosco** e **Iniciar bate-papo agora** para chamar o suporte ou para iniciar uma sessão de bate-papo.
 
 O Centro de suporte é o método preferencial para obter suporte, mas se não for possível efetuar login no {{site.data.keyword.Bluemix_notm}}, a página [Obter ajuda](http://www.ibm.biz/bluemixsupport){: new_window} poderá ser usada para enviar um chamado.
 
@@ -52,17 +53,45 @@ Se o problema não for devido a uma indisponibilidade e você não puder encontr
 ## Abrindo um chamado de suporte
 {: #open-ticket}
 
-Se você tiver uma conta do {{site.data.keyword.Bluemix_notm}} válida, será possível abrir um chamado de suporte no Centro de Suporte usando as etapas a seguir:
-  1. Na barra de menus, clique em **Suporte** > **Centro de Suporte**.
-  2. Na seção **Obter ajuda**, clique em **Abrir um chamado**.
-  3. Selecione o contexto de recurso e o tipo de chamado.
-  4. Conclua as informações necessárias e clique em **Enviar**. As informações que são necessárias dependem do contexto do recurso, do tipo de chamado selecionado e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+Se você tem uma conta válida do {{site.data.keyword.Bluemix_notm}}, há várias maneiras de abrir um chamado de suporte para obter ajuda com um problema técnico geral ou com um problema de conta.
 
-Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/get-support/ticketweight.html#support-ticket-severity) para obter informações sobre as diferentes severidades. Se a sua consulta de suporte requerer uma resposta mais mediata, considere atualizar para a camada de suporte Padrão ou Premium, para que seja possível abrir chamados de suporte de gravidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envie um e-mail para sales@bluemix.net.
+Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/get-support/ticketweight.html#support-ticket-severity) para obter informações sobre as diferentes severidades.
 
-Também é possível abrir um chamado de suporte usando uma das opções a seguir:
-* Na barra de menus, clique em **Suporte** > **Incluir chamado**. No formulário de chamado, selecione **Técnico** para o tipo de chamado e preencha o formulário para indicar o motivo pelo qual você precisa do suporte técnico. Se você tiver o Premium Level Support, escolha o nível de severidade para seu problema. Você receberá uma notificação por e-mail em alguns minutos para o chamado. Siga as instruções no e-mail para obter comunicações adicionais sobre a questão.
-* Use a página de ajuda do Suporte do [{{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport){: new_window}. É possível enviar chamados para problemas de vendas, IBMid e login, faturamento e suporte técnico. Para problemas de suporte técnico, é possível limitar o problema para uma área ou serviço específico. Se precisar de ajuda com um serviço específico, selecione a categoria de serviço correspondente. Para determinar a categoria à qual seu serviço pertence, clique em **Catálogo** na barra de menus e revise as categorias.  
+Se a sua consulta de suporte requer uma resposta mais imediata, considere fazer upgrade para a camada de suporte premium ou avançado para que seja possível abrir chamados de suporte de severidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envie um e-mail para sales@bluemix.net.
+{:tip}
+
+É possível abrir um chamado por meio do Centro de suporte ou da barra de menus do console do {{site.data.keyword.Bluemix_notm}}.
+  * Para abrir um chamado de suporte por meio do Centro de suporte, clique em **Abrir um chamado** na seção **Obter ajuda**.
+  * Para abrir um chamado de suporte por meio da barra de menus do console do {{site.data.keyword.Bluemix_notm}}, clique em **Suporte** > **Incluir chamado**.
+
+Depois de abrir um chamado de suporte, você receberá uma notificação por e-mail em alguns minutos para o chamado. Siga as instruções no e-mail para comunicação adicional sobre o problema.
+
+### Abrindo chamados de suporte técnico geral
+{: #opentechticket}
+
+Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema técnico geral:
+  1. No campo **Selecionar um recurso de contexto**, selecione uma das opções a seguir:
+    * **Grupo de recursos** se você estiver tendo um problema com o gerenciamento de seus grupos de recursos. Veja [Gerenciando grupos de recursos](/docs/account/resourcegroups.html#rgs) para obter mais informações.
+    * **Cloud Foundry** se você estiver tendo um problema com uma implementação de app Cloud Foundry. Veja [Como o Cloud Foundry funciona com o {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obter mais informações sobre como implementar apps Cloud Foundry.
+  2. Selecione **Técnico** para o tipo de chamado.
+  3. Se você tiver o nível de suporte Premium, escolha o nível de severidade para seu problema.
+  4. Conclua as informações necessárias. As informações que são necessárias dependem do contexto do recurso que você selecionou e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Clique em **Enviar**.
+
+### Abrindo chamados de suporte para problemas de contas
+{: #openacctticket}
+
+Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema de conta:
+  1. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Os campos associados para qualquer opção no formulário de chamado são preenchidos automaticamente com *Não aplicável* quando você indica que o chamado é para um problema de conta na próxima etapa.
+  2. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
+  3. Se você tiver o nível de suporte Premium, escolha o nível de severidade para seu problema.
+  4. Conclua as informações necessárias, fornecendo a descrição de quaisquer mensagens de erro que você recebeu. As informações que são necessárias dependem do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Clique em **Enviar**.
+
+### Outras maneiras de abrir um chamado de suporte
+{: #otheropenticksc}
+
+Também é possível usar a página de ajuda do [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport){: new_window}. É possível enviar chamados para problemas de vendas, IBMid e login, faturamento e suporte técnico. Para problemas de suporte técnico, é possível limitar o problema para uma área ou serviço específico. Se precisar de ajuda com um serviço específico, selecione a categoria de serviço correspondente. Para determinar a categoria à qual seu serviço pertence, clique em **Catálogo** na barra de menus e revise as categorias.  
 
 ## Entrando em contato com o suporte para o {{site.data.keyword.Bluemix_notm}} Dedicated ou Local
 {: #contacting-bluemix-support-dedicated-local}
@@ -113,7 +142,7 @@ Serviços da plataforma {{site.data.keyword.Bluemix_notm}} nas categorias a segu
 
 Serviços da plataforma {{site.data.keyword.Bluemix_notm}} (somente região da Alemanha):
   * Data & Analytics: Compose (todas as versões) e {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.contdelivery_full}} (somente Public), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
+  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (somente {{site.data.keyword.Bluemix_notm}} Dedicated)
   * Serviços de aplicativos: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * APIs: {{site.data.keyword.apiconnect_long}}
   * Segurança: {{site.data.keyword.SecureGatewayfull}}

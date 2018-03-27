@@ -8,6 +8,7 @@ lastupdated: "2018-01-09"
 
 ---
 
+
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
@@ -49,7 +50,7 @@ Consulte [Visualizando o status e as notificações do IBM Cloud](/docs/get-supp
   2. Para procurar respostas para questões técnicas na documentação do IBM Cloud e no Stack Overflow, insira sua procura de texto na barra de procura.
   3. Para procurar respostas para questões não técnicas, na seção **Fóruns da comunidade**, clique em **IBM developerWorks Answers**.
 
-Também é possível fazer perguntas no Stack Overflow e nos sites dW Answers. Para obter mais informações, consulte [Fazendo uma pergunta](/docs/get-support/howtogetsupport.html#asking-a-question).
+Também é possível fazer perguntas no Stack Overflow e nos sites dW Answers.  Para obter mais informações, consulte [Fazendo uma pergunta](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Etapa 3: entrar em contato com o suporte ao cliente
 {: #contact-customer-support}

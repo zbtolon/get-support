@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -51,10 +52,10 @@ Os scripts usam a interface de linha de comandos cf para extrair as informaçõe
 ## Posso escalar um chamado de suporte?
 {: #escalation}
 
-Com o suporte premium ou padrão, se você não tiver recebido uma resposta no prazo para um chamado de suporte ou se sentir que um chamado de suporte não está sendo tratado de forma apropriada, será possível escalar o chamado de suporte.  
+Com o suporte premium ou avançado, se você não tiver recebido uma resposta no prazo para um chamado de suporte ou se sentir que um chamado de suporte não está sendo direcionado de forma apropriada, será possível escalar o chamado de suporte.  
 {:shortdesc}
 
-Consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport) para obter informações adicionais sobre suporte premium e padrão.
+Veja [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport) para obter mais informações sobre o suporte premium e avançado.
 
 Por meio do processo de encaminhamento do chamado de suporte, a gerência da IBM revisa suas preocupações e trabalha com você para melhorar a experiência de suporte.
 

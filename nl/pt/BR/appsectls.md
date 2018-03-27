@@ -58,7 +58,7 @@ Se não for possível se conectar com êxito, você será afetado. Então, deve-
 
 Será possível configurar seu aplicativo Cloud Foundry para redirecionar automaticamente para os terminais alternativos disponíveis no domínio `*.mybluemix.net` quando se conectar a outros aplicativos usando o comando a seguir:
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 Depois de configurar `BLUEMIX_TLS10_DISABLED` para `true`, seu aplicativo deve ser remontado usando o comando a seguir para que essa mudança entre em vigor:
@@ -124,9 +124,9 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 * Compose for Redis
 * Compose for RethinkDB
 * Compose for ScyllaDB
-* Catálogo de dados
+* Data Catalog
 * Conexão de dados
-* Refinaria de dados
+* Data Refinary
 * Otimização de Decisão
 * Gráfico
 * Informix

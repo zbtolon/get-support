@@ -718,7 +718,7 @@ Para ajustar as cotas, acesse **Gerenciar organizações**, clique na guia **Cot
 
 ## BXNUI0512E
 
-**Mensagem**: Durante a tentativa de criar um contêiner a partir da imagem, um erro interno ocorreu. Alguns recursos, como endereço IP ou memória, não estavam disponíveis quando o namespace estava sendo recuperado.
+**Mensagem**: Durante a tentativa de criar um contêiner a partir da imagem, um erro interno ocorreu. Alguns recursos, como um endereço IP ou memória, não estavam disponíveis quando o namespace estava sendo recuperado.
 
 Para ajustar as cotas, acesse **Gerenciar organizações**, clique na guia **Cota** de sua organização e clique em **Contêineres**. Em seguida, tente selecionar a imagem novamente.
 
@@ -774,7 +774,7 @@ Selecione um serviço diferente.
 
 ## BXNUI0521E
 
-**Mensagem**: ao tentar criar um contêiner a partir da imagem, ocorreu um erro interno com o ID de incidente `incidentID`. Alguns recursos, como endereço IP ou memória, não estavam disponíveis quando o namespace estava sendo recuperado.
+**Mensagem**: ao tentar criar um contêiner a partir da imagem, ocorreu um erro interno com o ID de incidente `incidentID`. Alguns recursos, como um endereço IP ou memória, não estavam disponíveis quando o namespace estava sendo recuperado.
 
 Para ajustar as cotas, acesse **Gerenciar organizações**, clique na guia **Cota** de sua organização e clique em **Contêineres**. Em seguida, tente selecionar a imagem novamente.
 
