@@ -58,7 +58,7 @@ Si no se puede conectar correctamente, se verá afectado y debe cambiar el clien
 
 Puede configurar la aplicación de Cloud Foundry para redirigir automáticamente a los puntos finales alternativos disponibles en el dominio `*.mybluemix.net` al conectarse a otras aplicaciones utilizando el mandato siguiente:
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 Después de establecer `BLUEMIX_TLS10_DISABLED` en `true`, debe volver a transferir la aplicación utilizando el mandato siguiente para que se aplique este cambio:

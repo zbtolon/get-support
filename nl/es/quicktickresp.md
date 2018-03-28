@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -21,7 +22,7 @@ lastupdated: "2018-01-10"
 Cuando se pone en contacto con el soporte y abre una incidencia de soporte, puede solicitar un nivel de gravedad específico, según el tipo y la urgencia del problema. El nivel de gravedad puede estar relacionado con la celeridad con la que se soluciona el problema.
 {:shortdesc}
 
-Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Todas las incidencias se investigan para identificar y resolver la causa raíz del problema. Cuando se necesiten datos de diagnóstico del problema para determinar la causa raíz de un problema, se le solicitará aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema. 
+Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Todas las incidencias se investigan para identificar y resolver la causa raíz del problema. Cuando se necesiten datos de diagnóstico del problema para determinar la causa raíz de un problema, se le solicitará aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema.
 
 Si se le pide que proporcione información de diagnóstico, utilice las instrucciones siguientes para recopilar y proporcionar la información solicitada lo antes posible.
 
@@ -51,10 +52,10 @@ Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguie
 ## ¿Puedo escalar una incidencia de soporte?
 {: #escalation}
 
-Con el soporte premium o estándar, si no ha recibido una respuesta a tiempo para una incidencia de soporte, o piensa que la incidencia no se está resolviendo adecuadamente, puede escalarla.  
+Con el soporte premium o avanzado, si no ha recibido una respuesta a tiempo para una incidencia de soporte, o piensa que la incidencia no se está resolviendo adecuadamente, puede escalarla.  
 {:shortdesc}
 
-Consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport) para obtener más información sobre el soporte premium y estándar.
+Consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport) para obtener más información sobre el soporte premium y avanzado.
 
 Gracias al proceso de escalada de incidencias de soporte, los gestores de IBM revisan sus preocupaciones y trabajan
 conjuntamente con usted para mejorar su experiencia de soporte.

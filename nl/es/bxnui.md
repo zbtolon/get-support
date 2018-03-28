@@ -1442,7 +1442,7 @@ Cierre la sesión, inicie la sesión de nuevo y vuélvalo a intentar.  Si el pro
 ## BXNUI3016E
 **Mensaje**: El contenedor no existe. Es posible que se haya suprimido.
 
-Compruébelo y vuelva a intentarlo. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Compruébelo y vuelva a intentarlo.  Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
 
 ## BXNUI3017E
 **Mensaje**: Se ha producido un problema al ponerse en contacto con IBM Containers.
@@ -1524,7 +1524,7 @@ Cierre la sesión, inicie la sesión de nuevo y vuélvalo a intentar. Si el prob
 
 Es posible que se haya suprimido.
 
-Compruébelo y vuelva a intentarlo. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Compruébelo y vuelva a intentarlo.  Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
 
 ## BXNUI3064E
 **Mensaje**: Se ha producido un error y ahora la instancia de servidor se encuentra en un estado de conflicto.

@@ -18,7 +18,8 @@ lastupdated: "2018-01-09"
 # Gestión de incidencias
 {: #check-ticket-status}
 
-Todos los problemas de soporte al cliente se documentan en incidencias de soporte. A cada incidencia de soporte se le asigna un número de incidencia exclusivo para su consulta y un nivel de gravedad que depende de los detalles de la descripción de la incidencia. Puede utilizar el número de incidencia para revisar el progreso de la incidencia de soporte y actualizar la incidencia de soporte. {:shortdesc}
+Todos los problemas de soporte al cliente se documentan en incidencias de soporte. A cada incidencia de soporte se le asigna un número de incidencia exclusivo para su consulta y un nivel de gravedad que depende de los detalles de la descripción de la incidencia. Puede utilizar el número de incidencia para revisar el progreso de la incidencia de soporte y actualizar la incidencia de soporte.
+{:shortdesc}
 
 Para ver y empezar a gestionar sus incidencias de soporte, realice los pasos siguientes:
   1. Pulse **Soporte** > **Ver incidencias** en la barra de menús.

@@ -25,12 +25,12 @@ Obtención de soporte
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-bxnui.md
+    bxnui.md
 
     {: .topicgroup}
-Problemas conocidos
+    Problemas conocidos
 	    appsectls.md
-	{: .navgroup-end}
+    {: .navgroup-end}
 
     {: .navgroup id="help"}
     [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)

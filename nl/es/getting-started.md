@@ -8,6 +8,7 @@ lastupdated: "2018-01-09"
 
 ---
 
+
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
@@ -49,7 +50,7 @@ Puede utilizar el Centro de soporte para buscar respuestas en los foros de docum
   2. Para buscar respuestas a preguntas técnicas desde la documentación de IBM Cloud y Stack Overflow, escriba el texto de búsqueda en la barra de búsqueda.
   3. Para buscar respuestas a preguntas no técnicas, bajo la sección **Foros de la comunidad**, pulse **IBM developerWorks Answers**.
 
-También puede formular preguntas en los sitios de Stack Overflow y dW Answers. Para obtener más información, consulte [Cómo formular una pregunta](/docs/get-support/howtogetsupport.html#asking-a-question).
+También puede formular preguntas en los sitios de Stack Overflow y dW Answers.  Para obtener más información, consulte [Cómo formular una pregunta](/docs/get-support/howtogetsupport.html#asking-a-question).
 
 ## Paso 3: Ponerse en contacto con el servicio de atención al cliente
 {: #contact-customer-support}
@@ -76,4 +77,4 @@ Para suscribirse a las notificaciones, acceda a la página Notificaciones de pla
 ## Pasos siguientes
 {: #next-steps}
 
-Si selecciona abrir una incidencia de soporte para ponerse en contacto con el servicio de atención al cliente y obtener ayuda con el problema, puede gestionar la incidencia de soporte mediante el proceso. Consulte [Gestión de incidencias](/docs/get-support/mantick.html#check-ticket-status) para obtener más información.
+Si selecciona abrir una incidencia de soporte para ponerse en contacto con el servicio de atención al cliente y obtener ayuda con el problema, puede gestionar la incidencia de soporte mediante el proceso.  Consulte [Gestión de incidencias](/docs/get-support/mantick.html#check-ticket-status) para obtener más información.

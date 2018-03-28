@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -17,10 +18,10 @@ lastupdated: "2018-02-01"
 # ¿Cómo puedo obtener la ayuda que necesito?
 {: #getting-customer-support}
 
-Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para empezar a determinar la causa del problema y para obtener ayuda para encontrar una solución.
+Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución.
 {:shortdesc}
 
-Si su cuenta se creó con la consola de {{site.data.keyword.Bluemix_notm}} o si su cuenta de SoftLayer se ha creado desde el portal de clientes de la infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y si es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas enlazadas se enlazan entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obtener más información.
+Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}} o si su cuenta de SoftLayer se ha creado desde el portal de cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas enlazadas se enlazan entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obtener más información.
 
 Si su cuenta es una cuenta de SoftLayer que se ha creado en el portal de clientes de la infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) para obtener más información sobre la apertura de incidencias de soporte desde el portal de clientes.
 
@@ -29,11 +30,11 @@ Si su cuenta es una cuenta de SoftLayer que se ha creado en el portal de cliente
 
 Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.keyword.Bluemix_notm}}. En la barra de menús, pulse **Soporte** y seleccione **Centro de soporte**.  
 
-Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow, para las preguntas técnicas y al foro de developerWorks (dw answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
+Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (dw answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
 
 En función del tipo de cuenta que tenga, también hay otras opciones disponibles en el Centro de soporte.  
-* Si tiene una cuenta de [Soporte premium](/docs/get-support/getstarttssup.html##premium-support), puede encontrar números de teléfono para obtener ayuda.
-* Si su cuenta se creó en {{site.data.keyword.slportal}}, se enlaza entre los servicios de PaaS y de IaaS, y es una cuenta [de soporte Premium](/docs/get-support/getstarttssup.html##premium-support), también puede iniciar una sesión de chat.
+* Si tiene una cuenta de soporte [premium](/docs/get-support/getstarttssup.html#premium-support) o [avanzado](/docs/get-support/getstarttssup.html#standard-support) podrá encontrar números de teléfono para obtener ayuda.
+* Si su cuenta se creó en el portal de cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y está enlazado entre servicios PaaS e IaaS, también puede acceder a las opciones **Call US** y **Chat Now** para llamar al soporte o para iniciar una sesión de chat.
 
 El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar una incidencia.
 
@@ -52,18 +53,46 @@ Si el problema no es debido a una parada y si no encuentra una respuesta para su
 ## Apertura de una incidencia de soporte
 {: #open-ticket}
 
-Si tiene una cuenta válida de {{site.data.keyword.Bluemix_notm}}, puede abrir una incidencia de soporte desde el Centro de soporte mediante los pasos siguientes:
-  1. En la barra de menús, pulse **Soporte** > **Centro de soporte**.
-  2. Desde la sección **Obtener ayuda**, pulse **Abrir una incidencia**.
-  3. Seleccione el contexto de recurso y el tipo de incidencia.
-  4. Complete la información necesaria y pulse **Enviar**. La información necesaria depende del contexto de los recursos y del tipo de incidencia que haya seleccionado, y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
+Si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} válida, hay varias maneras de abrir una incidencia de soporte para obtener ayuda con un problema técnico genérico o un problema con la cuenta.
 
 Cuando abra una incidencia de soporte, asegúrese de indicar una gravedad adecuada a su incidencia. La gravedad determina cómo se maneja
-la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades. Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte Estándar o Premium para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o envíe un correo electrónico a sales@bluemix.net.
+la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades.
 
-También puede abrir una incidencia de soporte utilizando una de las opciones siguientes:
-* En la barra de menús, pulse **Soporte** > **Añadir incidencia**. En el formulario de incidencias, seleccione **Técnica** para el tipo de incidencia y complete el formulario para indicar para qué necesita soporte técnico. Si tiene Premium Level Support, seleccione el nivel de gravedad para el problema. Recibirá una notificación de correo electrónico en pocos minutos para la incidencia. Siga las instrucciones del correo electrónico para obtener más comunicaciones sobre el problema.
-* Utilice la página de ayuda [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}. Puede enviar incidencias correspondientes a ventas, facturación, ID de IBM e inicio de sesión y problemas de soporte técnico. Para problemas de soporte técnico, puede reducir el problema a un servicio específico o una área específica. Si necesita ayuda con un servicio específico, seleccione
+Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o envíe un correo electrónico a sales@bluemix.net.
+{:tip}
+
+Puede abrir una incidencia desde el Centro de soporte o desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}.
+  * Para abrir una incidencia de soporte desde el Centro de soporte, pulse **Abrir una incidencia** en la sección **Obtener ayuda**.
+  * Para abrir una incidencia de soporte desde la consola de {{site.data.keyword.Bluemix_notm}} de la barra de menús, pulse **Soporte** > **Añadir incidencia**.
+
+Después de abrir una incidencia de soporte, recibirá una notificación de correo electrónico en pocos minutos para la incidencia. Siga las instrucciones del correo electrónico para obtener más comunicaciones sobre el problema.
+
+### Apertura de incidencias de soporte técnico genérico
+{: #opentechticket}
+
+Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema técnico genérico:
+  1. En el campo **Seleccionar un contexto de recurso**, seleccione una de las siguientes opciones:
+    * **Grupo de recursos** si tiene un problema con la gestión de sus grupos de recursos. Consulte [Gestión de recursos](/docs/account/resourcegroups.html#rgs) para obtener más información.
+    * **Cloud Foundry** si tiene un problema con el despliegue de las apps en Cloud Foundry. Consulte [Cómo funciona Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obtener más información sobre el despliegue de apps de Cloud Foundry.
+  2. Seleccione **Técnico** como tipo de incidencia.
+  3. Si tiene soporte de nivel premium, seleccione el nivel de gravedad para el problema.
+  4. Complete la información necesaria. La información necesaria depende del contexto de los recursos seleccionados y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Pulse **Enviar**.
+
+### Apertura de incidencias de soporte para problemas de cuenta
+{: #openacctticket}
+
+Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema de cuenta:
+  1. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. En el siguiente paso los campos asociados con cualquiera de las opciones en el formulario de la incidencia se cumplimentan de forma automática con *No aplicable* si indica que la incidencia es para un problema de cuenta.
+  2. Seleccione **Contabilidad y facturación** como el tipo de incidencia para asegurarse de que esta se dirige al equipo de soporte adecuado de forma que la misma se pueda resolver rápidamente.
+  3. Si tiene soporte de nivel premium, seleccione el nivel de gravedad para el problema.
+  4. Complete la información necesaria, proporcionando una descripción de los mensajes de error que ha recibido. La información necesaria depende del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  5. Pulse **Enviar**.
+
+### Otras maneras de abrir una incidencia de soporte
+{: #otheropenticksc}
+
+También se puede utilizar la página de ayuda [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}. Puede enviar incidencias correspondientes a ventas, facturación, ID de IBM e inicio de sesión y problemas de soporte técnico. Para problemas de soporte técnico, puede reducir el problema a un servicio específico o una área específica. Si necesita ayuda con un servicio específico, seleccione
 la categoría de servicio correspondiente. Para determinar la categoría a la que pertenece su servicio, pulse **Catálogo** en la barra de menús y revise las categorías.  
 
 ## Cómo ponerse en contacto para {{site.data.keyword.Bluemix_notm}} dedicado o local
@@ -76,7 +105,6 @@ Si su cuenta es {{site.data.keyword.Bluemix_notm}} Dedicado o Local, el soporte 
 Consulte las [horas de operación](/docs/get-support/ticketweight.html#support-hours-operation) para obtener información sobre las horas en que el equipo de soporte supervisa activamente las solicitudes de soporte.
 * Si tiene un {{site.data.keyword.ibmid}} y tiene acceso al entorno público de {{site.data.keyword.Bluemix_notm}}, en la barra de menús pulse **Soporte** y seleccione **Añadir incidencia**. Seleccione el área temática correspondiente a su problema y siga las indicaciones para enviar la incidencia.
 * Si no dispone de un {{site.data.keyword.ibmid}}, puede ponerse en contacto con alguien de la organización que lo tenga o puede trabajar con el representante de IBM.
-
 
 En la solicitud, se puede mostrar una lista de usuarios de su organización que puede servir como contactos para dar incidencias de soporte en la página **Soporte** de la consola de {{site.data.keyword.Bluemix_notm}} en el entorno Dedicado o Local.
   {:tip}
@@ -116,7 +144,7 @@ Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} en las siguientes
 
 Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} (solo región de Alemania):
   * Datos y análisis: Compose (todas las versiones) y {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.contdelivery_full}} (solo público), {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}
+  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (solo {{site.data.keyword.Bluemix_notm}} dedicado)
   * Servicios de aplicaciones: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * API: {{site.data.keyword.apiconnect_long}}
   * Seguridad: {{site.data.keyword.SecureGatewayfull}}
