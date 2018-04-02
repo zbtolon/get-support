@@ -51,7 +51,7 @@ lastupdated: "2018-01-16"
 ### 現在のメンテナンス時間帯や進行中の問題を確認する
 {: #monbp-checcurmaninprog}
 
-{{site.data.keyword.Bluemix_notm}} が期待どおりに動作していないと疑われる場合、「状況」ページで現在のメンテナンス時間帯や進行中の問題を確認します。 「状況」ページにまだリストされていないインシデントを報告するには、**「サポート」**をクリックしてメニュー・バーで**「チケットの追加」**を選択するか、[{{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.ibm.biz/bluemixsupport){: new_window}ヘルプ・ページにアクセスして、サポート・チケットをオープンします。
+{{site.data.keyword.Bluemix_notm}} が期待どおりに動作していないと疑われる場合、「状況」ページで現在のメンテナンス時間帯や進行中の問題を確認します。 「状況」ページにまだリストされていないインシデントを報告するには、**「サポート」**をクリックしてメニュー・バーで**「チケットの追加」**を選択するか、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.ibm.biz/bluemixsupport){: new_window}ヘルプ・ページにアクセスして、サポート・チケットをオープンします。
 
 ### 複数の {{site.data.keyword.Bluemix_notm}} Foundry サービス地域を利用する
 {: #monbp-multpreg}
@@ -81,12 +81,12 @@ lastupdated: "2018-01-16"
 詳しくは、リーダーの**「ヘルプ」**セクションを参照してください。 	   
 
 RSS フィードを読むには、他に、以下のような Web ブラウザー・プラグインを使用する方法があります。
-  * Chrome の [RSS フィード ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://feeder.co/){: new_window} リーダー
-  * Firefox の [Brief ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} アドオン
+  * Chrome の [RSS フィード ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://feeder.co/){: new_window} リーダー
+  * Firefox の [Brief ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} アドオン
 
 以下のサイトなどのニュース・ソースでも、RSS フィードを読む方法が提供されています。
-  * [Feedly ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.feedly.com/){: new_window}
-  * [G2reader ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://www.g2reader.com/en/){: new_window}
+  * [Feedly ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.feedly.com/){: new_window}
+  * [G2reader ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.g2reader.com/en/){: new_window}
 
 また、サード・パーティー・サービスを使用して、RSS の更新ごとに E メールを自動送信することも可能です。 サード・パーティー・サービスの例を以下にいくつか示します。
 

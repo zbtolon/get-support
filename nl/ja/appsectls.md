@@ -28,7 +28,7 @@ IBM は、2018 年 3 月 1 日付けでクラウド製品ならびにサービ�
 ## TLS とは?
 {: #what}
 
-[TLS プロトコル![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window}は、送信データの秘密が守られるようにネットワーク間の通信を暗号化するために使用されます。 リリースされている TLS のバージョンには、1.0、1.1、および 1.2 の 3 つがあります。 HTTPS 接続はすべて TLS を使用します。 HTTPS は、{{site.data.keyword.Bluemix_notm}} 製品およびサービスへの接続がセキュアで信頼できることを保証するための主要な方式です。 一部の {{site.data.keyword.Bluemix_notm}} 製品およびサービスは、WebSocket Secure (WSS) プロトコルを使用したセキュア接続を許可していますが、このプロトコルも TLS を使用します。 TLS 1.0 および 1.1 のサポート終了は、HTTPS 接続と WSS 接続の両方に該当します。
+[TLS プロトコル![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window}は、送信データの秘密が守られるようにネットワーク間の通信を暗号化するために使用されます。 リリースされている TLS のバージョンには、1.0、1.1、および 1.2 の 3 つがあります。 HTTPS 接続はすべて TLS を使用します。 HTTPS は、{{site.data.keyword.Bluemix_notm}} 製品およびサービスへの接続がセキュアで信頼できることを保証するための主要な方式です。 一部の {{site.data.keyword.Bluemix_notm}} 製品およびサービスは、WebSocket Secure (WSS) プロトコルを使用したセキュア接続を許可していますが、このプロトコルも TLS を使用します。 TLS 1.0 および 1.1 のサポート終了は、HTTPS 接続と WSS 接続の両方に該当します。
 
 ## 影響を受けないようにするには、どのような処置が必要ですか?
 {: #impact}
@@ -58,7 +58,7 @@ Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS 
 
 他のアプリケーションに接続するとき、`*.mybluemix.net` ドメイン上の使用可能な代替エンドポイントに自動的にリダイレクトするように Cloud Foundry アプリケーションを構成できます。そうするには以下のコマンドを使用します。
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 `BLUEMIX_TLS10_DISABLED` を `true` に設定した後は、この変更を有効にするために以下のコマンドを使用してアプリケーションを再ステージングする必要があります。

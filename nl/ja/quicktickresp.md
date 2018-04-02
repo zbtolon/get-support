@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -38,8 +39,8 @@ lastupdated: "2018-01-10"
 
 診断情報を収集するには、以下のいずれかのスクリプトを使用してください。
 
-  * Windows オペレーティング・システムの場合、[bmdiag-general.bat ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ファイルをダウンロードして実行します。
-  * Linux および Mac オペレーティング・システムの場合、[bmdiag-general.sh ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ファイルをダウンロードして実行します。
+  * Windows オペレーティング・システムの場合、[bmdiag-general.bat ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ファイルをダウンロードして実行します。
+  * Linux および Mac オペレーティング・システムの場合、[bmdiag-general.sh ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ファイルをダウンロードして実行します。
 
 これらのスクリプトは cf コマンド・ライン・インターフェースを使用して、ご使用のアプリケーション環境から以下の情報を抽出します。
   * アプリケーション・ログ
@@ -51,10 +52,10 @@ lastupdated: "2018-01-10"
 ## サポート・チケットをエスカレートできますか?
 {: #escalation}
 
-プレミアムまたは標準のサポートを使用しており、サポート・チケットに対してタイムリーな応答を受け取らなかった場合、または、サポート・チケットが適切に対処されていないと感じられた場合は、サポート・チケットをエスカレートすることができます。  
+プレミアムまたはアドバンストのサポートを使用しており、サポート・チケットに対してタイムリーな応答を受け取らなかった場合、または、サポート・チケットが適切に対処されていないと感じられた場合は、サポート・チケットをエスカレートすることができます。  
 {:shortdesc}
 
-プレミアムおよび標準のサポートについて詳しくは、[サポートのタイプ](/docs/get-support/getstarttssup.html#typesofsupport)を参照してください。
+プレミアムおよびアドバンストのサポートについて詳しくは、[サポートのタイプ](/docs/get-support/getstarttssup.html#typesofsupport)を参照してください。
 
 サポート・チケットのエスカレーション・プロセスを通じて、IBM のマネジメントがお客様のご要望を確認し、サポート状況の改善に向けて対応します。
 
@@ -69,4 +70,4 @@ lastupdated: "2018-01-10"
 
 重大度 1 の問題は、1 日 24 時間、週 7 日監視されます。 他のすべての重大度レベルの問題に関するフォームの送信は、日曜日 21:30 (協定世界時) から金曜日 23:59 (協定世界時) まで監視されます (祝日を除く)。
 
-このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](https://www.timeanddate.com) を参照してください。 休日のスケジュールについて詳しくは、[{{site.data.keyword.Bluemix_notm}} Support Holidays ![「外部リンク」アイコン](../icons/launch-glyph.svg "「外部リンク」アイコン")](http://ibm.biz/bluemixholidays) を参照してください。
+このサポート時間をお客様のローカル・タイム・ゾーンに変換するための支援については、[Timeanddate.com ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.timeanddate.com) を参照してください。 休日のスケジュールについて詳しくは、[{{site.data.keyword.Bluemix_notm}} Support Holidays ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixholidays) を参照してください。
