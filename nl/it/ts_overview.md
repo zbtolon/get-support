@@ -22,6 +22,6 @@ Esistono molte risorse che puoi utilizzare per risolvere i problemi relativi a {
 {:shortdesc}
 
 Alcune tecniche di risoluzione dei problemi includono il seguente elenco:
-* Puoi [consultare la pagina sullo stato](/docs/get-support/ViewStatus.html#viewing-bluemix-status) per determinare che il problema riscontrato non sia un problema noto con la piattaforma, il servizio o un runtime. 
+* Puoi [consultare la pagina sullo stato](/docs/get-support/ViewStatus.html#viewing-bluemix-status) per determinare che il problema riscontrato non sia un problema noto con la piattaforma, il servizio o un runtime.
 * Puoi utilizzare il [Centro di supporto](/docs/get-support/howtogetsupport.html#using-avatar) per effettuare ricerche nella documentazione e nel forum Stack Overflow.
 * Puoi utilizzare il Centro di supporto per accedere a Stack Overflow e a developerWorks Answers per effettuare ricerche e [fare domande](/docs/get-support/howtogetsupport.html#asking-a-question).

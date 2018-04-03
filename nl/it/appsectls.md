@@ -23,7 +23,7 @@ IBM ritirerà il supporto per TLS 1.0 e TLS 1.1 in molti prodotti e servizi clou
 ## Perché stiamo apportando questa modifica?
 {: #why}
 
-Questo fa parte dell'impegno di IBM nell'offrire un cloud totalmente sicuro e in linea con le procedure consigliate di settore per la sicurezza e la riservatezza dei dati. 
+Questo fa parte dell'impegno di IBM nell'offrire un cloud totalmente sicuro e in linea con le procedure consigliate di settore per la sicurezza e la riservatezza dei dati.
 
 ## Cos'è TLS?
 {: #what}
@@ -35,7 +35,7 @@ Il [protocollo TLS ![Icona link esterno](../icons/launch-glyph.svg "Icona link e
 
 La maggior parte delle connessioni effettuate ai prodotti o ai servizi {{site.data.keyword.Bluemix_notm}} utilizza già TLS 1.2. Se le tue connessioni non richiedono TLS 1.0 o 1.1, non subirai alcun impatto.
 
-Se utilizzi uno dei prodotti o servizi che ritirano il supporto per TLS 1.0 o 1.1, devi confermare che le tue connessioni non richiedono TLS 1.0 o 1.1. 
+Se utilizzi uno dei prodotti o servizi che ritirano il supporto per TLS 1.0 o 1.1, devi confermare che le tue connessioni non richiedono TLS 1.0 o 1.1.
 
 ### Cloud Foundry su {{site.data.keyword.Bluemix_notm}}
 
@@ -58,7 +58,7 @@ Se non riesci a connetterti correttamente, subirai un impatto e dovrai modificar
 
 Puoi configurare la tua applicazione Cloud Foundry in modo che venga reindirizzata automaticamente agli endpoint alternativi disponibili sul dominio `*.mybluemix.net` durante la connessione ad altre applicazioni utilizzando il seguente comando:
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 Dopo aver impostato `BLUEMIX_TLS10_DISABLED` su `true`, la tua applicazione deve essere ripreparata utilizzando il seguente comando per rendere effettiva questa modifica:
@@ -75,14 +75,14 @@ Per utilizzare gli endpoint alternativi, il tuo client deve supportare l'estensi
 
 Per i prodotti e i servizi Watson a cui ti connetti utilizzando `gateway.watsonplatform.net` o `stream.wastonplatform.net`, sostituiscili con `gateway-tls12.watsonplatform.net` o `stream-tls12.watsonplatform.net`. Questi endpoint alternativi supportano solo TLS 1.2. Se riesci a connetterti correttamente a questi endpoint, non subirai alcun impatto. Se non riesci a connetterti correttamente, subirai un impatto e dovrai modificare il tuo client, le tue librerie client o la configurazione del client per abilitare TLS 1.2.
 
-Gli endpoint alternativi per prodotti e servizi Watson in regioni diverse da Stati Uniti Sud non vengono forniti, in quanto supportano già solo TLS 1.2. 
+Gli endpoint alternativi per prodotti e servizi Watson in regioni diverse da Stati Uniti Sud non vengono forniti, in quanto supportano già solo TLS 1.2.
 
 `gatway-tls12.watsonplatform.net` e `stream-tls12.watsonplatform.net` sono solo a scopo di test e non saranno disponibili dopo la rimozione di TLS 1.0 e 1.1.
 {: tip}
 
 ### Altri prodotti e servizi
 
-Per prodotti o servizi che non dispongono di endpoint alternativi per TLS 1.2, fai riferimento a qualsiasi documentazione disponibile per il tuo cliente o le tue librerie client per informazioni su come determinare quali versioni di TLS sono supportate e quale versione si sta utilizzando. 
+Per prodotti o servizi che non dispongono di endpoint alternativi per TLS 1.2, fai riferimento a qualsiasi documentazione disponibile per il tuo cliente o le tue librerie client per informazioni su come determinare quali versioni di TLS sono supportate e quale versione si sta utilizzando.
 
 ## Quali prodotti e servizi ritireranno il supporto per TLS 1.0 e 1.1?
 {: #prodsandservs}

@@ -8,6 +8,7 @@ lastupdated: "2018-01-09"
 
 ---
 
+
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
@@ -23,7 +24,7 @@ In questa esercitazione, illustreremo il processo per controllare lo stato della
 ## Prima di iniziare
 {: #prereqs}
 
-Accedi alla console {{site.data.keyword.Bluemix_notm}} con le tue credenziali dell'ID IBM. 
+Accedi alla console {{site.data.keyword.Bluemix_notm}} con le tue credenziali dell'ID IBM.
 
 Se sei un cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}, non disponi di un ID IBM e il tuo account SoftLayer non è collegato a {{site.data.keyword.Bluemix}}; vedi [Richiesta di supporto per l'infrastruttura IBM Cloud](/docs/customer-portal/cpsupport.html#customerportal_support).
 {: tip}
@@ -66,7 +67,7 @@ Per informazioni su altri modi per contattare il supporto, vedi [Apertura di un 
 ## Passo 4: configura le notifiche
 {: #view-notifications}
 
-Per ricevere notifiche sugli annunci o sulla manutenzione che riguardano la piattaforma, puoi sottoscrivere alle notifiche inviate tramite e-mail. Quando crei un account o vieni aggiunto a un account, per impostazione predefinita ti viene annullata la sottoscrizione alle notifiche. 
+Per ricevere notifiche sugli annunci o sulla manutenzione che riguardano la piattaforma, puoi sottoscrivere alle notifiche inviate tramite e-mail. Quando crei un account o vieni aggiunto a un account, per impostazione predefinita ti viene annullata la sottoscrizione alle notifiche.
 
 Per sottoscrivere alle notifiche, accedi alla pagina Notifiche della piattaforma e seleziona il tipo di notifica da ricevere:
   1. Seleziona **Gestisci** > **Account** > **Notifiche della piattaforma** dalla barra dei menu.
@@ -76,4 +77,4 @@ Per sottoscrivere alle notifiche, accedi alla pagina Notifiche della piattaforma
 ## Passi successivi
 {: #next-steps}
 
-Se hai scelto di aprire un ticket per contattare il supporto clienti e richiedere assistenza per il tuo problema, puoi gestire il ticket di supporto attraverso il processo. Per ulteriori informazioni, vedi [Gestione dei ticket](/docs/get-support/mantick.html#check-ticket-status).
+Se hai scelto di aprire un ticket per contattare il supporto clienti e richiedere assistenza per il tuo problema, puoi gestire il ticket di supporto attraverso il processo.  Per ulteriori informazioni, vedi [Gestione dei ticket](/docs/get-support/mantick.html#check-ticket-status).

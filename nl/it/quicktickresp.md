@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -57,10 +58,10 @@ le seguenti informazioni dal tuo ambiente applicativo:
 ## Posso effettuare l'escalation di un ticket di supporto?
 {: #escalation}
 
-Con un supporto premium o standard, se non hai ricevuto una risposta tempestiva a un ticket di supporto o ritieni che il ticket non venga affrontato in maniera appropriata, puoi effettuarne l'escalation.  
+Con un supporto premium o avanzato, se non hai ricevuto una risposta tempestiva a un ticket di supporto o ritieni che il ticket non venga affrontato in maniera appropriata, puoi effettuarne l'escalation.  
 {:shortdesc}
 
-Vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport) per ulteriori informazioni sul supporto premium e standard.
+Vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport) per ulteriori informazioni sul supporto premium e avanzato.
 
 Attraverso il processo di escalation del ticket di supporto, IBM prende in considerazione le tue preoccupazioni e collabora con te per migliorare la tua esperienza di supporto.
 
