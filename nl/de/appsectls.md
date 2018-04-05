@@ -58,7 +58,7 @@ Kann die Verbindung nicht erfolgreich hergestellt werden, stehen Beeinträchtigu
 
 Sie können Ihre Cloud Foundry-Anwendung mit dem folgenden Befehl so konfigurieren, dass beim Herstellen von Verbindungen zu anderen Anwendungen automatisch eine Weiterleitung an die in der Domäne `*.mybluemix.net` verfügbaren alternativen Endpunkte erfolgt:
 ```
-cf <Anwendungsname> BLUEMIX_TLS10_DISABLED true
+cf set-env <Anwendungsname> BLUEMIX_TLS10_DISABLED true
 ```
 
 Nachdem Sie für `BLUEMIX_TLS10_DISABLED` den Wert `true` festgelegt haben, muss mit dem folgenden Befehl ein erneutes Staging für die Anwendung durchgeführt werden, damit die Änderung wirksam wird:

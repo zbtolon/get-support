@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -21,9 +22,9 @@ lastupdated: "2018-01-10"
 Wenn Sie sich mit dem Support in Verbindung setzen und ein Support-Ticket öffnen, können Sie eine bestimmte Prioritätsstufe auswählen, die sich nach dem Typ und der Dringlichkeit des Problems richtet. Die Prioritätsstufe kann sich darauf auswirken, wie schnell Ihr Problem bearbeitet wird.
 {:shortdesc}
 
-Sie definieren die Priorität des Problems auf der Basis Ihrer Geschäftsanforderungen und Ihrer Supportstufe. Alle Tickets werden untersucht, um die eigentliche Ursache des Problems zu ermitteln und zu beheben. Wenn Problemdiagnosedaten zur Ermittlung der zugrunde liegenden Ursache des Problems erforderlich sind, werden Sie gebeten, dem Zugriff auf Protokolldateien und anderen Problembestimmungsdaten über Ihre Anwendung zuzustimmen. Ohne diese Daten könnte sich die Lösung Ihres Problems verzögern.
+Sie definieren die Priorität des Problems auf der Basis Ihrer Geschäftsanforderungen und Ihrem Support-Level. Alle Tickets werden untersucht, um die eigentliche Ursache des Problems zu ermitteln und zu beheben. Wenn Problemdiagnosedaten zur Ermittlung der zugrunde liegenden Ursache des Problems erforderlich sind, werden Sie gebeten, dem Zugriff auf Protokolldateien und anderen Problembestimmungsdaten über Ihre Anwendung zuzustimmen. Ohne diese Daten könnte sich die Lösung Ihres Problems verzögern.
 
-Wenn Sie zur Übermittlung von Diagnoseinformationenen aufgefordert werden, gehen Sie anhand der folgenden Anweisungen vor, damit die angeforderten Informationen so schnell wie möglich erfasst und bereitgestellt werden.
+Wenn Sie zur Übermittlung von Diagnoseinformationen aufgefordert werden, gehen Sie anhand der folgenden Anweisungen vor, damit die angeforderten Informationen so schnell wie möglich erfasst und bereitgestellt werden.
 
 ## Diagnoseinformationen erfassen
 {: #collecting-diagnostic-information}
@@ -51,10 +52,10 @@ Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folge
 ## Kann ich ein Support-Ticket eskalieren?
 {: #escalation}
 
-Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Standard' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.  
+Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Advanced' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.   
 {:shortdesc}
 
-Weitere Informationen zu den Supporttypen 'Premium' und 'Standard' finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
+Weitere Informationen zu den Supporttypen 'Premium' und 'Advanced' finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport). 
 
 Durch den Eskalationsprozess für das Support-Ticket prüft das IBM Management Ihre Problematik erneut und arbeitet mit Ihnen zusammen, um die Supporterfahrung zu verbessern.
 
