@@ -80,11 +80,11 @@ lastupdated: "2018-01-16"
 如需相關資訊，請參閱閱讀器的**說明**區段。
  	   
 
-透過 Web 瀏覽器外掛程式，可以取得其他讀取 RSS 資訊來源的方法，例如：
+透過類似下列的 Web 瀏覽器外掛程式，可以取得其他讀取 RSS 資訊來源的方法：
   * 適用於 Chrome 的 [RSS 資訊來源 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://feeder.co/){: new_window} 讀取器
   * 適用於 Firefox 的 [Brief ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} 附加程式
 
-News 來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
+新聞來源（例如下列網站）也提供方法來讀取 RSS 資訊來源：
   * [Feedly ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.feedly.com/){: new_window}
   * [G2reader ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.g2reader.com/en/){: new_window}
 

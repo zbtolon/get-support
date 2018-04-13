@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -51,10 +52,10 @@ lastupdated: "2018-01-10"
 ## 可以上报支持凭单吗？
 {: #escalation}
 
-对于高端或标准支持，如果您未收到对支持凭单的及时响应，或者如果您认为支持凭单未得到恰当处理，那么可以上报支持凭单。  
+对于高端或高级支持，如果您未收到对支持凭单的及时响应，或者如果您认为支持凭单未得到恰当处理，那么可以上报支持凭单。  
 {:shortdesc}
 
-有关高端和标准支持的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
+有关高端和高级支持的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
 
 通过支持凭单上报过程，IBM 管理人员将复查您的问题，并与您合作来改进支持体验。
 

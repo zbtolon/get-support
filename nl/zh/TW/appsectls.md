@@ -58,7 +58,7 @@ IBM 將在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 
 
 使用下列指令，即可將 Cloud Foundry 應用程式配置為在連接至其他應用程式時，自動重新導向至 `*.mybluemix.net` 網域上可用的替代端點：
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 將 `BLUEMIX_TLS10_DISABLED` 設為 `true` 之後，必須使用下列指令來重新編譯打包您的應用程式，這項變更才會生效：
@@ -225,7 +225,7 @@ cf restage <application_name>
 ## 未列出我的產品或服務時，該怎麼辦？
 {: #tlsprodnotlisted}
 
-您的產品或服務可能已經僅支援 TLS 1.2，或者目前不會移除 TLS 1.0 及 1.1。您可以使用各種可用的用戶端及線上工具，來檢查產品或服務的端點是否支援 TLS 1.0 及 1.1。
+您的產品或服務可能已經僅支援 TLS 1.2，或目前可能不會移除 TLS 1.0 及 1.1。您可以使用各種可用的用戶端及線上工具，來檢查產品或服務的端點是否支援 TLS 1.0 及 1.1。
 
 ## 在撤銷支援之後，是否有方法可以繼續使用 TLS 1.0 或 1.1？
 {: #tlskeepusing}

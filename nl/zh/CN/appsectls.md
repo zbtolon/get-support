@@ -58,7 +58,7 @@ IBM 致力于提供高度安全且符合关于安全和数据隐私的业界最�
 
 可以使用以下命令，将 Cloud Foundry 应用程序配置为自动重定向到 `*.mybluemix.net` 域上提供的备用端点：
 ```
-cf <application_name> BLUEMIX_TLS10_DISABLED true
+cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
 将 `BLUEMIX_TLS10_DISABLED` 设置为 `true` 后，必须使用以下命令对应用程序重新编译打包，以使此更改生效：

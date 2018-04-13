@@ -4,9 +4,10 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-10"
+lastupdated: "2018-03-15"
 
 ---
+
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -51,10 +52,10 @@ Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
 ## 我可以呈報支援問題單嗎？
 {: #escalation}
 
-使用超值或標準支援時，如果您未收到支援問題單的及時回應，或覺得支援問題單未獲得適當地解決，則可以呈報支援問題單。  
+使用超值或進階支援時，如果您未收到支援問題單的及時回應，或覺得支援問題單未獲得適當地解決，則可以呈報支援問題單。  
 {:shortdesc}
 
-如需超值及標準支援的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
+如需超值及進階支援的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
 
 透過支援問題單呈報程序，IBM 管理會檢閱您的問題，並與您合作來改善支援體驗。
 
@@ -67,6 +68,6 @@ Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
 ## 作業時間
 {: #support-hours-operation}
 
-我們將 24 小時全年無休地監視嚴重性 1 問題。從星期日 21:30 UTC 到星期五 23:59 UTC（不包括假日）都會監視含所有其他嚴重性層次之問題的表單提交。
+我們將 24 小時全年無休地監視嚴重性 1 的問題。從星期日 21:30 UTC 到星期五 23:59 UTC（不包括假日）都會監視含所有其他嚴重性層次之問題的表單提交。
 
 如需將這些支援時間轉換為當地時區的協助，請參閱 [Timeanddate.com ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.timeanddate.com)。如需假日排程的相關資訊，請參閱 [{{site.data.keyword.Bluemix_notm}} Support Holidays ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixholidays)。
