@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-20"
 
 ---
 
@@ -68,6 +68,6 @@ To submit an escalation request, complete the following steps:
 ## Hours of operation
 {: #support-hours-operation}
 
-Severity 1 issues are monitored 24 hours a day, 7 days a week. Form submissions for issues with all other severity levels are monitored from Sunday at 21:30 UTC to Friday at 23:59 UTC (excluding holidays).
+Severity 1 issues are monitored 24 hours a day, 7 days a week. Form submissions for issues with all other severity levels are monitored from Sunday at 21:30 UTC to Friday at 23:59 UTC.
 
-For assistance in converting these support hours to your local time zone, see [Timeanddate.com ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.timeanddate.com). For more information about the holiday schedule, see [{{site.data.keyword.Bluemix_notm}} Support Holidays ![External link icon](../icons/launch-glyph.svg "External link icon")](http://ibm.biz/bluemixholidays).
+For assistance in converting these support hours to your local time zone, see [Timeanddate.com ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.timeanddate.com).
