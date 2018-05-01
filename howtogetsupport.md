@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -33,7 +33,7 @@ To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} c
 You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support tickets from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (dw answers) forum for all other questions under the Forums section of the Support Center.  
 
 Depending on the type of account you have, other options are also available from the Support Center.  
-* If you have a [premium](/docs/get-support/getstarttssup.html#premium-support) or  [advanced](/docs/get-support/getstarttssup.html#standard-support) support account, you can find call-in numbers to get help.
+* If you have a basic, advanced, or premium [support plan](/docs/get-support/index.html), you can find call-in numbers and a chat option to get help.
 * If your account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is linked between PaaS and IaaS services, you can also access the **Call US** and **Chat Now** options to call support or to start a chat session.
 
 The Support Center is the preferred method for obtaining support, but if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a ticket.
@@ -121,31 +121,27 @@ For {{site.data.keyword.Bluemix_notm}} platform, only services hosted in the Ger
 
 Setting the **EU Supported** option for your account applies to all future tickets that you open for issues on any service or data center hosted in the EU region. Any tickets you opened prior to setting this option are not affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
 
-You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. See [Enabling the EU supported option](/docs/pricing/eusupported.html#bill_eusupported) for more information.
+You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. See [Enabling the EU supported option](/docs/billing-usage/eusupported.html) for more information.
 
 If you are an {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer and you do not have a linked account, you can set the **EU Supported** option from the Account Profile window of the customer portal. See [Setting the EU Supported option](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) for more information.
 
 ### EU Supported services
 {: #eusupportedservices}
 
-After setting the **EU Supported** option, you can also take advantage of additional controls to support and operate {{site.data.keyword.Bluemix_notm}} from the European Union. All plans, except lite plans, for the following services are hosted in Europe and available as EU supported:
+After setting the **EU Supported** option, you can also take advantage of additional controls to support and operate {{site.data.keyword.Bluemix_notm}} services from the European Union. You can filter your search for platform services with the supported plans in the {{site.data.keyword.Bluemix_notm}} catalog. To see the EU-supported plans for a platform service, complete the following steps:
+  1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/){: new_window}.
+  2. Click the **Filter** button.
+  3. Select **EU supported** from the drop down list. With the EU Supported filter set, you see only the services in the **Infrastructure** and **Platform** categories that have EU-supported plans.
+  4. Select the service you want. You can see some regions and plans for the service are EU-supported.
+  5. To see the EU-supported plans for the service, select the correct region from the **Choose a region/location to deploy in** drop down list. For example, to see the EU-supported plans for a platform service, select Germany as the region. Then, you can see the pricing plans for the service that are labeled **EU Supported**.
 
-{{site.data.keyword.Bluemix_notm}} infrastructure services in the following categories:
+All plans, except lite plans, for the following categories of {{site.data.keyword.Bluemix_notm}} infrastructure services are hosted in Europe and available as EU supported:
+
   * Compute
   * Storage
   * Network
   * Containers
 
-{{site.data.keyword.Bluemix_notm}} platform services in the following categories (Germany region only):
-  * Containers
-  * Cloud Foundry apps
-
-{{site.data.keyword.Bluemix_notm}} platform services (Germany region only):
-  * Data & Analytics: Compose (all versions) and {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} ({{site.data.keyword.Bluemix_notm}} Dedicated only)
-  * Application services: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
-  * APIs: {{site.data.keyword.apiconnect_long}}
-  * Security: {{site.data.keyword.SecureGatewayfull}}
 
 ## Reporting a potential security vulnerability
 {: #report-security-vulnerability}

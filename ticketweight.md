@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # How are tickets assigned and weighted?
 {: #support-ticket-severity}
 
-How quickly your support tickets are addressed depends on the weight that is assigned to each ticket by the severity of the issue. You assign the severity of the issue when you open the ticket.  See [Types of support](/docs/get-support/getstarttssup.html#typesofsupport) for more information about the severity levels that are available by the support type for your account.
+How quickly your support tickets are addressed depends on the weight that is assigned to each ticket by the severity of the issue. You assign the severity of the issue when you open the ticket. For more information about the severity levels that are available for your account type, see [Support plans](/docs/get-support/index.html).
 {:shortdesc}
 
 The following table lists some common examples of support issues, suggested severity levels, and the response time objectives. The response time objectives are used to describe IBM goals only, and do not represent a performance guarantee.
