@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -71,11 +71,11 @@ Después de abrir una incidencia de soporte, recibirá una notificación de corr
 {: #opentechticket}
 
 Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema técnico genérico:
-  1. En el campo **Seleccionar un contexto de recurso**, seleccione una de las siguientes opciones:
+  1. Seleccione **Técnico** como tipo de incidencia.
+  2. En el campo **Seleccionar un contexto de recurso**, seleccione una de las siguientes opciones:
     * **Grupo de recursos** si tiene un problema con la gestión de sus grupos de recursos. Consulte [Gestión de recursos](/docs/account/resourcegroups.html#rgs) para obtener más información.
     * **Cloud Foundry** si tiene un problema con el despliegue de las apps en Cloud Foundry. Consulte [Cómo funciona Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obtener más información sobre el despliegue de apps de Cloud Foundry.
-  2. Seleccione **Técnico** como tipo de incidencia.
-  3. Si tiene soporte de nivel premium, seleccione el nivel de gravedad para el problema.
+  3. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
   4. Complete la información necesaria. La información necesaria depende del contexto de los recursos seleccionados y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Pulse **Enviar**.
 
@@ -83,9 +83,9 @@ Complete los pasos siguientes para proporcionar la información necesaria en el 
 {: #openacctticket}
 
 Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema de cuenta:
-  1. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. En el siguiente paso los campos asociados con cualquiera de las opciones en el formulario de la incidencia se cumplimentan de forma automática con *No aplicable* si indica que la incidencia es para un problema de cuenta.
-  2. Seleccione **Contabilidad y facturación** como el tipo de incidencia para asegurarse de que esta se dirige al equipo de soporte adecuado de forma que la misma se pueda resolver rápidamente.
-  3. Si tiene soporte de nivel premium, seleccione el nivel de gravedad para el problema.
+  1. Seleccione **Contabilidad y facturación** como el tipo de incidencia para asegurarse de que esta se dirige al equipo de soporte adecuado de forma que la misma se pueda resolver rápidamente.
+  2. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. En el siguiente paso los campos asociados con cualquiera de las opciones en el formulario de la incidencia se cumplimentan de forma automática con *No aplicable* si indica que la incidencia es para un problema de cuenta.
+  3. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
   4. Complete la información necesaria, proporcionando una descripción de los mensajes de error que ha recibido. La información necesaria depende del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Pulse **Enviar**.
 
