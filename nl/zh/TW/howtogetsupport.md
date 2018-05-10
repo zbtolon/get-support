@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-03-15"
 如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個選項可以取得關於判斷問題原因與尋找解決方案的協助。
 {:shortdesc}
 
-如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，或者 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結的帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間會鏈結已鏈結的帳戶。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/admin/softlayerlink.html#link_user_accounts)。
+如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，或者 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間，會鏈結已鏈結帳戶。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/admin/softlayerlink.html#link_user_accounts)。
 
-如果您的帳戶是在 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站中建立的 SoftLayer 帳戶，而且不是已鏈結的帳戶，則請參閱[取得 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構的支援](/docs/customer-portal/cpsupport.html#customerportal_support)，以取得從客戶入口網站開立支援問題單的相關資訊。
+如果您的帳戶是在 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站中建立的 SoftLayer 帳戶，而且不是已鏈結帳戶，則請參閱[取得 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構的支援](/docs/customer-portal/cpsupport.html#customerportal_support)，以取得從客戶入口網站開立支援問題單的相關資訊。
 
 ## 使用支援中心
 {: #using-avatar}
@@ -60,8 +60,8 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援層，您才可以開立嚴重性 1-4 的支援問題單。若要將您的帳戶升級至較高的支援層次，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 聯絡，或寄電子郵件到 sales@bluemix.net。{:tip}
 
 您可以從「支援中心」或 {{site.data.keyword.Bluemix_notm}} 主控台的功能表列開立問題單。
-  * 若要從「支援中心」開立問題單，請從**取得協助**區段按一下**開立支援問題單**。
-  * 若要從 {{site.data.keyword.Bluemix_notm}} 主控台功能表列開立問題單，請按一下**支援** > **新增問題單**。
+  * 若要從「支援中心」開立支援問題單，請從**取得協助**區段按一下**開立問題單**。
+  * 若要從 {{site.data.keyword.Bluemix_notm}} 主控台功能表列開立支援問題單，請按一下**支援** > **新增問題單**。
 
 開立支援問題單之後，您會在幾分鐘後收到有關問題單的電子郵件通知。請遵循電子郵件中的指示，針對該問題進行進一步的溝通。
 
@@ -69,11 +69,11 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 {: #opentechticket}
 
 請完成下列步驟，在問題單表單中提供必要資訊，以取得一般技術問題的協助：
-  1. 在**選取資源環境定義**欄位中，選取下列其中一個選項：
+  1. 選取**技術**作為問題單類型。
+  2. 在**選取資源環境定義**欄位中，選取下列其中一個選項：
     * **資源群組**，如果您有管理資源群組方面的問題。如需相關資訊，請參閱[管理資源群組](/docs/account/resourcegroups.html#rgs)。
     * **Cloud Foundry**，如果您有 Cloud Foundry 應用程式部署方面的問題。如需部署 Cloud Foundry 應用程式的相關資訊，請參閱 [Cloud Foundry 如何與 {{site.data.keyword.Bluemix_notm}} 搭配運作](/docs/overview/cf.html)。
-  2. 選取**技術**作為問題單類型。
-  3. 如果您有超值層次支援，請選擇問題的嚴重性層次。
+  3. 如果您有超值或進階層次支援，請選擇問題的嚴重性層次。
   4. 完成必要資訊。所需的資訊取決於您選取的資源環境定義，另外也取決於您帳戶的支援方案類型。如需支援類型的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
   5. 按一下**提交**。
 
@@ -81,9 +81,9 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 {: #openacctticket}
 
 請完成下列步驟，在問題單表單中提供必要資訊，以取得帳戶問題的協助：
-  1. 選取**選取資源環境定義**欄位中的任一選項，以建立問題單。當您指出問題單適用於下一步中的帳戶問題時，問題單表單中任一選項的相關聯欄位會自動移入*不適用*。
-  2. 選取**帳戶 & 計費**作為問題單類型，確定您的問題單遞送至正確的支援團隊，以快速解決您的問題。
-  3. 如果您有超值層次支援，請選擇問題的嚴重性層次。
+  1. 選取**帳戶 & 計費**作為問題單類型，確定您的問題單遞送至正確的支援團隊，以快速解決您的問題。
+  2. 選取**選取資源環境定義**欄位中的任一選項，以建立問題單。當您指出問題單適用於下一步中的帳戶問題時，問題單表單中任一選項的相關聯欄位會自動移入*不適用*。
+  3. 如果您有超值或進階層次支援，請選擇問題的嚴重性層次。
   4. 完成必要資訊，並提供您收到之任何錯誤訊息的說明。所需的資訊取決於您帳戶的支援方案類型。如需支援類型的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
   5. 按一下**提交**。
 
@@ -109,25 +109,25 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 ## 要求歐盟資源的支援
 {: #eusupported}
 
-針對已選取「支援歐盟」選項的客戶，位在歐洲的工程師可全年無休提供「歐盟 (EU) 支援」。全球團隊只會在歐盟支援團隊的決定及指示下才提供額外支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要全球「層次 3」支援團隊成員的專家時，則可能會聯絡全球團隊。
+針對已選取「歐盟支援」選項的客戶，位在歐洲的工程師可全年無休提供「歐盟 (EU) 支援」。全球團隊只會在歐盟支援團隊的決定及指示下才提供額外支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要全球「層次 3」支援團隊成員的專家時，則可能會聯絡全球團隊。
 
 您可以指定在符合下列準則時，想要實際位在歐洲的支援團隊來支援您的帳戶：
-  * 您的主要使用者或帳戶擁有者設定您帳戶的「支援歐盟」選項
+  * 您的主要使用者或帳戶擁有者設定您帳戶的「歐盟支援」選項
   * 您的資源位在適當的歐洲資料中心
-  * 當您開立問題單時，選取**支援歐盟**問題單層次
+  * 當您開立問題單時，選取**歐盟支援**問題單層次
 
 針對 {{site.data.keyword.Bluemix_notm}} 平台，只有實際位在歐洲的團隊才支援德國地區中所管理的服務。  
 
-設定您帳戶的**支援歐盟**選項，適用於您未來針對歐盟地區中管理之任何服務或資料中心問題所開立的所有問題單。您在設定此選項之前所開立的任何問題單不受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
+設定您帳戶的**歐盟支援**選項，適用於您未來針對歐盟地區中管理之任何服務或資料中心問題所開立的所有問題單。您在設定此選項之前所開立的任何問題單不受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
 
-您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**支援歐盟**選項。如需相關資訊，請參閱[啟用支援歐盟選項](/docs/pricing/eusupported.html#bill_eusupported)。
+您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援選項](/docs/pricing/eusupported.html#bill_eusupported)。
 
-如果您是 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶，但沒有鏈結的帳戶，則可以在客戶入口網站的「帳戶設定檔」視窗中設定**支援歐盟**選項。如需相關資訊，請參閱[設定支援歐盟選項](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)。
+如果您是 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶，但沒有已鏈結帳戶，則可以在客戶入口網站的「帳戶設定檔」視窗中設定**歐盟支援**選項。如需相關資訊，請參閱[設定歐盟支援選項](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)。
 
-### 支援歐盟服務
+### 歐盟支援服務
 {: #eusupportedservices}
 
-設定**支援歐盟**選項之後，您也可以充分運用其他控制項，從歐盟支援及操作 {{site.data.keyword.Bluemix_notm}}。下列服務的所有方案（精簡方案除外）都是在歐洲進行管理，並且具有「支援歐盟」功能：
+設定**歐盟支援**選項之後，您也可以充分運用其他控制項，從歐盟支援及操作 {{site.data.keyword.Bluemix_notm}}。下列服務的所有方案（精簡方案除外）都是在歐洲進行管理，並且具有「歐盟支援」功能：
 
 下列種類中的 {{site.data.keyword.Bluemix_notm}} 基礎架構服務：
   * 運算

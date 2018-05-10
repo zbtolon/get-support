@@ -23,7 +23,7 @@ IBM 將在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 
 ## 為什麼進行這項變更？
 {: #why}
 
-這是 IBM 對於提供徹底安全且符合業界在安全及資料隱私方面之最佳作法的承諾的一部分。
+這是 IBM 對於提供雲端徹底安全且符合業界在安全及資料隱私方面之最佳作法的承諾的一部分。
 
 ## 何謂 TLS？
 {: #what}
@@ -234,7 +234,7 @@ cf restage <application_name>
 
 ### {{site.data.keyword.Bluemix_notm}} 基礎架構
 
-從支援 TLS 1.0 及 1.1 的 `api.softlayer.com` 及 `api.service.softlayer.com` 中移除 TLS 1.0 及 1.1 支援時，將會公告替代端點並提供使用 30 天。
+從支援 TLS 1.0 及 1.1 的 `api.softlayer.com` 及 `api.service.softlayer.com` 替代端點中移除 TLS 1.0 及 1.1 支援時，將會公告替代端點並提供使用 30 天。
 
 ### Watson 產品及服務
 {: #watsonprodservices}

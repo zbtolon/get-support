@@ -29,7 +29,7 @@ lastupdated: "2018-03-15"
 ## 收集診斷資訊
 {: #collecting-diagnostic-information}
 
-為了診斷及解決 {{site.data.keyword.Bluemix_notm}} 應用程式及服務的問題，「{{site.data.keyword.Bluemix_notm}} 支援」團隊可能會要求您收集診斷資訊。
+為了診斷及解決 {{site.data.keyword.Bluemix_notm}} 應用程式及服務的問題，「{{site.data.keyword.Bluemix_notm}} 支援中心」團隊可能會要求您收集診斷資訊。
 
 在您收集診斷資訊之前，請先完成下列步驟：
 
