@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -53,42 +53,42 @@ Se il problema non è dovuto a un'interruzione e se non riesci a trovare una ris
 ## Apertura di un ticket di supporto
 {: #open-ticket}
 
-Se hai un account {{site.data.keyword.Bluemix_notm}} valido, ci sono diversi modi in cui puoi aprire un ticket di supporto per ottenere aiuto con un problema tecnico generale o con un problema con l'account. 
+Se hai un account {{site.data.keyword.Bluemix_notm}} valido, ci sono diversi modi in cui puoi aprire un ticket di supporto per ottenere aiuto con un problema tecnico generale o con un problema con l'account.
 
 Quando apri un ticket di supporto, accertati di indicare una severità appropriata per il tuo ticket. Quest'ultima determina il modo in cui il tuo ticket viene gestito. Per informazioni sui diversi livelli di severità, vedi [Severità e tempo di risposta del ticket di supporto](/docs/get-support/ticketweight.html#support-ticket-severity).
 
 Se la tua domanda di supporto richiede una risposta più immediata, prendi in considerazione di eseguire l'aggiornamento ai nostri livelli di supporto premium o avanzato in modo che puoi aprire ticket di supporto con severità da 1 a 4. Per eseguire l'upgrade a un livello di supporto superiore, contatta il tuo [rappresentante delle vendite IBM![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o invia una e-mail all'indirizzo sales@bluemix.net.
 {:tip}
 
-Puoi aprire un ticket dal centro di supporto o dalla barra dei menu della console {{site.data.keyword.Bluemix_notm}}. 
-  * Per aprire un ticket di supporto dal centro di supporto, fai clic su **Apri un ticket** dalla sezione **Richiedi assistenza**. 
+Puoi aprire un ticket dal centro di supporto o dalla barra dei menu della console {{site.data.keyword.Bluemix_notm}}.
+  * Per aprire un ticket di supporto dal centro di supporto, fai clic su **Apri un ticket** dalla sezione **Richiedi assistenza**.
   * Per aprire un ticket di supporto dalla barra dei menu della console {{site.data.keyword.Bluemix_notm}}, fai clic su **Supporto** > **Aggiungi ticket**.
 
-Dopo aver aperto un ticket di supporto, riceverai una notifica email in pochi minuti per il ticket. Segui le istruzioni nell'e-mail per ulteriori comunicazioni sul problema. 
+Dopo aver aperto un ticket di supporto, riceverai una notifica email in pochi minuti per il ticket. Segui le istruzioni nell'e-mail per ulteriori comunicazioni sul problema.
 
-### Apertura di ticket di supporto tecnico generale 
+### Apertura di ticket di supporto tecnico generale
 {: #opentechticket}
 
-Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema tecnico generale: 
-  1. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
+Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema tecnico generale:
+  1. Seleziona **Tecnico** per il tipo di ticket.
+  2. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
     * **Gruppo di risorse** se stai riscontrando un problema con la gestione dei tuoi gruppi di risorse. Per ulteriori informazioni, vedi [Gestione dei gruppi di risorse](/docs/account/resourcegroups.html#rgs).
     * **Cloud Foundry** se stai riscontrando un problema con una distribuzione dell'applicazione Cloud Foundry. Consulta [Funzionamento di Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) per ulteriori informazioni sulla distribuzioni delle applicazioni Cloud Foundry.
-  2. Seleziona **Tecnico** per il tipo di ticket.
-  3. Se disponi di un supporto di livello premium, scegli il livello di severità per il tuo problema. 
+  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema. 
   4. Completa le informazioni richieste. Le informazioni richieste dipendono dal contesto della risorsa che hai selezionato e anche dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Fai clic su **Inoltra**.
 
-### Apertura di ticket di supporto per problemi con l'account 
+### Apertura di ticket di supporto per problemi con l'account
 {: #openacctticket}
 
-Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema con l'account: 
-  1. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. I campi associati all'opzione nel modulo del ticket sono automaticamente popolati con *Non applicabile* quando indichi che il ticket è per un problema con l'account nel passo successivo. 
-  2. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente. 
-  3. Se disponi di un supporto di livello premium, scegli il livello di severità per il tuo problema. 
+Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema con l'account:
+  1. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente.
+  2. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. I campi associati all'opzione nel modulo del ticket sono automaticamente popolati con *Non applicabile* quando indichi che il ticket è per un problema con l'account nel passo successivo.
+  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema. 
   4. Completa le informazioni obbligatori, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Fai clic su **Inoltra**.
 
-### Altri modi per aprire un ticket di supporto 
+### Altri modi per aprire un ticket di supporto
 {: #otheropenticksc}
 
 Puoi anche utilizzare la pagina di assistenza [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}. Puoi inoltrare ticket per problemi relativi a vendite, ID IBM e accesso, fatturazione e supporto tecnico. Per i problemi di supporto tecnico, puoi restringere il problema ad una specifica area o servizio. Se hai bisogno di aiuto per un servizio specifico, seleziona la categoria di servizi corrispondente. Per determinare la categoria a cui appartiene il tuo servizio, fai clic su **Catalogo** dalla barra dei menu e controlla le categorie.  
