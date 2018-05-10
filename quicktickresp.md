@@ -52,7 +52,7 @@ The scripts use the cf command line interface to extract the following informati
 
 As an {{site.data.keyword.Bluemix_notm}} customer, you can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty. The escalation process enables you to surface critical issues and also to voice your concern if you feel your support ticket is not being addressed appropriately. After a case is escalated, the manager on duty reviews the information in the support ticket, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
 
-To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} advanced or premium support and you must have opened a support ticket for the issue. Also, ensure that the technical issue is well documented in the support ticket that you opened.
+To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} basic, advanced, or premium support and you must have opened a support ticket for the issue. Also, ensure that the technical issue is well documented in the support ticket that you opened.
 
  To escalate a case, complete the following steps:
 
