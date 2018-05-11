@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-10"
 
 ---
 
@@ -16,13 +16,13 @@ lastupdated: "2018-05-11"
 {:new_window: target="_blank"}
 
 
-# How do I get a quick response to my ticket?
+# How do I get a quick response to my case?
 {: #quicktickresp}
 
-When you contact support and open a support ticket, you can request a specific severity level, depending on the type and urgency of the problem. The severity level can affect how quickly your issue is addressed.
+When you contact support and open a support case, you can request a specific severity level, depending on the type and urgency of the problem. The severity level can affect how quickly your issue is addressed.
 {:shortdesc}
 
-You define the severity of the issue based on your business needs and your level of support. See [Support plans](/docs/get-support/index.html) for more information about levels of support plans. All tickets are investigated to identify and resolve the root cause of the issue. When problem diagnostic data is needed to determine the root cause of the issue, you are asked for approval to access log files and other problem determination data from your application. Without this data, the resolution of your issue might be delayed.
+You define the severity of the issue based on your business needs and your level of support. See [Support plans](/docs/get-support/index.html) for more information about levels of support plans. All cases are investigated to identify and resolve the root cause of the issue. When problem diagnostic data is needed to determine the root cause of the issue, you are asked for approval to access log files and other problem determination data from your application. Without this data, the resolution of your issue might be delayed.
 
 ## Collecting diagnostic information
 {: #collecting-diagnostic-information}
@@ -50,16 +50,16 @@ The scripts use the cf command line interface to extract the following informati
 ## Escalating support cases
 {: #escalation}
 
-As an {{site.data.keyword.Bluemix_notm}} customer, you can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty. The escalation process enables you to surface critical issues and also to voice your concern if you feel your support ticket is not being addressed appropriately. After a case is escalated, the manager on duty reviews the information in the support ticket, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
+As an {{site.data.keyword.Bluemix_notm}} customer, you can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty. The escalation process enables you to surface critical issues and also to voice your concern if you feel your support case is not being addressed appropriately. After a case is escalated, the manager on duty reviews the information in the support case, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
 
-To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} advanced or premium support and you must have opened a support ticket for the issue. Also, ensure that the technical issue is well documented in the support ticket that you opened.
+To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} advanced or premium support and you must have opened a support case for the issue. Also, ensure that the technical issue is well documented in the support case that you opened.
 
  To escalate a case, complete the following steps:
 
   1. Contact the {{site.data.keyword.Bluemix_notm}} Support Team by phone or chat :
     * By phone at the following number: 866-403-7638.
     * By chat from the {{site.data.keyword.Bluemix_notm}} [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} or, if you have a SoftLayer account that is not linked, from the [customer portal ![External link icon](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Provide your existing ticket number and request to escalate the case.
+  2. Provide your existing case number and request to escalate the case.
   3. Provide the justification for escalation and the business impact of your case.
 
 {{site.data.keyword.Bluemix_notm}} Support Managers are on duty and available 24 hours a day, every day of the week. The managers on duty engage the appropriate resources to address your case and then inform you about the actions taken.
