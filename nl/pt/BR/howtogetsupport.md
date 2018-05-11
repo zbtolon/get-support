@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -70,11 +70,11 @@ Depois de abrir um chamado de suporte, você receberá uma notificação por e-m
 {: #opentechticket}
 
 Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema técnico geral:
-  1. No campo **Selecionar um recurso de contexto**, selecione uma das opções a seguir:
+  1. Selecione **Técnico** para o tipo de chamado.
+  2. No campo **Selecionar um recurso de contexto**, selecione uma das opções a seguir:
     * **Grupo de recursos** se você estiver tendo um problema com o gerenciamento de seus grupos de recursos. Veja [Gerenciando grupos de recursos](/docs/account/resourcegroups.html#rgs) para obter mais informações.
     * **Cloud Foundry** se você estiver tendo um problema com uma implementação de app Cloud Foundry. Veja [Como o Cloud Foundry funciona com o {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obter mais informações sobre como implementar apps Cloud Foundry.
-  2. Selecione **Técnico** para o tipo de chamado.
-  3. Se você tiver o nível de suporte Premium, escolha o nível de severidade para seu problema.
+  3. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
   4. Conclua as informações necessárias. As informações que são necessárias dependem do contexto do recurso que você selecionou e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Clique em **Enviar**.
 
@@ -82,9 +82,9 @@ Conclua as etapas a seguir para fornecer as informações necessárias no formul
 {: #openacctticket}
 
 Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema de conta:
-  1. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Os campos associados para qualquer opção no formulário de chamado são preenchidos automaticamente com *Não aplicável* quando você indica que o chamado é para um problema de conta na próxima etapa.
-  2. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
-  3. Se você tiver o nível de suporte Premium, escolha o nível de severidade para seu problema.
+  1. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
+  2. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Os campos associados para qualquer opção no formulário de chamado são preenchidos automaticamente com *Não aplicável* quando você indica que o chamado é para um problema de conta na próxima etapa.
+  3. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
   4. Conclua as informações necessárias, fornecendo a descrição de quaisquer mensagens de erro que você recebeu. As informações que são necessárias dependem do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Clique em **Enviar**.
 

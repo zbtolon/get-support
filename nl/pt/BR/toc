@@ -18,12 +18,6 @@ Obtendo Suporte
         ticketweight.md
         quicktickresp.md
 
-    {: .topicgroup}
-    Resolução de problemas
-        ts_overview.md
-        ../troubleshoot/ts_manageticket.md
-    {: .navgroup-end}
-
     {: .navgroup id="reference"}
     bxnui.md
 
@@ -33,6 +27,8 @@ Obtendo Suporte
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
-    [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
+    ts_overview.md
+    ts_manageticket.md
+    [Respostas do dW](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
+    [Estouro de Pilha](http://stackoverflow.com/questions/tagged/ibm-bluemix)
     {: .navgroup-end}
