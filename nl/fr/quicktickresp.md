@@ -55,7 +55,7 @@ Les scripts utilisent l'interface de ligne de commande cf pour extraire les info
 Avec le support premium ou avancé, si vous n'avez pas reçu de réponse à un ticket de demande de service dans un délai raisonnable, ou si vous pensez qu'un ticket de demande de service n'a pas été traité de manière appropriée, vous pouvez le transférer à un niveau supérieur.  
 {:shortdesc}
 
-Pour plus d'informations sur le support premium et avancé, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport). 
+Pour plus d'informations sur le support premium et avancé, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
 
 Dans le cadre du processus d'escalade d'un ticket de demande de service, les responsables IBM prennent connaissance de vos préoccupations et collaborent avec vous afin d'améliorer votre expérience en matière d'assistance.
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -53,16 +53,16 @@ Si le problème n'est pas dû à une indisponibilité et si vous ne parvenez pas
 ## Ouverture d'un ticket de demande de service
 {: #open-ticket}
 
-Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, il existe plusieurs façons d'ouvrir un ticket de demande de service afin d'obtenir de l'aide pour les problèmes techniques d'ordre général ou pour un problème de compte. 
+Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, il existe plusieurs façons d'ouvrir un ticket de demande de service afin d'obtenir de l'aide pour les problèmes techniques d'ordre général ou pour un problème de compte.
 
 Lorsque vous ouvrez un ticket de demande de service, veillez à indiquer une gravité appropriée. Elle détermine la façon dont votre ticket sera traité. Voir [Gravité et temps de réponse du ticket de demande de service](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations sur les différentes gravités.
 
 Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support premium ou avancé afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envoyez un courrier électronique à sales@bluemix.net.
 {:tip}
 
-Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}. 
-  * Pour ouvrir un ticket de demande de service depuis le centre de support, cliquez sur **Ouvrir un ticket** dans la section **Obtenir de l'aide**. 
-  * Pour ouvrir un ticket de demande de service depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}, cliquez sur **Support** > **Ajouter un ticket**. 
+Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}.
+  * Pour ouvrir un ticket de demande de service depuis le centre de support, cliquez sur **Ouvrir un ticket** dans la section **Obtenir de l'aide**.
+  * Pour ouvrir un ticket de demande de service depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}, cliquez sur **Support** > **Ajouter un ticket**.
 
 Après avoir ouvert un ticket de demande de service, vous recevez rapidement une notification par courrier électronique concernant le ticket. Suivez les instructions figurant dans le courrier électronique pour toute communication supplémentaire relative au problème.
 
@@ -70,11 +70,11 @@ Après avoir ouvert un ticket de demande de service, vous recevez rapidement une
 {: #opentechticket}
 
 Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème technique d'ordre général, procédez comme suit :
-  1. Dans la zone **Sélectionnez un contexte de ressources**, sélectionnez l'une des options suivantes :
-    * **Groupe de ressources** si vous rencontrez un problème lié à la gestion de vos groupes de ressources. Pour plus d'informations, voir[Gestion des groupes de ressources](/docs/account/resourcegroups.html#rgs). 
-    * **Cloud Foundry** si vous rencontrez un problème lié à un déploiement d'application Cloud Foundry. Pour plus d'informations sur le déploiement d'applications Cloud Foundry, voir [Fonctionnement de Cloud Foundry avec {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html). 
-  2. Sélectionnez **Technique** comme type de ticket. 
-  3. Si vous bénéficiez du niveau de support premium, choisissez le niveau de gravité de votre problème. 
+  1. Sélectionnez **Technique** comme type de ticket.
+  2. Dans la zone **Sélectionnez un contexte de ressources**, sélectionnez l'une des options suivantes :
+    * **Groupe de ressources** si vous rencontrez un problème lié à la gestion de vos groupes de ressources. Pour plus d'informations, voir[Gestion des groupes de ressources](/docs/account/resourcegroups.html#rgs).
+    * **Cloud Foundry** si vous rencontrez un problème lié à un déploiement d'application Cloud Foundry. Pour plus d'informations sur le déploiement d'applications Cloud Foundry, voir [Fonctionnement de Cloud Foundry avec {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
+  3. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème. 
   4. Entrez les informations requises. Les informations requises dépendent du contexte de ressources que vous avez sélectionné, ainsi que du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Cliquez sur **Soumettre**.
 
@@ -82,9 +82,9 @@ Afin d'indiquer les informations requises dans le fomulaire de ticket pour obten
 {: #openacctticket}
 
 Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème de compte, procédez comme suit :
-  1. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* lorsque vous indiquez que le ticket concerne un problème de compte à l'étape suivante. 
-  2. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu. 
-  3. Si vous bénéficiez du niveau de support premium, choisissez le niveau de gravité de votre problème. 
+  1. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu.
+  2. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* lorsque vous indiquez que le ticket concerne un problème de compte à l'étape suivante.
+  3. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème. 
   4. Indiquez les informations requises en décrivant les éventuels messages d'erreur que vous avez reçus. Les informations requises dépendent du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Cliquez sur **Soumettre**.
 

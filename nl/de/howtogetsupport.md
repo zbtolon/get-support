@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -23,7 +23,7 @@ Falls Sie Probleme mit {{site.data.keyword.Bluemix}} feststellen, haben Sie vers
 
 Falls Ihr Konto in der {{site.data.keyword.Bluemix_notm}}-Konsole oder Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und ein verknüpftes Konto ist, können Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Verknüpfte Konten werden zwischen {{site.data.keyword.Bluemix_notm}} und den Services der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur verknüpft. Weitere Informationen finden Sie unter [IBMid-Benutzerkonten verknüpfen](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Falls Ihr Konto ein nicht verknüpftes SoftLayer-Konto ist und im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde, finden Sie im Abschnitt [Support für {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erhalten](/docs/customer-portal/cpsupport.html#customerportal_support) weitere Informationen dazu, wie Sie Support-Tickets im Kundenportal öffnen können. 
+Falls Ihr Konto ein nicht verknüpftes SoftLayer-Konto ist und im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde, finden Sie im Abschnitt [Support für {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erhalten](/docs/customer-portal/cpsupport.html#customerportal_support) weitere Informationen dazu, wie Sie Support-Tickets im Kundenportal öffnen können.
 
 ## Support Center verwenden
 {: #using-avatar}
@@ -33,8 +33,8 @@ Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keywo
 Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Forum 'Stack Overflow' (für technische Fragen) und zu 'developerWorks Answers' (für alle anderen Fragen).  
 
 Abhängig vom Typ Ihres Kontos sind auch andere Optionen im Support Center verfügbar.  
-* Wenn Sie über ein [Premium Support](/docs/get-support/getstarttssup.html#premium-support) oder [Advanced Support](/docs/get-support/getstarttssup.html#standard-support)-Konto verfügen, finden Sie Telefonnummern, über die Sie Hilfe anfordern können. 
-* Wenn Ihr Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und zwischen PaaS- und IaaS-Services verknüpft ist, können Sie auch auf die Optionen **Anrufen** und **Jetzt chatten** zurückgreifen, um den Support anzurufen oder eine Chatsitzung zu starten. 
+* Wenn Sie über ein [Premium Support](/docs/get-support/getstarttssup.html#premium-support) oder [Advanced Support](/docs/get-support/getstarttssup.html#standard-support)-Konto verfügen, finden Sie Telefonnummern, über die Sie Hilfe anfordern können.
+* Wenn Ihr Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und zwischen PaaS- und IaaS-Services verknüpft ist, können Sie auch auf die Optionen **Anrufen** und **Jetzt chatten** zurückgreifen, um den Support anzurufen oder eine Chatsitzung zu starten.
 
 Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Hilfe anfordern](http://www.ibm.biz/bluemixsupport){: new_window} verwenden, um ein Ticket zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können.
 
@@ -53,38 +53,38 @@ Wenn das Problem nicht auf einer Betriebsunterbrechung beruht und Sie keine Antw
 ## Support-Ticket öffnen
 {: #open-ticket}
 
-Falls Sie ein gültiges {{site.data.keyword.Bluemix_notm}}-Konto besitzen, gibt es verschiedene Möglichkeiten, ein Support-Ticket zu öffnen, um Hilfe bei allgemeinen technischen Problemen oder Kontoproblemen zu erhalten. 
+Falls Sie ein gültiges {{site.data.keyword.Bluemix_notm}}-Konto besitzen, gibt es verschiedene Möglichkeiten, ein Support-Ticket zu öffnen, um Hilfe bei allgemeinen technischen Problemen oder Kontoproblemen zu erhalten.
 
 Stellen Sie beim Öffnen eines Support-Tickets sicher, dass Sie eine geeignete Priorität für das Ticket angeben. Die Priorität bestimmt, wie Ihr Ticket bearbeitet wird. Informationen zu den verschiedenen Prioritätsstufen finden Sie unter [Support-Ticket - Priorität und Reaktionszeit](/docs/get-support/ticketweight.html#support-ticket-severity).
 
 Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf Premium oder Advanced Support durchführen, damit Sie Support-Tickets mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Kontos auf ein höheres Support-Level wenden Sie sich an Ihren [IBM Vertriebsbeauftragten ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} oder senden Sie eine E-Mail an sales@bluemix.net.
 {:tip}
 
-Sie können ein Ticket im Support Center oder über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole öffnen. 
-  * Zum Öffnen eines Support-Tickets im Support Center klicken Sie im Abschnitt **Hilfe anfordern** auf **Ticket öffnen**. 
-  * Zum Öffnen eines Support-Tickets über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole klicken Sie auf **Support** > **Ticket hinzufügen**. 
+Sie können ein Ticket im Support Center oder über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole öffnen.
+  * Zum Öffnen eines Support-Tickets im Support Center klicken Sie im Abschnitt **Hilfe anfordern** auf **Ticket öffnen**.
+  * Zum Öffnen eines Support-Tickets über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole klicken Sie auf **Support** > **Ticket hinzufügen**.
 
 Nachdem Sie ein Support-Ticket geöffnet haben, erhalten sie innerhalb weniger Minuten eine E-Mail-Benachrichtigung für das Ticket. Befolgen Sie die Anweisungen in der E-Mail, um weitere Informationen zum Problem anzugeben und zu erhalten.
 
 ### Tickets für allgemeine technische Probleme öffnen
 {: #opentechticket}
 
-Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem technischen Problem zu erhalten: 
-  1. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus: 
-    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/account/resourcegroups.html#rgs). 
-    * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html). 
-  2. Wählen Sie als Tickettyp **Technisch** aus. 
-  3. Wenn Sie über Premium Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
+Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem technischen Problem zu erhalten:
+  1. Wählen Sie als Tickettyp **Technisch** aus.
+  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus:
+    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/account/resourcegroups.html#rgs).
+    * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
+  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
   4. Füllen Sie die erforderlichen Informationen aus. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Klicken Sie auf **Abschicken**.
 
 ### Support-Tickets für Kontoprobleme öffnen
 {: #openacctticket}
 
-Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem Kontoproblem zu erhalten: 
-  1. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. In den zugeordneten Feldern für die einzelnen Optionen im Ticketformular wird automatisch *Nicht zutreffend* eingetragen, wenn Sie im nächsten Schritt angeben, dass das Ticket für ein Kontoproblem ist. 
-  2. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann. 
-  3. Wenn Sie über Premium Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
+Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem Kontoproblem zu erhalten:
+  1. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann.
+  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. In den zugeordneten Feldern für die einzelnen Optionen im Ticketformular wird automatisch *Nicht zutreffend* eingetragen, wenn Sie im nächsten Schritt angeben, dass das Ticket für ein Kontoproblem ist.
+  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
   4. Füllen Sie die erforderlichen Informationen aus und geben Sie eine Beschreibung aller erhaltenen Fehlernachrichten an. Welche Informationen benötigt werden, richtet sich nach dem Typ des Supportplans Ihres Kontos. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Klicken Sie auf **Abschicken**.
 
@@ -141,7 +141,7 @@ Wenn Sie die Option **Unterstützung in der EU** angegeben haben, können Sie we
 
 {{site.data.keyword.Bluemix_notm}}-Plattformservices (nur Region 'Deutschland'):
   * Data & Analytics: Compose (alle Versionen) und {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (nur {{site.data.keyword.Bluemix_notm}} Dedicated) 
+  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (nur {{site.data.keyword.Bluemix_notm}} Dedicated)
   * Anwendungsservices: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
   * APIs: {{site.data.keyword.apiconnect_long}}
   * Sicherheit: {{site.data.keyword.SecureGatewayfull}}

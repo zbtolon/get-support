@@ -18,12 +18,6 @@ Support
         ticketweight.md
         quicktickresp.md
 
-    {: .topicgroup}
-    Traitement des incidents
-        ts_overview.md
-        ../troubleshoot/ts_manageticket.md
-    {: .navgroup-end}
-
     {: .navgroup id="reference"}
     bxnui.md
 
@@ -33,6 +27,8 @@ Support
     {: .navgroup-end}
 
     {: .navgroup id="help"}
+    ts_overview.md
+    ts_manageticket.md
     [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
     {: .navgroup-end}

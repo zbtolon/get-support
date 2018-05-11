@@ -52,10 +52,10 @@ Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folge
 ## Kann ich ein Support-Ticket eskalieren?
 {: #escalation}
 
-Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Advanced' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.   
+Wenn Sie auf ein Support-Ticket der Prioritätsstufe 'Premium' oder 'Advanced' keine zeitgerechte Reaktion erhalten oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird, können Sie das Support-Ticket eskalieren.  
 {:shortdesc}
 
-Weitere Informationen zu den Supporttypen 'Premium' und 'Advanced' finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport). 
+Weitere Informationen zu den Supporttypen 'Premium' und 'Advanced' finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
 
 Durch den Eskalationsprozess für das Support-Ticket prüft das IBM Management Ihre Problematik erneut und arbeitet mit Ihnen zusammen, um die Supporterfahrung zu verbessern.
 
