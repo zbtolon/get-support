@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-15"
+lastupdated: "2018-04-18"
 
 ---
 
@@ -34,7 +34,7 @@ lastupdated: "2018-03-15"
 
 보유 중인 계정의 유형에 따라 기타 옵션도 지원 센터에서 사용 가능합니다.  
 * [프리미엄](/docs/get-support/getstarttssup.html#premium-support) 또는 [고급](/docs/get-support/getstarttssup.html#standard-support) 지원 계정이 있으면 도움을 받기 위한 전화번호를 찾을 수 있습니다.
-* 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되고 PaaS와 IaaS 서비스 사이에 연결된 경우, 지원을 호출하거나 대화 세션을 시작하기 위해 **전화 문의** 및 **지금 대화** 옵션에도 액세스할 수 있습니다. 
+* 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되고 PaaS와 IaaS 서비스 사이에 연결된 경우, 지원을 호출하거나 대화 세션을 시작하기 위해 **전화 문의** 및 **지금 대화** 옵션에도 액세스할 수 있습니다.
 
 지원 센터는 지원을 받기 위한 우선적인 방법입니다. 그러나 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [도움 받기](http://www.ibm.biz/bluemixsupport){: new_window} 페이지를 사용하여 티켓을 제출할 수 있습니다.
 
@@ -60,9 +60,9 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 지원 조회에 대한 보다 즉각적인 응답이 필요한 경우, 심각도 1-4 지원 티켓을 열 수 있도록 프리미엄 또는 고급 지원 계층으로 업그레이드하는 것을 고려하십시오. 더 높은 지원 레벨로 계정을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
 {:tip}
 
-지원 센터 또는 {{site.data.keyword.Bluemix_notm}} 콘솔의 메뉴 표시줄에서 티켓을 열 수 있습니다. 
-  * 지원 센터에서 지원 티켓을 열려면 **도움 받기** 섹션에서 **티켓 열기**를 클릭하십시오.  
-  * {{site.data.keyword.Bluemix_notm}} 콘솔 메뉴 표시줄에서 지원 티켓을 열려면 **지원** > **티켓 추가**를 클릭하십시오. 
+지원 센터 또는 {{site.data.keyword.Bluemix_notm}} 콘솔의 메뉴 표시줄에서 티켓을 열 수 있습니다.
+  * 지원 센터에서 지원 티켓을 열려면 **도움 받기** 섹션에서 **티켓 열기**를 클릭하십시오.
+  * {{site.data.keyword.Bluemix_notm}} 콘솔 메뉴 표시줄에서 지원 티켓을 열려면 **지원** > **티켓 추가**를 클릭하십시오.
 
 지원 티켓을 연 후에 티켓에 대한 이메일 알림이 몇 분 후에 전송됩니다. 문제와 관련된 추가 통신은 이메일의 지시사항을 따르십시오.
 
@@ -70,11 +70,11 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 {: #opentechticket}
 
 일반 기술 문제에 대해 도움을 얻기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
-  1. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오. 
+  1. 티켓 유형에 **기술**을 선택하십시오.
+  2. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오.
     * **리소스 그룹** - 리소스 그룹 관리에 문제가 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/account/resourcegroups.html#rgs)를 참조하십시오.
-    * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제가 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [Cloud Foundry가 {{site.data.keyword.Bluemix_notm}}와 작업하는 방법](/docs/overview/cf.html)을 참조하십시오. 
-  2. 티켓 유형에 **기술**을 선택하십시오. 
-  3. 프리미엄 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오. 
+    * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제가 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [Cloud Foundry가 {{site.data.keyword.Bluemix_notm}}와 작업하는 방법](/docs/overview/cf.html)을 참조하십시오.
+  3. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
   4. 필수 정보를 완료하십시오. 필요한 정보는 선택한 리소스 컨텍스트 및 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
   5. **제출**을 클릭하십시오.
 
@@ -82,9 +82,9 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 {: #openacctticket}
 
 계정 문제에 대해 도움을 받기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
-  1. 티켓을 작성하려면 **리소스 컨텍스트 선택** 필드에서 옵션을 선택하십시오. 티켓 양식의 옵션과 연관된 필드는 다음 단계에서 티켓이 계정 문제임을 표시하면 *해당사항 없음*으로 자동으로 채워집니다. 
-  2. 문제를 빠르게 해결하기 위해 티켓이 올바른 지원 팀에 라우팅되도록 티켓 유형에 **계정 & 청구**를 선택하십시오.
-  3. 프리미엄 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오. 
+  1. 문제를 빠르게 해결하기 위해 티켓이 올바른 지원 팀에 라우팅되도록 티켓 유형에 **계정 & 청구**를 선택하십시오.
+  2. 티켓을 작성하려면 **리소스 컨텍스트 선택** 필드에서 옵션을 선택하십시오. 티켓 양식의 옵션과 연관된 필드는 다음 단계에서 티켓이 계정 문제임을 표시하면 *해당사항 없음*으로 자동으로 채워집니다.
+  3. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
   4. 수신한 오류 메시지 설명을 제공하여 필수 정보를 완료하십시오. 필요한 정보는 계정의 지원 플랜 유형에 따라 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
   5. **제출**을 클릭하십시오.
 
