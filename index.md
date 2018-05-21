@@ -40,7 +40,7 @@ You can access the support options, such as the {{site.data.keyword.Bluemix_notm
 ## Premium support
 {: #premium-support}
 
-Premium support is for mission-critical environments that have a strategic dependence on {{site.data.keyword.Bluemix_notm}}. Premium support customers get priority ticket handling, a designated Technical Accounts Manager to help accelerate time to value, access to experts for specialized technical engagements, quarterly business reviews, and an invitation to *Cloud Insights* which is a forum for connecting with IBM technical experts.
+Premium support is for mission-critical environments that have a strategic dependence on {{site.data.keyword.Bluemix_notm}}. Premium support customers get priority ticket handling, a designated Technical Accounts Manager to help accelerate time to value, access to experts for specialized technical discussions and assistance, quarterly business reviews, and an invitation to *Cloud Insights* which is a forum for connecting with IBM technical experts.
 
 
 ## Advanced support
