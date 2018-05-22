@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ All {{site.data.keyword.Bluemix}} customers are provided with free technical sup
 
 You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center.
 
-You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The level of support plan you selected for your account determines the level of support available to you and the severity you can assign to support tickets when you contact customer support. For more information, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html#support-ticket-severity)
+You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The support plan that you selected for your account determines the level of support available and the severity you can assign to support tickets. For more information, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html#support-ticket-severity)
 
 ## Satisfaction surveys for {{site.data.keyword.Bluemix_notm}} support  
 {: #survey}

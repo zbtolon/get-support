@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution.
 {:shortdesc}
 
-If your account was created from the {{site.data.keyword.Bluemix_notm}} console or if your SoftLayer account was created from the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is a linked account, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. Linked accounts are linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer_notm}} infrastructure services. See [Linking IBMid user accounts](/docs/admin/softlayerlink.html#link_user_accounts) for more information.
+If your account was created from the {{site.data.keyword.Bluemix_notm}} console, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. Accounts can be linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer_notm}} infrastructure services. If your SoftLayer account was created from the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is a linked account, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Linking IBMid user accounts](/docs/admin/softlayerlink.html#link_user_accounts).
 
-If your account is a SoftLayer account that was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and is not a linked account, see [Getting support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support) for more information about opening support tickets from the customer portal.
+If your SoftLayer account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is not a linked account, you can open tickets from the customer portal. For more inforamtion, see [Getting support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Using the Support Center
 {: #using-avatar}
@@ -83,7 +83,7 @@ Complete the following steps to provide the required information in the ticket f
 
 Complete the following steps to provide the required information in the ticket form to get help with your account issue:
   1. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
-  2. Select either option in the **Select a resource context** field to create the ticket. The associated fields for either option in the ticket form are automatically populated with *Not applicable* when you indicate that the ticket is for an account issue in the next step.
+  2. Select either option in the **Select a resource context** field to create the ticket. For either option, some fields in the ticket form are automatically populated with *Not applicable* because this is an account issue.
   3. If you have premium or advanced level support, choose the severity level for your issue.
   4. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Click **Submit**.
@@ -110,7 +110,7 @@ At your request, a list of users in your org who can serve as contacts for suppo
 ## Requesting support for resources in the European Union
 {: #eusupported}
 
-European Union (EU) support is provided 24 hours a day, 7 days a week by engineers located in Europe for customers who have selected the EU supported option. Global teams provide additional support only at the discretion and under the direction of the EU support team. Global teams might be contacted, for example, when issues are not resolved by the Level 1 or Level 2 support team in the EU, and expertise is needed from a global Level 3 support team member.
+European Union (EU) support is provided 24 x 7 by engineers who are located in Europe for customers who select the EU supported option. Global teams provide support only at the discretion and under the direction of the EU support team. Global teams might be contacted, for example, when issues are not resolved by the Level 1 or Level 2 support team in the EU, and more expertise is needed.
 
 You can specify that you want support for your account from the support team that is physically located in Europe if the following criteria are true:
   * Your master user or account owner set the EU Supported option for your account
@@ -121,19 +121,17 @@ For {{site.data.keyword.Bluemix_notm}} platform, only services hosted in the Ger
 
 Setting the **EU Supported** option for your account applies to all future tickets that you open for issues on any service or data center hosted in the EU region. Any tickets you opened prior to setting this option are not affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
 
-You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. See [Enabling the EU supported option](/docs/billing-usage/eusupported.html) for more information.
-
-If you are an {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer and you do not have a linked account, you can set the **EU Supported** option from the Account Profile window of the customer portal. See [Setting the EU Supported option](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) for more information.
+You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU supported option](/docs/billing-usage/eusupported.html).
 
 ### EU Supported services
 {: #eusupportedservices}
 
-After setting the **EU Supported** option, you can also take advantage of additional controls to support and operate {{site.data.keyword.Bluemix_notm}} services from the European Union. You can filter your search for platform services with the supported plans in the {{site.data.keyword.Bluemix_notm}} catalog. To see the EU-supported plans for a platform service, complete the following steps:
+After you set the **EU Supported** option, you can also take advantage of extra controls to support and operate {{site.data.keyword.Bluemix_notm}} services from the European Union. You can filter your search for platform services with the supported plans in the {{site.data.keyword.Bluemix_notm}} catalog. To see the EU-supported plans for a platform service, complete the following steps:
   1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/){: new_window}.
-  2. Click the **Filter** button.
+  2. Click **Filter**.
   3. Select **EU supported** from the drop down list. With the EU Supported filter set, you see only the services in the **Infrastructure** and **Platform** categories that have EU-supported plans.
   4. Select the service you want. You can see some regions and plans for the service are EU-supported.
-  5. To see the EU-supported plans for the service, select the correct region from the **Choose a region/location to deploy in** drop down list. For example, to see the EU-supported plans for a platform service, select Germany as the region. Then, you can see the pricing plans for the service that are labeled **EU Supported**.
+  5. To see the EU-supported plans for the service, select the correct region from the **Choose a region/location to deploy in** drop down list. For example, to see the EU-supported plans for a platform service, select Germany as the region. Then, you can see the pricing plans for the services that are labeled **EU Supported**.
 
 All plans, except lite plans, for the following categories of {{site.data.keyword.Bluemix_notm}} infrastructure services are hosted in Europe and available as EU supported:
 
@@ -146,11 +144,11 @@ All plans, except lite plans, for the following categories of {{site.data.keywor
 ## Reporting a potential security vulnerability
 {: #report-security-vulnerability}
 
-If you believe a potential {{site.data.keyword.Bluemix_notm}} security vulnerability has occurred, report it by opening a support ticket.
+If you see a potential {{site.data.keyword.Bluemix_notm}} security vulnerability, report it by opening a support ticket.
 
 To report a potential security vulnerability, complete the following steps:
 1. Open a severity 1 ticket or a ticket of the highest severity level that your support allows. For information about how to open a ticket, see [Opening a support ticket](/docs/get-support/howtogetsupport.html#open-ticket).
 2. Clearly describe in the ticket summary that the ticket is about a potential security vulnerability.
 3. Provide details of the potential security vulnerability by including one of the following items:
     * A phone number at which you can be reached to discuss the issue.
-    * Details of the issue. You must encrypt the details as a block of text in the body of the ticket, and provide instructions on how IBM Support can securely contact you to obtain decryption instructions.
+    * Details of the issue. You must encrypt the details as a block of text in the body of the ticket. You must also provide instructions on how IBM Support can securely contact you to obtain decryption instructions.

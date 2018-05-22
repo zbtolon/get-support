@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-17"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ All client support issues are documented in support tickets. Each support ticket
 
 To view and manage your support tickets, use the following steps:
   1. Click **Support** > **View Tickets** from the menu bar.
-  2. To view a listing of open tickets, see the current status, or update a ticket, click **Open**.
+  2. To view a listing of open tickets, see the status, or update a ticket, click **Open**.
   3. To view a listing of previous tickets, to see help that was provided in a previous ticket for example, click **Closed**.
 
 Updates to your tickets and responses are sent to you by email and recorded in the ticket notes.  

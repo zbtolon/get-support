@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -77,7 +77,7 @@ To subscribe, follow these steps:
     * Drag the RSS ![RSS](images/rss.svg) icon into your RSS reader.
     * Right-click the RSS icon, select **Copy link address**, and paste the URL into your RSS reader.
 
-See your reader's **Help** section for more information. 	   
+For more information, see your reader's **Help** section. 	   
 
 Other methods of reading RSS feeds are available through web browser plug-ins such as:
   * [RSS Feed ![External link icon](../icons/launch-glyph.svg "External link icon")](http://feeder.co/){: new_window} Reader for Chrome
