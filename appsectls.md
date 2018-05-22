@@ -73,7 +73,11 @@ To use the alternative endpoints, your client must support the Server Name Indic
 
 ### Watson products and services
 
-For Watson products and services that you connect to using `gateway.watsonplatform.net` or `stream.wastonplatform.net` replace these with `gateway-tls12.watsonplatform.net` or `stream-tls12.watsonplatform.net`. These alternative endpoints support TLS 1.2 only. If you are able to successfully connect to these, you will not be impacted. If you cannot successfully connect you will be impacted and must change your client, client libraries, or client configuration to enable TLS 1.2.
+For Watson products and services make the following replacements to your connections:
+  * Replace `gateway.watsonplatform.net` with `gateway-tls12.watsonplatform.net`
+  * Replace  `stream.wastonplatform.net` with `stream-tls12.watsonplatform.net`
+
+These alternative endpoints support TLS 1.2 only. If you are able to successfully connect to these alternative endpoints, you are not impacted. If you cannot successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
 
 Alternative endpoints for Watson products and services in regions other than US South are not provided as these already support only TLS 1.2.
 
@@ -241,7 +245,7 @@ When support for TLS 1.0 and 1.1 is removed from `api.softlayer.com` and `api.se
 
 To continue to use TLS 1.0 or 1.1 to connect to Watson products and services after support is withdrawn, you can make one of the following replacements:
   * Replace `gateway.watsonplatform.net` with `gateway-tls10.wastonplatform.net`
-  * Replace`stream.watsonplatform.net` with `stream-tls10.watsonplatform.net`.
+  * Replace `stream.watsonplatform.net` with `stream-tls10.watsonplatform.net`
 
 You can continue to use `gateway-tls10.watsonplatform.net` and `stream-tls10.watsonplatform.net` to support TLS 1.0, 1.1, and 1.2 after these versions of TLS are removed from `gateway.watsonplatform.net` and `stream.watsonplatform.net`.
 
