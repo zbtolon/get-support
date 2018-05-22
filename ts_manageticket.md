@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,10 +34,10 @@ If you have a linked account, you might not be able to add or edit {{site.data.k
 You are unable to create or edit support tickets in {{site.data.keyword.Bluemix_notm}}.
 {: tsSymptoms}
 
-General problems with accessing and managing support tickets, if you have a linked account, could be caused by lack of more granular account settings in the {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Because there are more granular permissions that must be configured on accounts that were created in the {{site.data.keyword.slportal}}, you might not be able to add or edit support tickets.
+General problems with accessing and managing support tickets, if you have a linked account, might be caused by lack of more granular account settings in the {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Because more granular permissions must be configured on accounts that were created in customer portal, you might not be able to add or edit support tickets.
 {: tsCauses}
 
-To correct the problem, contact your {{site.data.keyword.slportal}} account administrator to set the proper access on your account. The {{site.data.keyword.slportal}} account administrator can correct the problem using the following steps:
+To correct the problem, contact your {{site.data.keyword.slportal}} account administrator to set the proper access on your account. The {{site.data.keyword.slportal}} account administrator can use the following steps to correct the problem:
 
 1. From the {{site.data.keyword.slportal}} **Account** menu, select **Users**.
 2. Select the user from the list.

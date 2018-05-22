@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# How do I begin to troubleshoot problems?
+# How do I troubleshoot problems?
 {: #ts-overview}
 
-There are many resources that you can use to troubleshoot your {{site.data.keyword.Bluemix}} issues. One such troubleshooting resource is the compiled list of common issues and solutions that have been provided by the {{site.data.keyword.Bluemix_notm}} Customer Support teams.
+You can use many resources to troubleshoot your {{site.data.keyword.Bluemix}} issues. One such troubleshooting resource is the compiled list of common issues and solutions that the {{site.data.keyword.Bluemix_notm}} Customer Support teams provide.
 {:shortdesc}
 
 Some troubleshooting techniques include the following list:
