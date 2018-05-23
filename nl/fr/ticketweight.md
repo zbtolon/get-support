@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # Comment les tickets sont-ils affectés et pondérés ?
 {: #support-ticket-severity}
 
-La rapidité à laquelle les tickets de demande de service sont adressés dépend de la pondération affectée à chaque ticket en fonction de la gravité du problème. Vous affectez une gravité à un problème au moment où vous ouvrez le ticket.  Voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport) pour plus d'informations sur les niveaux de gravité disponibles en fonction du type de support de votre compte.
+La rapidité à laquelle les tickets de demande de service sont adressés dépend de la pondération affectée à chaque ticket en fonction de la gravité du problème. Vous affectez une gravité à un problème au moment où vous ouvrez le ticket. Pour plus d'informations sur les niveaux de gravité disponibles en fonction du type de support de votre compte, voir [Plans de support](/docs/get-support/index.html).
 {:shortdesc}
 
 Le tableau suivant répertorie divers exemples de problèmes soumis au support, les niveaux de gravité suggérés et les objectifs de temps de réponse. Les objectifs de temps de réponse sont utilisés uniquement pour décrire les intentions d'IBM et ne représentent pas une garantie de performance.
