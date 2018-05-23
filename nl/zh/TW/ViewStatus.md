@@ -56,11 +56,11 @@ lastupdated: "2018-01-16"
 ### 充分運用多個 {{site.data.keyword.Bluemix_notm}} Foundry Service 地區
 {: #monbp-multpreg}
 
-「{{site.data.keyword.Bluemix_notm}} 公用」的所有使用者都自動可存取 US-SOUTH、US-EAST、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
+{{site.data.keyword.Bluemix_notm}} Public 的所有使用者都自動可存取 US-SOUTH、US-EAST、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
 
 若要切換地區，請從 {{site.data.keyword.Bluemix_notm}} 功能表列中，展開地區功能表，然後選取另一個地區。
 
-### 準備進行輕微岔斷
+### 準備迎接輕微岔斷
 {: #monbp-prepmininter}
 
 在大部分情況下，即使是在維護時間範圍的期間內，{{site.data.keyword.Bluemix_notm}} 仍可繼續正常使用。不過，無法完全避免服務的輕微岔斷。即使暫時岔斷 {{site.data.keyword.Bluemix_notm}} 的應用程式管理功能（例如啟動及停止應用程式），執行中應用程式通常仍可持續使用。為了盡量提高執行中應用程式的可用性，針對每一個應用程式請至少執行三個實例。
@@ -103,4 +103,4 @@ lastupdated: "2018-01-16"
 ## 設定突發事件及維護電子郵件通知
 {: #setting-up-notifications}
 
-若為「{{site.data.keyword.Bluemix_notm}} 公用」，您可以註冊平台通知。平台通知是 {{site.data.keyword.Bluemix_notm}} 平台的突發事件及維護事件的選用性電子郵件警示。您可以選擇接收這些電子郵件通知，方法是按一下**管理** > **帳戶** > **通知**，然後選取**平台**標籤。如需設定帳戶通知的相關資訊，請參閱[設定通知](/docs/account/notifications.html#setting-notifications)。
+若為 {{site.data.keyword.Bluemix_notm}} Public，您可以註冊平台通知。平台通知是 {{site.data.keyword.Bluemix_notm}} 平台的突發事件及維護事件的選用性電子郵件警示。您可以選擇接收這些電子郵件通知，方法是按一下**管理** > **帳戶** > **通知**，然後選取**平台**標籤。如需設定帳戶通知的相關資訊，請參閱[設定通知](/docs/account/notifications.html#setting-notifications)。

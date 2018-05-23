@@ -4,6 +4,10 @@
 {: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
 지원 받기
 
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
     {: .navgroup id="howto"}
     {: .topicgroup}
     고객 지원 받기

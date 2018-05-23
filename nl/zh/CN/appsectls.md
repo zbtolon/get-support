@@ -244,4 +244,4 @@ cf restage <application_name>
 ## 取得联系
 {: #tlssupport}
 
-如果您有任何疑问、顾虑或问题，请[联系支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud/support){: new_window}
+如果您有任何疑问、顾虑或问题，请[联系支持人员 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud/support){: new_window}

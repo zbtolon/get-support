@@ -91,7 +91,7 @@ cf restage <application_name>
 
 多個地區可能會提供部分產品或服務（例如 {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 及 {{site.data.keyword.Bluemix_notm}} 型錄中的服務）。將在目前支援 TLS 1.0 及 1.1 的所有地區中移除 TLS 1.0 及 1.1。
 
-**重要注意事項：**「{{site.data.keyword.Bluemix_notm}} 專用」或「{{site.data.keyword.Bluemix_notm}} 本端系統」部署或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
+**重要注意事項：**{{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
 
 ### 可從 {{site.data.keyword.Bluemix_notm}} 型錄取得的產品或服務
 

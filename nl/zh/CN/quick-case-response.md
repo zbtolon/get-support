@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-10"
 
 ---
 
@@ -16,13 +16,13 @@ lastupdated: "2018-05-11"
 {:new_window: target="_blank"}
 
 
-# 如何让我的凭单快速得到受理？
+# 如何让我的案例快速得到受理？
 {: #quicktickresp}
 
-联系支持人员并开具支持凭单时，可根据问题的类型和紧急程度来请求特定严重性级别。严重性级别可能会影响解决问题的速度。
+当您联系技术支持来建立支持案例时，可以根据问题的类型和紧急程度来请求特定严重性级别。严重性级别可能会影响解决问题的速度。
 {:shortdesc}
 
-您可根据业务需要和支持级别来定义问题的严重性。有关支持套餐级别的更多信息，请参阅[支持套餐](/docs/get-support/index.html)。将对所有凭单进行调查，以确定并解决问题的根本原因。当需要问题诊断数据来确定问题的根本原因时，会询问您是否允许访问您应用程序中的日志文件，以及其他用于确定问题的数据。没有这些数据，您的问题解决起来可能更慢。
+您可根据业务需要和支持级别来定义问题的严重性。有关支持套餐级别的更多信息，请参阅[支持套餐](/docs/get-support/index.html)。所有案例都需要经过调查，才能确定和分析问题的根本原因。当需要问题诊断数据来确定问题的根本原因时，会询问您是否允许访问您应用程序中的日志文件，以及其他用于确定问题的数据。没有这些数据，您的问题解决起来可能更慢。
 
 ## 收集诊断信息
 {: #collecting-diagnostic-information}
@@ -50,16 +50,16 @@ lastupdated: "2018-05-11"
 ## 上报支持案例
 {: #escalation}
 
-作为 {{site.data.keyword.Bluemix_notm}} 客户，您可以将您的案例上报给当值的 {{site.data.keyword.Bluemix_notm}} 支持经理来请求进一步的帮助。通过上报过程，您可以报告严重问题。如果您认为自己的支持凭单未得到妥善处理，也可以通过此过程来表达您的担忧。上报案例后，当值经理会复查支持凭单中的信息，与 {{site.data.keyword.Bluemix_notm}} 技术支持团队的相应成员进行沟通，然后通知您最新的进展。
+作为 {{site.data.keyword.Bluemix_notm}} 客户，您可以将您的案例上报给当值的 {{site.data.keyword.Bluemix_notm}} 支持经理来请求进一步的帮助。通过上报过程，您可以报告严重问题。如果您认为自己的支持案例未得到妥善处理，也可以通过此过程来表达您的担忧。上报案例后，当值经理会复查支持案例中的信息，与 {{site.data.keyword.Bluemix_notm}} 技术支持团队的相应成员进行沟通，然后通知您最新的进展。
 
-要上报支持案例，您必须拥有 {{site.data.keyword.Bluemix_notm}} 高级或高端支持，并且已为问题开具支持凭单。此外，还必须确保在所开具的支持凭单中已对技术问题进行清楚的描述。
+要上报支持案例，您必须拥有 {{site.data.keyword.Bluemix_notm}} 高级或高端支持，并已为问题建立支持案例。此外，请必须确保在所建立的支持案例中已对技术问题进行清楚的描述。
 
  要上报案例，请完成以下步骤：
 
   1. 通过电话或交谈与 {{site.data.keyword.Bluemix_notm}} 支持团队进行联系：
     * 电话号码：866-403-7638。
     * 交谈选项：{{site.data.keyword.Bluemix_notm}} [支持中心 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}，或[客户门户网站 ![外部链接图标](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}（如果您有未链接的 SoftLayer 帐户）。
-  2. 提供现有凭单号并请求上报案例。
+  2. 提供现有案例号并请求上报案例。
   3. 提供上报理由以及该案例所带来的业务影响。
 
 {{site.data.keyword.Bluemix_notm}} 支持经理全天候当值。当值经理会与相应的资源进行联系来处理您的案例，然后会通知您要采取哪些措施。

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # 如何指派及加權問題單？
 {: #support-ticket-severity}
 
-解決支援問題單的快慢，取決於依問題嚴重性指派給每一個問題單的加權。當您開立問題單時，可以指派問題的嚴重性。如需帳戶支援類型可用之嚴重性層次的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
+解決支援問題單的快慢，取決於依問題嚴重性指派給每一個問題單的加權。當您開立問題單時，可以指派問題的嚴重性。如需適用於您帳戶類型之嚴重性層次的相關資訊，請參閱[支援方案](/docs/get-support/index.html)。
 {:shortdesc}
 
 下表列出支援問題、建議嚴重性層次及回應時間目標的一些常見範例。回應時間目標僅用來說明 IBM 目標，並不保證效能。

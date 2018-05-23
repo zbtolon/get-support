@@ -4,6 +4,10 @@
 {: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
 サポートの利用
 
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
     {: .navgroup id="howto"}
     {: .topicgroup}
     お客様サポートの利用

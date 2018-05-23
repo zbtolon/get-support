@@ -4,6 +4,10 @@
 {: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
 取得支援
 
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
     {: .navgroup id="howto"}
     {: .topicgroup}
     取得客戶支援
@@ -19,12 +23,12 @@
         quicktickresp.md
 
     {: .navgroup id="reference"}
-    bxnui.md
+bxnui.md
 
     {: .topicgroup}
-    已知問題
-        appsectls.md
-    {: .navgroup-end}
+已知問題
+	    appsectls.md
+	{: .navgroup-end}
 
     {: .navgroup id="help"}
     ts_overview.md

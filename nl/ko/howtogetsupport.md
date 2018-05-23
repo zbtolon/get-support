@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -33,7 +33,7 @@ lastupdated: "2018-04-18"
 지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 티켓을 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(dw 응답) 포럼(기타 모든 질문의 경우) 모두에 대한 링크를 찾을 수 있습니다.  
 
 보유 중인 계정의 유형에 따라 기타 옵션도 지원 센터에서 사용 가능합니다.  
-* [프리미엄](/docs/get-support/getstarttssup.html#premium-support) 또는 [고급](/docs/get-support/getstarttssup.html#standard-support) 지원 계정이 있으면 도움을 받기 위한 전화번호를 찾을 수 있습니다.
+* 기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support/index.html)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
 * 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되고 PaaS와 IaaS 서비스 사이에 연결된 경우, 지원을 호출하거나 대화 세션을 시작하기 위해 **전화 문의** 및 **지금 대화** 옵션에도 액세스할 수 있습니다.
 
 지원 센터는 지원을 받기 위한 우선적인 방법입니다. 그러나 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [도움 받기](http://www.ibm.biz/bluemixsupport){: new_window} 페이지를 사용하여 티켓을 제출할 수 있습니다.
@@ -120,31 +120,27 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스나 데이터 센터의 문제에 대해 여는 향후 모든 티켓에 적용됩니다. 이 옵션을 설정하기 전에 열려 있던 모든 티켓은 영향을 받지 않습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
 
-{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 사용](/docs/pricing/eusupported.html#bill_eusupported)을 참조하십시오.
+{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 사용](/docs/billing-usage/eusupported.html)을 참조하십시오.
 
 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객이고 연결된 계정이 없는 경우 고객 포털의 계정 프로파일 창에서 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 설정](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)을 참조하십시오.
 
 ### EU 지원 서비스
 {: #eusupportedservices}
 
-**EU 지원** 옵션을 설정한 후 EU에서 {{site.data.keyword.Bluemix_notm}}를 지원하고 운영하기 위해 추가 제어를 이용할 수도 있습니다. 다음 서비스에 대한 모든 플랜(라이트 플랜 제외)은 유럽에서 호스팅되며 EU 지원으로 사용 가능합니다.
+**EU 지원** 옵션을 설정하고 나면, 유럽 연합에서 {{site.data.keyword.Bluemix_notm}} 서비스를 지원하고 운영하기 위해 추가 제어를 이용할 수도 있습니다. {{site.data.keyword.Bluemix_notm}} 카탈로그에서 지원 플랜별로 플랫폼 서비스 검색을 필터링할 수 있습니다. 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 다음 단계를 완료하십시오.
+  1. [{{site.data.keyword.Bluemix_notm}} 카탈로그 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://console.bluemix.net/catalog/){: new_window}를 여십시오.
+  2. **필터** 단추를 클릭하십시오.
+  3. 드롭 다운 목록에서 **EU 지원**을 선택하십시오. EU 지원 필터 세트를 사용하는 경우 EU 지원 플랜이 있는 **인프라** 및 **플랫폼** 카테고리의 서비스만 표시됩니다.
+  4. 원하는 서비스를 선택하십시오. 서비스에 대한 일부 지역 및 플랜이 EU 지원되는 것을 확인할 수 있습니다.
+  5. 서비스에 대한 EU 지원 플랜을 보려면 **배치할 지역/위치 선택** 드롭 다운 목록에서 올바른 지역을 선택하십시오. 예를 들어, 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 지역으로 독일을 선택하십시오. 그러면 **EU 지원**으로 레이블이 지정된 서비스에 대한 가격 책정 플랜을 볼 수 있습니다.
 
-다음 카테고리의 {{site.data.keyword.Bluemix_notm}} 인프라 서비스:
+다음 {{site.data.keyword.Bluemix_notm}} 인프라 서비스 카테고리에 대한 모든 플랜(라이트 플랜 제외)은 유럽에서 호스팅되며 EU 지원으로 사용 가능합니다.
+
   * 컴퓨팅
   * 스토리지
   * 네트워크
   * 컨테이너
 
-다음 카테고리의 {{site.data.keyword.Bluemix_notm}} 플랫폼 서비스(독일 지역만):
-  * 컨테이너
-  * Cloud Foundry 앱
-
-{{site.data.keyword.Bluemix_notm}} 플랫폼 서비스(독일 지역만):
-  * 데이터 및 분석: Compose(모든 버전) 및 {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}}({{site.data.keyword.Bluemix_notm}} 데디케이티드에만 해당)
-  * 애플리케이션 서비스: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
-  * API: {{site.data.keyword.apiconnect_long}}
-  * 보안: {{site.data.keyword.SecureGatewayfull}}
 
 ## 잠재적 보안 취약성 보고
 {: #report-security-vulnerability}

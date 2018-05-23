@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # 如何为凭单分配严重性和加权？
 {: #support-ticket-severity}
 
-支持凭单的解决速度取决于按问题严重性分配给每个凭单的权重。您在开具凭单时，可指定问题的严重性。有关根据帐户支持类型可用的严重性级别的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
+支持凭单的解决速度取决于按问题严重性分配给每个凭单的权重。您在开具凭单时，可指定问题的严重性。有关哪些严重性级别可用于您的帐户类型的更多信息，请参阅[支持套餐](/docs/get-support/index.html)。
 {:shortdesc}
 
 下表列出了支持问题、建议严重性级别和响应时间目标的一些常见示例。响应时间目标仅用于描述 IBM 目标，并不表示性能保证。

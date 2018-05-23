@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -33,7 +33,7 @@ lastupdated: "2018-04-18"
 サポート・センターの検索フィールドを使用して、{{site.data.keyword.Bluemix_notm}} 資料およびスタック・オーバーフロー・フォーラム全体から疑問点に対する回答を見つけることができます。 サポート・センターからサポート・チケットを管理することもできます。 サポート・センターの「フォーラム」セクションに、技術的質問向けのスタック・オーバーフロー・フォーラムへのリンクと、その他のすべての質問向けの developerWorks (dw answers) フォーラムへのリンクの両方があります。  
 
 アカウントのタイプに応じて、その他のオプションもサポート・センターから使用可能です。  
-* [プレミアム](/docs/get-support/getstarttssup.html#premium-support)・サポート・アカウントまたは[アドバンスト](/docs/get-support/getstarttssup.html#standard-support)・サポート・アカウントの場合、ヘルプを利用するための電話番号が提供されます。
+* [サポート・プラン](/docs/get-support/index.html)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
 * アカウントが{{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルで作成され、PaaS サービスと IaaS サービスの間でリンクされている場合、**「電話する」**オプションにアクセスしてサポートに電話したり、**「今すぐチャット」**オプションにアクセスしてチャット・セッションを開始したりすることもできます。
 
 サポート利用のための優先される方法はサポート・センターですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「ヘルプの利用」](http://www.ibm.biz/bluemixsupport){: new_window}ページを使用してチケットを送信できます。
@@ -122,31 +122,27 @@ EU サポートは、EU サポート対象オプションを選択されたお�
 
 アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべてのチケットに適用されます。 このオプションを設定する前にオープンしたチケットには影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
 
-{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[EU サポート対象オプションの有効化](/docs/pricing/eusupported.html#bill_eusupported)を参照してください。
+{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[EU サポート対象オプションの有効化](/docs/billing-usage/eusupported.html)を参照してください。
 
 {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのお客様のうち、リンクされたアカウントをお持ちでないお客様の場合、カスタマー・ポータルの「アカウントのプロファイル」ウィンドウから**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」オプションの設定](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)を参照してください。
 
 ### EU サポート対象のサービス
 {: #eusupportedservices}
 
-**「EU サポート対象 (EU Supported)」**オプションを設定した後は、{{site.data.keyword.Bluemix_notm}} を EU からサポートおよび操作する追加のコントロールも利用できます。 以下のサービスを対象に、ライト・プランを除くすべてのプランがヨーロッパでホストされ、EU サポート対象として使用可能です。
+**「EU サポート対象 (EU Supported)」**オプションを設定した後は、{{site.data.keyword.Bluemix_notm}} サービスを EU からサポートおよび操作する追加のコントロールも利用できます。 {{site.data.keyword.Bluemix_notm}} カタログ内で、サポート対象プランでプラットフォーム・サービスの検索をフィルター操作できます。プラットフォーム・サービスの EU サポート対象プランを表示するには、以下のステップを実行します。
+  1. [{{site.data.keyword.Bluemix_notm}} カタログ ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://console.bluemix.net/catalog/){: new_window} を開きます。
+  2. **「フィルター (Filter)」**ボタンをクリックします。
+  3. ドロップダウン・リストから**「EU サポート対象」**を選択します。「EU サポート対象」フィルターを設定すると、**「インフラストラクチャー」** および**「プラットフォーム」**カテゴリーに、EU サポート対象プランのあるサービスのみが表示されます。
+  4. 必要なサービスを選択します。 そのサービス用の地域およびプランの一部が EU サポート対象であることを確認できます。
+  5. サービスの EU サポート対象プランを表示するには、**「デプロイする地域/ロケーションの選択」**ドロップダウン・リストから正しい地域を選択します。例えば、プラットフォーム・サービスの EU サポート対象プランを表示するには、地域としてドイツを選択します。そうすると、**「EU サポート対象」**というラベルが付いた、サービスの価格プランが表示されます。
 
-以下のカテゴリーに含まれる {{site.data.keyword.Bluemix_notm}} インフラストラクチャー・サービス
+{{site.data.keyword.Bluemix_notm}} インフラストラクチャー・サービスの以下のカテゴリーを対象に、ライト・プランを除くすべてのプランがヨーロッパでホストされ、EU サポート対象として使用可能です。
+
   * コンピュート
   * ストレージ
   * ネットワーク
   * コンテナー
 
-以下のカテゴリーに含まれる {{site.data.keyword.Bluemix_notm}} プラットフォーム・サービス (ドイツ地域のみ)
-  * コンテナー
-  * Cloud Foundry アプリ
-
-{{site.data.keyword.Bluemix_notm}} プラットフォーム・サービス (ドイツ地域のみ)
-  * データ & 分析: Compose (すべてのバージョン) および {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}、{{site.data.keyword.loganalysislong}}、{{site.data.keyword.ghe_dedicated_short}} ({{site.data.keyword.Bluemix_notm}} Dedicated のみ)
-  * アプリケーション・サービス: {{site.data.keyword.blockchainfull}}、{{site.data.keyword.messagehub_full}}、{{site.data.keyword.appserver_full}}
-  * API: {{site.data.keyword.apiconnect_long}}
-  * セキュリティー: {{site.data.keyword.SecureGatewayfull}}
 
 ## 潜在的なセキュリティー脆弱性の報告
 {: #report-security-vulnerability}

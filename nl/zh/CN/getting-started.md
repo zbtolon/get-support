@@ -62,7 +62,7 @@ lastupdated: "2018-01-09"
   2. 在**获取帮助**部分中，单击**开具凭单**。
   3. 填写必需的信息，然后单击**提交**。
 
-有关联系支持的更多方式的信息，请参阅[开具支持凭单](/docs/get-support/howtogetsupport.html#open-ticket)。
+有关联系支持人员的更多方式的信息，请参阅[开具支持凭单](/docs/get-support/howtogetsupport.html#open-ticket)。
 
 ## 步骤 4：设置通知
 {: #view-notifications}
