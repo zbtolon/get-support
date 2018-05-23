@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # In che modo vengono assegnati e ponderati i ticket?
 {: #support-ticket-severity}
 
-La velocità con cui vengono gestiti i ticket di supporto dipende dall'importanza che viene assegnata a ciascun ticket dalla severità del problema. La severità del problema viene assegnata da te all'apertura del ticket.  Vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport) per ulteriori informazioni sui livelli di severità disponibili in base al tipo di supporto per il tuo account.
+La velocità con cui vengono gestiti i ticket di supporto dipende dall'importanza che viene assegnata a ciascun ticket dalla severità del problema. La severità del problema viene assegnata da te all'apertura del ticket. Per ulteriori informazioni sui livelli di severità disponibili per il tuo tipo di account, consulta [Piani di supporto](/docs/get-support/index.html).
 {:shortdesc}
 
 La seguente tabella elenca alcuni esempi comuni di problemi di supporto, di livelli di severità suggeriti e di obiettivi del tempo di risposta. Gli obiettivi del tempo di risposta vengono utilizzati solo per descrivere gli obiettivi di IBM e non rappresentano una garanzia sulle prestazioni.

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-18"
 Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni per ottenere assistenza nel determinare la causa del problema e per trovare una soluzione.
 {:shortdesc}
 
-Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}} o se il tuo account SoftLayer è stato creato attraverso il portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account collegati sono collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e si servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
+Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}} o se il tuo account SoftLayer è stato creato attraverso il portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account collegati sono collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e si servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se il tuo account è un account SoftLayer che è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) per ulteriori informazioni sull'apertura di ticket di supporto dal portale del cliente.
+Se il tuo account è un account SoftLayer che è stato creato nel portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) per ulteriori informazioni sull'apertura di ticket di supporto dal portale clienti.
 
 ## Utilizzo del Centro di supporto
 {: #using-avatar}
@@ -33,8 +33,8 @@ Per accedere al Centro di supporto, esegui l'accesso alla console {{site.data.ke
 Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte alle tue domande attraverso la documentazione {{site.data.keyword.Bluemix_notm}} e il forum Stack Overflow. Dal Centro di supporto, puoi anche gestire i ticket di supporto. Puoi trovare link al forum Stack Overflow, per domande tecniche, e al forum developerWorks (dw answers), per tutte le altre domande, sotto la sezione Forum del Centro di supporto.  
 
 A seconda del tipo di account di cui disponi, nel Centro di supporto sono disponibili anche altre opzioni.  
-* Se hai un account con supporto [premium](/docs/get-support/getstarttssup.html#premium-support) o  [avanzato](/docs/get-support/getstarttssup.html#standard-support), puoi trovare i numeri da chiamare per ottenere assistenza.
-* Se il tuo account è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è collegato tra i servizi PaaS e IaaS, puoi avere accesso anche alle opzioni **Contattaci** e **Avvia chat** per chiamare il supporto o per avviare una sessione chat.
+* Se hai un [piano di supporto](/docs/get-support/index.html) di base, avanzato o premium, puoi trovare i numeri da chiamare e un'opzione di chat per ottenere assistenza.
+* Se il tuo account è stato creato nel portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è collegato tra i servizi PaaS e IaaS, puoi avere accesso anche alle opzioni **Contattaci** e **Avvia chat** per chiamare il supporto o per avviare una sessione chat.
 
 Il Centro di supporto è il metodo preferito per ottenere supporto, ma se non riesci ad accedere a {{site.data.keyword.Bluemix_notm}}, puoi utilizzare la pagina [Richiedi assistenza](http://www.ibm.biz/bluemixsupport){: new_window} per inviare un ticket.
 
@@ -74,7 +74,7 @@ Completa la seguente procedura per fornire le informazioni richieste nel modulo 
   2. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
     * **Gruppo di risorse** se stai riscontrando un problema con la gestione dei tuoi gruppi di risorse. Per ulteriori informazioni, vedi [Gestione dei gruppi di risorse](/docs/account/resourcegroups.html#rgs).
     * **Cloud Foundry** se stai riscontrando un problema con una distribuzione dell'applicazione Cloud Foundry. Consulta [Funzionamento di Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) per ulteriori informazioni sulla distribuzioni delle applicazioni Cloud Foundry.
-  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema. 
+  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
   4. Completa le informazioni richieste. Le informazioni richieste dipendono dal contesto della risorsa che hai selezionato e anche dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Fai clic su **Inoltra**.
 
@@ -84,7 +84,7 @@ Completa la seguente procedura per fornire le informazioni richieste nel modulo 
 Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema con l'account:
   1. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente.
   2. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. I campi associati all'opzione nel modulo del ticket sono automaticamente popolati con *Non applicabile* quando indichi che il ticket è per un problema con l'account nel passo successivo.
-  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema. 
+  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
   4. Completa le informazioni obbligatori, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Fai clic su **Inoltra**.
 
@@ -121,31 +121,27 @@ Per la piattaforma {{site.data.keyword.Bluemix_notm}}, solo i servizi ospitati n
 
 L'impostazione dell'opzione **Supportato UE** per il tuo account si applica a tutti i ticket futuri che apri per problemi su qualsiasi servizio o data center ospitato nella regione UE. I ticket che hai aperto prima di impostare questa opzione non sono interessati. Se imposti questa opzione e aggiungi delle risorse al di fuori di un data center UE o della regione Germania, i problemi relativi a tali risorse non sono necessariamente gestiti da un team di supporto in Europa.
 
-Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fatturazione della console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Abilitazione dell'opzione Supportato UE](/docs/pricing/eusupported.html#bill_eusupported).
+Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fatturazione della console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Abilitazione dell'opzione Supportato UE](/docs/billing-usage/eusupported.html).
 
-Se sei un cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non hai un account collegato, puoi impostare l'opzione **Supportato UE** dalla finestra Profilo account del portale del cliente. Per ulteriori informazioni, vedi [Impostazione dell'opzione Supportato UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported).
+Se sei un cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non hai un account collegato, puoi impostare l'opzione **Supportato UE** dalla finestra Profilo account del portale clienti. Per ulteriori informazioni, vedi [Impostazione dell'opzione Supportato UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported).
 
 ### Servizi supportati dall'UE
 {: #eusupportedservices}
 
-Dopo aver impostato l'opzione **Supportato UE**, puoi usufruire anche di controlli aggiuntivi per supportare e utilizzare {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Tutti i piani, tranne i piani Lite, per i seguenti servizi sono ospitati in Europa e disponibili come supportati dall'UE:
+Dopo aver impostato l'opzione **Supportato UE**, puoi usufruire anche di controlli aggiuntivi per supportare e utilizzare i servizi {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Puoi filtrare la tua ricerca di servizi di piattaforma con i piani supportati nel catalogo {{site.data.keyword.Bluemix_notm}}. Per visualizzare i piani supportati dall'UE per un servizio della piattaforma, completa la seguente procedura:
+  1. Apri il catalogo [{{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://console.bluemix.net/catalog/){: new_window}.
+  2. Fai clic sul pulsante **Filtro**.
+  3. Seleziona**Supportato UE** dall'elenco a discesa. Con il filtro Supportato UE impostato, vedi solo i servizi nelle categorie **Infrastruttura** e **Piattaforma** che hanno dei piani supportati dall'UE.
+  4. Selezionare il servizio che desideri. Puoi vedere che alcune regioni e alcuni piani per il servizio sono supportati dall'UE.
+  5. Per visualizzare i piani supportati dall'UE per il servizio, seleziona la regione corretta dall'elenco a discesa **Scegli una regione/ubicazione in cui distribuire**. Ad esempio, per visualizzare i piani supportati dall'UE per un servizio della piattaforma, seleziona Germania come regione. Puoi quindi vedere i piani prezzi per il servizio che hanno un'etichetta **Supportato UE**.
 
-Servizi dell'infrastruttura {{site.data.keyword.Bluemix_notm}} nelle seguenti categorie:
-  * Calcola
+Tutti i piani, tranne i piani Lite, per le seguenti categorie di servizi di infrastruttura {{site.data.keyword.Bluemix_notm}} sono ospitati in Europa e disponibili come supportati dall'UE:
+
+  * Calcolo
   * Archiviazione
   * Rete
   * Contenitori
 
-Servizi della piattaforma {{site.data.keyword.Bluemix_notm}} nelle seguenti categorie (solo nella regione Germania):
-  * Contenitori
-  * Applicazioni Cloud Foundry
-
-Servizi della piattaforma {{site.data.keyword.Bluemix_notm}} (solo nella regione Germania):
-  * Data & Analytics: Compose (tutte le versioni) e {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (solo {{site.data.keyword.Bluemix_notm}} dedicato)
-  * Servizi dell'applicazione: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
-  * API: {{site.data.keyword.apiconnect_long}}
-  * Sicurezza: {{site.data.keyword.SecureGatewayfull}}
 
 ## Notifica di una vulnerabilità di sicurezza potenziale
 {: #report-security-vulnerability}

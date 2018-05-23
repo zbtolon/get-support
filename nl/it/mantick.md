@@ -23,7 +23,7 @@ Tutti i problemi di supporto per il client vengono documentati nei ticket di sup
 
 Per visualizzare e iniziare a gestire i tuoi ticket di supporto, utilizza la seguente procedura:
   1. Fai clic su **Supporto** > **Visualizza ticket** dalla barra dei menu.
-  2. Per visualizzare un elenco di ticket aperti, per vedere lo stato corrente o aggionare un ticket, fai clic su **Aperto**.
-  3. Per visualizzare un elenco di ticket precedenti, per vedere ad esempio l'aiuto fornito in un ticket precente, fai clic su **Chiuso**.
+  2. Per visualizzare un elenco di ticket aperti, per vedere lo stato corrente o aggiornare un ticket, fai clic su **Aperto**.
+  3. Per visualizzare un elenco di ticket precedenti, per vedere ad esempio l'aiuto fornito in un ticket precedente, fai clic su **Chiuso**.
 
 Gli aggiornamenti ai tuoi ticket e le risposte ti vengono inviati via e-mail e vengono registrati nelle note del ticket.  

@@ -1534,7 +1534,7 @@ Controlla e prova di nuovo.  Se il problema persiste, contatta il [Supporto {{si
 Riprova più tardi. Se il problema persiste, contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://ibm.biz/bluemixsupport){: new_window}.
 
 ## BXNUI3065E
-**Messaggio**: Si è verificato un problema durante il tentativo di contattare i server virtuali IBM.
+**Messaggio**: Si è verificato un problema durante il tentativo di contattare gli IBM Virtual Server.
 
 Riprova più tardi. Se il problema persiste, contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://ibm.biz/bluemixsupport){: new_window}.
 

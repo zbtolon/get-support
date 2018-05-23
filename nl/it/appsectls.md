@@ -17,7 +17,7 @@ lastupdated: "2018-02-12"
 # Ritiro del supporto per TLS 1.0 e 1.1
 {: #tlssupportwithdraw}
 
-IBM ritirerà il supporto per TLS 1.0 e TLS 1.1 in molti prodotti e servizi cloud a partire dal 1# marzo 2018. TLS 1.2 wcontinuerà a essere supportato per qualsiasi prodotto o servizio {{site.data.keyword.Bluemix_notm}} che stia ritirando il supporto per TLS 1.0 e 1.1.
+IBM ritirerà il supporto per TLS 1.0 e TLS 1.1 in molti prodotti e servizi cloud a partire dal 1# marzo 2018. TLS 1.2 continuerà a essere supportato per qualsiasi prodotto o servizio {{site.data.keyword.Bluemix_notm}} che stia ritirando il supporto per TLS 1.0 e 1.1.
 {:shortdesc}
 
 ## Perché stiamo apportando questa modifica?
@@ -28,7 +28,7 @@ Questo fa parte dell'impegno di IBM nell'offrire un cloud totalmente sicuro e in
 ## Cos'è TLS?
 {: #what}
 
-Il [protocollo TLS ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} viene utilizzato per crittografare le comunicazioni attraverso una rete per garantire che i dati trasmessi rimangano privati. Esistono tre versioni rilasciate di TLS: 1.0, 1.1 e 1.2. Tutte le connessioni HTTPS utilizzano TLS. HTTPS è il metodo predominante per garantire che le connessioni a prodotti e servizi {{site.data.keyword.Bluemix_notm}} siano attendibili e sicure. Acuni prodotti e servizi {{site.data.keyword.Bluemix_notm}} consentono connessioni sicure tramite il protocollo WSS (WebSocket Secure) che utilizza anche TLS. Il ritiro del supporto per TLS 1.0 e 1.1 riguarda entrambe le connessioni HTTPS e WSS.
+Il [protocollo TLS ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} viene utilizzato per crittografare le comunicazioni attraverso una rete per garantire che i dati trasmessi rimangano privati. Esistono tre versioni rilasciate di TLS: 1.0, 1.1 e 1.2. Tutte le connessioni HTTPS utilizzano TLS. HTTPS è il metodo predominante per garantire che le connessioni a prodotti e servizi {{site.data.keyword.Bluemix_notm}} siano attendibili e sicure. Alcuni prodotti e servizi {{site.data.keyword.Bluemix_notm}} consentono connessioni sicure tramite il protocollo WSS (WebSocket Secure) che utilizza anche TLS. Il ritiro del supporto per TLS 1.0 e 1.1 riguarda entrambe le connessioni HTTPS e WSS.
 
 ## Quali azioni devo intraprendere per assicurarmi che non subisca alcun impatto?
 {: #impact}
@@ -158,9 +158,9 @@ Alcuni prodotti o servizi, come Cloud Foundry su {{site.data.keyword.Bluemix_not
 * Simulated Historical Instrument Analytics\*
 * Simulated Instrument Analytics\*
 
-#### Funzioni
+#### Functions
 
-* Funzioni
+* Functions
 
 #### Integra
 
@@ -184,7 +184,7 @@ Alcuni prodotti o servizi, come Cloud Foundry su {{site.data.keyword.Bluemix_not
 #### Sicurezza
 
 * App ID†
-* Certificati SSL†
+* SSL Certificates†
 
 #### Watson
 
