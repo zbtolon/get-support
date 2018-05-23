@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-10"
 
 ---
 
@@ -16,13 +16,13 @@ lastupdated: "2018-05-11"
 {:new_window: target="_blank"}
 
 
-# Schnelle Antworten auf ein Ticket erhalten
+# Schnelle Antworten auf einen Fall erhalten
 {: #quicktickresp}
 
-Wenn Sie sich mit dem Support in Verbindung setzen und ein Support-Ticket öffnen, können Sie eine bestimmte Prioritätsstufe auswählen, die sich nach dem Typ und der Dringlichkeit des Problems richtet. Die Prioritätsstufe kann sich darauf auswirken, wie schnell Ihr Problem bearbeitet wird.
+Wenn Sie sich mit dem Support in Verbindung setzen und einen Supportfall öffnen, können Sie eine bestimmte Prioritätsstufe auswählen, die sich nach dem Typ und der Dringlichkeit des Problems richtet. Die Prioritätsstufe kann sich darauf auswirken, wie schnell Ihr Problem bearbeitet wird.
 {:shortdesc}
 
-Sie definieren die Priorität des Problems auf der Basis Ihrer Geschäftsanforderungen und Ihrem Support-Level. Weitere Informationen zu den verschiedenen Typen von Supportplänen finden Sie unter [Supportpläne](/docs/get-support/index.html). Alle Tickets werden untersucht, um die eigentliche Ursache des Problems zu ermitteln und zu beheben. Wenn Problemdiagnosedaten zur Ermittlung der zugrunde liegenden Ursache des Problems erforderlich sind, werden Sie gebeten, dem Zugriff auf Protokolldateien und anderen Problembestimmungsdaten über Ihre Anwendung zuzustimmen. Ohne diese Daten könnte sich die Lösung Ihres Problems verzögern.
+Sie definieren die Priorität des Problems auf der Basis Ihrer Geschäftsanforderungen und Ihrem Support-Level. Weitere Informationen zu den verschiedenen Typen von Supportplänen finden Sie unter [Supportpläne](/docs/get-support/index.html). Alle Fälle werden untersucht, um die eigentliche Ursache des Problems zu ermitteln und zu beheben. Wenn Problemdiagnosedaten zur Ermittlung der zugrunde liegenden Ursache des Problems erforderlich sind, werden Sie gebeten, dem Zugriff auf Protokolldateien und anderen Problembestimmungsdaten über Ihre Anwendung zuzustimmen. Ohne diese Daten könnte sich die Lösung Ihres Problems verzögern.
 
 ## Diagnoseinformationen erfassen
 {: #collecting-diagnostic-information}
@@ -50,16 +50,16 @@ Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folge
 ## Supportfälle eskalieren
 {: #escalation}
 
-Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Während des Eskalationsprozesses können Sie kritische Probleme auf den Punkt bringen und Ihre Sorge äußern, wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen bearbeitet wird. Nach der Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Support-Ticket, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über Updates. 
+Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Während des Eskalationsprozesses können Sie kritische Probleme auf den Punkt bringen und Ihre Sorge äußern, wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen bearbeitet wird. Nach der Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über Updates. 
 
-Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced oder Premium Support verfügen und ein Support-Ticket für das Problem geöffnet haben. Stellen Sie außerdem sicher, dass das technische Problem im geöffneten Support-Ticket ausreichend dokumentiert ist. 
+Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced oder Premium Support verfügen und einen Supportfall für das Problem geöffnet haben. Stellen Sie außerdem sicher, dass das technische Problem im geöffneten Supportfall ausreichend dokumentiert ist. 
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren: 
 
   1. Kontaktieren Sie das {{site.data.keyword.Bluemix_notm}}-Support-Team via Telefon oder Chat:
     * Via Telefon unter der folgenden Nummer: 866-403-7638. 
     * Via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein nicht verknüpftes SoftLayer-Konto verfügen, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}. 
-  2. Geben Sie Ihre vorhandene Ticketnummer und Anforderung an, um den Fall zu eskalieren. 
+  2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren. 
   3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an. 
 
 {{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen. 

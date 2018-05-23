@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -33,7 +33,7 @@ Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keywo
 Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Forum 'Stack Overflow' (für technische Fragen) und zu 'developerWorks Answers' (für alle anderen Fragen).  
 
 Abhängig vom Typ Ihres Kontos sind auch andere Optionen im Support Center verfügbar.  
-* Wenn Sie über ein [Premium Support](/docs/get-support/getstarttssup.html#premium-support) oder [Advanced Support](/docs/get-support/getstarttssup.html#standard-support)-Konto verfügen, finden Sie Telefonnummern, über die Sie Hilfe anfordern können.
+* Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support/index.html) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können. 
 * Wenn Ihr Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und zwischen PaaS- und IaaS-Services verknüpft ist, können Sie auch auf die Optionen **Anrufen** und **Jetzt chatten** zurückgreifen, um den Support anzurufen oder eine Chatsitzung zu starten.
 
 Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Hilfe anfordern](http://www.ibm.biz/bluemixsupport){: new_window} verwenden, um ein Ticket zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können.
@@ -74,7 +74,7 @@ Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im T
   2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus:
     * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/account/resourcegroups.html#rgs).
     * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
-  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
+  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
   4. Füllen Sie die erforderlichen Informationen aus. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Klicken Sie auf **Abschicken**.
 
@@ -84,7 +84,7 @@ Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im T
 Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem Kontoproblem zu erhalten:
   1. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann.
   2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. In den zugeordneten Feldern für die einzelnen Optionen im Ticketformular wird automatisch *Nicht zutreffend* eingetragen, wenn Sie im nächsten Schritt angeben, dass das Ticket für ein Kontoproblem ist.
-  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus. 
+  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
   4. Füllen Sie die erforderlichen Informationen aus und geben Sie eine Beschreibung aller erhaltenen Fehlernachrichten an. Welche Informationen benötigt werden, richtet sich nach dem Typ des Supportplans Ihres Kontos. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Klicken Sie auf **Abschicken**.
 
@@ -120,31 +120,27 @@ Bei der {{site.data.keyword.Bluemix_notm}}-Plattform können nur in der Region '
 
 Die Option **Unterstützung in der EU** Ihres Kontos bleibt anschließend für alle weiteren Tickets gültig, die Sie für Probleme bei Services oder Rechenzentren öffnen, die in der EU gehostet werden. Die Option wirkt sich nicht auf vor dieser Festlegung geöffnete Tickets aus. Wenn Sie diese Option aktivieren und Ressourcen hinzufügen, die sich nicht in einem EU-Rechenzentrum oder der Region 'Deutschland' befinden, werden Probleme im Zusammenhang mit diesen Ressourcen nicht unbedingt von einem europäischen Support-Team bearbeitet.
 
-Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie unter [Option 'Unterstützung in der EU' aktivieren](/docs/pricing/eusupported.html#bill_eusupported).
+Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie unter [Option 'Unterstützung in der EU' aktivieren](/docs/billing-usage/eusupported.html).
 
 Wenn Sie Kunde der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur sind und nicht über ein verknüpftes Konto verfügen, können Sie die Option **Unterstützung in der EU** über das Fenster 'Kontoprofil' des Kundenportals aktivieren. Weitere Informationen finden Sie unter [Option für EU-Unterstützung festlegen](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported).
 
 ### Services mit Unterstützung in der EU
 {: #eusupportedservices}
 
-Wenn Sie die Option **Unterstützung in der EU** angegeben haben, können Sie weitere Steuerelemente für den Support und den Betrieb von {{site.data.keyword.Bluemix_notm}} in der europäischen Union nutzen. Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Services in Europa gehostet und mit einer Unterstützung in der EU angeboten.
+Wenn Sie die Option **Unterstützung in der EU** angegeben haben, können Sie weitere Steuerelemente für den Support und den Betrieb von {{site.data.keyword.Bluemix_notm}}-Services in der europäischen Union nutzen. Sie können Ihre Suche nach Plattformservices nach den unterstützten Supportplänen im {{site.data.keyword.Bluemix_notm}}-Katalog filtern. Führen Sie die folgenden Schritte aus, um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen: 
+  1. Werfen Sie einen Blick in den [{{site.data.keyword.Bluemix_notm}}-Katalog ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/catalog/){: new_window}. 
+  2. Klicken Sie auf die Schaltfläche **Filtern**. 
+  3. Wählen Sie in der Dropdown-Liste **Unterstützung in der EU** aus. Wenn Sie den Filter 'Unterstützung in der EU' anwenden, werden nur die Services in den Kategorien **Infrastruktur** und **Plattform** angezeigt, deren Pläne in der EU unterstützt werden. 
+  4. Wählen Sie den gewünschten Service aus. Es werden einige in der EU unterstützte Regionen und Pläne für den Service angezeigt. 
+  5. Zum Anzeigen der in der EU unterstützten Pläne für den Service wählen Sie die korrekte Region in der Dropdown-Liste **Region/Standort für die Bereitstellung auswählen** aus. Um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen, währen Sie beispielsweise  die Region 'Deutschland' aus Anschließend werden die Preistarife für den Service angezeigt, die mit **Unterstützung in der EU** gekennzeichnet sind. 
 
-{{site.data.keyword.Bluemix_notm}}-Infrastrukturservices in den folgenden Kategorien:
+Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Kategorien von {{site.data.keyword.Bluemix_notm}}-Infrastrukturservices in Europa gehostet und mit einer Unterstützung in der EU angeboten.
+
   * Compute
   * Storage
   * Network
   * Container
 
-{{site.data.keyword.Bluemix_notm}}-Plattformservices in den folgenden Kategorien (nur Region 'Deutschland'):
-  * Container
-  * Cloud Foundry-Apps
-
-{{site.data.keyword.Bluemix_notm}}-Plattformservices (nur Region 'Deutschland'):
-  * Data & Analytics: Compose (alle Versionen) und {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (nur {{site.data.keyword.Bluemix_notm}} Dedicated)
-  * Anwendungsservices: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
-  * APIs: {{site.data.keyword.apiconnect_long}}
-  * Sicherheit: {{site.data.keyword.SecureGatewayfull}}
 
 ## Potenzielle Sicherheitslücke melden
 {: #report-security-vulnerability}
