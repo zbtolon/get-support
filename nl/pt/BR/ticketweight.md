@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # Como os chamados são designados e ponderados?
 {: #support-ticket-severity}
 
-A rapidez com que os chamados de suporte são tratados depende do peso designado a cada chamado pela severidade do problema. Você atribui a severidade do problema quando abre o chamado.  Consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport) para obter mais informações sobre os níveis de severidade que estão disponíveis por tipo de suporte para sua conta.
+A rapidez com que os chamados de suporte são tratados depende do peso designado a cada chamado pela severidade do problema. Você atribui a severidade do problema quando abre o chamado. Para obter mais informações sobre os níveis de severidade que estão disponíveis para seu tipo de conta, veja [Planos de suporte](/docs/get-support/index.html).
 {:shortdesc}
 
 A tabela a seguir lista alguns exemplos comuns de problemas de suporte, níveis de severidade sugeridos e objetivos de tempo de resposta. Os objetivos de tempo de resposta são usados para descrever somente os objetivos da IBM e não representam uma garantia de desempenho.

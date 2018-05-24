@@ -4,6 +4,10 @@
 {: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
 Obtendo Suporte
 
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
     {: .navgroup id="howto"}
     {: .topicgroup}
     Obtendo suporte ao cliente

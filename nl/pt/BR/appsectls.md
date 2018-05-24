@@ -158,9 +158,9 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 * Simulated Historical Instrument Analytics\*
 * Simulated Instrument Analytics\*
 
-#### Funções
+#### Functions
 
-* Funções
+* Functions
 
 #### Integrar
 
@@ -184,7 +184,7 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 #### Segurança
 
 * ID do app†
-* Certificados SSL†
+* SSL Certificates†
 
 #### Watson
 
