@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-03-14"
+lastupdated: "2018-05-01"
 
 ---
 
@@ -19,7 +19,7 @@ lastupdated: "2018-03-14"
 # ¿Cómo se asignan y se ponderan las incidencias?
 {: #support-ticket-severity}
 
-La rapidez con la que se solucionan las incidencias depende de la ponderación que se asigna a cada incidencia mediante la gravedad del problema. Asigne la gravedad del problema al abrir la incidencia.  Consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport) para obtener más información sobre los niveles de gravedad que están disponibles mediante el tipo de soporte para su cuenta.
+La rapidez con la que se solucionan las incidencias depende de la ponderación que se asigna a cada incidencia mediante la gravedad del problema. Asigne la gravedad del problema al abrir la incidencia. Para obtener más información sobre los niveles de severidad disponibles para su tipo de cuenta, consulte [Planes de soporte](/docs/get-support/index.html).
 {:shortdesc}
 
 La siguiente tabla lista algunos ejemplos comunes de los problemas de soporte, niveles de gravedad sugeridos y los objetivos de tiempo de respuesta. Los objetivos de tiempo de respuesta se utilizan únicamente para describir los objetivos de IBM y no representan una garantía de rendimiento.

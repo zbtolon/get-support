@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-18"
+lastupdated: "2018-04-30"
 
 ---
 
@@ -33,7 +33,7 @@ Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.k
 Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (dw answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
 
 En función del tipo de cuenta que tenga, también hay otras opciones disponibles en el Centro de soporte.  
-* Si tiene una cuenta de soporte [premium](/docs/get-support/getstarttssup.html#premium-support) o [avanzado](/docs/get-support/getstarttssup.html#standard-support) podrá encontrar números de teléfono para obtener ayuda.
+* Si tiene un [plan de soporte](/docs/get-support/index.html) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
 * Si su cuenta se creó en el portal de cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y está enlazado entre servicios PaaS e IaaS, también puede acceder a las opciones **Call US** y **Chat Now** para llamar al soporte o para iniciar una sesión de chat.
 
 El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar una incidencia.
@@ -123,31 +123,27 @@ Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojad
 
 Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todas las incidencias de soporte futuras que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Las incidencias abiertas antes de establecer esta opción no se ven afectadas. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
 
-Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Consulte [Habilitación de la opción Soporte en la UE](/docs/pricing/eusupported.html#bill_eusupported) para obtener más información.
+Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Consulte [Habilitación de la opción Soporte en la UE](/docs/billing-usage/eusupported.html) para obtener más información.
 
 Si es un cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no tiene una cuenta enlazada, puede establecer la opción **Soporte en la UE** desde la ventana Perfil de cuenta del portal del cliente. Consulte [Definición de la opción Soporte en la UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) para obtener más información.
 
 ### Servicios con soporte en la UE
 {: #eusupportedservices}
 
-Después de establecer la opción **Soporte en la UE**, también puede aprovecharse de controles adicionales para dar soporte y trabajar con {{site.data.keyword.Bluemix_notm}} desde la Unión Europea. Todos los planes, excepto Lite, para los siguientes servicios están alojados en Europa y tienen disponible soporte en la UE:
+Después de establecer la opción **Soporte en la UE**, también puede aprovecharse de controles adicionales para dar soporte y trabajar con servicios de {{site.data.keyword.Bluemix_notm}} desde la Unión Europea. Puede filtrar la búsqueda de servicios de plataforma con los planes soportados del catálogo de {{site.data.keyword.Bluemix_notm}}. Para ver los planes de un servicio de plataforma con soporte en la UE, complete los pasos siguientes:
+  1. Abra el catálogo de [{{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/catalog/){: new_window}.
+  2. Pulse en el botón **Filtro**.
+  3. Seleccione **Soporte en la UE** de la lista desplegable. Con el filtro Soporte en la UE establecido, verá solo los servicios de las categorías **Infraestructura** y **Plataforma** que tienen planes con soporte en la UE.
+  4. Seleccione el servicio que desee. Verá que algunas regiones y planes del servicio tienen soporte en la UE.
+  5. Para ver los planes del servicio con soporte en la UE, seleccione la región correcta de la lista desplegable **Seleccionar una región/ubicación de despliegue**. Por ejemplo, para ver los planes de un servicio de plataforma con soporte en la UE, seleccione Alemania como región. A continuación, podrá ver los planes de precio del servicio etiquetados como **Soporte en la UE**.
 
-Los servicios de infraestructura de {{site.data.keyword.Bluemix_notm}} en las siguientes categorías:
+Todos los planes, excepto los planes Lite, de las categorías siguientes de los servicios de infraestructura de {{site.data.keyword.Bluemix_notm}} se alojan en Europa y están disponibles con soporte en la UE:
+
   * Compute
   * Almacenamiento
   * Red
   * Contenedores
 
-Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} en las siguientes categorías (solo región de Alemania):
-  * Contenedores
-  * Apps de Cloud Foundry
-
-Los servicios de plataforma {{site.data.keyword.Bluemix_notm}} (solo región de Alemania):
-  * Datos y análisis: Compose (todas las versiones) y {{site.data.keyword.cloudantfull}}
-  * DevOps: {{site.data.keyword.monitoringlong}}, {{site.data.keyword.loganalysislong}}, {{site.data.keyword.ghe_dedicated_short}} (solo {{site.data.keyword.Bluemix_notm}} dedicado)
-  * Servicios de aplicaciones: {{site.data.keyword.blockchainfull}}, {{site.data.keyword.messagehub_full}}, {{site.data.keyword.appserver_full}}
-  * API: {{site.data.keyword.apiconnect_long}}
-  * Seguridad: {{site.data.keyword.SecureGatewayfull}}
 
 ## Notificar una vulnerabilidad de seguridad potencial
 {: #report-security-vulnerability}

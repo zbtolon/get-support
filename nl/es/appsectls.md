@@ -160,7 +160,7 @@ Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.key
 
 #### Funciones
 
-* Funciones
+* Functions
 
 #### Integrar
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-10"
 
 ---
 
@@ -16,13 +16,13 @@ lastupdated: "2018-05-11"
 {:new_window: target="_blank"}
 
 
-# ¿Cómo puedo obtener una rápida respuesta a mi incidencia?
+# ¿Cómo puedo obtener una respuesta rápida a mi caso?
 {: #quicktickresp}
 
-Cuando se pone en contacto con el soporte y abre una incidencia de soporte, puede solicitar un nivel de gravedad específico, según el tipo y la urgencia del problema. El nivel de gravedad puede estar relacionado con la celeridad con la que se soluciona el problema.
+Cuando se pone en contacto con el soporte y abre un caso de soporte, puede solicitar un nivel de gravedad específico, según el tipo y la urgencia del problema. El nivel de gravedad puede estar relacionado con la celeridad con la que se soluciona el problema.
 {:shortdesc}
 
-Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Consulte [planes de soporte](/docs/get-support/index.html) para obtener más información sobre los niveles de planes de apoyo. Todas las incidencias se investigan para identificar y resolver la causa raíz del problema. Cuando se necesiten datos de diagnóstico del problema para determinar la causa raíz de un problema, se le solicita aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema.
+Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Consulte [planes de soporte](/docs/get-support/index.html) para obtener más información sobre los niveles de planes de apoyo. Todos los casos se investigan para identificar y resolver la causa raíz del problema. Cuando se necesiten datos de diagnóstico del problema para determinar la causa raíz de un problema, se le solicita aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema.
 
 ## Recopilación de información de diagnóstico
 {: #collecting-diagnostic-information}
@@ -50,16 +50,16 @@ Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguie
 ## Escalamiento de casos de soporte
 {: #escalation}
 
-Como cliente de {{site.data.keyword.Bluemix_notm}}, puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio. El proceso de escalamiento le permite emerger problemas críticos y expresar sus inquietudes cuando crea que su incidencia de soporte no se está resolviendo como es debido. Una vez que se haya escalado un caso, el gestor en servicio registra la información de la incidencia de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
+Como cliente de {{site.data.keyword.Bluemix_notm}}, puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio. El proceso de escalamiento le permite emerger problemas críticos y expresar sus inquietudes cuando crea que su caso de soporte no se está resolviendo como es debido. Una vez que se haya escalado un caso, el gestor en servicio registra la información del caso de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
 
-Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site.data.keyword.Bluemix_notm}} y debe haber abierto una incidencia de soporte para el problema. Asimismo, asegúrese de que el problema técnico está bien documentado en la incidencia de soporte que haya abierto.
+Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site.data.keyword.Bluemix_notm}} y debe haber abierto un caso de soporte para el problema. Asimismo, asegúrese de que el problema técnico está bien documentado en el caso de soporte que haya abierto.
 
  Para escalar un caso, complete los pasos siguientes:
 
-  1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat:
+  1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat.:
     * Si lo hace por teléfono, marque el número siguiente: 866-403-7638.
     * Si lo hace mediante el chat, desde el {{site.data.keyword.Bluemix_notm}} [Centro de soporte ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} o, si dispone de una cuenta de SoftLayer que no esté enlazada, desde el [portal de cliente ![Icono de enlace externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Proporcione el número de incidencia existente y solicite escalar el caso.
+  2. Proporcione el número de caso existente y solicite escalar el caso.
   3. Proporcione la justificación del escalamiento y el impacto empresarial de su caso.
 
 Los gestores de soporte de {{site.data.keyword.Bluemix_notm}} están en servicio y disponibles las 24 horas del día, todos los días de la semana. Los gestores en servicio utilizan los recursos adecuados para enfocar su caso y le informan sobre las acciones que se han realizado.
