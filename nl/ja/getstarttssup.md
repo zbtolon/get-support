@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-04-16"
 
 {{site.data.keyword.Bluemix_notm}} コンソールのサポート・センターから、{{site.data.keyword.Bluemix_notm}} コミュニティーやスタック・オーバーフロー (技術的問題の場合) など、サポート・オプションにアクセスできます。
 
-サポート・センターを使用して、サポート・オプションにアクセスできます。詳しくは、[サポート・センターの使用](/docs/get-support/howtogetsupport.html#using-avatar)を参照してください。 使用可能なサポートのレベルと、カスタマー・サポートに問い合わせるときにサポート・チケットに割り当てることのできる重大度は、アカウントに対して選択したサポート・プランのレベルによって決まります。詳しくは、『[チケットの割り当てと重みづけの方法](/docs/get-support/ticketweight.html#support-ticket-severity)』を参照してください。
+サポート・センターを使用して、サポート・オプションにアクセスできます。 詳しくは、[サポート・センターの使用](/docs/get-support/howtogetsupport.html#using-avatar)を参照してください。 使用可能なサポートのレベルと、サポート・チケットに割り当てることのできる重大度は、アカウントに選択したサポート・プランによって決まります。詳しくは、『[チケットの割り当てと重みづけの方法](/docs/get-support/ticketweight.html#support-ticket-severity)』を参照してください。
 
 ## {{site.data.keyword.Bluemix_notm}} サポートの満足度調査  
 {: #survey}

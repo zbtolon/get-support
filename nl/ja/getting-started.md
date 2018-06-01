@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -77,4 +77,4 @@ IBM ID の資格情報で {{site.data.keyword.Bluemix_notm}} コンソールに�
 ## 次のステップ
 {: #next-steps}
 
-サポート・チケットをオープンしてお客様サポートに問い合わせ、問題に関する支援を受ける場合は、そのプロセス全体を通じてサポート・チケットを管理できます。  詳しくは、[チケットの管理](/docs/get-support/mantick.html#check-ticket-status)を参照してください。
+サポート・チケットをオープンしてお客様サポートに問い合わせ、問題に関する支援を受ける場合は、そのプロセス全体を通じてサポート・チケットを管理できます。 詳しくは、[チケットの管理](/docs/get-support/mantick.html#check-ticket-status)を参照してください。

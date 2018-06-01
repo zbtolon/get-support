@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# 問題のトラブルシューティングを開始するには
+# 問題をトラブルシューティングするにはどうすればよいですか?
 {: #ts-overview}
 
-{{site.data.keyword.Bluemix}} の問題のトラブルシューティングに使用できるリソースは、数多くあります。 そうしたトラブルシューティング・リソースの 1 つとして、共通の問題と {{site.data.keyword.Bluemix_notm}} お客様サポート・チームによって提供された解決策を集めたリストがあります。
+{{site.data.keyword.Bluemix}} の問題のトラブルシューティングに使用できる多くのリソースがあります。そうしたトラブルシューティング・リソースの 1 つとして、一般的な問題と {{site.data.keyword.Bluemix_notm}} カスタマー・サポートチームが提供する解決策を集めたリストがあります。
 {:shortdesc}
 
 以下に、トラブルシューティングの手法の一部を示します。
