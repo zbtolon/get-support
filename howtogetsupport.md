@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-31"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -23,7 +23,7 @@ If you experience problems with {{site.data.keyword.Bluemix}}, you have several 
 
 If your account was created from the {{site.data.keyword.Bluemix_notm}} console, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. Accounts can be linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer_notm}} infrastructure services. If your SoftLayer account was created from the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is a linked account, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Linking IBMid user accounts](/docs/admin/softlayerlink.html#link_user_accounts).
 
-If your SoftLayer account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is not a linked account, you can open tickets from the customer portal. For more inforamtion, see [Getting support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
+If your SoftLayer account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is not a linked account, you can open tickets from the customer portal. For more information, see [Getting support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Using the Support Center
 {: #using-avatar}
@@ -66,27 +66,31 @@ You can open a ticket from the Support Center or from the menu bar of the {{site
 
 After you open a support ticket, you will receive an email notification in a few minutes for the ticket. Follow the instructions in the email for further communication on the issue.
 
-### Opening general technical support tickets
+You can open tickets for technical issues, account issues, or, if you have a a [linked account](/docs/account/softlayerlink.html#link_accounts), you can open a ticket for a sales inquiry.  
+
+### Opening technical support tickets
 {: #opentechticket}
 
 Complete the following steps to provide the required information in the ticket form to get help with your general technical issue:
-  1. Select **Technical** for the ticket type.
-  2. In the **Select a resource context** field, select one of the following options:
+  1. If you have a [linked account](/docs/account/softlayerlink.html#link_accounts), first select either **Infrastructure** or **Applications and services.**
+  2. Select **Technical** for the ticket type.
+  3. In the **Select a resource context** field, select one of the following options:
     * **Resource group** if you are having a problem with managing your resource groups. See [Managing resource groups](/docs/resources/resourcegroups.html#rgs) for more information.
     * **Cloud Foundry** if you are having a problem with a Cloud Foundry app deployment. See [How Cloud Foundry works with {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) for more information about deploying Cloud Foundry apps.
-  3. If you have premium or advanced level support, choose the severity level for your issue.
-  4. Complete the required information. The information that is required depends on the resource context that you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Click **Submit**.
+  4. If you have premium or advanced level support, choose the severity level for your issue.
+  5. Complete the required information. The information that is required depends on the resource context that you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Click **Submit**.
 
 ### Opening support tickets for account issues
 {: #openacctticket}
 
 Complete the following steps to provide the required information in the ticket form to get help with your account issue:
-  1. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
-  2. Select either option in the **Select a resource context** field to create the ticket. For either option, some fields in the ticket form are automatically populated with *Not applicable* because this is an account issue.
-  3. If you have premium or advanced level support, choose the severity level for your issue.
-  4. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Click **Submit**.
+  1. If you have a [linked account](/docs/account/softlayerlink.html#link_accounts), first select either **Infrastructure** or **Applications and services.**
+  2. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
+  3. Select either option in the **Select a resource context** field to create the ticket. For either option, some fields in the ticket form are automatically populated with *Not applicable* because this is an account issue.
+  4. If you have premium or advanced level support, choose the severity level for your issue.
+  5. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Click **Submit**.
 
 ### Other ways to open a support ticket
 {: #otheropenticksc}
