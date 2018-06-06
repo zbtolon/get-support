@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni per ottenere assistenza nel determinare la causa del problema e per trovare una soluzione.
 {:shortdesc}
 
-Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}} o se il tuo account SoftLayer è stato creato attraverso il portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account collegati sono collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e si servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
+Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}}, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account possono essere collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e i servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Se il tuo account SoftLayer è stato creato dal portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se il tuo account è un account SoftLayer che è stato creato nel portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) per ulteriori informazioni sull'apertura di ticket di supporto dal portale clienti.
+Se il tuo account SoftLayer è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, puoi aprire i ticket di supporto dal portale del cliente. Per ulteriori informazioni, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilizzo del Centro di supporto
 {: #using-avatar}
@@ -83,9 +83,9 @@ Completa la seguente procedura per fornire le informazioni richieste nel modulo 
 
 Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema con l'account:
   1. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente.
-  2. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. I campi associati all'opzione nel modulo del ticket sono automaticamente popolati con *Non applicabile* quando indichi che il ticket è per un problema con l'account nel passo successivo.
+  2. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. Per entrambe le opzioni, alcuni campi nel modulo del ticket vengono popolati automaticamente con *Non applicabile* perché si tratta di un problema relativo all'account.
   3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
-  4. Completa le informazioni obbligatori, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
+  4. Completa le informazioni obbligatorie, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Fai clic su **Inoltra**.
 
 ### Altri modi per aprire un ticket di supporto
@@ -110,7 +110,7 @@ Su richiesta, è disponibile un elenco di utenti dell'organizzazione che possono
 ## Richiesta di supporto per le risorse nell'Unione Europea
 {: #eusupported}
 
-Il supporto per l'Unione Europea (UE) è fornito 24 ore al giorno, 7 giorni alla settimana da ingegneri situati in Europa per i clienti che hanno selezionato l'opzione Supportato UE. I team globali forniscono supporto aggiuntivo solo a discrezione e sotto la direzione del team di supporto dell'UE. I team globali possono essere contattati, ad esempio, se i problemi non vengono risolti dal team di supporto di Livello 1 o Livello 2 nell'UE e sono necessarie competenze da un membro del team di supporto globale di Livello 3.
+Il supporto per l'Unione Europea (UE) è fornito 24 x 7 da ingegneri che si trovano in Europa per i clienti che scelgono l'opzione Supportato UE. I team globali forniscono supporto solo a discrezione e sotto la direzione del team di supporto dell'UE. I team globali potrebbero essere contattati, ad esempio, quando i problemi non vengono risolti dal team di supporto di Livello 1 o Livello 2 nell'UE e sono necessarie ulteriori competenze.
 
 Puoi specificare che desideri assistenza per il tuo account dal team di supporto che si trova fisicamente in Europa se i seguenti criteri sono veri:
   * Il tuo utente master o proprietario dell'account ha impostato l'opzione Supportato UE per il tuo account
@@ -123,17 +123,15 @@ L'impostazione dell'opzione **Supportato UE** per il tuo account si applica a tu
 
 Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fatturazione della console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Abilitazione dell'opzione Supportato UE](/docs/billing-usage/eusupported.html).
 
-Se sei un cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non hai un account collegato, puoi impostare l'opzione **Supportato UE** dalla finestra Profilo account del portale clienti. Per ulteriori informazioni, vedi [Impostazione dell'opzione Supportato UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported).
-
 ### Servizi supportati dall'UE
 {: #eusupportedservices}
 
-Dopo aver impostato l'opzione **Supportato UE**, puoi usufruire anche di controlli aggiuntivi per supportare e utilizzare i servizi {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Puoi filtrare la tua ricerca di servizi di piattaforma con i piani supportati nel catalogo {{site.data.keyword.Bluemix_notm}}. Per visualizzare i piani supportati dall'UE per un servizio della piattaforma, completa la seguente procedura:
+Dopo aver impostato l'opzione **Supportato UE**, puoi anche usufruire di controlli aggiuntivi per supportare e utilizzare i servizi {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Puoi filtrare la tua ricerca di servizi di piattaforma con i piani supportati nel catalogo {{site.data.keyword.Bluemix_notm}}. Per visualizzare i piani supportati dall'UE per un servizio della piattaforma, completa la seguente procedura:
   1. Apri il catalogo [{{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://console.bluemix.net/catalog/){: new_window}.
-  2. Fai clic sul pulsante **Filtro**.
+  2. Fai clic su **Filtro**.
   3. Seleziona**Supportato UE** dall'elenco a discesa. Con il filtro Supportato UE impostato, vedi solo i servizi nelle categorie **Infrastruttura** e **Piattaforma** che hanno dei piani supportati dall'UE.
   4. Selezionare il servizio che desideri. Puoi vedere che alcune regioni e alcuni piani per il servizio sono supportati dall'UE.
-  5. Per visualizzare i piani supportati dall'UE per il servizio, seleziona la regione corretta dall'elenco a discesa **Scegli una regione/ubicazione in cui distribuire**. Ad esempio, per visualizzare i piani supportati dall'UE per un servizio della piattaforma, seleziona Germania come regione. Puoi quindi vedere i piani prezzi per il servizio che hanno un'etichetta **Supportato UE**.
+  5. Per visualizzare i piani supportati dall'UE per il servizio, seleziona la regione corretta dall'elenco a discesa **Scegli una regione/ubicazione in cui distribuire**. Ad esempio, per visualizzare i piani supportati dall'UE per un servizio della piattaforma, seleziona Germania come regione. Puoi quindi vedere i piani dei prezzi per i servizi etichettati come **Supportato UE**.
 
 Tutti i piani, tranne i piani Lite, per le seguenti categorie di servizi di infrastruttura {{site.data.keyword.Bluemix_notm}} sono ospitati in Europa e disponibili come supportati dall'UE:
 
@@ -146,11 +144,11 @@ Tutti i piani, tranne i piani Lite, per le seguenti categorie di servizi di infr
 ## Notifica di una vulnerabilità di sicurezza potenziale
 {: #report-security-vulnerability}
 
-Se ritieni che si sia verificata una potenziale vulnerabilità di sicurezza {{site.data.keyword.Bluemix_notm}}, segnalala aprendo un ticket di supporto.
+Se noti una potenziale vulnerabilità di sicurezza {{site.data.keyword.Bluemix_notm}}, segnalala aprendo un ticket di supporto.
 
 Per notificare una vulnerabilità di sicurezza potenziale, completa la seguente procedura:
 1. Apri un ticket di severità 1 o un ticket di un alto livello di severità consentito dal tuo supporto. Per informazioni su come aprire un ticket, consulta [Apertura di un ticket di supporto](/docs/get-support/howtogetsupport.html#open-ticket).
 2. Descrivi chiaramente nel riepilogo del ticket che riguarda una vulnerabilità di sicurezza potenziale.
 3. Fornisci i dettagli della vulnerabilità di sicurezza potenziale includendo una delle seguenti voci:
     * Un numero di telefono in cui puoi essere raggiunto per discutere del problema.
-    * I dettagli del problema. Devi crittografare i dettagli come un blocco di testo nel corpo del ticket e fornire le istruzioni su come il supporto IBM può contattarti in sicurezza per ottenere le istruzioni di decrittografia.
+    * I dettagli del problema. Devi crittografare i dettagli come un blocco di testo nel corpo del ticket. Devi anche fornire istruzioni su come il supporto IBM può contattarti in modo sicuro per ottenere istruzioni sulla decrittografia.

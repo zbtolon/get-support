@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -22,31 +22,26 @@ lastupdated: "2018-05-11"
 Quando contatti il supporto e apri un ticket, puoi richiedere un determinato livello di severità, a seconda del tipo e dell'urgenza del problema. Il livello di severità può incidere sulla rapidità con cui viene affrontato il tuo problema.
 {:shortdesc}
 
-Puoi definire la severità del problema in base alle tue esigenze di business e al tuo livello di supporto. Consulta [Piani di supporto](/docs/get-support/index.html) per ulteriori informazioni sui livelli di piani di supporto. Tutti i ticket vengono esaminati per identificare e risolvere la causa principale del problema. Se sono richiesti i dati diagnostici del problema per determinarne la causa principale, ti viene chiesta l'approvazione per accedere ai file di log e ad altri dati per la determinazione del problema dalla tua applicazione. Senza questi dati, la risoluzione del problema potrebbe richiedere più tempo.
+Puoi definire la severità del problema in base alle tue esigenze di business e al tuo livello di supporto. Per ulteriori informazioni sui livelli dei piani di supporto, vedi [Piani di supporto](/docs/get-support/index.html). Tutti i ticket vengono esaminati per identificare e risolvere la causa principale del problema. Quando il team di supporto ha bisogno dei dati diagnostici del problema per determinarne la causa principale, ti viene richiesta l'approvazione per accedere ai file di log e ad altri dati per la determinazione dei problemi dalla tua applicazione. Senza questi dati, la risoluzione del problema potrebbe richiedere più tempo.
 
 ## Raccolta delle informazioni di diagnostica
 {: #collecting-diagnostic-information}
 
-Per diagnosticare e risolvere i problemi con le applicazioni e i servizi {{site.data.keyword.Bluemix_notm}},
-il team di supporto {{site.data.keyword.Bluemix_notm}}
-potrebbe chiederti di raccogliere informazioni di diagnostica. Utilizza le seguenti istruzioni per raccogliere e fornire le informazioni richieste il più rapidamente possibile.
+Per diagnosticare e risolvere i problemi con le applicazioni e i servizi {{site.data.keyword.Bluemix_notm}}, il team di supporto {{site.data.keyword.Bluemix_notm}} potrebbe richiedere informazioni di diagnostica. Utilizza le seguenti istruzioni per raccogliere e fornire le informazioni richieste il più rapidamente possibile.
 
 Prima di raccogliere le informazioni di diagnostica, completa la
 seguente procedura:
 
-1. Assicurati di aver installato l'interfaccia riga di comando cf più recente. Per ulteriori informazioni, vedi [Installing the cf
-command line interface](/docs/starters/install_cli.html).
->**Nota:** se non hai installato l'interfaccia riga di comando cf più recente, dopo aver connesso la riga di comando cf a {{site.data.keyword.Bluemix_notm}}, il comando `cf logs` potrebbe non restituire alcun input.
-2. Assicurati di aver connesso l'interfaccia riga di comando cf alla posizione in cui {{site.data.keyword.Bluemix_notm}} è
-in esecuzione utilizzando il comando `cf api`.
+1. Assicurati di aver istallato la versione più recente dell'interfaccia riga di comando Cloud Foundry. Per ulteriori informazioni, vedi [Installazione dell'interfaccia riga di comando Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** se non disponi della versione più recente, dopo aver connesso la riga di comando Cloud Foundry a {{site.data.keyword.Bluemix_notm}}, il comando `cf logs` potrebbe non restituire alcun output.
+2. Assicurati di aver connesso l'interfaccia riga di comando Cloud Foundry alla posizione in cui {{site.data.keyword.Bluemix_notm}} è in esecuzione utilizzando il comando `cf api`.
 
 Utilizza uno sei seguenti script per raccogliere le informazioni di diagnostica:
 
   * Per i sistemi operativi Windows, scarica il file [bmdiag-general.bat ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ed eseguilo.
   * Per i sistemi operativi Linux e Mac, scarica il file [bmdiag-general.sh ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ed eseguilo.
 
-Gli script utilizzano l'interfaccia riga di comando cf per estrarre
-le seguenti informazioni dal tuo ambiente applicativo:
+Gli script utilizzano l'interfaccia riga di comando Cloud Foundry per estrarre le seguenti informazioni dall'ambiente dell'applicazione:
   * Log dell'applicazione
   * Metadati dell'applicazione
   * Rotte configurate
@@ -56,9 +51,9 @@ le seguenti informazioni dal tuo ambiente applicativo:
 ## Escalation dei casi di supporto
 {: #escalation}
 
-Come cliente {{site.data.keyword.Bluemix_notm}}, puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {{site.data.keyword.Bluemix_notm}} in servizio. Il processo di escalation ti consente di dare rilievo ai problemi critici e anche di esprimere la tua preoccupazione se ritieni che non ci si stia occupando in modo adeguato del tuo ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il responsabile in servizio riesamina le informazioni nel ticket di supporto, coinvolge i membri appropriati del team tecnico di supporto {{site.data.keyword.Bluemix_notm}} e ti fornisce gli aggiornamenti appropriati.
+Come cliente {{site.data.keyword.Bluemix_notm}}, puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {{site.data.keyword.Bluemix_notm}} in servizio. Utilizza il processo di escalation per dare rilievo ai problemi critici o se ritieni che il tuo ticket di supporto non venga affrontato adeguatamente. Quando un caso viene inoltrato al livello superiore, il responsabile in servizio riesamina le informazioni nel ticket di supporto, coinvolge i membri appropriati del team tecnico di supporto {{site.data.keyword.Bluemix_notm}} e ti fornisce gli aggiornamenti appropriati.
 
-Per eseguire l'escalation di un caso di supporto, devi disporre di un supporto avanzato o premium {{site.data.keyword.Bluemix_notm}} e devi aver aperto un ticket di supporto per il problema. Assicurati inoltre che il problema tecnico sia ben documentato nel ticket di supporto da te aperto.
+Per eseguire l'escalation di un caso di supporto, devi disporre di un supporto avanzato o premium {{site.data.keyword.Bluemix_notm}} e devi avere un ticket di supporto per il problema. Inoltre, assicurati di aver fornito una descrizione dettagliata del problema tecnico nel ticket di supporto che hai aperto.
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 
@@ -74,6 +69,6 @@ I responsabili del supporto {{site.data.keyword.Bluemix_notm}} sono in servizio 
 ## Orario di operatività
 {: #support-hours-operation}
 
-I problemi di severità 1 vengono monitorati 24 ore al giorno, ogni giorno della settimana. Gli invii dei moduli per problemi con tutti gli altri livelli di severità vengono monitorati dalla domenica alle 21:30 UTC al venerdì alle 23:59 UTC.
+I problemi di severità 1 vengono monitorati 24 ore al giorno, ogni giorno della settimana. I moduli inviati per problemi con tutti gli altri livelli di severità vengono monitorati dalla domenica alle 21:30 UTC al venerdì alle 23:59 UTC.
 
 Per assistenza nella conversione di queste ore di supporto al tuo fuso orario locale, vedi [Timeanddate.com ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.timeanddate.com).

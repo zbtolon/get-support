@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,10 +34,10 @@ Se hai un account collegato, potresti non essere in grado di aggiungere o modifi
 Non riesci a creare o modificare i ticket di supporto in {{site.data.keyword.Bluemix_notm}}.
 {: tsSymptoms}
 
-I problemi generali relativi all'accesso e alla gestione dei ticket di supporto, se disponi di un account collegato, potrebbero essere causati dalla mancanza di impostazioni account più dettagliate nel {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Poiché ci sono autorizzazioni più specifiche che devono essere configurate sugli account creati nel {{site.data.keyword.slportal}}, potresti non essere in grado di aggiungere o modificare i ticket di supporto.
+I problemi generali relativi all'accesso e alla gestione dei ticket di supporto, se disponi di un account collegato, potrebbero essere causati dalla mancanza di impostazioni account più dettagliate nel {{site.data.keyword.slportal}} {{site.data.keyword.Bluemix_notm}}. Poiché è necessario configurare autorizzazioni più dettagliate sugli account creati nel portale del cliente, potresti non essere in grado di aggiungere o modificare i ticket di supporto.
 {: tsCauses}
 
-Per correggere il problema, contatta il tuo amministratore dell'account {{site.data.keyword.slportal}} per impostare l'accesso appropriato sul tuo account. L'amministratore dell'account {{site.data.keyword.slportal}} può correggere il problema utilizzando la seguente procedura:
+Per correggere il problema, contatta il tuo amministratore dell'account {{site.data.keyword.slportal}} per impostare l'accesso appropriato sul tuo account. L'amministratore dell'account {{site.data.keyword.slportal}} può utilizzare la seguente procedura per correggere il problema:
 
 1. Dal menu **Account** {{site.data.keyword.slportal}}, seleziona **Utenti**.
 2. Seleziona l'utente dall'elenco.

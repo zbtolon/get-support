@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -26,8 +26,7 @@ Nella pagina Stato, puoi trovare le seguenti informazioni:
   * Un elenco di annunci, in ordine cronologico, per la manutenzione
 e gli eventi imprevisti. Puoi filtrare l'elenco o aprire un singolo annuncio
 per ulteriori dettagli.
-  * Finestre di manutenzione pianificata, che vengono pubblicate con almeno 24 ore
-di anticipo, tranne che in casi estremi.
+  * Finestre di manutenzione pianificata per le quali è fornito un preavviso, tranne in circostanze estreme.
   * Interruzioni o eventi imprevisti non pianificati, che vengono pubblicati non appena il team di {{site.data.keyword.Bluemix_notm}} ne
 viene a conoscenza. Le notifiche sugli eventi imprevisti vengono regolarmente aggiornati finché non
 vengono risolti.
@@ -89,8 +88,7 @@ metodi:
     * Fai clic con il tasto destro del mouse sull'icona RSS, seleziona **Copia indirizzo link** e incolla l'URL
 nel tuo lettore RSS.
 
-Per ulteriori informazioni, vedi la sezione **Guida** del
-tuo lettore. 	   
+Per ulteriori informazioni, vedi la sezione della **Guida** del tuo lettore. 	   
 
 Altri metodi di lettura dei feed RSS sono disponibili tramite plug-in del browser Web come:
   * [RSS Feed ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://feeder.co/){: new_window} Reader for Chrome
