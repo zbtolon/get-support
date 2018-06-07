@@ -22,12 +22,13 @@ Getting support
         ticketweight.md
         quicktickresp.md
 
-    {: .navgroup id="reference"}
-    bxnui.md
-
     {: .topicgroup}
     Known issues
         appsectls.md
+    {: .navgroup-end}
+    
+    {: .navgroup id="reference"}
+    bxnui.md
     {: .navgroup-end}
 
     {: .navgroup id="help"}
