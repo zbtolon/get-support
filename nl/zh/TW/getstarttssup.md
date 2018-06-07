@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-04-16"
 
 您可以從 {{site.data.keyword.Bluemix_notm}} 主控台「支援中心」存取技術問題的支援選項（例如 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow）。
 
-您可以使用「支援中心」來存取您的支援選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support/howtogetsupport.html#using-avatar)。您為帳戶所選取的支援方案層次，決定了您可用的支援層次，以及在聯絡客戶支援中心時可以指派給支援問題單的嚴重性。如需相關資訊，請參閱[如何指派及加權問題單？](/docs/get-support/ticketweight.html#support-ticket-severity)
+您可以使用「支援中心」來存取您的支援選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support/howtogetsupport.html#using-avatar)。您為帳戶所選取的支援方案，決定了可用的支援層次，以及可以指派給支援問題單的嚴重性。如需相關資訊，請參閱[如何指派及加權問題單？](/docs/get-support/ticketweight.html#support-ticket-severity)
 
 ## {{site.data.keyword.Bluemix_notm}} 支援中心的滿意度意見調查  
 {: #survey}

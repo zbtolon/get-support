@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-02-12"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -17,29 +17,29 @@ lastupdated: "2018-02-12"
 # 撤銷 TLS 1.0 及 1.1 支援
 {: #tlssupportwithdraw}
 
-IBM 將在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS 1.1 支援。針對撤銷 TLS 1.0 及 1.1 支援的任何 {{site.data.keyword.Bluemix_notm}} 產品或服務，將會繼續支援 TLS 1.2。
+IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS 1.1 支援。針對撤銷 TLS 1.0 及 1.1 支援的任何 {{site.data.keyword.Bluemix_notm}} 產品或服務，支援 TLS 1.2。
 {:shortdesc}
 
-## 為什麼進行這項變更？
+## TLS 版本支援為何變更？
 {: #why}
 
-這是 IBM 對於提供雲端徹底安全且符合業界在安全及資料隱私方面之最佳作法的承諾的一部分。
+變更 TLS 版本支援，可提供安全的雲端環境，並且符合在安全及資料隱私方面的業界最佳作法。
 
 ## 何謂 TLS？
 {: #what}
 
-我們使用 [TLS 通訊協定 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 來加密透過網路的通訊，以確保傳輸的資料能維持私密。有三個已發行的 TLS 版本：1.0、1.1 及 1.2。所有 HTTPS 連線都會使用 TLS。HTTPS 是確定您與 {{site.data.keyword.Bluemix_notm}} 產品及服務的連線受信任且安全時，主要的方法。某些 {{site.data.keyword.Bluemix_notm}} 產品及服務容許使用 WebSocket Secure (WSS) 通訊協定來進行安全連線，而該通訊協定也使用 TLS。撤銷 TLS 1.0 及 1.1 支援同時涵蓋 HTTPS 和 WSS 連線。
+我們使用 [TLS 通訊協定 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 來加密透過網路的通訊，以確保傳輸的資料能維持私密。TLS 已發行下列版本：1.0、1.1 及 1.2。所有 HTTPS 連線都會使用 TLS。HTTPS 是確定您與 {{site.data.keyword.Bluemix_notm}} 產品及服務的連線受信任且安全時，主要的方法。某些 {{site.data.keyword.Bluemix_notm}} 產品及服務容許使用 WebSocket Secure (WSS) 通訊協定來進行安全連線，而該通訊協定也使用 TLS。撤銷 TLS 1.0 及 1.1 支援同時涵蓋 HTTPS 和 WSS 連線。
 
 ## 我需要採取哪些動作，才能確保我不會受到影響？
 {: #impact}
 
-絕大多數對 {{site.data.keyword.Bluemix_notm}} 產品或服務所進行的連線已使用 TLS 1.2。如果您的連線不需要 TLS 1.0 或 1.1，則您不會受到影響。
+對 {{site.data.keyword.Bluemix_notm}} 產品或服務進行的大部分連線已使用 TLS 1.2。如果您的連線不需要 TLS 1.0 或 1.1，則您不會受到影響。
 
 如果您使用任何即將撤銷 TLS 1.0 或 1.1 支援的產品或服務，則必須確認您的連線不需要 TLS 1.0 或 1.1。
 
 ### {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry
 
-針對 Cloud Foundry 應用程式，您需要確認在下列情況下不會受到影響：從 {{site.data.keyword.Bluemix_notm}} 外連接至應用程式，或是從應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上的另一個 Cloud Foundry 應用程式。
+針對 Cloud Foundry 應用程式，您需要確認從 {{site.data.keyword.Bluemix_notm}} 外連接至您的應用程式不受影響。另請確認從您的應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上的另一個 Cloud Foundry 應用程式不受影響。
 
 所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。當今所有的瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的瀏覽器。
 {: tip}
@@ -48,32 +48,36 @@ IBM 將在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 
 
 `*.mybluemix.net` 網域上的所有 Cloud Foundry 應用程式端點，都可以透過只支援 TLS 1.2 的替代端點進行存取。
 
-若要使用替代端點，請在應用程式子網域的後面新增 `alt.`，例如，如果您的應用程式是在 `https://myapplication.mybluemix.net` 進行管理，則請使用 `https://myapplication.alt.mybluemix.net`。或者，針對 `https://myapplication.eu-gb.mybluemix.net`，使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
+若要使用替代端點，請在應用程式的子網域之後新增 `alt.`。例如，如果您的應用程式是在 `https://myapplication.mybluemix.net` 進行管理，則請使用 `https://myapplication.alt.mybluemix.net`。或者，針對 `https://myapplication.eu-gb.mybluemix.net`，使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
 
-如果您能夠順利連接至替代端點，將不會受到影響。
+如果您能夠順利連接至替代端點，便不受影響。
 
-如果您無法順利連接，則會受到影響，而且必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
+如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
 #### Cloud Foundry 應用程式之間的連線
 
-使用下列指令，即可將 Cloud Foundry 應用程式配置為在連接至其他應用程式時，自動重新導向至 `*.mybluemix.net` 網域上可用的替代端點：
+使用下列指令，將 Cloud Foundry 應用程式配置為在連接至其他應用程式時，自動重新導向至 `*.mybluemix.net` 網域上可用的替代端點：
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
-將 `BLUEMIX_TLS10_DISABLED` 設為 `true` 之後，必須使用下列指令來重新編譯打包您的應用程式，這項變更才會生效：
+將 `BLUEMIX_TLS10_DISABLED` 設為 `true` 之後，您必須使用下列指令來重新編譯打包您的應用程式，這項變更才會生效：
 ```
 cf restage <application_name>
 ```
 
 在您進行這些變更之後，來自應用程式的任何出埠要求都會重新導向至僅限 TLS 1.2 的替代端點。
 
-若要使用替代端點，您的用戶端必須支援「伺服器名稱指示 (SNI)」TLS 延伸規格。否則，您的用戶端可能會將傳回的憑證視為無效。如果發生此情況，您可能會不正確地假設您受到 TLS 1.0 及 1.1 移除作業的影響。
+若要使用替代端點，您的用戶端必須支援「伺服器名稱指示 (SNI)」TLS 延伸規格。否則，您的用戶端可能會將傳回的憑證視為無效，且您可能會不正確地假設您受到 TLS 1.0 及 1.1 移除作業的影響。
 {: tip}
 
 ### Watson 產品及服務
 
-針對使用 `gateway.watsonplatform.net` 或 `stream.wastonplatform.net` 所連接的 Watson 產品及服務，請將這些項目取代為 `gateway-tls12.watsonplatform.net` 或 `stream-tls12.watsonplatform.net`。這些替代端點僅支援 TLS 1.2。如果您能夠順利連接至這些端點，則不會受到影響。如果您無法順利連接，則會受到影響，而且必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
+若為 Watson 產品和服務，請對您的連線進行下列取代：
+  * 將 `gateway.watsonplatform.net` 取代為 `gateway-tls12.watsonplatform.net`
+  * 將 `stream.wastonplatform.net` 取代為 `stream-tls12.watsonplatform.net`
+
+這些替代端點僅支援 TLS 1.2。如果您能夠順利連接至這些替代端點，便不受影響。如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
 非美國南部地區中的 Watson 產品及服務，未提供替代端點，因為這些端點僅支援 TLS 1.2。
 
@@ -91,7 +95,7 @@ cf restage <application_name>
 
 多個地區可能會提供部分產品或服務（例如 {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 及 {{site.data.keyword.Bluemix_notm}} 型錄中的服務）。將在目前支援 TLS 1.0 及 1.1 的所有地區中移除 TLS 1.0 及 1.1。
 
-**重要注意事項：**{{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
+**重要注意事項：**「{{site.data.keyword.Bluemix_notm}} 專用」或「{{site.data.keyword.Bluemix_notm}} 本端系統」部署或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
 
 ### 可從 {{site.data.keyword.Bluemix_notm}} 型錄取得的產品或服務
 
@@ -204,7 +208,7 @@ cf restage <application_name>
 * Tradeoff Analytics‡
 
 \* 在 {{site.data.keyword.Bluemix_notm}} 型錄的實驗性服務下提供。  
-† 已移除 TLS 1.0，將僅移除 TLS 1.1。  
+† 先前已移除 TLS 1.0，將僅移除 TLS 1.1。  
 ‡ 已淘汰，只有現有客戶才能使用。
 
 ### 可透過 IBM Marketplace 取得的產品或服務
@@ -225,21 +229,25 @@ cf restage <application_name>
 ## 未列出我的產品或服務時，該怎麼辦？
 {: #tlsprodnotlisted}
 
-您的產品或服務可能已經僅支援 TLS 1.2，或目前可能不會移除 TLS 1.0 及 1.1。您可以使用各種可用的用戶端及線上工具，來檢查產品或服務的端點是否支援 TLS 1.0 及 1.1。
+您的產品或服務可能已經僅支援 TLS 1.2，或是目前可能不會移除 TLS 1.0 及 1.1。您可以使用各種可用的用戶端及線上工具，來檢查產品或服務的端點是否支援 TLS 1.0 及 1.1。
 
 ## 在撤銷支援之後，是否有方法可以繼續使用 TLS 1.0 或 1.1？
 {: #tlskeepusing}
 
-部分產品及服務會提供替代端點，以在從主要端點移除 TLS 1.0 及 1.1 之後繼續支援 TLS 1.0 及 1.1。
+部分產品及服務會啟用替代端點，以在從主要端點移除 TLS 1.0 及 1.1 之後繼續支援 TLS 1.0 及 1.1。
 
 ### {{site.data.keyword.Bluemix_notm}} 基礎架構
 
-從支援 TLS 1.0 及 1.1 的 `api.softlayer.com` 及 `api.service.softlayer.com` 替代端點中移除 TLS 1.0 及 1.1 支援時，將會公告替代端點並提供使用 30 天。
+從 `api.softlayer.com` 及 `api.service.softlayer.com` 移除 TLS 1.0 及 1.1 支援時，將會公告替代端點並提供使用 30 天。
 
 ### Watson 產品及服務
 {: #watsonprodservices}
 
-如果您需要在撤銷支援之後於連接至 Watson 產品及服務時繼續使用 TLS 1.0 或 1.1，可以將 `gateway.watsonplatform.net` 取代為 `gateway-tls10.wastonplatform.net`，或將 `stream.watsonplatform.net` 取代為 `stream-tls10.watsonplatform.net`。`gateway-tls10.watsonplatform.net` 及 `stream-tls10.watsonplatform.net` 支援 TLS 1.0、1.1 及 1.2，而且將在從 `gateway.watsonplatform.net` 及 `stream.watsonplatform.net` 移除 TLS 1.0 及 1.1 之後供您繼續使用。
+若要在支援撤銷後，繼續使用 TLS 1.0 或 1.1 連接至 Watson 產品和服務，您可以進行下列其中一個取代：
+  * 將 `gateway.watsonplatform.net` 取代為 `gateway-tls10.wastonplatform.net`
+  * 將 `stream.watsonplatform.net` 取代為 `stream-tls10.watsonplatform.net`
+
+您可以在從 `gateway.watsonplatform.net` 和 `stream.watsonplatform.net` 移除 TLS 1.0、1.1 及 1.2 之後，繼續使用 `gateway-tls10.watsonplatform.net` 和 `stream-tls10.watsonplatform.net` 以支援這些版本的 TLS。
 
 ## 聯繫
 {: #tlssupport}

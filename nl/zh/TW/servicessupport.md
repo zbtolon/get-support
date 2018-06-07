@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-19"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -33,21 +33,21 @@ lastupdated: "2018-04-19"
 ## IBM 測試版服務
 {: #s-services-betaorcont}
 
-IBM 發行分類為測試版的服務或容器映像檔。這些服務在開發試用階段，並未就緒進入正式作業。測試版可協助 IBM 開發及行銷團隊評量服務在市場中的價值，並在可能將它發行為正式發行服務或容器映像檔之前進行調整。
+IBM 發行分類為測試版的服務或容器映像檔。這些服務在開發試用階段，並未就緒進入正式作業。測試版可協助 IBM 開發及行銷團隊評量服務在市場中的價值。此評量可讓團隊在將其發行為一般可用的服務或容器映像檔之前進行調整。
 
-如果主要原因分析判定問題是 IBM 測試版服務或容器映像檔中的錯誤，則 IBM 不負責提供修正程式。此外，會視情況將嚴重性 3 或 4 指派給此問題單。
+如果主要原因分析判定問題是 IBM 測試版服務或容器映像檔中的錯誤，則 IBM 不負責提供修正程式。此外，會將適當的嚴重性 3 或 4 指派給此問題單。
 
 ## IBM 實驗性服務
 {: #s-services-exporcont}
 
-IBM 發行分類為實驗性的服務或容器映像檔，您可以進行試用。若要檢視所有可用的實驗性服務、樣板及運行環境，請登入 {{site.data.keyword.Bluemix_notm}} 主控台，按一下**型錄**，捲動至型錄底端，然後按一下 **{{site.data.keyword.Bluemix_notm}} 實驗性服務**。這些服務可能不穩定、經常變更而與舊版不相容，並且可能會在通知之後短時間內即停止使用。不建議在正式作業環境中使用這些服務。
+IBM 發行分類為實驗性的服務或容器映像檔，您可以進行試用。若要檢視所有可用的實驗性服務、樣板及運行環境，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。然後，按一下**型錄**、捲動至型錄結尾，再按一下 **{{site.data.keyword.Bluemix_notm}} 實驗性服務**。這些服務可能不穩定、經常變更而與舊版不相容，並且可能會在通知之後短時間內即停止使用。不建議在正式作業環境中使用這些服務。
 
-對於分類為實驗性的服務，您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得技術問題的社群協助，並且透過 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} 取得其他問題的社群協助。如果是由 IBM 調查問題，且該問題經判定為實驗性服務中的錯誤，則 IBM 不負責提供修正程式。
+您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得實驗性服務技術問題的社群協助，並且透過 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} 取得其他問題的社群協助。如果問題為實驗性服務中的錯誤，IBM 不負責提供修正程式。
 
 ## 協力廠商服務
 {: #s-services-3p}
 
-協力廠商服務是由 IBM 外部的供應商所提供。這些服務是由個別軟體實體、合作夥伴或獨立軟體供應商 (ISV) 所提供。
+協力廠商服務是由 IBM 外部的供應商所提供。這些服務是由個別軟體實體、IBM 事業夥伴或獨立軟體供應商 (ISV) 所提供。
 
 協力廠商服務支援是由服務提供者所提供。如果主要原因分析判定問題是協力廠商服務中的錯誤，IBM 不負責提供修正程式。不過，IBM 會與協力廠商服務提供者分享分析結果，並視需要透過 Marketplace 與協力廠商服務一起合作，來協助解決問題。
 

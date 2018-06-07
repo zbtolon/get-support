@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -24,7 +24,7 @@ lastupdated: "2018-01-16"
 
   * 所有 {{site.data.keyword.Bluemix_notm}} Foundry Service 地區中服務及元件的現行狀態。
   * 維護及突發事件的公告清單（依時間順序）。您可以過濾清單，或開啟個別公告以取得其他詳細資料。
-  * 計劃性的維護時間，除非是極端情況，否則至少會提前 24 小時張貼。
+  * 提供事先通知的計劃維護時間範圍，但在極端情況下除外。
   * 非計劃性的突發事件或運作中斷，{{site.data.keyword.Bluemix_notm}} 團隊一發現就會立即張貼。突發事件通知會定期更新，直到解決為止。
   * 影響各種 {{site.data.keyword.Bluemix_notm}} 服務或該平台的安全性公告的參照。
   * 符合您一般利益的其他平台層面公告。
@@ -77,8 +77,7 @@ lastupdated: "2018-01-16"
     * 將 RSS ![RSS](images/rss.svg) 圖示拖曳到您的 RSS 閱讀器。
     * 在 RSS 圖示上按一下滑鼠右鍵、選取**複製鏈結位址**，然後將 URL 貼入您的 RSS 閱讀器。
 
-如需相關資訊，請參閱閱讀器的**說明**區段。
- 	   
+如需相關資訊，請參閱閱讀器的**說明**區段。 	   
 
 透過類似下列的 Web 瀏覽器外掛程式，可以取得其他讀取 RSS 資訊來源的方法：
   * 適用於 Chrome 的 [RSS 資訊來源 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://feeder.co/){: new_window} 讀取器
