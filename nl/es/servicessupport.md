@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-19"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -33,21 +33,21 @@ Si el análisis de la causa raíz determina que el problema es un defecto en el 
 ## Servicio beta de IBM
 {: #s-services-betaorcont}
 
-IBM proporciona servicios o imágenes de contenedor clasificadas como releases beta. Estos servicios se encuentran en una etapa de prueba de desarrollo y no están listos para producción. Un release beta ayuda a los equipos de desarrollo y marketing de IBM a evaluar el valor del servicio en el mercado y a hacer ajustes antes de publicarlo como servicio o imagen de contenedor disponible a nivel general.
+IBM proporciona servicios o imágenes de contenedor clasificadas como releases beta. Estos servicios se encuentran en una etapa de prueba de desarrollo y no están listos para producción. Un release Beta ayuda a los equipos de desarrollo y de marketing de IBM a evaluar el valor del servicio en el mercado. Esta evaluación permite a los equipos realizar ajustes antes de ser liberado como un servicio o imagen de contenedor generalmente disponible.
 
-Si el análisis de la causa raíz determina que el problema es un defecto en el servicio o imagen de contenedor Beta de IBM, IBM no se verá obligado a proporcionar un arreglo. Además, se asignará a la incidencia la gravedad 3 o 4 según proceda.
+Si el análisis de la causa raíz determina que el problema es un defecto en el servicio o imagen de contenedor Beta de IBM, IBM no se verá obligado a proporcionar un arreglo. Además, la incidencia se asigna al nivel de gravedad 3 o 4 según proceda.
 
 ## Servicio experimental de IBM
 {: #s-services-exporcont}
 
-IBM publica servicios o imágenes de contenedor clasificados como experimentales para que los pueda probar. Para ver todos los servicios experimentales, contenedores modelo y tiempos de ejecución disponibles, inicie una sesión en la consola de {{site.data.keyword.Bluemix_notm}}, pulse **Catálogo**, desplácese hasta el final del catálogo y pulse **Servicios experimentales de {{site.data.keyword.Bluemix_notm}}**. Estos servicios pueden ser inestables o cambiar con frecuencia de formas que podrían provocar que no sea compatible con versiones anteriores y pueden retirarse previo aviso con poca antelación. No se recomienda utilizar estos servicios en entornos de producción.
+IBM publica servicios o imágenes de contenedor clasificados como experimentales, para que los pueda probar. Para ver todos los servicios experimentales, contenedores modelo y tiempos de ejecución disponibles, inicie una sesión en la consola de {{site.data.keyword.Bluemix_notm}}.  A continuación, pulse **Catálogo**, desplácese hasta el final del catálogo y pulse **Servicios experimentales de {{site.data.keyword.Bluemix_notm}}**. Estos servicios pueden ser inestables o cambiar con frecuencia de formas que podrían provocar que no sea compatible con versiones anteriores y pueden retirarse previo aviso con poca antelación. No se recomienda utilizar estos servicios en entornos de producción.
 
-Puede obtener ayuda de la comunidad para problemas técnicos, para servicios clasificados como experimentales mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [dW Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}. Si IBM investiga un problema y se determina que el problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
+Puede obtener asistencia de comunidad para errores técnicos para servicios experimentales mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [dW Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}. Si un problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
 
 ## Servicio de un tercero
 {: #s-services-3p}
 
-Los servicios de terceros los ofrecen proveedores externos a IBM. Estos servicios los proporcionan entidades de software, asociados o proveedores de software independientes (ISV) individuales.
+Los servicios de terceros los ofrecen proveedores externos a IBM. Estos servicios los proporcionan entidades de software, Business Partners de IBM o proveedores de software independientes (ISV) individuales.
 
 El soporte para servicios de terceros está proporcionado por un proveedor de servicios. Si el análisis de la causa raíz determina que el problema es un defecto en un servicio de un tercero, IBM no se verá obligado a proporcionar un arreglo. Sin embargo, IBM compartirá el análisis con un proveedor de servicios de terceros, si es necesario, y podrá trabajar mediante Marketplace con el servicio de terceros para ayudar a solucionar el problema.
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-02-12"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -17,29 +17,29 @@ lastupdated: "2018-02-12"
 # Retirada de soporte para TLS 1.0 y 1.1
 {: #tlssupportwithdraw}
 
-IBM retirará el soporte para TLS 1.0 y TLS 1.1 en muchos productos y servicios de nube el 1 de marzo de 2018. TLS 1.2 seguirá teniendo soporte para cualquier producto o servicio de {{site.data.keyword.Bluemix_notm}} en el que se retire el soporte para TLS 1.0 y 1.1.
+IBM retira el soporte para TLS 1.0 y TLS 1.1 en muchos productos y servicios de nube el 1 de marzo de 2018. TLS 1.2 tiene soporte para cualquier producto o servicio de {{site.data.keyword.Bluemix_notm}} en el que se retire el soporte para TLS 1.0 y 1.1.
 {:shortdesc}
 
-## ¿Por qué hacemos este cambio?
+## ¿Por qué está cambiando el soporte de la versión de TLS?
 {: #why}
 
-Esto es parte del compromiso de IBM para ofrecer una nube que sea completamente segura y acorde con las mejores prácticas de la industria para la seguridad y la privacidad de los datos.
+El cambio del soporte de la versión de TLS proporciona un entorno de nube que es seguro y acorde con las mejores prácticas del sector para la seguridad y la privacidad de los datos.
 
 ## ¿Qué es TLS?
 {: #what}
 
-El [protocolo TLS ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} se utiliza para cifrar las comunicaciones en una red para garantizar que los datos transmitidos sean privados. Existen tres versiones publicadas de TLS: 1.0, 1.1 y 1.2. Todas las conexiones HTTPS utilizan TLS. HTTPS es el método predominante para garantizar que las conexiones a los productos y servicios de {{site.data.keyword.Bluemix_notm}} son fiables y seguras. Algunos productos y servicios de {{site.data.keyword.Bluemix_notm}} permiten conexiones seguras mediante el protocolo WebSocket Secure (WSS), que también utiliza TLS. La retirada de soporte para TLS 1.0 y 1.1 abarca las conexiones HTTPS y WSS.
+El [protocolo TLS ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} se utiliza para cifrar las comunicaciones en una red para garantizar que los datos transmitidos sean privados. TLS publicó las siguientes versiones: 1.0, 1.1 y 1.2. Todas las conexiones HTTPS utilizan TLS. HTTPS es el método predominante para garantizar que las conexiones a los productos y servicios de {{site.data.keyword.Bluemix_notm}} son fiables y seguras. Algunos productos y servicios de {{site.data.keyword.Bluemix_notm}} permiten conexiones seguras mediante el protocolo WebSocket Secure (WSS), que también utiliza TLS. La retirada de soporte para TLS 1.0 y 1.1 abarca las conexiones HTTPS y WSS.
 
-## ¿Qué medidas debo tomar para no verme afectado?
+## ¿Qué medidas debo tomar para asegurarme de que no me afecte?
 {: #impact}
 
-La gran mayoría de las conexiones realizadas a productos y servicios de {{site.data.keyword.Bluemix_notm}} ya utiliza TLS 1.2. Si sus conexiones no requieren TLS 1.0 o 1.1, no se verá afectado.
+La mayoría de las conexiones realizadas a productos y servicios de {{site.data.keyword.Bluemix_notm}} ya utilizan TLS 1.2. Si sus conexiones no requieren TLS 1.0 o 1.1, no se verá afectado.
 
 Si utiliza cualquiera de los productos o servicios en los que se va a retirar el soporte para TLS 1.0 o 1.1, debe confirmar que sus conexiones no requieren TLS 1.0 o 1.1.
 
 ### Cloud Foundry en {{site.data.keyword.Bluemix_notm}}
 
-Para las aplicaciones de Cloud Foundry, debe confirmar que no se verá afectado cuando se conecte a la aplicación desde fuera de {{site.data.keyword.Bluemix_notm}} o cuando se conecte desde la aplicación a otra aplicación de Cloud Foundry en {{site.data.keyword.Bluemix_notm}}.
+Para las aplicaciones de Cloud Foundry, debe confirmar que sus conexiones a la aplicación desde fuera de {{site.data.keyword.Bluemix_notm}} no se verán afectadas. Confirme también que las conexiones desde la aplicación a otra aplicación de Cloud Foundry en {{site.data.keyword.Bluemix_notm}} no se verán afectadas.
 
 Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, incluidas las conexiones realizadas desde los navegadores web. Todos los navegadores modernos son compatibles con TLS 1.2, incluidos los que son [Requisitos previos](https://console.bluemix.net/docs/overview/prereqs.html#browsers) de {{site.data.keyword.Bluemix_notm}}.
 {: tip}
@@ -48,32 +48,36 @@ Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, i
 
 Se puede acceder a todos los puntos finales de aplicación de Cloud Foundry del dominio `*.mybluemix.net` mediante un punto final alternativo que solo admite TLS 1.2.
 
-Para utilizar el punto final alternativo, añada `alt.` después del subdominio de la aplicación, por ejemplo, si la aplicación está alojada en `https://myapplication.mybluemix.net`, utilice `https://myapplication.alt.mybluemix.net`. O, para `https://myapplication.eu-gb.mybluemix.net` utilice `https://myapplication.alt.eu-gb.mybluemix.net`.
+Para utilizar el punto final alternativo, añada `alt.` después del subdominio de la aplicación. Por ejemplo, si la aplicación está alojada en `https://myapplication.mybluemix.net`, utilice `https://myapplication.alt.mybluemix.net`. O, para `https://myapplication.eu-gb.mybluemix.net` utilice `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 Si se puede conectar correctamente con el punto final alternativo, no se verá afectado.
 
-Si no se puede conectar correctamente, se verá afectado y debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
+Si no se puede conectar correctamente, debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
 
 #### Conexión entre aplicaciones de Cloud Foundry
 
-Puede configurar la aplicación de Cloud Foundry para redirigir automáticamente a los puntos finales alternativos disponibles en el dominio `*.mybluemix.net` al conectarse a otras aplicaciones utilizando el mandato siguiente:
+Utilice el mandato siguiente para configurar la aplicación de Cloud Foundry para redirigir automáticamente a los puntos finales alternativos disponibles en el dominio `*.mybluemix.net` al conectarse a otras aplicaciones:
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
 
-Después de establecer `BLUEMIX_TLS10_DISABLED` en `true`, debe volver a transferir la aplicación utilizando el mandato siguiente para que se aplique este cambio:
+Después de establecer `BLUEMIX_TLS10_DISABLED` en `true`, debe utilizar el mandato siguiente para volver a transferir su aplicación para que se aplique este cambio:
 ```
 cf restage <application_name>
 ```
 
 Tras realizar estos cambios, las solicitudes salientes de su aplicación se redirigirán solo a los puntos finales alternativos de TLS 1.2.
 
-Para utilizar los puntos finales alternativos, el cliente debe ser compatible con la extensión de TLS Server Name Indication (SNI). Si no lo es, puede que el cliente considere no válido el certificado devuelto. Si esto sucede, puede que presuponga incorrectamente que le afecta la retirada de TLS 1.0 y 1.1.
+Para utilizar los puntos finales alternativos, el cliente debe ser compatible con la extensión de TLS Server Name Indication (SNI). Si no lo es, puede que el cliente considere no válido el certificado devuelto y puede que presuponga incorrectamente que le afecta la retirada de TLS 1.0 y 1.1.
 {: tip}
 
 ### Productos y servicios de Watson
 
-Para los productos y los servicios de Watson a los que se conecta mediante `gateway.watsonplatform.net` o `stream.wastonplatform.net`, sustituya estos valores con `gateway-tls12.watsonplatform.net` o `stream-tls12.watsonplatform.net`. Estos puntos finales alternativos solo admiten TLS 1.2. Si se puede conectar correctamente con ellos, no se verá afectado. Si no se puede conectar correctamente, se verá afectado y debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
+Para productos y servicios de Watson, realice las siguientes sustituciones a sus conexiones:
+  * Sustituya `gateway.watsonplatform.net` por `gateway-tls12.watsonplatform.net`
+  * Sustituya `stream.wastonplatform.net` por `stream-tls12.watsonplatform.net`
+
+Estos puntos finales alternativos solo admiten TLS 1.2. Si se puede conectar correctamente a estos puntos finales alternativos, no se verá afectado. Si no se puede conectar correctamente, debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
 
 No se proporcionan puntos finales alternativos para productos y servicios de Watson en otras regiones diferentes a EE.UU. sur, ya que estas ya admiten solo TLS 1.2.
 
@@ -204,7 +208,7 @@ Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.key
 * Tradeoff Analytics‡
 
 \*Disponible en servicios experimentales en el catálogo de {{site.data.keyword.Bluemix_notm}}.  
-† TLS 1.0 ya se ha eliminado, solo se va a eliminar TLS 1.1.  
+† TLS 1.0 fue eliminado anteriormente; solo se va a eliminar TLS 1.1.  
 ‡ En desuso, solo disponible para clientes actuales.
 
 ### Productos o servicios disponibles a través de IBM Marketplace
@@ -225,21 +229,25 @@ Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.key
 ## ¿Qué pasa si mi producto o servicio no está en la lista?
 {: #tlsprodnotlisted}
 
-Puede que su producto o servicio ya admita sólo TLS 1.2 o no vaya a eliminar TLS 1.0 y 1.1 en este momento. Hay varias herramientas de cliente y en línea disponibles que puede utilizar para comprobar si TLS 1.0 y 1.1 están soportados por los puntos finales de un producto o servicio.
+Puede que su producto o servicio ya admita solo TLS 1.2, o puede que no se vaya a eliminar TLS 1.0 ni 1.1 ahora. Puede utilizar varias herramientas de cliente y en línea disponibles para comprobar si TLS 1.0 y 1.1 están soportados por los puntos finales de un producto o servicio.
 
 ## ¿Hay alguna forma de poder seguir utilizando TLS 1.0 o 1.1 una vez retirado el soporte?
 {: #tlskeepusing}
 
-Algunos productos y servicios están proporcionando puntos finales alternativos que seguirán admitiendo TLS 1.0 y 1.1 después de que TLS 1.0 y 1.1 se retiren de los puntos finales principales.
+Algunos productos y servicios están habilitando puntos finales alternativos que siguen soportando TLS 1.0 y 1.1 después de que se eliminen de los puntos finales principales.
 
 ### Infraestructura de {{site.data.keyword.Bluemix_notm}}
 
-Cuando se elimine el soporte para TLS 1.0 y 1.1 de `api.softlayer.com` y `api.service.softlayer.com`, se anunciarán puntos finales alternativos que admitan TLS 1.0 y 1.1 y estarán disponibles durante 30 días.
+Cuando se elimine el soporte para TLS 1.0 y 1.1 de `api.softlayer.com` y `api.service.softlayer.com`, se anunciarán puntos finales alternativos y estarán disponibles durante 30 días.
 
 ### Productos y servicios de Watson
 {: #watsonprodservices}
 
-Si necesita seguir utilizando TLS 1.0 o 1.1 para conectarse a productos y servicios de Watson una vez que se haya retirado el soporte, puede sustituir `gateway.watsonplatform.net` por `gateway-tls10.wastonplatform.net` o `stream.watsonplatform.net` por `stream-tls10.watsonplatform.net`. `gateway-tls10.watsonplatform.net` y `stream-tls10.watsonplatform.net` admiten TLS 1.0, 1.1 y 1.2 y seguirán estando disponibles una vez que TLS 1.0 y 1.1 se hayan eliminado de `gateway.watsonplatform.net` y `stream.watsonplatform.net`.
+Para seguir utilizando TLS 1.0 o 1.1 para conectarse a productos y servicios de Watson una vez que se haya retirado el soporte, puede realizar una de las sustituciones siguientes:
+  * Sustituya `gateway.watsonplatform.net` por `gateway-tls10.wastonplatform.net`
+  * Sustituya `stream.watsonplatform.net` por `stream-tls10.watsonplatform.net`
+
+Puede seguir utilizando `gateway-tls10.watsonplatform.net` y `stream-tls10.watsonplatform.net` para dar soporte a TLS 1.0, 1.1 y 1.2 una vez que estas versiones de TLS se eliminen de `gateway.watsonplatform.net` y `stream.watsonplatform.net`.
 
 ## Póngase en contacto
 {: #tlssupport}

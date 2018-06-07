@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -22,25 +22,25 @@ lastupdated: "2018-05-11"
 Cuando se pone en contacto con el soporte y abre una incidencia de soporte, puede solicitar un nivel de gravedad específico, según el tipo y la urgencia del problema. El nivel de gravedad puede estar relacionado con la celeridad con la que se soluciona el problema.
 {:shortdesc}
 
-Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Consulte [planes de soporte](/docs/get-support/index.html) para obtener más información sobre los niveles de planes de apoyo. Todas las incidencias se investigan para identificar y resolver la causa raíz del problema. Cuando se necesiten datos de diagnóstico del problema para determinar la causa raíz de un problema, se le solicita aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema.
+Usted define la gravedad del problema en función de sus requisitos empresariales y de su nivel de soporte. Para obtener más información sobre los niveles de los planes de soporte, consulte [Planes de soporte](/docs/get-support/index.html). Todas las incidencias se investigan para identificar y resolver la causa raíz del problema. Cuando el equipo de soporte necesite datos de diagnóstico del problema para determinar la causa raíz del problema, se le solicita aprobación para acceder a archivos de registro y a otros datos de determinación de problemas desde la aplicación. Sin estos datos es posible que se retrase la resolución del problema.
 
 ## Recopilación de información de diagnóstico
 {: #collecting-diagnostic-information}
 
-Para diagnosticar y resolver problemas con los servicios y apps de {{site.data.keyword.Bluemix_notm}}, es posible que el equipo de soporte de {{site.data.keyword.Bluemix_notm}} le solicite que recopile información de diagnóstico. Utilice las instrucciones siguientes para recopilar y proporcionar la información solicitada lo antes posible.
+Para diagnosticar y resolver problemas con los servicios y las aplicaciones de {{site.data.keyword.Bluemix_notm}}, es posible que el equipo de soporte de {{site.data.keyword.Bluemix_notm}} solicite información de diagnóstico. Utilice las instrucciones siguientes para recopilar y proporcionar la información solicitada lo antes posible.
 
 Antes de recopilar la información de diagnóstico, siga estos pasos:
 
-1. Asegúrese de haber instalado la última interfaz de línea de mandatos cf. Para obtener más información, consulte [Instalación de la interfaz de línea de mandatos cf](/docs/starters/install_cli.html).
->**Nota:** Si no tiene instalada la última interfaz de línea de mandatos cf, después de conectar la línea de mandatos cf a {{site.data.keyword.Bluemix_notm}} el mandato `cf logs` no devuelve información.
-2. Asegúrese de haber conectado la interfaz de línea de mandatos cf al lugar en el que se ejecuta {{site.data.keyword.Bluemix_notm}} mediante el mandato `cf api`.
+1. Asegúrese de tener la versión más actual de la interfaz de línea de mandatos de Cloud Foundry instalada. Para obtener más información, consulte [Instalación de la interfaz de línea de mandatos de Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** Si no tiene la versión más actual, después de conectar la línea de mandatos de Cloud Foundry a {{site.data.keyword.Bluemix_notm}}, el mandato `cf logs` no devuelve información.
+2. Asegúrese de haber conectado la interfaz de línea de mandatos de Cloud Foundry al lugar en el que se ejecuta {{site.data.keyword.Bluemix_notm}} mediante el mandato `cf api`.
 
 Utilice uno de los scripts siguientes para recopilar información de diagnóstico:
 
   * Para sistemas operativos Windows, descargue el archivo [bmdiag-general.bat ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} y ejecútelo.
   * Para sistemas operativos Linux, descargue el archivo [bmdiag-general.sh ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} y ejecútelo.
 
-Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguiente información del entorno de app:
+Los scripts utilizan la interfaz de línea de mandatos de Cloud Foundry para extraer la siguiente información del entorno de app:
   * Registro de aplicación
   * Metadatos de aplicación
   * Rutas configuradas
@@ -50,9 +50,9 @@ Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguie
 ## Escalamiento de casos de soporte
 {: #escalation}
 
-Como cliente de {{site.data.keyword.Bluemix_notm}}, puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio. El proceso de escalamiento le permite emerger problemas críticos y expresar sus inquietudes cuando crea que su incidencia de soporte no se está resolviendo como es debido. Una vez que se haya escalado un caso, el gestor en servicio registra la información de la incidencia de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
+Como cliente de {{site.data.keyword.Bluemix_notm}}, puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio. Utilice el proceso de escalamiento para emerger problemas críticos o si cree que su incidencia de soporte no se está resolviendo como es debido. Cuando escala un caso, el gestor en servicio registra la información de la incidencia de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
 
-Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site.data.keyword.Bluemix_notm}} y debe haber abierto una incidencia de soporte para el problema. Asimismo, asegúrese de que el problema técnico está bien documentado en la incidencia de soporte que haya abierto.
+Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site.data.keyword.Bluemix_notm}} y debe tener una incidencia de soporte para el problema. Además, asegúrese de que proporciona una descripción detallada del problema técnico en la incidencia de soporte que haya abierto.
 
  Para escalar un caso, complete los pasos siguientes:
 
@@ -68,6 +68,6 @@ Los gestores de soporte de {{site.data.keyword.Bluemix_notm}} están en servicio
 ## Horas de operación
 {: #support-hours-operation}
 
-Los problemas de gravedad 1 se supervisan las 24 horas del día, todos los días de la semana. Los envíos de formularios para problemas con todos los demás niveles de gravedad se supervisan entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC.
+Los problemas de gravedad 1 se supervisan las 24 horas del día, todos los días de la semana. Los formularios que se envían para problemas con todos los demás niveles de gravedad se supervisan entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC.
 
 Para obtener ayuda para convertir este horario de soporte a su huso horario, consulte [Timeanddate.com ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.timeanddate.com).

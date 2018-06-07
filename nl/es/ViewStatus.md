@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -24,7 +24,7 @@ En la página Estado hay disponible la información siguiente:
 
   * El estado actual de los servicios y componentes en todas las regiones de {{site.data.keyword.Bluemix_notm}} Foundry Service.
   * Una lista de anuncios, en orden cronológico, sobre mantenimiento e incidencias. Puede filtrar la lista o abrir un anuncio concreto para obtener más información.
-  * Períodos de mantenimiento planificados, que se publican al menos con 24 horas de antelación, excepto en circunstancias extremas.
+  * Ventana de mantenimiento planificado para las que se proporciona notificación previa, excepto en circunstancias extremas.
   * Incidencias o paradas no planificadas, que se publican en cuanto las conoce el equipo de {{site.data.keyword.Bluemix_notm}}. Las notificaciones de incidencias se actualizan con regularidad hasta que quedan resueltas.
   * Referencias a boletines de seguridad que afectan a diversos servicios de {{site.data.keyword.Bluemix_notm}} o la plataforma.
   * Otros anuncios sobre la plataforma en general que puedan ser de su interés.
