@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 如果您遇到 {{site.data.keyword.Bluemix}} 问题，可以使用多个选项来获取有关确定问题原因并查找相应解决方案的帮助。
 {:shortdesc}
 
-如果您的帐户是在 {{site.data.keyword.Bluemix_notm}} 控制台中创建的，或者您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建的，并且为链接帐户，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。链接帐户链接的是 {{site.data.keyword.Bluemix_notm}} 和 {{site.data.keyword.BluSoftlayer_notm}} 基础架构服务。有关更多信息，请参阅[链接 IBM 标识用户帐户](/docs/admin/softlayerlink.html#link_user_accounts)。
+如果您的帐户是在 {{site.data.keyword.Bluemix_notm}} 控制台中创建的，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。可以在 {{site.data.keyword.Bluemix_notm}} 和 {{site.data.keyword.BluSoftlayer_notm}} 基础架构服务之间链接帐户。如果您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建且为链接帐户，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。有关更多信息，请参阅[链接 IBM 标识用户帐户](/docs/admin/softlayerlink.html#link_user_accounts)。
 
-如果您的帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建的 SoftLayer 帐户，但不是链接帐户，请参阅 [获取对 {{site.data.keyword.BluSoftlayer_notm}} 基础架构的支持](/docs/customer-portal/cpsupport.html#customerportal_support)，以获取有关在客户门户网站中开具支持凭单的更多信息。
+如果您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建且不是链接帐户，那么可以在客户门户网站中开具凭单。有关更多信息，请参阅[获取对 {{site.data.keyword.BluSoftlayer_notm}} 基础架构的支持](/docs/customer-portal/cpsupport.html#customerportal_support)。
 
 ## 使用支持中心
 {: #using-avatar}
@@ -83,7 +83,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 要在凭单表单中提供必需的信息，以获取有关帐户问题的帮助，请完成以下步骤：
   1. 对于凭单类型，选择**帐户和计费**，以确保将凭单发送给正确的支持团队，以便快速解决问题。
-  2. 在**选择资源上下文**字段中，选择任一选项以创建凭单。在下一步中指示该凭单是针对帐户问题时，将自动使用*不适用*填充凭单表单中任一选项的关联字段。
+  2. 在**选择资源上下文**字段中，选择任一选项以创建凭单。因为这是帐户问题，所以对于任一选项，凭单表单中的某些字段会自动填充*不适用*。
   3. 如果您有高端或高级级别支持，请为您的问题选择严重性级别。
   4. 填写必需的信息，并提供收到的任何错误消息的描述。必需的信息取决于您帐户的支持套餐类型。有关支持类型的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
   5. 单击**提交**。
@@ -108,7 +108,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 ## 请求对欧盟中资源的支持
 {: #eusupported}
 
-对于已选择“欧盟支持”选项的客户，将由位于欧洲的工程师提供 24x7 全天候欧盟 (EU) 支持。仅当欧盟支持团队决定并给予相应指示时，全球团队才会提供额外支持。例如，位于欧盟的一级或二级支持团队无法解决问题，并且需要全球三级支持团队成员提供专业知识时，可能会与全球团队联系。
+对于选择“欧盟支持”选项的客户，将由位于欧洲的工程师提供全天候欧盟 (EU) 支持。仅当欧盟支持团队决定并给予相应指示时，全球团队才会提供支持。例如，位于欧盟的一级或二级支持团队无法解决问题，并且需要更专业的知识时，可能会与全球团队联系。
 
 在满足以下条件时，可以指定希望实际身处欧洲的支持团队为您的帐户提供支持：
   * 您的主用户或帐户所有者为您的帐户设置了“欧盟支持”选项
@@ -121,17 +121,15 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“记帐”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持选项](/docs/billing-usage/eusupported.html)。
 
-如果您是 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户，并且您没有链接的帐户，那么可以在客户门户网站的“帐户概要文件”窗口中设置**欧盟支持**选项。有关更多信息，请参阅[设置欧盟支持选项](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)。
-
 ### 欧盟支持服务
 {: #eusupportedservices}
 
 设置**欧盟支持**选项后，还可以利用其他控件在欧盟地区支持和操作 {{site.data.keyword.Bluemix_notm}} 服务。可以使用过滤器在 {{site.data.keyword.Bluemix_notm}}“目录”中搜索具有支持套餐的平台服务。要查看平台服务的欧盟支持套餐，请完成以下步骤：
   1. 打开 [{{site.data.keyword.Bluemix_notm}}“目录”![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://console.bluemix.net/catalog/){: new_window}。
-  2. 单击**过滤器**按钮。
+  2. 单击**过滤器**。
   3. 从下拉列表中选择**欧盟支持**。设置“欧盟支持”过滤器后，就只能看到**基础架构**和**平台**类别中具有欧盟支持套餐的服务。
   4. 选择所需的服务。您可以查看该服务的欧盟支持区域和套餐。
-  5. 要查看该服务的欧盟支持套餐，请从**选择要在其中部署的区域/位置**下拉列表中选择正确的区域。例如，要查看平台服务的欧盟支持套餐，可以选择“德国”区域。然后，可以查看该服务的标注为**欧盟支持**的价格套餐。
+  5. 要查看该服务的欧盟支持套餐，请从**选择要在其中部署的区域/位置**下拉列表中选择正确的区域。例如，要查看平台服务的欧盟支持套餐，可以选择“德国”区域。然后，可以查看标注为**欧盟支持**的服务的价格套餐。
 
 以下 {{site.data.keyword.Bluemix_notm}} 基础架构服务类别的所有套餐（轻量套餐除外）都在欧洲托管，并作为欧盟支持服务提供：
 
@@ -144,11 +142,11 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 ## 报告潜在安全漏洞
 {: #report-security-vulnerability}
 
-如果您认为发生了潜在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，请通过开具支持凭单进行报告。
+如果您发现潜在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，请通过开具支持凭单进行报告。
 
 要报告潜在安全漏洞，请完成以下步骤：
 1. 开具严重性级别为 1 的凭单，或开具您的支持所允许最高严重性级别的凭单。有关如何开具凭单的信息，请参阅[开具支持凭单](/docs/get-support/howtogetsupport.html#open-ticket)。
 2. 在凭单摘要中清楚地描述该凭单是关于潜在安全漏洞的。
 3. 通过包含以下某项，提供潜在安全漏洞的详细信息：
     * 可以联系到您来讨论此问题的电话号码。
-    * 问题的详细信息。必须在凭单正文中将详细信息加密为文本块，并提供有关 IBM 支持人员可以如何安全联系到您来获取解密说明的指示信息。
+    * 问题的详细信息。必须在凭单正文中将详细信息加密为文本块。还必须提供有关 IBM 支持人员可以如何安全联系到您来获取解密说明的指示信息。

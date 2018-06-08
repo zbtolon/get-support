@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,11 +34,10 @@ lastupdated: "2017-11-09"
 {{site.data.keyword.Bluemix_notm}}에서 지원 티켓을 작성하거나 편집할 수 없습니다.
 {: tsSymptoms}
 
-연결된 계정이 있는 경우, 지원 티켓 액세스 및 관리의 일반 문제점은 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}에서 보다 세부 단위의 계정 설정이 없기 때문에 발생할 수 있습니다. 
-{{site.data.keyword.slportal}}에서 작성된 계정에 대해 보다 세부 단위의 권한이 구성되어야 하므로, 지원 티켓을 추가하거나 편집하지 못할 수 있습니다.
+연결된 계정이 있는 경우, 지원 티켓 액세스 및 관리에 대한 일반적인 문제점은 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}에 보다 세부 단위의 계정 설정이 없어 발생할 수 있습니다. 고객 포털에서 작성된 계정에는 보다 세부 단위의 권한이 구성되어야 하므로, 지원 티켓을 추가하거나 편집하지 못할 수 있습니다.
 {: tsCauses}
 
-문제점을 해결하려면 {{site.data.keyword.slportal}} 계정 관리자에게 문의하여 계정에 적절한 액세스를 설정하십시오. {{site.data.keyword.slportal}} 계정 관리자는 다음 단계를 사용하여 문제점을 해결할 수 있습니다.
+문제점을 해결하려면 {{site.data.keyword.slportal}} 계정 관리자에게 문의하여 계정에 적절한 액세스를 설정하십시오. {{site.data.keyword.slportal}} 계정 관리자는 다음 단계를 사용하여 문제점을 정정할 수 있습니다. 
 
 1. {{site.data.keyword.slportal}} **계정** 메뉴에서 **사용자**를 선택하십시오.
 2. 목록에서 사용자를 선택하십시오.

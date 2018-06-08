@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# 如何开始对问题进行故障诊断？
+# 如何对问题进行故障诊断？
 {: #ts-overview}
 
-有许多资源可供您用于对 {{site.data.keyword.Bluemix}} 问题进行故障诊断。其中一个此类故障诊断资源是由 {{site.data.keyword.Bluemix_notm}} 客户支持团队提供的常见问题和解决方案的汇集列表。
+您可以使用许多资源来对 {{site.data.keyword.Bluemix}} 问题进行故障诊断。其中一个此类故障诊断资源是 {{site.data.keyword.Bluemix_notm}} 客户支持团队提供的常见问题和解决方案的汇集列表。
 {:shortdesc}
 
 下面列出了一些故障诊断方法：

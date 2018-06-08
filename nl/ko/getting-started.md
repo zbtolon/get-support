@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -32,7 +32,7 @@ IBM ID 신임 정보를 사용하여 {{site.data.keyword.Bluemix_notm}} 콘솔�
 ## 1단계: 상태 확인
 {: #check-status}
 
-{{site.data.keyword.Bluemix_notm}}에 관련된 문제가 있는 경우 상태 페이지를 확인하여 {{site.data.keyword.Bluemix_notm}} 플랫폼 및 중요 서비스에 영향을 주는 문제가 있는지 판별하십시오.
+{{site.data.keyword.Bluemix_notm}}와 관련된 문제가 있는 경우에는 상태 페이지를 확인하여 {{site.data.keyword.Bluemix_notm}} 플랫폼 및 주요 서비스에 영향을 주는 문제가 있는지 판별하십시오. 
 
 플랫폼, 서비스 및 런타임의 상태를 보려면 다음 단계를 수행하십시오.
   1. 메뉴 표시줄에서 **지원** > **상태**를 클릭하십시오.  
@@ -77,4 +77,4 @@ Stack Overflow 및 dW Answers 사이트에서 질문을 할 수도 있습니다.
 ## 다음 단계
 {: #next-steps}
 
-지원 티켓 열기를 선택하여 고객 지원에 문의하고 문제에 관련된 도움을 받는 경우 프로세스를 통해 지원 티켓을 관리할 수 있습니다.  자세한 정보는 [티켓 관리](/docs/get-support/mantick.html#check-ticket-status)를 참조하십시오.
+지원 티켓 열기를 선택하여 고객 지원에 문의하고 문제에 관련된 도움을 받는 경우 프로세스를 통해 지원 티켓을 관리할 수 있습니다. 자세한 정보는 [티켓 관리](/docs/get-support/mantick.html#check-ticket-status)를 참조하십시오.

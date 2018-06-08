@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-04-16"
 
 对于技术问题，您可以通过 {{site.data.keyword.Bluemix_notm}} 控制台支持中心来访问支持选项，例如 {{site.data.keyword.Bluemix_notm}} 社区或 Stack Overflow。
 
-您可以使用支持中心来访问支持选项。有关更多信息，请参阅[使用支持中心](/docs/get-support/howtogetsupport.html#using-avatar)。您为帐户选择的支持套餐级别将决定您在联系客户支持时可获得的支持级别，以及可为支持凭单分配的严重性级别。有关更多信息，请参阅[如何为凭单分配严重性和加权？](/docs/get-support/ticketweight.html#support-ticket-severity)
+您可以使用支持中心来访问支持选项。有关更多信息，请参阅[使用支持中心](/docs/get-support/howtogetsupport.html#using-avatar)。您为帐户选择的支持套餐将决定您可获得的支持级别，以及可为支持凭单分配的严重性级别。有关更多信息，请参阅[如何为凭单分配严重性和加权？](/docs/get-support/ticketweight.html#support-ticket-severity)
 
 ## 对 {{site.data.keyword.Bluemix_notm}} 支持的满意度调查  
 {: #survey}
