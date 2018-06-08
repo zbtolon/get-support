@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 Se você tiver problemas com o {{site.data.keyword.Bluemix}}, terá várias opções para obter ajuda para determinar a causa do problema e localizar uma solução.
 {:shortdesc}
 
-Se a sua conta for criada por meio do console do {{site.data.keyword.Bluemix_notm}} ou se a conta do SoftLayer for criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e ela for uma conta vinculada, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. As contas vinculadas são vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e do {{site.data.keyword.BluSoftlayer_notm}}. Veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obter informações adicionais.
+Se a sua conta tiver sido criada por meio do console do {{site.data.keyword.Bluemix_notm}}, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. As contas podem ser vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e {{site.data.keyword.BluSoftlayer_notm}}. Se a sua conta do SoftLayer tiver sido criada por meio do portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e for uma conta vinculada, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se a sua conta for uma conta do SoftLayer que foi criada no portal do cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, consulte [Obtendo suporte para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) para obter mais informações sobre como abrir chamados de suporte no portal do cliente.
+Se a sua conta do SoftLayer tiver sido criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, será possível abrir chamados por meio do portal do cliente. Para obter mais informações, veja [Obtendo suporte para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Usando o Centro de suporte
 {: #using-avatar}
@@ -83,7 +83,7 @@ Conclua as etapas a seguir para fornecer as informações necessárias no formul
 
 Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema de conta:
   1. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
-  2. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Os campos associados para qualquer opção no formulário de chamado são preenchidos automaticamente com *Não aplicável* quando você indica que o chamado é para um problema de conta na próxima etapa.
+  2. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Para qualquer das opções, alguns campos no formulário de chamado são preenchidos automaticamente com *Não aplicável* porque esse é um problema de conta.
   3. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
   4. Conclua as informações necessárias, fornecendo a descrição de quaisquer mensagens de erro que você recebeu. As informações que são necessárias dependem do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Clique em **Enviar**.
@@ -110,7 +110,7 @@ Em sua solicitação, uma lista de usuários em sua organização que podem serv
 ## Solicitando suporte para recursos na União Europeia
 {: #eusupported}
 
-O suporte para a União Europeia (UE) é fornecido 24 horas por dia, 7 dias por semana, por engenheiros localizados na Europa para clientes que tenham selecionado a opção Suportado pela União Europeia. As equipes globais fornecem suporte adicional somente a critério e sob a direção da equipe de suporte da UE. As equipes globais podem ser contatadas, por exemplo, quando problemas não são resolvidos pela equipe de suporte de Nível 1 ou Nível 2 na UE e o conhecimento de um membro da equipe de suporte global de Nível 3 é necessário.
+O suporte à União Europeia (UE) é fornecido 24x7 por engenheiros localizados na Europa para clientes que selecionam a opção suportada pela UE. As equipes globais fornecem suporte somente a critério e se recomendado pela equipe de suporte da UE. As equipes globais podem ser contatadas, por exemplo, quando os problemas não são resolvidos pela equipe de suporte Nível 1 ou Nível 2 na UE e mais conhecimento é necessário.
 
 É possível especificar que você deseja o suporte para sua conta da equipe de suporte que está localizada fisicamente na Europa, se os critérios a seguir forem verdadeiros:
   * O usuário principal ou o proprietário da conta configurou a opção Suportado pela União Europeia para sua conta
@@ -121,19 +121,17 @@ Para a plataforma {{site.data.keyword.Bluemix_notm}}, somente serviços hospedad
 
 Configurar a opção **Suportado pela UE** para sua conta se aplica a todos os chamados futuros que você abrir para problemas em qualquer centro de serviço ou data center hospedado na região da UE. Quaisquer chamados abertos antes de configurar essa opção não são afetados. Se você configurar essa opção e incluir recursos fora de um data center da UE ou da região da Alemanha, os problemas para esses recursos não serão manipulados necessariamente por uma equipe de suporte na Europa.
 
-É possível configurar a opção **Suportado pela UE** para sua conta na janela Faturamento do console do {{site.data.keyword.Bluemix_notm}}. Veja [Ativando a opção Suportado pela UE](/docs/billing-usage/eusupported.html) para obter mais informações.
-
-Se você for um cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não tiver uma conta vinculada, será possível configurar a opção **Suportado pela UE** na janela Perfil de conta do portal do cliente. Veja [Configurando a opção Suportado pela UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) para obter mais informações.
+É possível configurar a opção **Suportado pela UE** para sua conta na janela Faturamento do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Ativando a opção suportada pela UE](/docs/billing-usage/eusupported.html).
 
 ### Serviços suportados pela UE
 {: #eusupportedservices}
 
-Após configurar a opção **Suportado pela UE**, também é possível tirar proveito de controles adicionais para suportar e operar serviços do {{site.data.keyword.Bluemix_notm}} da União Europeia. É possível filtrar sua procura por serviços de plataforma com os planos suportados no catálogo do {{site.data.keyword.Bluemix_notm}}. Para ver os planos suportados pela UE para um serviço de plataforma, conclua as etapas a seguir:
+Depois de configurar a opção **Suportado pela UE**, também será possível aproveitar os controles extras para suportar e operar os serviços do {{site.data.keyword.Bluemix_notm}} da União Europeia. É possível filtrar sua procura por serviços de plataforma com os planos suportados no catálogo do {{site.data.keyword.Bluemix_notm}}. Para ver os planos suportados pela UE para um serviço de plataforma, conclua as etapas a seguir:
   1. Abra o catálogo do [{{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://console.bluemix.net/catalog/){: new_window}.
-  2. Clique no botão **Filtrar**.
+  2. Clique em **Filtrar**.
   3. Selecione **Suportado pela UE** na lista suspensa. Com o filtro Suportado pela UE configurado, você vê somente os serviços nas categorias **Infraestrutura** e **Plataforma** que possuem planos suportados pela UE.
   4. Selecione o serviço desejado. É possível ver que algumas regiões e planos para o serviço são suportados pela UE.
-  5. Para ver os planos suportados pela UE para o serviço, selecione a região correta na lista suspensa **Escolher uma região/local para implementar**. Por exemplo, para ver os planos suportados pela UE para um serviço de plataforma, selecione Alemanha como a região. É possível então ver os planos de precificação para o serviço que estão rotulados como **Suportado pela UE**.
+  5. Para ver os planos suportados pela UE para o serviço, selecione a região correta na lista suspensa **Escolher uma região/local para implementar**. Por exemplo, para ver os planos suportados pela UE para um serviço de plataforma, selecione Alemanha como a região. Em seguida, será possível ver os planos de precificação para os serviços identificados como **Suportados pela UE**.
 
 Todos os planos, exceto planos Lite, para as categorias a seguir de serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} estão hospedados na Europa e disponíveis como Suportados pela UE:
 
@@ -146,11 +144,11 @@ Todos os planos, exceto planos Lite, para as categorias a seguir de serviços de
 ## Relatando uma potencial vulnerabilidade de segurança
 {: #report-security-vulnerability}
 
-Se você acredita que uma potencial vulnerabilidade de segurança do {{site.data.keyword.Bluemix_notm}} ocorreu, relate isso abrindo um chamado de suporte.
+Se você vir uma vulnerabilidade de segurança em potencial do {{site.data.keyword.Bluemix_notm}}, relate isso abrindo um chamado de suporte.
 
 Para relatar uma potencial vulnerabilidade de segurança, conclua as etapas a seguir:
 1. Abra um chamado de severidade 1 ou um chamado do nível de severidade mais alto que seu suporte permita. Para obter informações sobre como abrir um chamado, veja [Abrindo um chamado de suporte](/docs/get-support/howtogetsupport.html#open-ticket).
 2. Descreva claramente no resumo do chamado que o chamado é sobre uma potencial vulnerabilidade de segurança.
 3. Forneça detalhes da potencial vulnerabilidade de segurança, incluindo um dos itens a seguir:
     * Um número de telefone no qual é possível contatá-lo para discutir o assunto.
-    * Detalhes do problema. Deve-se criptografar os detalhes como um bloco de texto no corpo do chamado e fornecer instruções sobre como o Suporte IBM pode contatá-lo seguramente para obter instruções de decriptografia.
+    * Detalhes do problema. Deve-se criptografar os detalhes como um bloco de texto no corpo do chamado. Deve-se também fornecer instruções sobre como o Suporte IBM pode contatá-lo com segurança para obter instruções de decriptografia.

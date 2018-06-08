@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -27,7 +27,7 @@ ou o Estouro de Pilha para problemas técnicos, no Centro de Suporte do console 
 {{site.data.keyword.Bluemix_notm}}.
 
 É possível usar o Centro de suporte para acessar suas opções de suporte. Para obter mais informações, consulte
-[Usando o Centro de Suporte](/docs/get-support/howtogetsupport.html#using-avatar). O nível de plano de suporte que você selecionou para sua conta determina o nível de suporte disponível e a gravidade que pode ser designada aos chamados de suporte ao entrar em contato com o suporte ao cliente. Para obter mais informações, veja [Como os chamados são designados e ponderados?](/docs/get-support/ticketweight.html#support-ticket-severity)
+[Usando o Centro de Suporte](/docs/get-support/howtogetsupport.html#using-avatar). O plano de suporte selecionado para sua conta determina o nível de suporte disponível e a severidade que pode ser designada aos chamados de suporte. Para obter mais informações, veja [Como os chamados são designados e ponderados?](/docs/get-support/ticketweight.html#support-ticket-severity)
 
 ## Pesquisas de opinião de satisfação para o suporte do {{site.data.keyword.Bluemix_notm}}  
 {: #survey}

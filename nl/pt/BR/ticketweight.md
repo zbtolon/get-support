@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -26,7 +26,7 @@ A tabela a seguir lista alguns exemplos comuns de problemas de suporte, níveis 
 
 Severidade | Definição de severidade | Objetivos de tempo de resposta | Cobertura de tempo de resposta
 ------|-------- | --- | --- |
-Severidade 1 | <strong>Impacto crítico nos negócios ou o serviço está inativo.</strong> <br> A funcionalidade crítica aos negócios está inoperável ou a interface crítica está com falha. Essa severidade geralmente se aplica a um ambiente de produção e indica que uma incapacidade de acessar os serviços está levando a um impacto crítico nas operações.  Essa condição requer uma solução imediata. | <ul><li><strong>Premium:</strong> Dentro de 1 hora</li><li><strong>Avançado:</strong> dentro de 1 hora</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 1</li></ul> | <ul><li><strong>Premium:</strong> 24x7</li><li><strong>Avançado:</strong> 24x7</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 1</li></ul> 			   
+Severidade 1 | <strong>Impacto crítico nos negócios ou o serviço está inativo.</strong> <br> A função crítica aos negócios é inoperável ou a interface crítica está com falha. Essa severidade geralmente se aplica a um ambiente de produção e indica que uma incapacidade de acessar os serviços está levando a um impacto crítico nas operações. Essa condição requer uma solução imediata. | <ul><li><strong>Premium:</strong> Dentro de 1 hora</li><li><strong>Avançado:</strong> dentro de 1 hora</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 1</li></ul> | <ul><li><strong>Premium:</strong> 24x7</li><li><strong>Avançado:</strong> 24x7</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 1</li></ul> 			   
 Severidade 2 | <strong>Impacto significativo nos negócios.</strong> <br> Um recurso ou função de serviço está seriamente restrito em seu uso ou há o risco de perder os prazos finais dos negócios. | <ul><li><strong>Premium:</strong> Dentro de 90 minutos </li><li><strong>Avançado:</strong> dentro de 2 horas</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 2</li></ul> | <ul><li><strong>Premium:</strong> Horas de operação </li><li><strong>Avançado:</strong> horas de operação </li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 2</li></ul>
 Severidade 3 | <strong>Impacto menor nos negócios.</strong> <br> Um recurso ou função de serviço é utilizável, mas tem alguns problemas que afetam seu uso. Nenhum impacto crítico é causado nas operações. | <ul><li><strong>Premium:</strong> Dentro de 2 horas</li><li><strong>Avançado:</strong> dentro de 4 horas</li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 3</li></ul> | <ul><li><strong>Premium:</strong> Horas de operação </li><li><strong>Avançado:</strong> horas de operação </li><li><strong>Básico:</strong> N/A, não é possível abrir chamados de gravidade 3</li></ul>
 Severidade 4 | <strong>Impacto mínimo nos negócios.</strong> <br> Uma consulta ou solicitação não técnica. | <ul><li><strong>Premium:</strong> Dentro de 4 horas</li><li><strong>Avançado:</strong> dentro de 8 horas</li><li><strong>Básico:</strong> Melhor esforço</li></ul> | <ul><li><strong>Premium:</strong> Horas de operação </li><li><strong>Avançado:</strong> horas de operação </li><li><strong>Básico:</strong> Horas de operação</li></ul>

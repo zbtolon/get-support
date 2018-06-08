@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,10 +34,10 @@ Se tiver uma conta vinculada, você poderá não ser capaz de incluir ou editar 
 Não é possível criar ou editar chamados de suporte no {{site.data.keyword.Bluemix_notm}}.
 {: tsSymptoms}
 
-Problemas gerais com o acesso e gerenciamento de chamados de suporte, se você tiver uma conta vinculada, podem ser causados pela falta de configurações mais granulares da conta no {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Como existem permissões mais granulares que devem ser configuradas em contas que foram criadas no {{site.data.keyword.slportal}}, você pode não ser capaz de incluir ou editar chamados de suporte.
+Problemas gerais com o acesso e gerenciamento de chamados de suporte, se você tiver uma conta vinculada, podem ser causados pela falta de configurações mais granulares da conta no {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Como as permissões mais granulares devem ser configuradas em contas que foram criadas no portal do cliente, talvez não seja possível incluir ou editar chamados de suporte.
 {: tsCauses}
 
-Para corrigir o problema, entre em contato com seu administrador de conta do {{site.data.keyword.slportal}} para configurar o acesso adequado em sua conta. O administrador de conta do {{site.data.keyword.slportal}} pode corrigir o problema usando as etapas a seguir:
+Para corrigir o problema, entre em contato com seu administrador de conta do {{site.data.keyword.slportal}} para configurar o acesso adequado em sua conta. O administrador de conta do {{site.data.keyword.slportal}} pode usar as etapas a seguir para corrigir o problema:
 
 1. No menu **Conta** do {{site.data.keyword.slportal}}, selecione **Usuários**.
 2. Selecione o usuário na lista.

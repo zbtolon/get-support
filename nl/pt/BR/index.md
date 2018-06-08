@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,11 +23,11 @@ Se está usando os serviços de infraestrutura ou de plataforma do {{site.data.k
 
 |  | Suporte básico | Suporte avançado | Suporte premium |
 |-------------|-------------|-------------|-------------|
-| Descrição |	Proteção de negócio básico incluída com sua conta de Assinatura ou Pré-paga do {{site.data.keyword.Bluemix_notm}} | Manipulação de chamado priorizado e experiência de suporte alinhadas às suas necessidades de negócios | Engajamento do cliente alinhado com seus resultados de negócios para acelerar o tempo de maturação |
+| Descrição |	Proteção de negócio básico incluída com sua conta de Assinatura ou Pré-paga do {{site.data.keyword.Bluemix_notm}} | Manipulação de chamados e experiência de suporte prioritários alinhados às suas necessidades de negócios | O engajamento do cliente alinhado a seus resultados de negócios para acelerar o tempo de maturação |
 | Disponibilidade | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} com chamados, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} com chamados, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} com chamados, telefone e bate-papo |
-| Objetivos de tempo de resposta iniciais | Não aplicável | Gravidade 1: menos de 1 hora <br />Gravidade 2: menos de 2 horas <br />Gravidade 3: menos de 4 horas <br />Gravidade 4: menos de 8 horas | Gravidade 1: menos de 1 hora <br />Gravidade 2: menos de 90 minutos <br />Gravidade 3: menos de 2 horas <br />Gravidade 4: menos de 4 horas |
+| Objetivos de tempo de resposta iniciais | Não aplicável | Gravidade 1: menos de uma hora <br />Severidade 2: menos de duas horas <br />Gravidade 3: menos de quatro horas <br />Gravidade 4: menos de oito horas | Gravidade 1: menos de uma hora <br />Gravidade 2: menos de 90 minutos <br />Gravidade 3: menos de duas horas <br />Gravidade 4: menos de quatro horas |
 | Gravidade do chamado | Não aplicável | Classificação da gravidade do chamado disponível | Classificação da gravidade do chamado disponível |
-| Suporte de valor agregado | Não aplicável | Não aplicável | Technical Account Manager (TAM) designado <br /><br />Análises comerciais trimestrais<br /><br />Acesso aos especialistas<br /><br />Convite para o *Cloud Insights* |
+| Suporte adicional | Não aplicável | Não aplicável | Technical Account Manager (TAM) designado <br /><br />Análises comerciais trimestrais<br /><br />Acesso aos especialistas<br /><br />Convite para o *Cloud Insights* |
 {:caption="Tabela 1. Planos de suporte" caption-side="top"}
 
 Para obter mais informações sobre como a gravidade de chamados é designada e como os chamados são manipulados, veja [Como os chamados são designados e ponderados?](/docs/get-support/ticketweight.html)
@@ -47,7 +47,12 @@ de suporte ao entrar em contato com o suporte ao cliente.
 {: #premium-support}
 
 O Suporte Premium é para ambientes essenciais que tenham uma dependência estratégica no
-{{site.data.keyword.Bluemix_notm}}. Os clientes de suporte premium têm prioridade na manipulação de chamados, um Gerente de contas técnicas designado para ajudar a acelerar o tempo de maturação, o acesso a especialistas para engajamentos técnicos especializados, análises comerciais trimestrais e um convite para o *Cloud Insights*, que é um fórum para conexão com especialistas técnicos IBM.
+{{site.data.keyword.Bluemix_notm}}. O suporte extra a seguir é fornecido para clientes Premium:
+  * Manipulação de Prioridade de ingressos
+  * Um Gerente técnico de contas para ajudar a acelerar o tempo de maturação
+  * Acesso a especialistas para consultas e assistência técnica especializadas
+  * Análises comerciais trimestrais
+  * Um convite para o *Cloud Insights*, o fórum para conexão com especialistas técnicos da IBM
 
 
 ## Suporte avançado
