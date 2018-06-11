@@ -27,7 +27,7 @@ Vous définissez la gravité du problème en fonction de vos besoins métier et 
 ## Collecte d'informations de diagnostic
 {: #collecting-diagnostic-information}
 
-Pour diagnostiquer et résoudre des problèmes avec les applications et les services {{site.data.keyword.Bluemix_notm}}, il se peut que l'équipe de support {{site.data.keyword.Bluemix_notm}} vous demande de collecter des informations de diagnostic. Utilisez les instructions ci-après pour collecter et fournir les informations demandées le plus rapidement possible. 
+Pour diagnostiquer et résoudre des problèmes avec les applications et les services {{site.data.keyword.Bluemix_notm}}, il se peut que l'équipe de support {{site.data.keyword.Bluemix_notm}} vous demande de collecter des informations de diagnostic. Utilisez les instructions ci-après pour collecter et fournir les informations demandées le plus rapidement possible.
 
 Avant de collecter des informations de diagnostic, procédez comme suit :
 
@@ -50,19 +50,19 @@ Les scripts utilisent l'interface de ligne de commande cf pour extraire les info
 ## Escalade de cas de support
 {: #escalation}
 
-En tant que client {{site.data.keyword.Bluemix_notm}}, vous pouvez demander une assistance supplémentaire en faisant remonter votre cas au responsable de support {{site.data.keyword.Bluemix_notm}} qui est de service. Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Une fois qu'un cas est remonté, le responsable qui est de service prend connaissance des informations contenues dans le cas de support, affecte le traitement de cette tâche aux personnes appropriées de l'équipe de support technique {{site.data.keyword.Bluemix_notm}} et vous tient informé. 
+En tant que client {{site.data.keyword.Bluemix_notm}}, vous pouvez demander une assistance supplémentaire en faisant remonter votre cas au responsable de support {{site.data.keyword.Bluemix_notm}} qui est de service. Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Une fois qu'un cas est remonté, le responsable qui est de service prend connaissance des informations contenues dans le cas de support, affecte le traitement de cette tâche aux personnes appropriées de l'équipe de support technique {{site.data.keyword.Bluemix_notm}} et vous tient informé.
 
-Pour faire remonter un cas de support, vous devez disposez du support {{site.data.keyword.Bluemix_notm}} avancé ou premium et vous devez avoir ouvert un cas de support relatif au problème. En outre, le problème technique doit être bien documenté dans le cas de support que vous avez ouvert. 
+Pour faire remonter un cas de support, vous devez disposez du support {{site.data.keyword.Bluemix_notm}} avancé ou premium et vous devez avoir ouvert un cas de support relatif au problème. En outre, le problème technique doit être bien documenté dans le cas de support que vous avez ouvert.
 
  Pour faire remonter un cas, procédez comme suit :
 
-  1. Contactez l'équipe de support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne :
+  1. Contactez l'équipe de support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne:
     * Par téléphone, composez le numéro suivant : 866-403-7638.
     * Si vous optez pour la discussion en ligne, accédez au [centre de support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} ou, si vous disposez d'un compte SoftLayer qui n'est pas lié, accédez au [portail client ![Icône de lien externe](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas. 
-  3. Indiquez la justification de l'escalade et l'impact de votre cas. 
+  2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas.
+  3. Indiquez la justification de l'escalade et l'impact de votre cas.
 
-Les responsables de support {{site.data.keyword.Bluemix_notm}} sont de service et disponibles 24 heures sur 24, 7 jours sur 7. Les responsables qui sont de service affectent les ressources appropriées au traitement de votre cas et vous informent sur les actions menées. 
+Les responsables de support {{site.data.keyword.Bluemix_notm}} sont de service et disponibles 24 heures sur 24, 7 jours sur 7. Les responsables qui sont de service affectent les ressources appropriées au traitement de votre cas et vous informent sur les actions menées.
 
 
 ## Heures de service

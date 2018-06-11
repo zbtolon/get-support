@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -24,7 +24,7 @@ Les informations suivantes sont disponibles sur la page Statut :
 
   * Statut en cours des services et des composants pour toutes les régions de service {{site.data.keyword.Bluemix_notm}} Foundry.
   * Liste des annonces, par ordre chronologique, pour la maintenance et les incidents. Vous pouvez appliquer un filtre à la liste ou ouvrir une annonce individuelle pour plus de détails.
-  * Fenêtres de maintenance planifiées, publiées au moins 24 heures à l'avance, sauf dans des cas extrêmes.
+  * Créneaux de maintenance planifiés dont vous êtes avisé à l'avance, excepté en cas de circonstances extrêmes.
   * Incidents ou pannes imprévus, publiés dès que l'équipe {{site.data.keyword.Bluemix_notm}} en est informée. Les notifications d'incident sont régulièrement mises à jour jusqu'à leur résolution.
   * Références aux bulletins de sécurité qui ont un impact sur les divers services {{site.data.keyword.Bluemix_notm}} ou la plateforme.
   * Autres annonces relatives aux plateformes d'intérêt général.
@@ -77,7 +77,7 @@ Pour vous abonner, procédez comme suit :
     * Faites glisser l'icône RSS ![RSS](images/rss.svg) dans votre lecteur RSS.
     * Cliquez avec le bouton droit de la souris sur l'icône RSS, sélectionnez **Copy link address**, et collez l'adresse URL dans votre lecteur RSS.
 
-Pour plus d'informations, consultez la section **Aide** de votre lecteur. 	   
+Pour plus d'informations, reportez-vous à la section **Aide** de votre lecteur. 	   
 
 D'autres méthodes de lecture de flux RSS sont disponibles via des plug-in de navigateur Web, tels que les suivants :
   * [Lecteur de flux RSS ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://feeder.co/){: new_window} pour Chrome

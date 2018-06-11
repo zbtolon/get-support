@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour déterminer la cause du problème et trouver une solution.
 {:shortdesc}
 
-Si votre compte a été créé à partir de la console {{site.data.keyword.Bluemix_notm}} ou si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et s'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Les comptes liés le sont entre des services {{site.data.keyword.Bluemix_notm}} et d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}. Voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts) pour plus d'informations.
+Si votre compte a été créé à partir de la console {{site.data.keyword.Bluemix_notm}}, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Vous pouvez lier des comptes entre {{site.data.keyword.Bluemix_notm}} et les services d'infrastructure {{site.data.keyword.BluSoftlayer_notm}}. Si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et qu'il s'agit d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis la console {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Liaison de comptes utilisateur IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Si votre compte est un compte SoftLayer créé sur le portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} mais qu'il ne s'agit pas d'un compte lié, voir [Support pour l'infrastructure {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) pour plus d'informations sur l'ouverture de tickets de demande de service depuis le portail client.
+Si votre compte SoftLayer a été créé à partir du portail client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}} et qu'il ne s'agit pas d'un compte lié, vous pouvez ouvrir des tickets de demande de service depuis le portail client. Pour plus d'informations, voir [Support pour l'infrastructure {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilisation du centre de support
 {: #using-avatar}
@@ -83,7 +83,7 @@ Afin d'indiquer les informations requises dans le fomulaire de ticket pour obten
 
 Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème de compte, procédez comme suit :
   1. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu.
-  2. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* lorsque vous indiquez que le ticket concerne un problème de compte à l'étape suivante.
+  2. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* puisqu'il s'agit d'un problème de compte.
   3. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème.
   4. Indiquez les informations requises en décrivant les éventuels messages d'erreur que vous avez reçus. Les informations requises dépendent du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Cliquez sur **Soumettre**.
@@ -110,7 +110,7 @@ Si vous en faites la demande, la liste des utilisateurs de votre organisation po
 ## Demande de support pour des ressources dans l'Union européenne
 {: #eusupported}
 
-Le support dans l'Union européenne est fourni 24 heures sur 24, 7 jours sur 7, par des ingénieurs qui se trouvent en Europe pour des clients qui ont sélectionné l'option correspondante. Les équipes globales fournissent un support supplémentaire uniquement à la discrétion et sous la direction de l'équipe de support IBM de la région UE. Ces équipes globales peuvent être contactées, par exemple, quand certains problèmes ne sont pas résolus par l'équipe de niveau 1 et 2 de l'UE et que l'expertise d'un membre de l'équipe de support de niveau 3 est nécessaire.
+Le support dans l'Union européenne est assuré 24 heures sur 24, 7 jours sur 7, par des ingénieurs situés en Europe, pour les clients ayant sélectionné l'option correspondante. Les équipes globales fournissent un support uniquement à la discrétion et sous la direction de l'équipe de support de la région UE. Ces équipes globales peuvent être contactées, par exemple, quand certains problèmes ne sont pas résolus par l'équipe de niveau 1 et 2 de l'UE et qu'une expertise plus poussée est nécessaire.
 
 Vous pouvez spécifier que vous souhaitez pour votre compte que le support soit assuré par l'équipe de support physiquement localisée en Europe si les critères suivants sont vérifiés :
   * Votre utilisateur principal ou votre propriétaire de compte a défini l'option de support européen pour votre compte
@@ -121,19 +121,17 @@ Pour la plateforme {{site.data.keyword.Bluemix_notm}}, seuls les services héber
 
 La définition de l'option **Support dans l'Union européenne** pour votre compte s'applique à tous les tickets futurs que vous ouvrez pour des problèmes survenant sur tout service ou centre de données hébergé dans la région UE. Tous les tickets que vous avez ouverts avant la définition de cette option ne sont pas affectés. Si vous définissez cette option et que vous ajoutez des ressources en dehors d'un centre de données de l'Union européenne ou de la région Allemagne, les problèmes rencontrés sur ces ressources ne sont pas nécessairement gérés par une équipe de support en Europe.
 
-Vous pouvez définir l'option **Support dans l'Union européenne** pour votre compte depuis la fenêtre Facturation de la console {{site.data.keyword.Bluemix_notm}}. Voir [Activation de l'option Support dans l'Union européenne](/docs/billing-usage/eusupported.html) pour plus d'informations.
-
-Si vous êtes client d'une infrastructure {{site.data.keyword.BluSoftlayer_notm}} et que vous ne disposez pas d'un compte lié, vous pouvez définir l'option **Support dans l'Union européenne** dans la fenêtre Profil du compte du portail client. Voir la rubrique relative à la [définition de l'option Support dans l'Union européenne](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) pour plus d'informations.
+Vous pouvez définir l'option **Support dans l'Union européenne** pour votre compte depuis la fenêtre Facturation de la console {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Activation de l'option Support dans l'Union européenne](/docs/billing-usage/eusupported.html).
 
 ### Services Support dans l'Union européenne
 {: #eusupportedservices}
 
 Après avoir défini l'option **Support dans l'Union européenne**, vous pouvez également tirer parti de contrôles supplémentaires pour la prise en charge et l'utilisation de services {{site.data.keyword.Bluemix_notm}} depuis l'Union européenne. Vous pouvez filtrer votre recherche de services de plateforme avec les plans pris en charge dans le catalogue {{site.data.keyword.Bluemix_notm}}. Pour voir les plans pris en charge dans l'Union européenne pour un service de plateforme, procédez comme suit :
   1. Ouvrez le [catalogue {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/catalog/){: new_window}.
-  2. Cliquez sur le bouton **Filter**. 
-  3. Sélectionnez **Support dans l'Union européenne** dans la liste déroulante. Le filtre Support dans l'Union européenne étant défini, seuls les services des catégories **Infrastructure** et **Platform** comportant des plans pris en charge dans l'Union européenne sont visibles. 
-  4. Sélectionnez le service souhaité. Les régions et les plans pris en charge dans l'Union européenne pour le service sont affichés. 
-  5. Afin d'afficher les plans pris en charge dans l'Union européenne pour le service, sélectionnez la région appropriée dans la liste déroulante **Sélectionnez une région/un emplacement où effectuer le déploiement**. Par exemple, pour voir les plans pris en charge dans l'Union européenne pour un service de plateforme, sélectionnez Allemagne comme région. Vous pouvez ensuite afficher les plans de tarification du service auxquels le libellé **Support dans l'Union européenne** est affecté.
+  2. Cliquez sur **Filtrer**.
+  3. Sélectionnez **Support dans l'Union européenne** dans la liste déroulante. Le filtre Support dans l'Union européenne étant défini, seuls les services des catégories **Infrastructure** et **Platform** comportant des plans pris en charge dans l'Union européenne sont visibles.
+  4. Sélectionnez le service souhaité. Les régions et les plans pris en charge dans l'Union européenne pour le service sont affichés.
+  5. Afin d'afficher les plans pris en charge dans l'Union européenne pour le service, sélectionnez la région appropriée dans la liste déroulante **Sélectionnez une région/un emplacement où effectuer le déploiement**. Par exemple, pour voir les plans pris en charge dans l'Union européenne pour un service de plateforme, sélectionnez Allemagne comme région. Vous pouvez ensuite consulter les plans de tarification des services portant le libellé **Support dans l'Union européenne**.
 
 Tous les plans (à l'exception des plans Lite) pour les catégories suivantes des services d'infrastructure {{site.data.keyword.Bluemix_notm}} sont hébergés en Europe et disponibles en tant qu'option Support dans l'Union européenne.
 
@@ -153,4 +151,4 @@ Pour signaler une vulnérabilité de sécurité potentielle, procédez comme sui
 2. Décrivez clairement dans le résumé du ticket qu'il porte sur une vulnérabilité de sécurité potentielle.
 3. Fournissez des détails sur la vulnérabilité de sécurité potentielle en incluant l'un des éléments suivants :
     * Un numéro de téléphone où vous pouvez être joint pour discuter du problème.
-    * Les détails du problème. Vous pouvez les chiffrer dans un bloc de texte dans le corps du ticket et indiquer comment le support IBM peut vous contacter pour obtenir des instructions de déchiffrement sécurisées.
+    * Les détails du problème. Vous devez les chiffrer dans un bloc de texte dans le corps du ticket. Vous devez également indiquer comment le support IBM peut vous contacter pour obtenir des instructions de déchiffrement sécurisées.
