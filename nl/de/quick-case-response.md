@@ -50,24 +50,24 @@ Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folge
 ## Supportfälle eskalieren
 {: #escalation}
 
-Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Während des Eskalationsprozesses können Sie kritische Probleme auf den Punkt bringen und Ihre Sorge äußern, wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen bearbeitet wird. Nach der Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über Updates. 
+Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Während des Eskalationsprozesses können Sie kritische Probleme auf den Punkt bringen und Ihre Sorge äußern, wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen bearbeitet wird. Nach der Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über Updates.
 
-Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced oder Premium Support verfügen und einen Supportfall für das Problem geöffnet haben. Stellen Sie außerdem sicher, dass das technische Problem im geöffneten Supportfall ausreichend dokumentiert ist. 
+Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced oder Premium Support verfügen und einen Supportfall für das Problem geöffnet haben. Stellen Sie außerdem sicher, dass das technische Problem im geöffneten Supportfall ausreichend dokumentiert ist.
 
- Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren: 
+ Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 
   1. Kontaktieren Sie das {{site.data.keyword.Bluemix_notm}}-Support-Team via Telefon oder Chat:
-    * Via Telefon unter der folgenden Nummer: 866-403-7638. 
-    * Via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein nicht verknüpftes SoftLayer-Konto verfügen, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}. 
-  2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren. 
-  3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an. 
+    * Via Telefon unter der folgenden Nummer: 866-403-7638.
+    * Via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein nicht verknüpftes SoftLayer-Konto verfügen, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+  2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren.
+  3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
 
-{{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen. 
+{{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
 
 
 ## Betriebszeiten
 {: #support-hours-operation}
 
-Probleme mit der Priorität 1 werden 24 Stunden täglich und jeden Tag in der Woche überwacht. Einreichungen von Formularen für Probleme mit allen anderen Prioritäten werden von Sonntag ab 21:30 Uhr UTC bis Freitag um 23:59 Uhr UTC überwacht. 
+Probleme mit der Priorität 1 werden 24 Stunden täglich und jeden Tag in der Woche überwacht. Einreichungen von Formularen für Probleme mit allen anderen Prioritäten werden von Sonntag ab 21:30 Uhr UTC bis Freitag um 23:59 Uhr UTC überwacht.
 
 Hilfe zur Umrechnung dieser Support-Stunden in Ihre örtliche Zeitzone finden Sie unter [Timeanddate.com ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.timeanddate.com).

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -24,7 +24,7 @@ Auf der Seite 'Status' sind die folgenden Informationen zu finden:
 
   * Der aktuelle Status von Services und Komponenten in allen {{site.data.keyword.Bluemix_notm}} Foundry-Serviceregionen.
   * Eine Liste mit Ankündigungen in chronologischer Reihenfolge zu Wartungszwecken und zur Behebung von Vorfällen. Für weitere Details können Sie die Liste filtern oder eine einzelne Ankündigung öffnen.
-  * Geplante Wartungszeiten, die mindestens 24 Stunden im Voraus angekündigt werden, außer in extremen Situationen.
+  * Geplante Wartungszeiten, die im Voraus angekündigt werden, außer in extremen Situationen.
   * Ungeplante Vorfälle oder Ausfallzeiten, die mitgeteilt werden, sobald das {{site.data.keyword.Bluemix_notm}}-Team diese bemerkt. Benachrichtigungen zu Vorfällen werden regelmäßig aktualisiert, bis die Probleme behoben sind.
   * Referenzen auf Sicherheitsbulletins, die die verschiedenen {{site.data.keyword.Bluemix_notm}}-Services oder die Plattform betreffen.
   * Weitere plattformweite Ankündigungen allgemeiner Art, die Sie interessieren könnten.
@@ -77,7 +77,7 @@ Führen Sie die folgenden Schritte durch, um einen RSS-Feed zu abonnieren:
     * Ziehen Sie das RSS-Symbol ![RSS](images/rss.svg) in den RSS-Reader.
     * Klicken Sie mit der rechten Maustaste auf das RSS-Symbol, wählen Sie die Option zum Kopieren der Linkadresse aus und fügen Sie die URL in Ihren RSS-Reader ein.
 
-Im Abschnitt **Hilfe** Ihre Readers finden Sie weitere Informationen. 	   
+Weitere Informationen finden Sie in der **Hilfe** Ihres Readers. 	   
 
 Weitere Methoden zum Lesen von RSS-Feeds stehen über Web-Browser-Plug-ins zur Verfügung:
   * [RSS Feed ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://feeder.co/){: new_window} Reader für Chrome

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 Falls Sie Probleme mit {{site.data.keyword.Bluemix}} feststellen, haben Sie verschiedene Optionen, Hilfe beim Bestimmen der Ursache des Problems und Finden einer Lösung zu bekommen.
 {:shortdesc}
 
-Falls Ihr Konto in der {{site.data.keyword.Bluemix_notm}}-Konsole oder Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und ein verknüpftes Konto ist, können Sie in der {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Verknüpfte Konten werden zwischen {{site.data.keyword.Bluemix_notm}} und den Services der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur verknüpft. Weitere Informationen finden Sie unter [IBMid-Benutzerkonten verknüpfen](/docs/admin/softlayerlink.html#link_user_accounts).
+Falls Ihr Konto mit der {{site.data.keyword.Bluemix_notm}}-Konsole erstellt wurde, können Sie über die {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Konten können zwischen {{site.data.keyword.Bluemix_notm}} und den Services der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur verknüpft werden. Wenn Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und ein verknüpftes Konto ist, können Sie über die {{site.data.keyword.Bluemix_notm}}-Konsole Support-Tickets öffnen. Weitere Informationen finden Sie in [IBMid-Benutzerkonten verknüpfen](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Falls Ihr Konto ein nicht verknüpftes SoftLayer-Konto ist und im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde, finden Sie im Abschnitt [Support für {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erhalten](/docs/customer-portal/cpsupport.html#customerportal_support) weitere Informationen dazu, wie Sie Support-Tickets im Kundenportal öffnen können.
+Wenn Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und kein verknüpftes Konto ist, können Sie über das Kundenportal Tickets öffnen. Weitere Informationen finden Sie in [Support für {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erhalten](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Support Center verwenden
 {: #using-avatar}
@@ -33,7 +33,7 @@ Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keywo
 Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Forum 'Stack Overflow' (für technische Fragen) und zu 'developerWorks Answers' (für alle anderen Fragen).  
 
 Abhängig vom Typ Ihres Kontos sind auch andere Optionen im Support Center verfügbar.  
-* Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support/index.html) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können. 
+* Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support/index.html) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können.
 * Wenn Ihr Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur erstellt wurde und zwischen PaaS- und IaaS-Services verknüpft ist, können Sie auch auf die Optionen **Anrufen** und **Jetzt chatten** zurückgreifen, um den Support anzurufen oder eine Chatsitzung zu starten.
 
 Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Hilfe anfordern](http://www.ibm.biz/bluemixsupport){: new_window} verwenden, um ein Ticket zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können.
@@ -83,7 +83,7 @@ Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im T
 
 Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem Kontoproblem zu erhalten:
   1. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann.
-  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. In den zugeordneten Feldern für die einzelnen Optionen im Ticketformular wird automatisch *Nicht zutreffend* eingetragen, wenn Sie im nächsten Schritt angeben, dass das Ticket für ein Kontoproblem ist.
+  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. Bei jeder der beiden Optionen wird für manche Felder im Ticketformular automatisch *Nicht zutreffend* eingetragen, da es sich hierbei um ein Kontoproblem handelt.
   3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
   4. Füllen Sie die erforderlichen Informationen aus und geben Sie eine Beschreibung aller erhaltenen Fehlernachrichten an. Welche Informationen benötigt werden, richtet sich nach dem Typ des Supportplans Ihres Kontos. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Klicken Sie auf **Abschicken**.
@@ -109,7 +109,7 @@ Auf Anforderung kann eine Liste der Benutzer in Ihrer Organisation, die als Kont
 ## Unterstützung für Ressourcen in der EU anfordern
 {: #eusupported}
 
-Die Unterstützung für die Europäische Union wird rund um die Uhr von in Europa ansässigen Fachkräften betreut und steht Kunden zur Verfügung, die die Option 'Unterstützung in der EU' ausgewählt haben. Globale Teams bieten eine zusätzliche Unterstützung. Die Entscheidung, ob diese Teams hinzugezogen werden, liegt im alleinigen Ermessen des EU-Support-Teams. Globale Teams können kontaktiert werden, wenn beispielsweise Probleme von europäischen Support-Teams der Ebene 1 oder 2 nicht behoben werden können und das Fachwissen eines Mitarbeiters eines globalen Support-Teams der Ebene 3 gefragt ist.
+Die Unterstützung für die Europäische Union wird rund um die Uhr von in Europa ansässigen Fachkräften betreut und steht Kunden zur Verfügung, die die Option für 'Unterstützung in der EU' auswählen. Globale Teams bieten nur nach Ermessen des EU-Unterstützungsteams und unter dessen Leitung Unterstützung. Globale Teams können zum Beispiel kontaktiert werden, wenn Probleme von europäischen Support-Teams der Ebene 1 oder 2 nicht behoben werden können und weiteres Fachwissen erforderlich ist.
 
 Sie können angeben, dass die Unterstützung für Ihr Konto durch ein Support-Team erfolgen soll, das in Europa ansässig ist, falls die folgenden Bedingungen zutreffen:
   * Ihr Masterbenutzer oder Kontoeigner hat die Option 'Unterstützung in der EU' für Ihr Konto festgelegt.
@@ -120,19 +120,17 @@ Bei der {{site.data.keyword.Bluemix_notm}}-Plattform können nur in der Region '
 
 Die Option **Unterstützung in der EU** Ihres Kontos bleibt anschließend für alle weiteren Tickets gültig, die Sie für Probleme bei Services oder Rechenzentren öffnen, die in der EU gehostet werden. Die Option wirkt sich nicht auf vor dieser Festlegung geöffnete Tickets aus. Wenn Sie diese Option aktivieren und Ressourcen hinzufügen, die sich nicht in einem EU-Rechenzentrum oder der Region 'Deutschland' befinden, werden Probleme im Zusammenhang mit diesen Ressourcen nicht unbedingt von einem europäischen Support-Team bearbeitet.
 
-Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie unter [Option 'Unterstützung in der EU' aktivieren](/docs/billing-usage/eusupported.html).
-
-Wenn Sie Kunde der {{site.data.keyword.BluSoftlayer_notm}}-Infrastruktur sind und nicht über ein verknüpftes Konto verfügen, können Sie die Option **Unterstützung in der EU** über das Fenster 'Kontoprofil' des Kundenportals aktivieren. Weitere Informationen finden Sie unter [Option für EU-Unterstützung festlegen](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported).
+Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie in [Option 'Unterstützung in der EU' aktivieren](/docs/billing-usage/eusupported.html).
 
 ### Services mit Unterstützung in der EU
 {: #eusupportedservices}
 
-Wenn Sie die Option **Unterstützung in der EU** angegeben haben, können Sie weitere Steuerelemente für den Support und den Betrieb von {{site.data.keyword.Bluemix_notm}}-Services in der europäischen Union nutzen. Sie können Ihre Suche nach Plattformservices nach den unterstützten Supportplänen im {{site.data.keyword.Bluemix_notm}}-Katalog filtern. Führen Sie die folgenden Schritte aus, um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen: 
-  1. Werfen Sie einen Blick in den [{{site.data.keyword.Bluemix_notm}}-Katalog ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/catalog/){: new_window}. 
-  2. Klicken Sie auf die Schaltfläche **Filtern**. 
-  3. Wählen Sie in der Dropdown-Liste **Unterstützung in der EU** aus. Wenn Sie den Filter 'Unterstützung in der EU' anwenden, werden nur die Services in den Kategorien **Infrastruktur** und **Plattform** angezeigt, deren Pläne in der EU unterstützt werden. 
-  4. Wählen Sie den gewünschten Service aus. Es werden einige in der EU unterstützte Regionen und Pläne für den Service angezeigt. 
-  5. Zum Anzeigen der in der EU unterstützten Pläne für den Service wählen Sie die korrekte Region in der Dropdown-Liste **Region/Standort für die Bereitstellung auswählen** aus. Um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen, währen Sie beispielsweise  die Region 'Deutschland' aus Anschließend werden die Preistarife für den Service angezeigt, die mit **Unterstützung in der EU** gekennzeichnet sind. 
+Nachdem Sie die Option **Unterstützung in der EU** festgelegt haben, können Sie weitere Steuerelemente für den Support und den Betrieb von {{site.data.keyword.Bluemix_notm}}-Services in der europäischen Union nutzen. Sie können Ihre Suche nach Plattformservices nach den unterstützten Supportplänen im {{site.data.keyword.Bluemix_notm}}-Katalog filtern. Führen Sie die folgenden Schritte aus, um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen:
+  1. Werfen Sie einen Blick in den [{{site.data.keyword.Bluemix_notm}}-Katalog ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/catalog/){: new_window}.
+  2. Klicken Sie auf **Filtern**.
+  3. Wählen Sie in der Dropdown-Liste **Unterstützung in der EU** aus. Wenn Sie den Filter 'Unterstützung in der EU' anwenden, werden nur die Services in den Kategorien **Infrastruktur** und **Plattform** angezeigt, deren Pläne in der EU unterstützt werden.
+  4. Wählen Sie den gewünschten Service aus. Es werden einige in der EU unterstützte Regionen und Pläne für den Service angezeigt.
+  5. Zum Anzeigen der in der EU unterstützten Pläne für den Service wählen Sie die korrekte Region in der Dropdown-Liste **Region/Standort für die Bereitstellung auswählen** aus. Um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen, währen Sie beispielsweise  die Region 'Deutschland' aus Anschließend werden die Preistarife für die Services angezeigt, die mit **Unterstützung in der EU** gekennzeichnet sind. 
 
 Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Kategorien von {{site.data.keyword.Bluemix_notm}}-Infrastrukturservices in Europa gehostet und mit einer Unterstützung in der EU angeboten.
 
@@ -145,11 +143,11 @@ Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Kategorie
 ## Potenzielle Sicherheitslücke melden
 {: #report-security-vulnerability}
 
-Wenn Sie vermuten, dass eine potenzielle {{site.data.keyword.Bluemix_notm}}-Sicherheitslücke vorliegt, melden Sie das Vorkommnis, indem Sie ein Support-Ticket öffnen.
+Wenn Sie eine potenzielle {{site.data.keyword.Bluemix_notm}}-Sicherheitslücke entdecken, melden Sie diese, indem Sie ein Support-Ticket öffnen.
 
 Führen Sie die folgenden Schritte aus, um eine potenzielle Sicherheitslücke zu melden:
 1. Öffnen Sie ein Ticket mit der Prioritätsstufe 1 oder ein Ticket mit der höchsten zulässigen Support-Priorität. Informationen zum Öffnen eines Tickets finden Sie unter [Support-Ticket öffnen](/docs/get-support/howtogetsupport.html#open-ticket).
 2. Beschreiben Sie in der Ticket-Zusammenfassung deutlich, dass es um ein potenzielle Sicherheitslücke geht.
 3. Stellen Sie in den Details für die potenzielle Sicherheitslücke eines der folgenden Elemente bereit:
     * Eine Telefonnummer, unter der Sie für Rückfragen erreichbar sind.
-    * Problemdetails. Verschlüsseln Sie die Details als Textblock im Hauptteil des Tickets und geben Sie an, auf welchem sicheren Kommunikationsweg der IBM Support die Entschlüsselungsanweisungen bei Ihnen anfordern kann.
+    * Problemdetails. Sie müssen die Details als Textblock im Hauptteil des Tickets verschlüsseln. Außerdem müssen Sie angeben, auf welchem sicheren Kommunikationsweg der IBM Support die Entschlüsselungsanweisungen bei Ihnen anfordern kann.
