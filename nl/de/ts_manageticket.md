@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,10 +34,10 @@ Wenn Sie über ein verknüpftes Konto verfügen, kann es vorkommen, dass Sie {{s
 Sie können Support-Tickets in {{site.data.keyword.Bluemix_notm}} nicht erstellen oder bearbeiten.
 {: tsSymptoms}
 
-Allgemeine Probleme beim Zugriff auf Support-Tickets und bei der Verwaltung von Support-Tickets können bei Vorhandensein eines verknüpften Kontos durch nicht ausreichend differenzierte Kontoeinstellungen im {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}} verursacht werden. Da es differenziertere Berechtigungen gibt, die für Konten konfiguriert werden müssen, die im {{site.data.keyword.slportal}} erstellt wurden, können Sie möglicherweise keine Support-Tickets hinzufügen oder bearbeiten.
+Allgemeine Probleme beim Zugriff auf Support-Tickets und bei der Verwaltung von Support-Tickets könnten bei Vorhandensein eines verknüpften Kontos durch nicht ausreichend differenzierte Kontoeinstellungen im {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}} verursacht werden. Da differenziertere Berechtigungen für Konten, die im Kundenportal erstellt wurden, konfiguriert werden müssen, können Sie möglicherweise keine Support-Tickets hinzufügen oder bearbeiten.
 {: tsCauses}
 
-Wenden Sie sich zur Behebung des Problems an Ihren {{site.data.keyword.slportal}}-Kontoadministrator, damit er den richtigen Zugriff auf Ihr Konto einrichtet. Der {{site.data.keyword.slportal}}-Kontoadministrator kann das Problem mit den folgenden Schritten beheben:
+Wenden Sie sich zur Behebung des Problems an Ihren {{site.data.keyword.slportal}}-Kontoadministrator, damit er den richtigen Zugriff auf Ihr Konto einrichtet. Der {{site.data.keyword.slportal}}-Kontoadministrator kann das Problem anhand der folgenden Schritte beheben:
 
 1. Wählen Sie im Menü {{site.data.keyword.slportal}} **Konto** die Option **Benutzer** aus.
 2. Wählen Sie den Benutzer in der Liste aus.

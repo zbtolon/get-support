@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-16"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,7 +23,7 @@ A tutti i clienti di {{site.data.keyword.Bluemix}} viene fornito supporto tecnic
 
 Puoi accedere alle opzioni di supporto, come ad esempio alla community {{site.data.keyword.Bluemix_notm}} o a Stack Overflow per i problemi tecnici, dal Centro di supporto della console {{site.data.keyword.Bluemix_notm}}.
 
-Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto. Per ulteriori informazioni, vedi [Utilizzo del Centro di supporto](/docs/get-support/howtogetsupport.html#using-avatar). Il livello di piano di supporto selezionato per il tuo account determina anche il livello di supporto a tua disposizione e la severità che puoi assegnare ai ticket di supporto quando contatti il supporto clienti. Per ulteriori informazioni, consulta [In che modo vengono assegnati e ponderati i ticket?](/docs/get-support/ticketweight.html#support-ticket-severity)
+Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto. Per ulteriori informazioni, vedi [Utilizzo del Centro di supporto](/docs/get-support/howtogetsupport.html#using-avatar). Il piano di supporto che hai selezionato per il tuo account determina il livello di supporto disponibile e la gravità che puoi assegnare ai ticket di supporto. Per ulteriori informazioni, consulta [In che modo vengono assegnati e ponderati i ticket?](/docs/get-support/ticketweight.html#support-ticket-severity)
 
 ## Sondaggio sulla soddisfazione per il supporto {{site.data.keyword.Bluemix_notm}}  
 {: #survey}

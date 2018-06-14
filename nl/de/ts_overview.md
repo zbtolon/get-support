@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# Einstieg in die Fehlerbehebung bei Problemen
+# Wie suche und behebe ich Probleme?
 {: #ts-overview}
 
-Es gibt viele Ressourcen, die Sie zur Fehlerbehebung bei {{site.data.keyword.Bluemix}}-Problemen nutzen können. Hierzu gehört unter anderem die Ressource zur Fehlerbehebung, bei der es sich um eine kompilierte Liste allgemeiner Probleme und Lösungen handelt, die von den Kundenunterstützungsteams für {{site.data.keyword.Bluemix_notm}} bereitgestellt wird.
+Sie können zahlreiche Ressourcen nutzen, um Probleme im Zusammenhang mit {{site.data.keyword.Bluemix}} zu suchen und zu beheben. Eine solche Ressource zur Fehlerbehebung ist die kompilierte Liste häufig auftretender Probleme und der Lösungen, die von den Kundenunterstützungsteams für {{site.data.keyword.Bluemix_notm}} bereitgestellt wird.
 {:shortdesc}
 
 In der folgenden Liste sind einige Fehlerbehebungsverfahren aufgeführt:

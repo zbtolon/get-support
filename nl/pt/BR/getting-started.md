@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -32,7 +32,7 @@ Se você for um cliente de infraestrutura do {{site.data.keyword.BluSoftlayer_no
 ## Etapa 1: verificar o status
 {: #check-status}
 
-Se você estiver tendo problemas com o {{site.data.keyword.Bluemix_notm}}, verifique a página Status para determinar se há quaisquer problemas que estejam afetando a plataforma e os serviços principais do {{site.data.keyword.Bluemix_notm}}.
+Se estiver tendo problemas com o {{site.data.keyword.Bluemix_notm}}, verifique a página Status para determinar se há algum problema que esteja afetando a plataforma do {{site.data.keyword.Bluemix_notm}} e os principais serviços.
 
 Para visualizar o status da plataforma, serviços e tempos de execução, use as etapas a seguir:
   1. Clique em **Suporte** > **Status** na barra de menus.  
@@ -77,4 +77,4 @@ Para assinar notificações, acesse a página Notificações da plataforma e sel
 ## Próximas Etapas
 {: #next-steps}
 
-Se você optou por abrir um chamado de suporte para entrar em contato com o suporte ao cliente e obter ajuda com seu problema, será possível gerenciar o chamado de suporte durante o processo.  Consulte [Gerenciando chamados](/docs/get-support/mantick.html#check-ticket-status) para obter informações adicionais.
+Se você optou por abrir um chamado de suporte para entrar em contato com o suporte ao cliente e obter ajuda com seu problema, será possível gerenciar o chamado de suporte durante o processo. Consulte [Gerenciando chamados](/docs/get-support/mantick.html#check-ticket-status) para obter informações adicionais.

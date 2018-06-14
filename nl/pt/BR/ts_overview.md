@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# Como iniciar a resolução de problemas?
+# Como posso solucionar problemas?
 {: #ts-overview}
 
-Há muitos recursos que podem ser usados para resolver seus problemas do {{site.data.keyword.Bluemix}}. Um tipo de recurso de resolução de problema é uma lista compilada de problemas comuns e soluções que foram fornecidas pelas equipes do {{site.data.keyword.Bluemix_notm}} Customer Support.
+É possível usar vários recursos para solucionar os problemas do {{site.data.keyword.Bluemix}}. Um tipo de recurso de resolução de problemas é a lista compilada de problemas comuns e soluções fornecida pelas equipes do Suporte ao cliente do {{site.data.keyword.Bluemix_notm}}.
 {:shortdesc}
 
 Algumas técnicas de resolução de problemas incluem a lista a seguir:

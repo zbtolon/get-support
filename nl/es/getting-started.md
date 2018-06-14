@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -77,4 +77,4 @@ Para suscribirse a las notificaciones, acceda a la página Notificaciones de pla
 ## Pasos siguientes
 {: #next-steps}
 
-Si selecciona abrir una incidencia de soporte para ponerse en contacto con el servicio de atención al cliente y obtener ayuda con el problema, puede gestionar la incidencia de soporte mediante el proceso.  Consulte [Gestión de incidencias](/docs/get-support/mantick.html#check-ticket-status) para obtener más información.
+Si selecciona abrir una incidencia de soporte para ponerse en contacto con el servicio de atención al cliente y obtener ayuda con el problema, puede gestionar la incidencia de soporte mediante el proceso. Consulte [Gestión de incidencias](/docs/get-support/mantick.html#check-ticket-status) para obtener más información.

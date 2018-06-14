@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,10 +34,10 @@ lastupdated: "2017-11-09"
 无法在 {{site.data.keyword.Bluemix_notm}} 中创建或编辑支持凭单。
 {: tsSymptoms}
 
-如果您拥有链接的帐户，那么可能会由于在 {{site.data.keyword.Bluemix_notm}}{{site.data.keyword.slportal}}中缺少更详细的帐户设置，而导致访问和管理支持凭单时的一般问题。由于必须在 {{site.data.keyword.slportal}}中创建的帐户上配置更详细的许可权，因此您可能无法添加或编辑支持凭单。
+如果您拥有链接的帐户，那么可能会由于在 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}中缺少更详细的帐户设置，而导致访问和管理支持凭单时发生一般问题。由于必须对在客户门户网站中创建的帐户配置更详细的许可权，因此您可能无法添加或编辑支持凭单。
 {: tsCauses}
 
-要解决此问题，请联系 {{site.data.keyword.slportal}}帐户管理员以设置您帐户的正确访问权。{{site.data.keyword.slportal}}帐户管理员可以使用以下步骤来更正此问题：
+要解决此问题，请联系 {{site.data.keyword.slportal}}帐户管理员以设置您帐户的正确访问权。{{site.data.keyword.slportal}} 帐户管理员可以使用以下步骤来更正问题：
 
 1. 在 {{site.data.keyword.slportal}} **帐户**菜单中，选择**用户**。
 2. 从列表中选择用户。

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución.
 {:shortdesc}
 
-Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}} o si su cuenta de SoftLayer se ha creado desde el portal de cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas enlazadas se enlazan entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts) para obtener más información.
+Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}}, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas se pueden enlazar entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Si su cuenta de SoftLayer se creó desde el portal del cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Si su cuenta es una cuenta de SoftLayer que se ha creado en el portal de clientes de la infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support) para obtener más información sobre la apertura de incidencias de soporte desde el portal de clientes.
+Si su cuenta de SoftLayer se creó en el portal del cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, puede abrir incidencias desde el portal del cliente. Para obtener más información, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilización del Centro de soporte
 {: #using-avatar}
@@ -84,7 +84,7 @@ Complete los pasos siguientes para proporcionar la información necesaria en el 
 
 Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema de cuenta:
   1. Seleccione **Contabilidad y facturación** como el tipo de incidencia para asegurarse de que esta se dirige al equipo de soporte adecuado de forma que la misma se pueda resolver rápidamente.
-  2. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. En el siguiente paso los campos asociados con cualquiera de las opciones en el formulario de la incidencia se cumplimentan de forma automática con *No aplicable* si indica que la incidencia es para un problema de cuenta.
+  2. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. Para cualquier opción, se rellenan automáticamente algunos campos del formulario de la incidencia con *No aplicable* porque es un problema de cuenta.
   3. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
   4. Complete la información necesaria, proporcionando una descripción de los mensajes de error que ha recibido. La información necesaria depende del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
   5. Pulse **Enviar**.
@@ -112,7 +112,7 @@ En la solicitud, se puede mostrar una lista de usuarios de su organización que 
 ## Solicitud de soporte para recursos en la Unión Europea
 {: #eusupported}
 
-En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días por semana, por parte de ingenieros ubicados en Europa para los clientes que han seleccionado la opción Soporte en la UE. Los equipos globales proporcionan soporte adicional solo a discreción y bajo la dirección del equipo de soporte de la UE. Se puede contactar a los equipos globales, por ejemplo, cuando los equipos de soporte de nivel 1 o nivel 2 en la UE no resuelven los problemas, y se necesita la experiencia de un miembro del equipo de soporte de nivel 3 global.
+En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días por semana, por parte de ingenieros ubicados en Europa para los clientes que seleccionen la opción Soporte en la UE. Los equipos globales proporcionan soporte solo a discreción y bajo la dirección del equipo de soporte de la UE. Se puede contactar con los equipos globales, por ejemplo, cuando los equipos de soporte de nivel 1 o nivel 2 en la UE no resuelven los problemas, y se necesita más experiencia.
 
 Puede especificar que desea recibir soporte para su cuenta del equipo de soporte que se encuentra físicamente en Europa si se cumplen los criterios siguientes:
   * El usuario maestro o el propietario de la cuenta establece la opción Soporte en la UE para su cuenta
@@ -123,19 +123,17 @@ Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojad
 
 Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todas las incidencias de soporte futuras que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Las incidencias abiertas antes de establecer esta opción no se ven afectadas. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
 
-Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Consulte [Habilitación de la opción Soporte en la UE](/docs/billing-usage/eusupported.html) para obtener más información.
-
-Si es un cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no tiene una cuenta enlazada, puede establecer la opción **Soporte en la UE** desde la ventana Perfil de cuenta del portal del cliente. Consulte [Definición de la opción Soporte en la UE](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported) para obtener más información.
+Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de la opción Soporte en la UE](/docs/billing-usage/eusupported.html).
 
 ### Servicios con soporte en la UE
 {: #eusupportedservices}
 
-Después de establecer la opción **Soporte en la UE**, también puede aprovecharse de controles adicionales para dar soporte y trabajar con servicios de {{site.data.keyword.Bluemix_notm}} desde la Unión Europea. Puede filtrar la búsqueda de servicios de plataforma con los planes soportados del catálogo de {{site.data.keyword.Bluemix_notm}}. Para ver los planes de un servicio de plataforma con soporte en la UE, complete los pasos siguientes:
+Después de establecer la opción **Soporte en la UE**, también puede aprovecharse de controles extra para dar soporte y trabajar con servicios de {{site.data.keyword.Bluemix_notm}} desde la Unión Europea. Puede filtrar la búsqueda de servicios de plataforma con los planes soportados del catálogo de {{site.data.keyword.Bluemix_notm}}. Para ver los planes de un servicio de plataforma con soporte en la UE, complete los pasos siguientes:
   1. Abra el catálogo de [{{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/catalog/){: new_window}.
-  2. Pulse en el botón **Filtro**.
+  2. Pulse **Filtro**.
   3. Seleccione **Soporte en la UE** de la lista desplegable. Con el filtro Soporte en la UE establecido, verá solo los servicios de las categorías **Infraestructura** y **Plataforma** que tienen planes con soporte en la UE.
   4. Seleccione el servicio que desee. Verá que algunas regiones y planes del servicio tienen soporte en la UE.
-  5. Para ver los planes del servicio con soporte en la UE, seleccione la región correcta de la lista desplegable **Seleccionar una región/ubicación de despliegue**. Por ejemplo, para ver los planes de un servicio de plataforma con soporte en la UE, seleccione Alemania como región. A continuación, podrá ver los planes de precio del servicio etiquetados como **Soporte en la UE**.
+  5. Para ver los planes del servicio con soporte en la UE, seleccione la región correcta de la lista desplegable **Seleccionar una región/ubicación de despliegue**. Por ejemplo, para ver los planes de un servicio de plataforma con soporte en la UE, seleccione Alemania como región. A continuación, puede ver los planes de precios de los servicios etiquetados como **Soporte en la UE**.
 
 Todos los planes, excepto los planes Lite, de las categorías siguientes de los servicios de infraestructura de {{site.data.keyword.Bluemix_notm}} se alojan en Europa y están disponibles con soporte en la UE:
 
@@ -148,11 +146,11 @@ Todos los planes, excepto los planes Lite, de las categorías siguientes de los 
 ## Notificar una vulnerabilidad de seguridad potencial
 {: #report-security-vulnerability}
 
-Si piensa que se ha producido una potencial vulnerabilidad de seguridad de {{site.data.keyword.Bluemix_notm}}, notifíquela abriendo una incidencia de soporte.
+Si ve una potencial vulnerabilidad de seguridad de {{site.data.keyword.Bluemix_notm}}, notifíquela abriendo una incidencia de soporte.
 
 Para notificar una vulnerabilidad de seguridad potencial, realice los siguientes pasos:
 1. Abra una incidencia de gravedad 1 o una incidencia del nivel de gravedad más alto que permite el soporte. Para obtener información sobre cómo abrir una incidencia, consulte [Apertura de una incidencia de soporte](/docs/get-support/howtogetsupport.html#open-ticket).
 2. Describa claramente en el resumen de incidencia que la incidencia se refiere a una vulnerabilidad de seguridad potencial.
 3. Proporcione detalles de la vulnerabilidad de seguridad potencial incluyendo uno de los siguientes elementos:
     * Un número de teléfono al que puede llamar para tratar el problema.
-    * Detalles del problema. Debe cifrar los detalles como un bloque de texto en el cuerpo de la incidencia y proporcionar instrucciones sobre cómo el soporte de IBM puede ponerse en contacto con un usted de forma segura para obtener instrucciones de descifrado.
+    * Detalles del problema. Debe cifrar los detalles como un bloque de texto en el cuerpo de la incidencia. También debe proporcionar instrucciones sobre cómo el soporte de IBM puede ponerse en contacto con usted de forma segura para obtener instrucciones de descifrado.

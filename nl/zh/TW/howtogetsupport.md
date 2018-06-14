@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-04-30"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-04-30"
 如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個選項可以取得關於判斷問題原因與尋找解決方案的協助。
 {:shortdesc}
 
-如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，或者 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間，會鏈結已鏈結帳戶。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/admin/softlayerlink.html#link_user_accounts)。
+如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間，可以鏈結帳戶。如果您的 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/admin/softlayerlink.html#link_user_accounts)。
 
-如果您的帳戶是在 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站中建立的 SoftLayer 帳戶，而且不是已鏈結帳戶，則請參閱[取得 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構的支援](/docs/customer-portal/cpsupport.html#customerportal_support)，以取得從客戶入口網站開立支援問題單的相關資訊。
+如果您的 SoftLayer 帳戶是在 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站中建立，而且它不是已鏈結帳戶，您可以從客戶入口網站開立支援問題單。如需相關資訊，請參閱[取得 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構的支援](/docs/customer-portal/cpsupport.html#customerportal_support)。
 
 ## 使用支援中心
 {: #using-avatar}
@@ -83,7 +83,7 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 
 請完成下列步驟，在問題單表單中提供必要資訊，以取得帳戶問題的協助：
   1. 選取**帳戶 & 計費**作為問題單類型，確定您的問題單遞送至正確的支援團隊，以快速解決您的問題。
-  2. 選取**選取資源環境定義**欄位中的任一選項，以建立問題單。當您指出問題單適用於下一步中的帳戶問題時，問題單表單中任一選項的相關聯欄位會自動移入*不適用*。
+  2. 選取**選取資源環境定義**欄位中的任一選項，以建立問題單。對於任一選項，問題單裡的某些欄位會自動移入*不適用*，因為這是帳戶問題。
   3. 如果您有超值或進階層次支援，請選擇問題的嚴重性層次。
   4. 完成必要資訊，並提供您收到之任何錯誤訊息的說明。所需的資訊取決於您帳戶的支援方案類型。如需支援類型的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
   5. 按一下**提交**。
@@ -110,7 +110,7 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 ## 要求歐盟資源的支援
 {: #eusupported}
 
-針對已選取「歐盟支援」選項的客戶，位在歐洲的工程師可全年無休提供「歐盟 (EU) 支援」。全球團隊只會在歐盟支援團隊的決定及指示下才提供額外支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要全球「層次 3」支援團隊成員的專家時，則可能會聯絡全球團隊。
+針對已選取「歐盟支援」選項的客戶，位在歐洲的工程師可全年無休提供「歐盟 (EU) 支援」。全球團隊只會在歐盟支援團隊的決定及指示下才提供支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要更多的專家。
 
 您可以指定在符合下列準則時，想要實際位在歐洲的支援團隊來支援您的帳戶：
   * 您的主要使用者或帳戶擁有者設定您帳戶的「歐盟支援」選項
@@ -123,14 +123,12 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 
 您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援選項](/docs/billing-usage/eusupported.html)。
 
-如果您是 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶，但沒有已鏈結帳戶，則可以在客戶入口網站的「帳戶設定檔」視窗中設定**歐盟支援**選項。如需相關資訊，請參閱[設定歐盟支援選項](/docs/customer-portal/cpmanuserprof.html#cp_seteusupported)。
-
 ### 歐盟支援服務
 {: #eusupportedservices}
 
-設定**歐盟支援**選項之後，您也可以充分運用其他控制項，從歐盟支援及操作 {{site.data.keyword.Bluemix_notm}} 服務。您可以使用 {{site.data.keyword.Bluemix_notm}} 型錄中支援的方案來過濾平台服務的搜尋。若要查看平台服務的歐盟支援方案，請完成下列步驟：
+設定**歐盟支援**選項之後，您也可以充分運用額外的控制項，從歐盟支援及操作 {{site.data.keyword.Bluemix_notm}} 服務。您可以使用 {{site.data.keyword.Bluemix_notm}} 型錄中支援的方案來過濾平台服務的搜尋。若要查看平台服務的歐盟支援方案，請完成下列步驟：
   1. 開啟 [{{site.data.keyword.Bluemix_notm}} 型錄 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/catalog/){: new_window}。
-  2. 按一下**過濾器**按鈕。
+  2. 按一下**過濾**。
   3. 從下拉清單中選取**歐盟支援**。設定「歐盟支援」過濾器之後，您只會看到**基礎架構**和**平台**種類中，有歐盟支援方案的服務。
   4. 選取您要的服務。您可以看到服務的部分地區及方案有歐盟支援。
   5. 若要查看服務的歐盟支援方案，請從**選取要在其中部署的地區/位置**下拉清單選取正確的地區。例如，若要查看平台服務的歐盟支援方案，請選取「德國」作為地區。然後，您可以看到標示**歐盟支援**的服務定價方案。
@@ -146,11 +144,11 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 ## 報告潛在的安全漏洞
 {: #report-security-vulnerability}
 
-如果您相信已發生潛在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，請開立支援問題單來提出報告。
+如果您發現潛在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，請開立支援問題單來提出報告。
 
 若要提報潛在的安全漏洞，請完成下列步驟：
 1. 開立嚴重性 1 的問題單，或具有您的支援中心允許的最高嚴重性層次的問題單。如需如何開立問題單的相關資訊，請參閱[開立支援問題單](/docs/get-support/howtogetsupport.html#open-ticket)。
 2. 在問題單摘要中，清楚說明問題單是有關潛在的安全漏洞。
 3. 包括下列其中一個項目，以提供潛在安全漏洞的詳細資料：
     * 可以聯絡到您一起討論問題的電話號碼。
-    * 問題的詳細資料。您必須將詳細資料加密為問題單內文中的文字區塊，並提供指示，告知「IBM 支援中心」如何安全地與您聯絡以取得解密指示。
+    * 問題的詳細資料。您必須將詳細資料加密為問題單內文中的文字區塊。您也必須提供指示，告知「IBM 支援中心」如何安全地與您聯絡以取得解密指示。

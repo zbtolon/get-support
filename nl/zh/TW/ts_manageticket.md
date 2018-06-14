@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2017-11-09"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -34,7 +34,7 @@ lastupdated: "2017-11-09"
 您無法在 {{site.data.keyword.Bluemix_notm}} 中建立或編輯支援問題單。
 {: tsSymptoms}
 
-存取及管理支援問題單的一般問題（如果您具有已鏈結帳戶）可能是 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}} 中缺乏更精細的帳戶設定所造成。因為必須對在 {{site.data.keyword.slportal}} 中所建立的帳戶配置更精細的許可權，所以您可能無法新增或編輯支援問題單。
+存取及管理支援問題單的一般問題（如果您具有已鏈結帳戶）可能是 {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}} 中缺乏更精細的帳戶設定所造成。因為必須對在客戶入口網站中所建立的帳戶配置更精細的許可權，所以您可能無法新增或編輯支援問題單。
 {: tsCauses}
 
 若要更正問題，請聯絡 {{site.data.keyword.slportal}} 帳戶管理者，以設定您帳戶的適當存取權。{{site.data.keyword.slportal}} 帳戶管理者可以使用下列步驟來更正問題：

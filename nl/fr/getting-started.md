@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -32,7 +32,7 @@ Si vous êtes client de l'infrastructure {{site.data.keyword.BluSoftlayer_notm}}
 ## Etape 1 : Vérifier le statut
 {: #check-status}
 
-Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix_notm}}, vérifiez la page de statut afin de déterminer s'il existe des problèmes affectant la plateforme et les principaux services {{site.data.keyword.Bluemix_notm}}.
+Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix_notm}}, vérifiez la page Statut afin de déterminer si des problèmes affectent la plateforme et les principaux services {{site.data.keyword.Bluemix_notm}}.
 
 Pour afficher le statut de la plateforme, des services et des contextes d'exécution, utilisez la procédure suivante :
   1. Cliquez sur **Support** > **Statut** depuis la barre de menus.  
@@ -77,4 +77,4 @@ Pour vous abonner aux notifications, accédez à la page Notifications relatives
 ## Etapes suivantes
 {: #next-steps}
 
-Si vous choisissez d'ouvrir un ticket de demande de service pour contacter le support client et obtenir une assistance pour résoudre votre problème, vous pouvez gérer le ticket via le processus.  Voir [Gestion des tickets](/docs/get-support/mantick.html#check-ticket-status) pour plus d'informations.
+Si vous choisissez d'ouvrir un ticket de demande de service pour contacter le support client et obtenir une assistance pour résoudre votre problème, vous pouvez gérer le ticket via le processus. Voir [Gestion des tickets](/docs/get-support/mantick.html#check-ticket-status) pour plus d'informations.

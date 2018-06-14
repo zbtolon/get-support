@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# 如何開始疑難排解問題？
+# 如何疑難排解問題？
 {: #ts-overview}
 
-有許多您可用來疑難排解 {{site.data.keyword.Bluemix}} 問題的資源。這類疑難排解資源之一，便是「{{site.data.keyword.Bluemix_notm}} 客戶支援中心」團隊已提供之經過編譯的常見問題及解決方案清單。
+您可以使用許多資源來進行 {{site.data.keyword.Bluemix}} 問題的疑難排解。這類疑難排解資源之一，便是「{{site.data.keyword.Bluemix_notm}} 客戶支援中心」團隊所提供彙編的常見問題及解決方案清單。
 {:shortdesc}
 
 部分疑難排解技術包括下列清單：

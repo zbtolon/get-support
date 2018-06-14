@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -77,4 +77,4 @@ Zum Abonnieren von Benachrichtigungen greifen Sie auf die Seite 'Benachrichtigun
 ## Nächste Schritte
 {: #next-steps}
 
-Falls Sie beschlossen haben, ein Support-Ticket zu öffnen, um sich mit der Kundenunterstützung in Verbindung zu setzen und Hilfe für Ihr Problem anzufordern, können Sie das Support-Ticket während dieses Prozesses verwalten.  Entsprechende Informationen finden Sie unter [Tickets verwalten](/docs/get-support/mantick.html#check-ticket-status).
+Falls Sie beschlossen haben, ein Support-Ticket zu öffnen, um sich mit der Kundenunterstützung in Verbindung zu setzen und Hilfe für Ihr Problem anzufordern, können Sie das Support-Ticket während dieses Prozesses verwalten. Entsprechende Informationen finden Sie unter [Tickets verwalten](/docs/get-support/mantick.html#check-ticket-status).

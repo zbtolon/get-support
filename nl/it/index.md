@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,11 +23,11 @@ Indipendentemente dal fatto che stai usando i servizi della piattaforma o l'infr
 
 |  | Supporto di base | Supporto avanzato | Supporto premium |
 |-------------|-------------|-------------|-------------|
-| Descrizione |	Protezione aziendale di base con il tuo account Sottoscrizione o Pagamento a consumo {{site.data.keyword.Bluemix_notm}} | Gestione dei ticket prioritaria ed esperienza di supporto allineata alle tue esigenze di business | Coinvolgimento del cliente allineata con i tuoi risultati di business per accelerare il time-to-value |
+| Descrizione |	Protezione aziendale di base con il tuo account Sottoscrizione o Pagamento a consumo {{site.data.keyword.Bluemix_notm}} | Gestione dei ticket prioritaria ed esperienza di supporto allineata alle tue esigenze di business | Coinvolgimento del cliente allineato con i risultati aziendali per accelerare il time-to-value |
 | Disponibilità | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. |
-| Obiettivi tempo di risposta iniziali | Non applicabile | Severità 1: meno di 1 ora <br />Severità 2: meno di 2 ore <br />Severità 3: meno di 4 ore <br />Severità 4: meno di 8 ore | Severità 1: meno di 1 ora <br />Severità 2: meno di 90 minuti <br />Severità 3: meno di 2 ore. <br />Severità 4: meno di 4 ore |
+| Obiettivi tempo di risposta iniziali | Non applicabile | Severità 1: meno di un'ora <br />Severità 2: meno di due ore <br />Severità 3: meno di quattro ore <br />Severità 4: meno di otto ore | Severità 1: meno di un'ora <br />Severità 2: meno di 90 minuti <br />Severità 3: meno di due ore <br />Severità 4: meno di quattro ore |
 | Severità del ticket | Non applicabile | Classificazione della severità del ticket disponibile | Classificazione della severità del ticket disponibile |
-| Supporto a valore aggiunto | Non applicabile | Non applicabile | Account manager tecnico assegnato<br /><br />Relazioni di business trimestrali<br /><br />Accesso ad esperti<br /><br />Invito a *Cloud Insights* |
+| Supporto aggiuntivo | Non applicabile | Non applicabile | Account manager tecnico assegnato <br /><br />Relazioni di business trimestrali<br /><br />Accesso ad esperti<br /><br />Invito a *Cloud Insights* |
 {:caption="Tabella 1. Piani di supporto" caption-side="top"}
 
 Per ulteriori informazioni su come viene assegnata la severità dei ticket e come vengono quindi gestiti, consulta [In che modo vengono assegnati e ponderati i ticket?](/docs/get-support/ticketweight.html)
@@ -40,7 +40,12 @@ Puoi accedere alle opzioni di supporto, come ad esempio alla community {{site.da
 ## Supporto premium
 {: #premium-support}
 
-Il supporto premium è per gli ambienti di importanza critica che hanno una dipendenza strategica da {{site.data.keyword.Bluemix_notm}}. I clienti del supporto premium ottengono una gestione dei ticket prioritaria, un account manager tecnico designato che assiste nell'accelerazione del time-to-value, un accesso ad esperti per discussioni e assistenza specializzate, delle relazioni di business trimestrali e un invito a *Cloud Insights*, che è un forum per mettersi in contatto con esperti tecnici IBM.
+Il supporto premium è per gli ambienti di importanza critica che hanno una dipendenza strategica da {{site.data.keyword.Bluemix_notm}}. Ai clienti Premium viene fornito il seguente supporto supplementare:
+  * Gestione prioritaria dei ticket
+  * Un account manager tecnico designato per accelerare il time-to-value
+  * Accesso a esperti per consulenza e assistenza tecnica specializzate
+  * Relazioni di business trimestrali
+  * Un invito a *Cloud Insights*, il forum per mettersi in contatto con gli esperti tecnici IBM
 
 
 ## Supporto avanzato

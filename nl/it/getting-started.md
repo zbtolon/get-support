@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-09"
+lastupdated: "2018-05-17"
 
 ---
 
@@ -77,4 +77,4 @@ Per sottoscrivere alle notifiche, accedi alla pagina Notifiche della piattaforma
 ## Passi successivi
 {: #next-steps}
 
-Se hai scelto di aprire un ticket per contattare il supporto clienti e richiedere assistenza per il tuo problema, puoi gestire il ticket di supporto attraverso il processo.  Per ulteriori informazioni, vedi [Gestione dei ticket](/docs/get-support/mantick.html#check-ticket-status).
+Se hai scelto di aprire un ticket per contattare il supporto clienti e richiedere assistenza per il tuo problema, puoi gestire il ticket di supporto attraverso il processo. Per ulteriori informazioni, vedi [Gestione dei ticket](/docs/get-support/mantick.html#check-ticket-status).

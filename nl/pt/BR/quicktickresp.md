@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-11"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -22,25 +22,25 @@ lastupdated: "2018-05-11"
 Ao entrar em contato com o suporte e abrir um chamado de suporte, é possível solicitar um nível de severidade específico, dependendo do tipo e da urgência do problema. O nível de severidade pode afetar a rapidez com que seu problema é tratado.
 {:shortdesc}
 
-Você define a severidade do problema com base em suas necessidades de negócios e seu nível de suporte. Veja [Planos de suporte](/docs/get-support/index.html) para obter mais informações sobre os níveis de planos de suporte. Todos os chamados são investigados para identificar e resolver a causa raiz do problema. Quando dados diagnósticos do problema forem necessários para determinar a causa raiz do problema, será solicitado que você obtenha aprovação para acessar arquivos de log e outros dados de determinação de problema de seu aplicativo. Sem esses dados, a resolução de seu problema pode ser atrasada.
+Você define a severidade do problema com base em suas necessidades de negócios e seu nível de suporte. Para obter mais informações sobre os níveis de planos de suporte, veja [Planos de suporte](/docs/get-support/index.html). Todos os chamados são investigados para identificar e resolver a causa raiz do problema. Quando a equipe de suporte precisa de dados diagnósticos do problema para determinar a causa raiz, é solicitada sua aprovação para acessar arquivos de log e outros dados de determinação de problema por meio de seu aplicativo. Sem esses dados, a resolução de seu problema pode ser atrasada.
 
 ## Coletando informações sobre diagnóstico
 {: #collecting-diagnostic-information}
 
-Para diagnosticar e resolver problemas com aplicativos e serviços {{site.data.keyword.Bluemix_notm}}, a equipe de Suporte {{site.data.keyword.Bluemix_notm}} pode solicitar que você colete informações de diagnóstico. Use as instruções a seguir para reunir e fornecer as informações solicitadas o mais rápido possível.
+Para diagnosticar e resolver problemas com aplicativos e serviços do {{site.data.keyword.Bluemix_notm}}, a equipe de suporte do {{site.data.keyword.Bluemix_notm}} pode solicitar informações de diagnóstico. Use as instruções a seguir para reunir e fornecer as informações solicitadas o mais rápido possível.
 
 Antes de coletar informações de diagnóstico, conclua as etapas a seguir:
 
-1. Assegure-se de que tenha instalado a interface da linha de comandos cf mais recente. Para obter mais informações, veja [Instalando a interface da linha de comandos cf](/docs/starters/install_cli.html).
->**Nota:** Se você não tiver a interface de linha de comandos cf mais recente instalada, após a linha de comandos cf ser conectada ao {{site.data.keyword.Bluemix_notm}}, o comando `cf logs` pode não retornar saída.
-2. Assegure-se de que esteja conectado à interface da linha de comandos cf para onde o {{site.data.keyword.Bluemix_notm}} será executado usando o comando `cf api`.
+1. Assegure-se de que tenha a versão mais atual da interface da linha de comandos do Cloud Foundry instalada. Para obter mais informações, veja [Instalando a interface da linha de comandos do Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** se você não tiver a versão mais atual, depois que a linha de comandos do Cloud Foundry for conectada ao {{site.data.keyword.Bluemix_notm}}, o comando `cf logs` poderá não retornar saída.
+2. Assegure-se de que tenha conectado a interface da linha de comandos do Cloud Foundry na qual o {{site.data.keyword.Bluemix_notm}} está em execução usando o comando `cf api`.
 
 Use um dos scripts a seguir para coletar informações de diagnóstico:
 
   * Para sistemas operacionais Windows, faça download do arquivo [bmdiag-general.bat ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} e execute-o.
   * Para sistemas operacionais Linux e Mac, faça download do arquivo [bmdiag-general.sh ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} e execute-o.
 
-Os scripts usam a interface de linha de comandos cf para extrair as informações a seguir do ambiente de aplicativo:
+Os scripts usam a interface da linha de comandos do Cloud Foundry para extrair as informações a seguir do ambiente de aplicativos:
   * Logs do aplicativo
   * Metadados do aplicativo
   * Rotas configuradas
@@ -50,13 +50,13 @@ Os scripts usam a interface de linha de comandos cf para extrair as informaçõe
 ## Escalando casos de suporte
 {: #escalation}
 
-Como um cliente {{site.data.keyword.Bluemix_notm}}, é possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}} Support Manager de plantão. O processo de escalação permite emergir problemas críticos e também expressar sua preocupação caso você sinta que seu chamado de suporte não está sendo tratado de forma apropriada. Depois que um caso é escalado, o gerente em serviço revisa as informações no chamado de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece a você as atualizações apropriadas.
+Como um cliente {{site.data.keyword.Bluemix_notm}}, é possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}} Support Manager de plantão. Use o processo de escalação para emergir problemas críticos ou se achar que seu chamado de suporte não está sendo tratado corretamente. Quando um caso é escalado, o gerenciador responsável revisa as informações no chamado de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece as atualizações apropriadas.
 
-Para escalar um caso de suporte, deve-se ter o suporte avançado ou premium do {{site.data.keyword.Bluemix_notm}} e ter aberto um chamado de suporte para o problema. Além disso, assegure que o problema técnico seja bem documentado no chamado de suporte que você abriu.
+Para escalar um caso de suporte, deve-se ter o suporte avançado ou premium do {{site.data.keyword.Bluemix_notm}} e deve-se ter um chamado de suporte para o problema. Além disso, assegure-se de que tenha fornecido uma descrição detalhada do problema técnico no chamado de suporte aberto.
 
  Para escalar um caso, conclua as etapas a seguir:
 
-  1. Entrar em contato com a Equipe de suporte do {{site.data.keyword.Bluemix_notm}} por telefone ou bate-papo :
+  1. Entre em contato com a Equipe de suporte do {{site.data.keyword.Bluemix_notm}} por telefone ou bate-papo:
     * Por telefone para o seguinte número: 866-403-7638.
     * Por bate-papo, por meio do [Centro de suporte ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} do {{site.data.keyword.Bluemix_notm}} ou, se você tiver uma conta do SoftLayer que não esteja vinculada, por meio do [portal do cliente ![Ícone de link externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
   2. Forneça seu número de chamado existente e solicite para escalar o caso.
@@ -68,6 +68,6 @@ Os {{site.data.keyword.Bluemix_notm}} Support Managers estão de plantão e disp
 ## Horas de operação
 {: #support-hours-operation}
 
-Os problemas de severidade 1 são monitorados 24 horas por dia, todos os dias da semana. Os envios de formulário para problemas com todos os outros níveis de severidade são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC.
+Os problemas de severidade 1 são monitorados 24 horas por dia, todos os dias da semana. Os formulários enviados para problemas com todos os outros níveis de severidade são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC.
 
 Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).

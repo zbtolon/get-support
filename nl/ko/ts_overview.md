@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# 문제점 해결을 시작하는 방법은 무엇입니까?
+# 문제점을 해결하는 방법은 무엇입니까?
 {: #ts-overview}
 
-{{site.data.keyword.Bluemix}} 문제점을 해결하는 데 사용할 수 있는 다양한 리소스가 있습니다. 문제점 해결 리소스 중 하나는 {{site.data.keyword.Bluemix_notm}} 고객 지원 팀에서 제공하는 일반적인 문제점 및 솔루션의 컴파일된 목록입니다.
+다양한 리소스를 사용하여 {{site.data.keyword.Bluemix}} 문제를 해결할 수 있습니다. 이러한 문제점 해결 리소스 중 하나는 {{site.data.keyword.Bluemix_notm}} 고객 지원 팀에서 제공하는 일반적인 문제점 및 솔루션의 컴파일된 목록입니다.
 {:shortdesc}
 
 일부 문제점 해결 방법에는 다음 목록이 포함되어 있습니다.

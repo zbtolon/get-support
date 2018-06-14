@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -23,17 +23,16 @@ Unabhängig davon, ob Sie die {{site.data.keyword.Bluemix}}-Infrastruktur oder -
 
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
-| Beschreibung |	Grundlegende Geschäftsabsicherung mit Ihrem {{site.data.keyword.Bluemix_notm}}-Abonnement oder nutzungsabhängigen Konto | Priorisierte Ticket-Verarbeitung und an Ihre Geschäftsanforderungen angepasste Supporterfahrung | An Ihren Geschäftsergebnissen ausgerichtetes Kundenprojekt für eine schnellere Wertschöpfung |
+| Beschreibung |	Grundlegende Geschäftsabsicherung mit Ihrem {{site.data.keyword.Bluemix_notm}}-Abonnement oder nutzungsabhängigen Konto | Priorisierte Erfahrung mit Ticket-Verarbeitung und Support, die auf Ihre Geschäftsanforderungen abgestimmt ist | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
 | Verfügbarkeit | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat |
-| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: innerhalb einer Stunde <br />Priorität 2: innerhalb von zwei Stunden <br />Priorität 3: innerhalb von vier Stunden <br />Priorität 4: innerhalb von acht Stunden | Priorität 1: innerhalb von einer Stunde <br />Priorität 2: innerhalb von 90 Minuten <br />Priorität 3: innerhalb von zwei Stunden <br />Priorität 4: innerhalb von vier Stunden |
+| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: weniger als eine Stunde <br />Priorität 2: weniger als zwei Stunden <br />Priorität 3: weniger als vier Stunden <br />Priorität 4: weniger als 8 Stunden | Priorität 1: weniger als eine Stunde <br />Priorität 2: weniger als 90 Minuten <br />Priorität 3: weniger als zwei Stunden <br />Priorität 4: weniger als vier Stunden |
 | Ticket-Priorität | Nicht zutreffend | Einstufung nach Ticket-Priorität verfügbar | Einstufung nach Ticket-Priorität verfügbar |
-| Wertsteigernder Support | Nicht zutreffend | Nicht zutreffend | Technical Account Manager (TAM) zugewiesen <br /><br />Vierteljährliche Geschäftsprüfungen <br /><br />Zugriff auf Experten<br /><br />Einladung zu *Cloud Insights* |
+| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager (TAM) zugewiesen <br /><br />Vierteljährliche Geschäftsprüfungen<br /><br />Zugriff auf Experten<br /><br />Einladung zu *Cloud Insights* |
 {:caption="Tabelle 1. Supportpläne" caption-side="top"}
 
 Weitere Informationen dazu, wie die Priorität von Tickets zugewiesen wird und wie die Tickets anschließend verarbeitet werden, finden Sie unter [Zuordnung und Gewichtung von Tickets](/docs/get-support/ticketweight.html)
 
 Alle {{site.data.keyword.Bluemix_notm}}-Kunden erhalten über Communitys und Blogs kostenlose technische Unterstützung. Abhängig vom Support-Level des Kontos stehen andere Arten von Unterstützung zur Verfügung.
-
 
 Auf die Unterstützungsoptionen (z. B. die {{site.data.keyword.Bluemix_notm}}-Community oder Stack Overflow für technische Fragen) können Sie über das Support Center in der {{site.data.keyword.Bluemix_notm}}-Konsole zugreifen. Die Optionen, die für Sie im Support Center angezeigt werden, richten sich nach der Unterstützungsstufe, die Sie für Ihr Konto ausgewählt haben. Weitere Informationen hierzu finden Sie unter [Support Center verwenden](/docs/get-support/howtogetsupport.html#using-avatar). Die Unterstützungsstufe, die Sie für Ihr Konto ausgewählt haben, bestimmt ebenfalls die Priorität, die Sie einem Support-Ticket zuordnen können, wenn Sie sich mit der Kundenunterstützung in Verbindung setzen.
 
@@ -41,7 +40,12 @@ Auf die Unterstützungsoptionen (z. B. die {{site.data.keyword.Bluemix_notm}}-Co
 ## Premium Support
 {: #premium-support}
 
-Premium Support wird für geschäftskritische Umgebungen mit strategischer Abhängigkeit von {{site.data.keyword.Bluemix_notm}} empfohlen. Premium Support-Kunden werden priorisiert, es wird ein designierter technischer Account-Manager zugeordnet, um die Wertschöpfung zu beschleunigen, die Kunden können mit Experten spezialisierte technische Diskussionen führen und diese um Rat fragen, es gibt vierteljährliche Geschäftsprüfungen und eine Einladung zu *Cloud Insights*, einem Forum für IBM Techniker. 
+Premium Support wird für geschäftskritische Umgebungen mit strategischer Abhängigkeit von {{site.data.keyword.Bluemix_notm}} empfohlen. Für Premium-Kunden wird zusätzlich folgende Unterstützung bereitgestellt:
+  * Priorisierte Behandlung von Tickets
+  * Designierter technischer Account-Manager zur Beschleunigung der Wertschöpfung
+  * Zugang zu Experten zwecks spezialisierter technischer Beratungen und Unterstützung
+  * Vierteljährliche Geschäftsprüfungen
+  * Einladung zu *Cloud Insights*, das Forum, über das Sie technische Experten von IBM kontaktieren können
 
 
 ## Advanced Support

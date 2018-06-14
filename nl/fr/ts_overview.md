@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01"
+lastupdated: "2018-05-22"
 
 ---
 
@@ -15,10 +15,10 @@ lastupdated: "2018-02-01"
 {:new_window: target="_blank"}
 
 
-# Comment commencer à traiter les incidents ?
+# Comment identifier et résoudre les problèmes ?
 {: #ts-overview}
 
-Il existe de nombreuses ressources disponibles pour identifier et résoudre vos problèmes {{site.data.keyword.Bluemix}}. Parmi ces ressources figure la liste compilée des problèmes courants et des solutions fournies par les équipes du support client {{site.data.keyword.Bluemix_notm}}.
+Vous pouvez utiliser de nombreuses ressources pour identifier et résoudre des problèmes dans {{site.data.keyword.Bluemix}}. Une de celles-ci est une liste compilée des problèmes courants et des solutions fournies par les équipes du support client {{site.data.keyword.Bluemix_notm}}.
 {:shortdesc}
 
 Certaines techniques de traitement des incidents incluent la liste suivante :
