@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -63,11 +62,3 @@ To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} adv
   3. Provide the justification for escalation and the business impact of your case.
 
 {{site.data.keyword.Bluemix_notm}} Support Managers are on duty and available 24 hours a day, every day of the week. The managers on duty engage the appropriate resources to address your case and then inform you about the actions taken.
-
-
-## Hours of operation
-{: #support-hours-operation}
-
-Severity 1 issues are monitored 24 hours a day, every day of the week. Forms that are submitted for issues with all other severity levels are monitored from Sunday at 21:30 UTC to Friday at 23:59 UTC.
-
-For assistance in converting these support hours to your local time zone, see [Timeanddate.com ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.timeanddate.com).
