@@ -8,6 +8,7 @@ lastupdated: "2018-06-14"
 
 ---
 
+
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
 {:screen: .screen}
@@ -49,9 +50,13 @@ The scripts use the Cloud Foundry command line interface to extract the followin
 ## Escalating support cases
 {: #escalation}
 
-As an {{site.data.keyword.Bluemix_notm}} customer, you can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty. Use the escalation process to surface critical issues or if you feel that your support ticket is not being addressed properly. When a case is escalated, the manager on duty reviews the information in the support ticket, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
+You can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty if you meet one of the following criteria:
+  * You are a {{site.data.keyword.Bluemix_notm}} customer with advanced or premium support
+  * You are a SoftLayer customer operating under the SoftLayer Standard Support agreement
 
-To escalate a support case, you must have {{site.data.keyword.Bluemix_notm}} advanced or premium support and you must have a support ticket for the issue. Also, ensure that you provided a detailed description of the technical issue in the support ticket that you opened.
+Use the escalation process to surface critical issues or if you feel that your support ticket is not being addressed properly. When a case is escalated, the manager on duty reviews the information in the support ticket, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
+
+To escalate a support case, you must have an open support ticket for the issue.  Also, ensure that you provided a detailed description of the technical issue in the support ticket that you opened.
 
  To escalate a case, complete the following steps:
 
