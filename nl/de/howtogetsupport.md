@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -66,27 +66,31 @@ Sie können ein Ticket im Support Center oder über die Menüleiste der {{site.d
 
 Nachdem Sie ein Support-Ticket geöffnet haben, erhalten sie innerhalb weniger Minuten eine E-Mail-Benachrichtigung für das Ticket. Befolgen Sie die Anweisungen in der E-Mail, um weitere Informationen zum Problem anzugeben und zu erhalten.
 
-### Tickets für allgemeine technische Probleme öffnen
+Sie können Tickets für technische Probleme, für Probleme im Zusammenhang mit Konten oder - falls Sie über ein [verknüpftes Konto](/docs/account/softlayerlink.html#link_accounts) verfügen - für eine Verkaufsanfrage öffnen.  
+
+### Tickets für technische Probleme öffnen
 {: #opentechticket}
 
 Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem technischen Problem zu erhalten:
-  1. Wählen Sie als Tickettyp **Technisch** aus.
-  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus:
-    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/account/resourcegroups.html#rgs).
+  1. Wenn Sie über ein [verknüpftes Konto](/docs/account/softlayerlink.html#link_accounts) verfügen, wählen Sie als ersten Schritt entweder **Infrastruktur** oder **Anwendungen und Services** aus.
+  2. Wählen Sie als Tickettyp **Technisch** aus.
+  3. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus:
+    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/resources/resourcegroups.html#rgs).
     * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
-  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
-  4. Füllen Sie die erforderlichen Informationen aus. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Klicken Sie auf **Abschicken**.
+  4. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
+  5. Füllen Sie die erforderlichen Informationen aus. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Klicken Sie auf **Abschicken**.
 
 ### Support-Tickets für Kontoprobleme öffnen
 {: #openacctticket}
 
 Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem Kontoproblem zu erhalten:
-  1. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann.
-  2. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. Bei jeder der beiden Optionen wird für manche Felder im Ticketformular automatisch *Nicht zutreffend* eingetragen, da es sich hierbei um ein Kontoproblem handelt.
-  3. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
-  4. Füllen Sie die erforderlichen Informationen aus und geben Sie eine Beschreibung aller erhaltenen Fehlernachrichten an. Welche Informationen benötigt werden, richtet sich nach dem Typ des Supportplans Ihres Kontos. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Klicken Sie auf **Abschicken**.
+  1. Wenn Sie über ein [verknüpftes Konto](/docs/account/softlayerlink.html#link_accounts) verfügen, wählen Sie als ersten Schritt entweder **Infrastruktur** oder **Anwendungen und Services** aus.
+  2. Wählen Sie **Konto & Rechnungsstellung** als Tickettyp aus, um sicherzustellen, dass Ihr Ticket an das richtige Support-Team weitergeleitet wird, damit Ihr Problem schnell gelöst werden kann.
+  3. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der beiden Optionen aus, um das Ticket zu erstellen. Bei jeder der beiden Optionen wird für manche Felder im Ticketformular automatisch *Nicht zutreffend* eingetragen, da es sich hierbei um ein Kontoproblem handelt.
+  4. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
+  5. Füllen Sie die erforderlichen Informationen aus und geben Sie eine Beschreibung aller erhaltenen Fehlernachrichten an. Welche Informationen benötigt werden, richtet sich nach dem Typ des Supportplans Ihres Kontos. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Klicken Sie auf **Abschicken**.
 
 ### Andere Möglichkeiten, ein Support-Ticket zu öffnen
 {: #otheropenticksc}
@@ -130,7 +134,7 @@ Nachdem Sie die Option **Unterstützung in der EU** festgelegt haben, können Si
   2. Klicken Sie auf **Filtern**.
   3. Wählen Sie in der Dropdown-Liste **Unterstützung in der EU** aus. Wenn Sie den Filter 'Unterstützung in der EU' anwenden, werden nur die Services in den Kategorien **Infrastruktur** und **Plattform** angezeigt, deren Pläne in der EU unterstützt werden.
   4. Wählen Sie den gewünschten Service aus. Es werden einige in der EU unterstützte Regionen und Pläne für den Service angezeigt.
-  5. Zum Anzeigen der in der EU unterstützten Pläne für den Service wählen Sie die korrekte Region in der Dropdown-Liste **Region/Standort für die Bereitstellung auswählen** aus. Um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen, währen Sie beispielsweise  die Region 'Deutschland' aus Anschließend werden die Preistarife für die Services angezeigt, die mit **Unterstützung in der EU** gekennzeichnet sind. 
+  5. Zum Anzeigen der in der EU unterstützten Pläne für den Service wählen Sie die korrekte Region in der Dropdown-Liste **Region/Standort für die Bereitstellung auswählen** aus. Um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen, währen Sie beispielsweise  die Region 'Deutschland' aus Anschließend werden die Preistarife für die Services angezeigt, die mit **Unterstützung in der EU** gekennzeichnet sind.
 
 Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Kategorien von {{site.data.keyword.Bluemix_notm}}-Infrastrukturservices in Europa gehostet und mit einer Unterstützung in der EU angeboten.
 
