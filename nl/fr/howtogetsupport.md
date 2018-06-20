@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -66,27 +66,31 @@ Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de
 
 Après avoir ouvert un ticket de demande de service, vous recevez rapidement une notification par courrier électronique concernant le ticket. Suivez les instructions figurant dans le courrier électronique pour toute communication supplémentaire relative au problème.
 
-### Ouverture de tickets de demande de service pour des problèmes techniques d'ordre général
+Vous pouvez ouvrir des tickets pour les problèmes techniques et les problèmes de compte. Si vous avez un [compte lié](/docs/account/softlayerlink.html#link_accounts), vous pouvez ouvrir un ticket de demandes de renseignements.  
+
+### Ouverture de tickets de demande de service pour des problèmes techniques
 {: #opentechticket}
 
-Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème technique d'ordre général, procédez comme suit :
-  1. Sélectionnez **Technique** comme type de ticket.
-  2. Dans la zone **Sélectionnez un contexte de ressources**, sélectionnez l'une des options suivantes :
-    * **Groupe de ressources** si vous rencontrez un problème lié à la gestion de vos groupes de ressources. Pour plus d'informations, voir[Gestion des groupes de ressources](/docs/account/resourcegroups.html#rgs).
+Afin d'indiquer les informations requises dans le formulaire de ticket pour obtenir de l'aide concernant votre problème technique d'ordre général, procédez comme suit :
+  1. Si vous avez un [compte lié](/docs/account/softlayerlink.html#link_accounts), sélectionnez tout d'abord **Infrastructure** ou **Applications et services.**
+  2. Sélectionnez **Technique** comme type de ticket.
+  3. Dans la zone **Sélectionnez un contexte de ressources**, sélectionnez l'une des options suivantes :
+    * **Groupe de ressources** si vous rencontrez un problème lié à la gestion de vos groupes de ressources. Pour plus d'informations, voir[Gestion des groupes de ressources](/docs/resources/resourcegroups.html#rgs).
     * **Cloud Foundry** si vous rencontrez un problème lié à un déploiement d'application Cloud Foundry. Pour plus d'informations sur le déploiement d'applications Cloud Foundry, voir [Fonctionnement de Cloud Foundry avec {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
-  3. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème.
-  4. Entrez les informations requises. Les informations requises dépendent du contexte de ressources que vous avez sélectionné, ainsi que du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Cliquez sur **Soumettre**.
+  4. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème.
+  5. Entrez les informations requises. Les informations requises dépendent du contexte de ressources que vous avez sélectionné, ainsi que du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Cliquez sur **Soumettre**.
 
 ### Ouverture de tickets de demande de service pour des problèmes de compte
 {: #openacctticket}
 
-Afin d'indiquer les informations requises dans le fomulaire de ticket pour obtenir de l'aide concernant votre problème de compte, procédez comme suit :
-  1. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu.
-  2. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* puisqu'il s'agit d'un problème de compte.
-  3. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème.
-  4. Indiquez les informations requises en décrivant les éventuels messages d'erreur que vous avez reçus. Les informations requises dépendent du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Cliquez sur **Soumettre**.
+Afin d'indiquer les informations requises dans le formulaire de ticket pour obtenir de l'aide concernant votre problème de compte, procédez comme suit :
+  1. Si vous avez un [compte lié](/docs/account/softlayerlink.html#link_accounts), sélectionnez tout d'abord **Infrastructure** ou **Applications et services.**
+  2. Sélectionnez **Compte & facturation** pour le type de ticket de sorte que votre ticket soit acheminé vers l'équipe de support appropriée pour être rapidement résolu.
+  3. Sélectionnez l'une ou l'autre des options dans la zone **Sélectionnez un contexte de ressources** afin de créer un ticket. Les zones associées à l'une ou l'autre des options dans le formulaire de ticket sont automatiquement remplies avec la mention *Non applicable* puisqu'il s'agit d'un problème de compte.
+  4. Si vous bénéficiez du niveau de support premium ou avancé, choisissez le niveau de gravité de votre problème.
+  5. Indiquez les informations requises en décrivant les éventuels messages d'erreur que vous avez reçus. Les informations requises dépendent du type de plan de support de votre compte. Pour plus d'informations sur les types de support, voir [Types de support](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Cliquez sur **Soumettre**.
 
 ### Autres méthodes d'ouverture d'un ticket de demande de service
 {: #otheropenticksc}
