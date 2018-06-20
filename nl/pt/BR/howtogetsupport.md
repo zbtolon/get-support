@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -23,7 +23,9 @@ Se você tiver problemas com o {{site.data.keyword.Bluemix}}, terá várias opç
 
 Se a sua conta tiver sido criada por meio do console do {{site.data.keyword.Bluemix_notm}}, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. As contas podem ser vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e {{site.data.keyword.BluSoftlayer_notm}}. Se a sua conta do SoftLayer tiver sido criada por meio do portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e for uma conta vinculada, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se a sua conta do SoftLayer tiver sido criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, será possível abrir chamados por meio do portal do cliente. Para obter mais informações, veja [Obtendo suporte para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
+Se a sua conta do SoftLayer tiver sido criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, será possível abrir chamados por meio do portal do cliente. 
+Para obter informações adicionais, consulte [Obtendo suporte
+para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Usando o Centro de suporte
 {: #using-avatar}
@@ -66,27 +68,32 @@ Se a sua consulta de suporte requer uma resposta mais imediata, considere fazer 
 
 Depois de abrir um chamado de suporte, você receberá uma notificação por e-mail em alguns minutos para o chamado. Siga as instruções no e-mail para comunicação adicional sobre o problema.
 
-### Abrindo chamados de suporte técnico geral
+É possível abrir chamados para problemas técnicos, problemas de conta ou, se você tiver uma conta vinculada do
+[](/docs/account/softlayerlink.html#link_accounts), poderá abrir um chamado para uma consulta de vendas.  
+
+### Abrindo chamados de suporte técnico
 {: #opentechticket}
 
 Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema técnico geral:
-  1. Selecione **Técnico** para o tipo de chamado.
-  2. No campo **Selecionar um recurso de contexto**, selecione uma das opções a seguir:
-    * **Grupo de recursos** se você estiver tendo um problema com o gerenciamento de seus grupos de recursos. Veja [Gerenciando grupos de recursos](/docs/account/resourcegroups.html#rgs) para obter mais informações.
+  1. Se você tiver uma [conta vinculada](/docs/account/softlayerlink.html#link_accounts), primeiro selecione **Infraestrutura** ou **Aplicativos e serviços.**
+  2. Selecione **Técnico** para o tipo de chamado.
+  3. No campo **Selecionar um recurso de contexto**, selecione uma das opções a seguir:
+    * **Grupo de recursos** se você estiver tendo um problema com o gerenciamento de seus grupos de recursos. Veja [Gerenciando grupos de recursos](/docs/resources/resourcegroups.html#rgs) para obter mais informações.
     * **Cloud Foundry** se você estiver tendo um problema com uma implementação de app Cloud Foundry. Veja [Como o Cloud Foundry funciona com o {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obter mais informações sobre como implementar apps Cloud Foundry.
-  3. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
-  4. Conclua as informações necessárias. As informações que são necessárias dependem do contexto do recurso que você selecionou e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Clique em **Enviar**.
+  4. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
+  5. Conclua as informações necessárias. As informações que são necessárias dependem do contexto do recurso que você selecionou e também do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Clique em **Enviar**.
 
 ### Abrindo chamados de suporte para problemas de contas
 {: #openacctticket}
 
 Conclua as etapas a seguir para fornecer as informações necessárias no formulário de chamado para obter ajuda com seu problema de conta:
-  1. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
-  2. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Para qualquer das opções, alguns campos no formulário de chamado são preenchidos automaticamente com *Não aplicável* porque esse é um problema de conta.
-  3. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
-  4. Conclua as informações necessárias, fornecendo a descrição de quaisquer mensagens de erro que você recebeu. As informações que são necessárias dependem do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Clique em **Enviar**.
+  1. Se você tiver uma [conta vinculada](/docs/account/softlayerlink.html#link_accounts), primeiro selecione **Infraestrutura** ou **Aplicativos e serviços.**
+  2. Selecione **Conta e faturamento** para o tipo de chamado para assegurar que seu chamado seja roteado para a equipe de suporte correta e, assim, seu problema possa ser resolvido rapidamente.
+  3. Selecione qualquer uma das opções no campo **Selecionar um contexto de recurso** para criar o chamado. Para qualquer das opções, alguns campos no formulário de chamado são preenchidos automaticamente com *Não aplicável* porque esse é um problema de conta.
+  4. Se você tiver suporte de nível premium ou avançado, escolha o nível de severidade para seu problema.
+  5. Conclua as informações necessárias, fornecendo a descrição de quaisquer mensagens de erro que você recebeu. As informações que são necessárias dependem do tipo de plano de suporte de sua conta. Para obter mais informações sobre os tipos de suporte, consulte [Tipos de suporte](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Clique em **Enviar**.
 
 ### Outras maneiras de abrir um chamado de suporte
 {: #otheropenticksc}
