@@ -22,12 +22,13 @@
         ticketweight.md
         quicktickresp.md
 
-    {: .navgroup id="reference"}
-    bxnui.md
-
     {: .topicgroup}
     已知問題
         appsectls.md
+    {: .navgroup-end}
+    
+    {: .navgroup id="reference"}
+    bxnui.md
     {: .navgroup-end}
 
     {: .navgroup id="help"}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -23,7 +23,8 @@ Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni
 
 Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}}, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account possono essere collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e i servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Se il tuo account SoftLayer è stato creato dal portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se il tuo account SoftLayer è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, puoi aprire i ticket di supporto dal portale del cliente. Per ulteriori informazioni, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
+Se il tuo account SoftLayer è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, puoi aprire i ticket di supporto dal portale del cliente. Per ulteriori informazioni, vedi [Getting
+support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilizzo del Centro di supporto
 {: #using-avatar}
@@ -66,27 +67,31 @@ Puoi aprire un ticket dal centro di supporto o dalla barra dei menu della consol
 
 Dopo aver aperto un ticket di supporto, riceverai una notifica email in pochi minuti per il ticket. Segui le istruzioni nell'e-mail per ulteriori comunicazioni sul problema.
 
-### Apertura di ticket di supporto tecnico generale
+Puoi aprire dei ticket per problemi tecnici, problemi di account o, se hai un [account collegato](/docs/account/softlayerlink.html#link_accounts), puoi aprire un ticket per una richiesta di informazioni relative alla vendita.  
+
+### Apertura di ticket di supporto tecnico
 {: #opentechticket}
 
 Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema tecnico generale:
-  1. Seleziona **Tecnico** per il tipo di ticket.
-  2. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
-    * **Gruppo di risorse** se stai riscontrando un problema con la gestione dei tuoi gruppi di risorse. Per ulteriori informazioni, vedi [Gestione dei gruppi di risorse](/docs/account/resourcegroups.html#rgs).
+  1. Se hai un [account collegato](/docs/account/softlayerlink.html#link_accounts), seleziona prima **Infrastruttura** o **Applicazioni e servizi.**
+  2. Seleziona **Tecnico** per il tipo di ticket.
+  3. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
+    * **Gruppo di risorse** se stai riscontrando un problema con la gestione dei tuoi gruppi di risorse. Per ulteriori informazioni, vedi [Gestione dei gruppi di risorse](/docs/resources/resourcegroups.html#rgs).
     * **Cloud Foundry** se stai riscontrando un problema con una distribuzione dell'applicazione Cloud Foundry. Consulta [Funzionamento di Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) per ulteriori informazioni sulla distribuzioni delle applicazioni Cloud Foundry.
-  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
-  4. Completa le informazioni richieste. Le informazioni richieste dipendono dal contesto della risorsa che hai selezionato e anche dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Fai clic su **Inoltra**.
+  4. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
+  5. Completa le informazioni richieste. Le informazioni richieste dipendono dal contesto della risorsa che hai selezionato e anche dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Fai clic su **Inoltra**.
 
 ### Apertura di ticket di supporto per problemi con l'account
 {: #openacctticket}
 
 Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema con l'account:
-  1. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente.
-  2. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. Per entrambe le opzioni, alcuni campi nel modulo del ticket vengono popolati automaticamente con *Non applicabile* perché si tratta di un problema relativo all'account.
-  3. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
-  4. Completa le informazioni obbligatorie, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
-  5. Fai clic su **Inoltra**.
+  1. Se hai un [account collegato](/docs/account/softlayerlink.html#link_accounts), seleziona prima **Infrastruttura** o **Applicazioni e servizi.**
+  2. Seleziona **Account e fatturazione** per il tipo di ticket per assicurarti che venga instradato al team di supporto corretto in modo che il tuo problema possa essere risolto velocemente.
+  3. Seleziona un'opzione nel campo **Seleziona un contesto di risorse** per creare il ticket. Per entrambe le opzioni, alcuni campi nel modulo del ticket vengono popolati automaticamente con *Non applicabile* perché si tratta di un problema relativo all'account.
+  4. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
+  5. Completa le informazioni obbligatorie, fornendo una descrizione di tutti i messaggi di errore che sono stati ricevuti. Le informazioni richieste dipendono dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
+  6. Fai clic su **Inoltra**.
 
 ### Altri modi per aprire un ticket di supporto
 {: #otheropenticksc}

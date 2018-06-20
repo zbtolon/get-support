@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-04"
 
 ---
 
@@ -21,9 +21,9 @@ lastupdated: "2018-05-22"
 {{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다.
 {:shortdesc}
 
-계정이 {{site.data.keyword.Bluemix_notm}} 콘솔에서 작성된 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 계정은 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결될 수 있습니다. SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결된 계정인 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 자세한 정보는 [IBM ID 사용자 계정 연결](/docs/admin/softlayerlink.html#link_user_accounts)을 참조하십시오. 
+계정이 {{site.data.keyword.Bluemix_notm}} 콘솔에서 작성된 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 계정은 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결될 수 있습니다. SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결된 계정인 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 자세한 정보는 [IBM ID 사용자 계정 연결](/docs/admin/softlayerlink.html#link_user_accounts)을 참조하십시오.
 
-SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결되지 않은 계정인 경우에는 고객 포털에서 티켓을 열 수 있습니다. 자세한 정보는 [{{site.data.keyword.BluSoftlayer_notm}} 인프라에 대한 지원 받기](/docs/customer-portal/cpsupport.html#customerportal_support)를 참조하십시오. 
+SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결되지 않은 계정인 경우에는 고객 포털에서 티켓을 열 수 있습니다. 자세한 정보는 [{{site.data.keyword.BluSoftlayer_notm}} 인프라에 대한 지원 받기](/docs/customer-portal/cpsupport.html#customerportal_support)를 참조하십시오.
 
 ## 지원 센터 사용
 {: #using-avatar}
@@ -66,27 +66,31 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 지원 티켓을 연 후에 티켓에 대한 이메일 알림이 몇 분 후에 전송됩니다. 문제와 관련된 추가 통신은 이메일의 지시사항을 따르십시오.
 
-### 일반 기술 지원 티켓 열기
+기술 문제나 계정 문제에 대한 티켓을 열거나, [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있는 경우 영업팀 문의를 위한 티켓을 열 수 있습니다.  
+
+### 기술 지원 티켓 열기
 {: #opentechticket}
 
 일반 기술 문제에 대해 도움을 얻기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
-  1. 티켓 유형에 **기술**을 선택하십시오.
-  2. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오.
-    * **리소스 그룹** - 리소스 그룹 관리에 문제가 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/account/resourcegroups.html#rgs)를 참조하십시오.
+  1. [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있는 경우, 먼저 **인프라** 또는 **애플리케이션 및 서비스**를 선택하십시오.
+  2. 티켓 유형에 **기술**을 선택하십시오.
+  3. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오.
+    * **리소스 그룹** - 리소스 그룹 관리에 문제가 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/resources/resourcegroups.html#rgs)를 참조하십시오.
     * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제가 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [Cloud Foundry가 {{site.data.keyword.Bluemix_notm}}와 작업하는 방법](/docs/overview/cf.html)을 참조하십시오.
-  3. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
-  4. 필수 정보를 완료하십시오. 필요한 정보는 선택한 리소스 컨텍스트 및 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
-  5. **제출**을 클릭하십시오.
+  4. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
+  5. 필수 정보를 완료하십시오. 필요한 정보는 선택한 리소스 컨텍스트 및 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+  6. **제출**을 클릭하십시오.
 
 ### 계정 문제에 대한 지원 티켓 열기
 {: #openacctticket}
 
 계정 문제에 대해 도움을 받기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
-  1. 문제를 빠르게 해결하기 위해 티켓이 올바른 지원 팀에 라우팅되도록 티켓 유형에 **계정 & 청구**를 선택하십시오.
-  2. 티켓을 작성하려면 **리소스 컨텍스트 선택** 필드에서 옵션을 선택하십시오. 이는 계정 문제이므로 어느 옵션이든 티켓의 일부 필드는 *해당사항 없음*으로 자동으로 채워집니다. 
-  3. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
-  4. 수신한 오류 메시지 설명을 제공하여 필수 정보를 완료하십시오. 필요한 정보는 계정의 지원 플랜 유형에 따라 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
-  5. **제출**을 클릭하십시오.
+  1. [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있는 경우, 먼저 **인프라** 또는 **애플리케이션 및 서비스**를 선택하십시오.
+  2. 문제를 빠르게 해결하기 위해 티켓이 올바른 지원 팀에 라우팅되도록 티켓 유형에 **계정 & 청구**를 선택하십시오.
+  3. 티켓을 작성하려면 **리소스 컨텍스트 선택** 필드에서 옵션을 선택하십시오. 이는 계정 문제이므로 어느 옵션이든 티켓의 일부 필드는 *해당사항 없음*으로 자동으로 채워집니다.
+  4. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
+  5. 수신한 오류 메시지 설명을 제공하여 필수 정보를 완료하십시오. 필요한 정보는 계정의 지원 플랜 유형에 따라 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
+  6. **제출**을 클릭하십시오.
 
 ### 지원 티켓을 열기 위한 다른 방법
 {: #otheropenticksc}
@@ -109,7 +113,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 ## EU의 리소스에 대한 지원 요청
 {: #eusupported}
 
-유럽 연합(EU) 지원은 유럽에 있는 엔지니어들에 의해 EU 지원 옵션을 선택한 고객에게 연중무휴로 제공됩니다. 글로벌 팀은 EU 지원 팀에서 원하는 경우에만 이 팀의 지시에 따라 지원을 제공합니다. EU의 레벨 1 또는 레벨 2 지원 팀이 문제를 해결하지 못하여 더 전문적인 지식이 필요한 경우 등에는 글로벌 팀에 문의할 수 있습니다. 
+유럽 연합(EU) 지원은 유럽에 있는 엔지니어들에 의해 EU 지원 옵션을 선택한 고객에게 연중무휴로 제공됩니다. 글로벌 팀은 EU 지원 팀에서 원하는 경우에만 이 팀의 지시에 따라 지원을 제공합니다. EU의 레벨 1 또는 레벨 2 지원 팀이 문제를 해결하지 못하여 더 전문적인 지식이 필요한 경우 등에는 글로벌 팀에 문의할 수 있습니다.
 
 다음 기준이 사실이면 실제로 유럽에만 있는 지원 팀으로부터 계정에 대한 지원을 원한다고 지정할 수 있습니다.
   * 마스터 사용자 또는 계정 소유자는 계정에 대한 EU 지원 옵션을 설정함
@@ -120,7 +124,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스나 데이터 센터의 문제에 대해 여는 향후 모든 티켓에 적용됩니다. 이 옵션을 설정하기 전에 열려 있던 모든 티켓은 영향을 받지 않습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
 
-{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 사용](/docs/billing-usage/eusupported.html)을 참조하십시오. 
+{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 사용](/docs/billing-usage/eusupported.html)을 참조하십시오.
 
 ### EU 지원 서비스
 {: #eusupportedservices}
@@ -130,7 +134,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
   2. **필터**를 클릭하십시오.
   3. 드롭 다운 목록에서 **EU 지원**을 선택하십시오. EU 지원 필터 세트를 사용하는 경우 EU 지원 플랜이 있는 **인프라** 및 **플랫폼** 카테고리의 서비스만 표시됩니다.
   4. 원하는 서비스를 선택하십시오. 서비스에 대한 일부 지역 및 플랜이 EU 지원되는 것을 확인할 수 있습니다.
-  5. 서비스에 대한 EU 지원 플랜을 보려면 **배치할 지역/위치 선택** 드롭 다운 목록에서 올바른 지역을 선택하십시오. 예를 들어, 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 지역으로 독일을 선택하십시오. 그러면 **EU 지원**으로 레이블이 지정된 서비스에 대한 가격 책정 플랜을 볼 수 있습니다. 
+  5. 서비스에 대한 EU 지원 플랜을 보려면 **배치할 지역/위치 선택** 드롭 다운 목록에서 올바른 지역을 선택하십시오. 예를 들어, 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 지역으로 독일을 선택하십시오. 그러면 **EU 지원**으로 레이블이 지정된 서비스에 대한 가격 책정 플랜을 볼 수 있습니다.
 
 다음 {{site.data.keyword.Bluemix_notm}} 인프라 서비스 카테고리에 대한 모든 플랜(라이트 플랜 제외)은 유럽에서 호스팅되며 EU 지원으로 사용 가능합니다.
 
@@ -143,11 +147,11 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 ## 잠재적 보안 취약성 보고
 {: #report-security-vulnerability}
 
-잠재적 {{site.data.keyword.Bluemix_notm}} 보안 취약성을 발견하는 경우에는 지원 티켓을 열어 이를 보고하십시오. 
+잠재적 {{site.data.keyword.Bluemix_notm}} 보안 취약성을 발견하는 경우에는 지원 티켓을 열어 이를 보고하십시오.
 
 잠재적 보안 취약성을 보고하려면 다음 단계를 완료하십시오.
 1. 심각도 1 티켓 또는 지원에서 허용하는 최상위 심각도 레벨의 티켓을 여십시오. 티켓을 여는 방법에 대한 정보는 [지원 티켓 열기](/docs/get-support/howtogetsupport.html#open-ticket)를 참조하십시오.
 2. 해당 티켓이 잠재적 보안 취약성에 대한 티켓임을 티켓 요약에 명시하십시오.
 3. 다음 항목 중 하나를 포함하여 잠재적 보안 취약성의 세부사항을 제공하십시오.
     * 해당 문제를 논의하기 위해 통화할 수 있는 전화번호.
-    * 문제에 대한 세부사항. 세부사항은 티켓 본문의 텍스트 블록으로서 암호화해야 합니다. 또한 IBM 지원 센터가 사용자에게 안전하게 연락하여 복호화 지시사항을 얻는 방법에 대한 지시사항을 제공해야 합니다. 
+    * 문제에 대한 세부사항. 세부사항은 티켓 본문의 텍스트 블록으로서 암호화해야 합니다. 또한 IBM 지원 센터가 사용자에게 안전하게 연락하여 복호화 지시사항을 얻는 방법에 대한 지시사항을 제공해야 합니다.
