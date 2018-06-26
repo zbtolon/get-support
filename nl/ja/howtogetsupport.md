@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -105,7 +105,6 @@ SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフ�
 
 * [{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://www.ibm.biz/bluemixsupport){: new_window}
 のヘルプ・ページを使用して新しいチケットをオープンすることで、サポートに連絡します。 このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_notm}} Dedicated」**または**「{{site.data.keyword.Bluemix_notm}} Private」**オプションを選択してください。
-サポート・チームがサポート要請をアクティブにモニターする時間について詳しくは、『[営業時間](/docs/get-support/ticketweight.html#support-hours-operation)』を参照してください。
 * {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックして、**「チケットの追加」**を選択します。 問題に合ったトピック領域を選択し、プロンプトに従ってチケットを送信します。
 * {{site.data.keyword.ibmid}} をお持ちでない場合は、IBM ID を持っている組織内のユーザーに相談するか、IBM 担当員にご連絡ください。
 
