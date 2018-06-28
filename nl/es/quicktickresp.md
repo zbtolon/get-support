@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -50,9 +50,13 @@ Los scripts utilizan la interfaz de línea de mandatos de Cloud Foundry para ext
 ## Escalamiento de casos de soporte
 {: #escalation}
 
-Como cliente de {{site.data.keyword.Bluemix_notm}}, puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio. Utilice el proceso de escalamiento para emerger problemas críticos o si cree que su incidencia de soporte no se está resolviendo como es debido. Cuando escala un caso, el gestor en servicio registra la información de la incidencia de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
+Puede solicitar asistencia adicional escalando su caso al gestor de soporte de {{site.data.keyword.Bluemix_notm}} en servicio si cumple uno de los siguientes criterios:
+  * Es un cliente de {{site.data.keyword.Bluemix_notm}} con soporte Premium o avanzado
+  * Es un cliente de SoftLayer que funciona bajo el acuerdo de Soporte estándar de SoftLayer
 
-Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site.data.keyword.Bluemix_notm}} y debe tener una incidencia de soporte para el problema. Además, asegúrese de que proporciona una descripción detallada del problema técnico en la incidencia de soporte que haya abierto.
+Utilice el proceso de escalamiento para emerger problemas críticos o si cree que su incidencia de soporte no se está resolviendo como es debido. Cuando escala un caso, el gestor en servicio registra la información de la incidencia de soporte, interactúa con los miembros adecuados del equipo técnico de soporte de {{site.data.keyword.Bluemix_notm}} y le proporciona las actualizaciones adecuadas.
+
+Para escalar un caso de soporte, debe tener una incidencia de soporte abierta para el problema.  Además, asegúrese de que proporciona una descripción detallada del problema técnico en la incidencia de soporte que haya abierto.
 
  Para escalar un caso, complete los pasos siguientes:
 
@@ -63,11 +67,3 @@ Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site
   3. Proporcione la justificación del escalamiento y el impacto empresarial de su caso.
 
 Los gestores de soporte de {{site.data.keyword.Bluemix_notm}} están en servicio y disponibles las 24 horas del día, todos los días de la semana. Los gestores en servicio utilizan los recursos adecuados para enfocar su caso y le informan sobre las acciones que se han realizado.
-
-
-## Horas de operación
-{: #support-hours-operation}
-
-Los problemas de gravedad 1 se supervisan las 24 horas del día, todos los días de la semana. Los formularios que se envían para problemas con todos los demás niveles de gravedad se supervisan entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC.
-
-Para obtener ayuda para convertir este horario de soporte a su huso horario, consulte [Timeanddate.com ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.timeanddate.com).

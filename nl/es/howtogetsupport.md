@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -106,7 +106,6 @@ Si su cuenta es {{site.data.keyword.Bluemix_notm}} Dedicado o Local, el soporte 
 
 * Póngase en contacto con el soporte abriendo una nueva incidencia mediante la página de ayuda
 [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}. Puede utilizar una dirección de correo electrónico o un {{site.data.keyword.ibmid}} para este formulario. Seleccione la opción **{{site.data.keyword.Bluemix_notm}} Dedicado** o **{{site.data.keyword.Bluemix_notm}} Local** para el campo Región.
-Consulte las [horas de operación](/docs/get-support/ticketweight.html#support-hours-operation) para obtener información sobre las horas en que el equipo de soporte supervisa activamente las solicitudes de soporte.
 * Si tiene un {{site.data.keyword.ibmid}} y tiene acceso al entorno público de {{site.data.keyword.Bluemix_notm}}, en la barra de menús pulse **Soporte** y seleccione **Añadir incidencia**. Seleccione el área temática correspondiente a su problema y siga las indicaciones para enviar la incidencia.
 * Si no dispone de un {{site.data.keyword.ibmid}}, puede ponerse en contacto con alguien de la organización que lo tenga o puede trabajar con el representante de IBM.
 

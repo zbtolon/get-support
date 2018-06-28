@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site
   3. Proporcione la justificación del escalamiento y el impacto empresarial de su caso.
 
 Los gestores de soporte de {{site.data.keyword.Bluemix_notm}} están en servicio y disponibles las 24 horas del día, todos los días de la semana. Los gestores en servicio utilizan los recursos adecuados para enfocar su caso y le informan sobre las acciones que se han realizado.
-
-
-## Horas de operación
-{: #support-hours-operation}
-
-Los problemas de gravedad 1 se supervisan las 24 horas del día, todos los días de la semana. Los envíos de formularios para problemas con todos los demás niveles de gravedad se supervisan entre el domingo a las 21:30 UTC y el viernes a las 23:59 UTC.
-
-Para obtener ayuda para convertir este horario de soporte a su huso horario, consulte [Timeanddate.com ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.timeanddate.com).
