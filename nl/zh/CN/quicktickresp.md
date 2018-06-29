@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -50,9 +50,13 @@ lastupdated: "2018-05-22"
 ## 上报支持案例
 {: #escalation}
 
-作为 {{site.data.keyword.Bluemix_notm}} 客户，您可以将您的案例上报给当值的 {{site.data.keyword.Bluemix_notm}} 支持经理来请求进一步的帮助。使用上报过程可报告严重问题，或者如果您认为自己的支持凭单未得到妥善处理，也可以使用上报过程。上报案例后，当值经理会复查支持凭单中的信息，与 {{site.data.keyword.Bluemix_notm}} 技术支持团队的相应成员进行沟通，然后通知您最新的进展。
+如果您满足下列其中一个条件，那么可以将您的案例上报给当值的 {{site.data.keyword.Bluemix_notm}} 支持经理来请求进一步的帮助。
+  * 您是拥有高级或高端支持的 {{site.data.keyword.Bluemix_notm}} 客户
+  * 您是 SoftLayer 客户，依据 SoftLayer 标准支持协议操作。
 
-要上报支持案例，您必须拥有 {{site.data.keyword.Bluemix_notm}} 高级或高端支持，并且必须已为问题开具支持凭单。此外，请确保在所开具的支持凭单中已对技术问题进行详细的描述。
+使用上报过程可报告严重问题，或者如果您认为自己的支持凭单未得到妥善处理，也可以使用上报过程。上报案例后，当值经理会复查支持凭单中的信息，与 {{site.data.keyword.Bluemix_notm}} 技术支持团队的相应成员进行沟通，然后通知您最新的进展。
+
+要上报支持案例，您必须已为问题开具支持凭单。此外，请确保在所开具的支持凭单中已对技术问题进行详细的描述。
 
  要上报案例，请完成以下步骤：
 
@@ -63,11 +67,3 @@ lastupdated: "2018-05-22"
   3. 提供上报理由以及该案例所带来的业务影响。
 
 {{site.data.keyword.Bluemix_notm}} 支持经理全天候当值。当值经理会与相应的资源进行联系来处理您的案例，然后会通知您要采取哪些措施。
-
-
-## 工作时间
-{: #support-hours-operation}
-
-对于严重性为 1 的问题，将全天候监视。对于所有其他严重性级别的问题，将在周日 21:30 UTC 到周五 23:59 UTC 对提交的表单进行监视。
-
-有关将这些支持工作时间转换为本地时区的帮助，请参阅 [Timeanddate.com ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.timeanddate.com)。

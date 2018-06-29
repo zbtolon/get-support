@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ lastupdated: "2018-05-10"
   3. 提供上报理由以及该案例所带来的业务影响。
 
 {{site.data.keyword.Bluemix_notm}} 支持经理全天候当值。当值经理会与相应的资源进行联系来处理您的案例，然后会通知您要采取哪些措施。
-
-
-## 工作时间
-{: #support-hours-operation}
-
-对于严重性为 1 的问题，将全天候监视。对于所有其他严重性级别的问题，将在周日 21:30 (UTC) 到周五 23:59 (UTC) 对提交的问题表单进行监视。
-
-有关将这些支持工作时间转换为本地时区的帮助，请参阅 [Timeanddate.com ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.timeanddate.com)。

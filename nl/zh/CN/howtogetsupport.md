@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -102,7 +102,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 如果您拥有的是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Local 帐户，那么支持由 {{site.data.keyword.Bluemix_notm}} 支持团队提供。但是，如果您没有 {{site.data.keyword.ibmid}}，那么可以通过几个不同的选项来获得支持。
 
-* 与支持人员联系，方法是使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面来开具新凭单。在此表单中，您可以使用电子邮件地址或 {{site.data.keyword.ibmid}}。在“区域”字段中，选择 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 选项。有关支持团队主动监视支持请求的时间的信息，请参阅[工作时间](/docs/get-support/ticketweight.html#support-hours-operation)。
+* 与支持人员联系，方法是使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面来开具新凭单。在此表单中，您可以使用电子邮件地址或 {{site.data.keyword.ibmid}}。在“区域”字段中，选择 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 选项。
 * 如果您有 {{site.data.keyword.ibmid}}并有权访问 {{site.data.keyword.Bluemix_notm}} Public 环境，请在菜单栏中单击**支持**，然后选择**添加凭单**。针对您的问题选择主题区域，然后遵循提示来提交凭单。
 * 如果您没有 {{site.data.keyword.ibmid}}，那么可以联系您组织中拥有 IBM 标识的人员，也可以与 IBM 代表合作。
 
