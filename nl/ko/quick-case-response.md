@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ lastupdated: "2018-05-10"
   3. 케이스에 대한 에스컬레이션 사유와 비즈니스 영향을 설명하십시오.
 
 {{site.data.keyword.Bluemix_notm}} 지원 관리자는 연중무휴 24시간 근무합니다. 근무 중인 관리자는 케이스를 해결할 적임자를 지정한 후 고객에게 수행한 조치를 알려줍니다.
-
-
-## 운영 시간
-{: #support-hours-operation}
-
-심각도 1 문제는 연중무휴 24시간 모니터링됩니다. 다른 모든 심각도 레벨의 문제에 대한 양식 제출은 일요일 21:30(UTC) - 금요일 23:59(UTC)에 모니터링됩니다.
-
-이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com)을 참조하십시오.

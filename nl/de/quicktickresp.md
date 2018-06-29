@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -50,9 +50,13 @@ Von den Scripts wird die Cloud Foundry-Befehlszeilenschnittstelle zum Extrahiere
 ## Supportfälle eskalieren
 {: #escalation}
 
-Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Support-Ticket, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über entsprechende Updates.
+Sie können weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren, wenn Sie eines der folgenden Kriterien erfüllen: 
+  * Sie sind ein {{site.data.keyword.Bluemix_notm}}-Kunde mit Advanced oder Premium Support.
+  * Sie sind ein SoftLayer-Kunde mit einer SoftLayer-Standard-Supportvereinbarung.
 
-Um einen Supportfall eskalieren zu können, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced- oder Premium-Support verfügen und über ein Support-Ticket für das Problem verfügen. Stellen Sie außerdem sicher, dass Sie eine detaillierte Beschreibung des technischen Problems in das von Ihnen geöffnete Support-Ticket eingebunden haben.
+Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Support-Ticket, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über entsprechende Updates.
+
+Um einen Supportfall eskalieren zu können, müssen Sie über ein offenes Support-Ticket für das Problem verfügen. Stellen Sie außerdem sicher, dass Sie eine detaillierte Beschreibung des technischen Problems in das von Ihnen geöffnete Support-Ticket eingebunden haben.
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 
@@ -63,11 +67,3 @@ Um einen Supportfall eskalieren zu können, müssen Sie über {{site.data.keywor
   3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
 
 {{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
-
-
-## Betriebszeiten
-{: #support-hours-operation}
-
-Probleme mit der Priorität 1 werden 24 Stunden täglich und jeden Tag in der Woche überwacht. Für Probleme mit allen anderen Prioritäten eingereichte Formulare werden von Sonntag ab 21:30 Uhr UTC bis Freitag um 23:59 Uhr UTC überwacht.
-
-Hilfe zur Umrechnung dieser Support-Stunden in Ihre örtliche Zeitzone finden Sie unter [Timeanddate.com ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.timeanddate.com).

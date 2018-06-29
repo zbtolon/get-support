@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -50,9 +50,13 @@ Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列�
 ## 呈報支援案例
 {: #escalation}
 
-身為 {{site.data.keyword.Bluemix_notm}} 客戶，您可以透過將您的案例呈報給值班的 {{site.data.keyword.Bluemix_notm}} 支援經理，來要求進一步的協助。使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援問題單的話也可使用呈報處理程序。案例呈報之後，值班經理會檢閱支援問題單中的資訊、安排 {{site.data.keyword.Bluemix_notm}} 支援技術團隊的適當成員參與，然後為您提供適當的更新。
+如果您符合下列其中一項準則，可以透過將您的案例呈報給值班的 {{site.data.keyword.Bluemix_notm}} 支援經理，來要求進一步的協助：
+  * 您是 {{site.data.keyword.Bluemix_notm}} 客戶，並具有進階或超值支援
+  * 您是 SoftLayer 客戶，並依據 SoftLayer 標準支援合約來運作
 
-若要呈報支援案例，您必須具有 {{site.data.keyword.Bluemix_notm}} 進階或超值支援，且必須已具有該問題的支援問題單。此外，也請確定您已在開立的支援問題單中提供技術問題的詳細說明。
+使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援問題單的話也可使用呈報處理程序。案例呈報之後，值班經理會檢閱支援問題單中的資訊、安排 {{site.data.keyword.Bluemix_notm}} 支援技術團隊的適當成員參與，然後為您提供適當的更新。
+
+若要呈報支援案例，您必須已開立問題的支援問題單。此外，也請確定您已在開立的支援問題單中提供技術問題的詳細說明。
 
  若要呈報案例，請完成下列步驟：
 
@@ -63,11 +67,3 @@ Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列�
   3. 提供調整的理由及您案例的業務衝擊。
 
 {{site.data.keyword.Bluemix_notm}} 支援經理每天 24 小時、每週每天都值班並提供服務。值班經理會安排適當的資源以解決您的案例，然後通知您已採取的動作。
-
-
-## 作業時間
-{: #support-hours-operation}
-
-我們將 24 小時全年無休地監視嚴重性 1 的問題。從星期日 21:30 UTC 到星期五 23:59 UTC 都會監視具有所有其他嚴重性層次的已提交問題表單。
-
-如需將這些支援時間轉換為當地時區的協助，請參閱 [Timeanddate.com ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.timeanddate.com)。

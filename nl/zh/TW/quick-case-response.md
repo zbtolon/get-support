@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
   3. 提供調整的理由及您案例的業務衝擊。
 
 {{site.data.keyword.Bluemix_notm}} 支援經理每天 24 小時、每週每天都值班並提供服務。值班經理會安排適當的資源以解決您的案例，然後通知您已採取的動作。
-
-
-## 作業時間
-{: #support-hours-operation}
-
-我們將 24 小時全年無休地監視嚴重性 1 的問題。從星期日 21:30 UTC 到星期五 23:59 UTC 都會監視含所有其他嚴重性層次之問題的表單提交。
-
-如需將這些支援時間轉換為當地時區的協助，請參閱 [Timeanddate.com ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.timeanddate.com)。

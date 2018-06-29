@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -103,7 +103,7 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 如果您的帳戶是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Bluemix Local，則會由 {{site.data.keyword.Bluemix_notm}} 支援團隊提供支援。不過，如果您沒有 {{site.data.keyword.ibmid}}，則取得支援的選項會有一些不同。
 
 * 使用 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport){: new_window} 說明頁面開立新的問題單，以與支援中心聯絡。您可以在此表單中使用電子郵件位址或 {{site.data.keyword.ibmid}}。為「地區」欄位選取 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 選項。
-如需支援團隊主動監視支援要求之時數的相關資訊，請參閱[作業時間](/docs/get-support/ticketweight.html#support-hours-operation)。
+
 * 如果您有 {{site.data.keyword.ibmid}} 且能存取 {{site.data.keyword.Bluemix_notm}} Public 環境，請按一下功能表列中的**支援**，然後選取**新增問題單**。選取您問題的主題區域，並遵循提示來提交問題單。
 * 如果您沒有 {{site.data.keyword.ibmid}}，則可以聯絡組織中有 IBM ID 的人，或是與您的 IBM 業務代表合作。
 

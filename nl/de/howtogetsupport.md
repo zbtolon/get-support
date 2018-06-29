@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -103,7 +103,6 @@ Sie können auch die Hilfetextseite des [{{site.data.keyword.Bluemix_notm}}-Supp
 Wenn Ihr Konto ein {{site.data.keyword.Bluemix_notm}} Dedicated oder Local-Konto ist, wird die Unterstützung vom {{site.data.keyword.Bluemix_notm}}-Support-Team bereitgestellt. Auch wenn Sie möglicherweise keine {{site.data.keyword.ibmid}} haben, stehen Ihnen jedoch einige verschiedene Optionen zum Abrufen der Unterstützung zur Verfügung.
 
 * Fordern Sie Unterstützung an, indem Sie auf der Hilfeseite des [{{site.data.keyword.Bluemix_notm}}-Supports ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://www.ibm.biz/bluemixsupport){: new_window} ein neues Ticket öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_notm}} Dedicated** oder **{{site.data.keyword.Bluemix_notm}} Local** für das Feld 'Region' aus.
-Unter [Betriebszeiten](/docs/get-support/ticketweight.html#support-hours-operation) finden Sie Informationen zu den Zeiten, in denen das Support-Team Support-Anforderungen aktiv überwacht.
 * Wenn Sie über eine {{site.data.keyword.ibmid}} verfügen und Zugriff auf die {{site.data.keyword.Bluemix_notm}} Public-Umgebung haben, klicken Sie in der Menüleiste auf **Support** und wählen **Ticket hinzufügen** aus. Wählen Sie den Themenbereich für Ihr Problem aus und befolgen Sie die Eingabeaufforderungen, um Ihr Ticket einzureichen.
 * Wenn Sie keine {{site.data.keyword.ibmid}} haben, können Sie sich an eine Person in Ihrer Organisation mit einer solchen ID wenden oder mit Ihrem IBM Ansprechpartner zusammenarbeiten.
 

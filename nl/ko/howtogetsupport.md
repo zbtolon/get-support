@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -103,7 +103,6 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 계정이 {{site.data.keyword.Bluemix_notm}} 데디케이티드 또는 로컬인 경우에는 {{site.data.keyword.Bluemix_notm}} 지원 팀에서 지원을 제공합니다. 그러나 {{site.data.keyword.ibmid}}가 없으면 일부 다른 옵션을 통해 지원을 받을 수 있습니다.
 
 * [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용하여 새 티켓을 열어서 지원 팀에 문의하십시오. 이 양식에 이메일 주소 또는 {{site.data.keyword.ibmid}}를 사용할 수 있습니다. 지역 필드에 대해 **{{site.data.keyword.Bluemix_notm}} 데디케이티드** 또는 **{{site.data.keyword.Bluemix_notm}} 로컬** 옵션을 선택하십시오.
-지원 팀이 적극적으로 지원 요청을 모니터하는 시간에 대한 정보는 [운영 시간](/docs/get-support/ticketweight.html#support-hours-operation)을 참조하십시오.
 * {{site.data.keyword.ibmid}}가 있고 {{site.data.keyword.Bluemix_notm}} 퍼블릭 환경에 대한 액세스 권한이 있는 경우, 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 클릭하십시오. 문제에 대한 주제 영역을 선택하고 프롬프트에 따라 티켓을 제출하십시오.
 * {{site.data.keyword.ibmid}}가 없는 경우 이 ID를 가진 조직의 사용자에게 문의하거나 IBM 담당자와 함께 작업할 수 있습니다.
 

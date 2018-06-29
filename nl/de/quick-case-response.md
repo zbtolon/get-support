@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemi
   3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
 
 {{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
-
-
-## Betriebszeiten
-{: #support-hours-operation}
-
-Probleme mit der Priorität 1 werden 24 Stunden täglich und jeden Tag in der Woche überwacht. Einreichungen von Formularen für Probleme mit allen anderen Prioritäten werden von Sonntag ab 21:30 Uhr UTC bis Freitag um 23:59 Uhr UTC überwacht.
-
-Hilfe zur Umrechnung dieser Support-Stunden in Ihre örtliche Zeitzone finden Sie unter [Timeanddate.com ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.timeanddate.com).

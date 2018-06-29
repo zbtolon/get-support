@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -31,16 +31,16 @@ lastupdated: "2018-05-22"
 
 진단 정보를 수집하기 전에 다음 단계를 수행하십시오.
 
-1. 최신 Cloud Foundry 명령행 인터페이스 버전이 설치되어 있는지 확인하십시오. 자세한 정보는 [Cloud Foundry 명령행 인터페이스 설치](/docs/starters/install_cli.html)를 참조하십시오. 
->**참고:** 최신 버전이 없는 경우에는 Cloud Foundry 명령행이 {{site.data.keyword.Bluemix_notm}}에 연결된 후 `cf logs` 명령이 출력을 리턴하지 않을 수 있습니다. 
-2. `cf api` 명령을 사용하여 Cloud Foundry 명령행 인터페이스를 {{site.data.keyword.Bluemix_notm}}가 실행 중인 위치에 연결했는지 확인하십시오. 
+1. 최신 Cloud Foundry 명령행 인터페이스 버전이 설치되어 있는지 확인하십시오. 자세한 정보는 [Cloud Foundry 명령행 인터페이스 설치](/docs/starters/install_cli.html)를 참조하십시오.
+>**참고:** 최신 버전이 없는 경우에는 Cloud Foundry 명령행이 {{site.data.keyword.Bluemix_notm}}에 연결된 후 `cf logs` 명령이 출력을 리턴하지 않을 수 있습니다.
+2. `cf api` 명령을 사용하여 Cloud Foundry 명령행 인터페이스를 {{site.data.keyword.Bluemix_notm}}가 실행 중인 위치에 연결했는지 확인하십시오.
 
 다음 스크립트 중 하나를 사용하여 진단 정보를 수집하십시오.
 
   * Windows 운영 체제의 경우 [bmdiag-general.bat ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 파일을 다운로드하고 이를 실행하십시오.
   * Linux 및 Mac 운영 체제의 경우 [bmdiag-general.sh ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 파일을 다운로드하고 이를 실행하십시오.
 
-스크립트는 Cloud Foundry 명령행 인터페이스를 사용하여 애플리케이션 환경에서 다음 정보를 추출합니다. 
+스크립트는 Cloud Foundry 명령행 인터페이스를 사용하여 애플리케이션 환경에서 다음 정보를 추출합니다.
   * 애플리케이션 로그
   * 애플리케이션 메타데이터
   * 구성된 라우트
@@ -50,24 +50,20 @@ lastupdated: "2018-05-22"
 ## 지원 케이스 에스컬레이션
 {: #escalation}
 
-{{site.data.keyword.Bluemix_notm}} 고객인 경우, 근무 중인 {{site.data.keyword.Bluemix_notm}} 지원 관리자에게 케이스를 에스컬레이션하여 추가 지원을 요청할 수 있습니다. 중요한 문제를 표면화하려는 경우, 또는 지원 티켓이 적절하게 처리되고 있지 않다고 생각하는 경우에는 에스컬레이션 프로세스를 사용하십시오. 케이스가 에스컬레이션되면 근무 중인 관리자가 지원 티켓의 정보를 검토하고 이를 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀의 적절한 구성원에게 할당한 후 해당 후속 처리 내용을 고객에게 제공합니다. 
+다음 기준 중 하나를 충족하는 경우 업무 중인 {{site.data.keyword.Bluemix_notm}} 지원 관리자에게 케이스를 에스컬레이션하여 추가 지원을 요청할 수 있습니다. 
+  * 고급 또는 프리미엄 지원이 있는 {{site.data.keyword.Bluemix_notm}} 고객입니다.
+  * SoftLayer 표준 지원 계약에 따라 운영되는 SoftLayer 고객입니다.
 
-지원 케이스를 에스컬레이션하려면 {{site.data.keyword.Bluemix_notm}} 고급 또는 프리미엄 지원을 보유해야 하며 문제에 대한 지원 티켓이 있어야 합니다. 또한 연 지원 티켓에 기술 문제에 대한 자세한 설명을 제공했는지 확인하십시오. 
+중요한 문제를 표면화하려는 경우, 또는 지원 티켓이 적절하게 처리되고 있지 않다고 생각하는 경우에는 에스컬레이션 프로세스를 사용하십시오. 케이스가 에스컬레이션되면 근무 중인 관리자가 지원 티켓의 정보를 검토하고 이를 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀의 적절한 구성원에게 할당한 후 해당 후속 처리 내용을 고객에게 제공합니다.
+
+지원 케이스를 에스컬레이션하려면 문제에 대해 열린 지원 티켓이 있어야 합니다. 또한 연 지원 티켓에 기술 문제에 대한 자세한 설명을 제공했는지 확인하십시오.
 
  케이스를 에스컬레이션하려면 다음 단계를 완료하십시오.
 
-  1. 전화 또는 채팅으로 {{site.data.keyword.Bluemix_notm}} 지원 팀에 문의하십시오. 
+  1. 전화 또는 채팅으로 {{site.data.keyword.Bluemix_notm}} 지원 팀에 문의하십시오.
     * 866-403-7638으로 전화를 거십시오.
     * {{site.data.keyword.Bluemix_notm}} [지원 센터 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} 또는 연결되지 않은 SoftLayer 계정이 있는 경우 [고객 포털 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}에서 채팅으로 문의하십시오.
   2. 기존 티켓 번호를 제공하고 케이스 에스컬레이션을 요청하십시오.
   3. 케이스에 대한 에스컬레이션 사유와 비즈니스 영향을 설명하십시오.
 
 {{site.data.keyword.Bluemix_notm}} 지원 관리자는 연중무휴 24시간 근무합니다. 근무 중인 관리자는 케이스를 해결할 적임자를 지정한 후 고객에게 수행한 조치를 알려줍니다.
-
-
-## 운영 시간
-{: #support-hours-operation}
-
-심각도 1 문제는 연중무휴 24시간 모니터링됩니다. 다른 모든 심각도 레벨의 문제에 대해 제출된 양식은 일요일 21:30(UTC) - 금요일 23:59(UTC)에 모니터링됩니다. 
-
-이러한 지원 시간을 로컬 시간대로 변환하는 데 도움을 받으려면 [Timeanddate.com ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.timeanddate.com)을 참조하십시오.
