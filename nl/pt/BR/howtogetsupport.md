@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -23,8 +23,7 @@ Se você tiver problemas com o {{site.data.keyword.Bluemix}}, terá várias opç
 
 Se a sua conta tiver sido criada por meio do console do {{site.data.keyword.Bluemix_notm}}, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. As contas podem ser vinculadas entre os serviços de infraestrutura do {{site.data.keyword.Bluemix_notm}} e {{site.data.keyword.BluSoftlayer_notm}}. Se a sua conta do SoftLayer tiver sido criada por meio do portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e for uma conta vinculada, será possível abrir chamados de suporte por meio do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, veja [Vinculando contas do usuário IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se a sua conta do SoftLayer tiver sido criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, será possível abrir chamados por meio do portal do cliente. 
-Para obter informações adicionais, consulte [Obtendo suporte
+Se a sua conta do SoftLayer tiver sido criada no portal do cliente da infraestrutura do {{site.data.keyword.BluSoftlayer_notm}} e não for uma conta vinculada, será possível abrir chamados por meio do portal do cliente. Para obter informações adicionais, consulte [Obtendo suporte
 para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Usando o Centro de suporte
@@ -107,7 +106,6 @@ Se a sua conta for {{site.data.keyword.Bluemix_notm}} Dedicated ou Local, o supo
 
 * Entre em contato com o suporte abrindo um novo chamado usando a página de ajuda do
 Suporte do [{{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://www.ibm.biz/bluemixsupport){: new_window}. É possível usar um endereço de e-mail ou seu {{site.data.keyword.ibmid}} para esse formulário. Selecione a opção **{{site.data.keyword.Bluemix_notm}} Dedicated** ou **{{site.data.keyword.Bluemix_notm}} Local** para o campo Região.
-Veja [horas de operação](/docs/get-support/ticketweight.html#support-hours-operation) para obter informações sobre as horas que a equipe de suporte monitora ativamente as solicitações de suporte.
 * Se você tiver um {{site.data.keyword.ibmid}} e tiver acesso ao ambiente do {{site.data.keyword.Bluemix_notm}} Public, na barra de menus, clique em **Suporte** e selecione **Incluir chamado**. Selecione a área de tópico para seu problema e siga os prompts para enviar seu chamado.
 * Se você não tiver um {{site.data.keyword.ibmid}}, será possível entrar em contato com alguém de sua organização que tenha um ou trabalhar com seu representante IBM.
 

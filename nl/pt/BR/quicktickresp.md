@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -50,9 +50,13 @@ Os scripts usam a interface da linha de comandos do Cloud Foundry para extrair a
 ## Escalando casos de suporte
 {: #escalation}
 
-Como um cliente {{site.data.keyword.Bluemix_notm}}, é possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}} Support Manager de plantão. Use o processo de escalação para emergir problemas críticos ou se achar que seu chamado de suporte não está sendo tratado corretamente. Quando um caso é escalado, o gerenciador responsável revisa as informações no chamado de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece as atualizações apropriadas.
+Será possível solicitar mais assistência escalando seu caso para o {{site.data.keyword.Bluemix_notm}} Support Manager em atividade se você atender a um dos critérios a seguir:
+  * Você é um cliente {{site.data.keyword.Bluemix_notm}} com suporte avançado ou premium
+  * Você é um cliente SoftLayer que está operando sob o contrato de Suporte padrão do SoftLayer
 
-Para escalar um caso de suporte, deve-se ter o suporte avançado ou premium do {{site.data.keyword.Bluemix_notm}} e deve-se ter um chamado de suporte para o problema. Além disso, assegure-se de que tenha fornecido uma descrição detalhada do problema técnico no chamado de suporte aberto.
+Use o processo de escalação para emergir problemas críticos ou se achar que seu chamado de suporte não está sendo tratado corretamente. Quando um caso é escalado, o gerenciador responsável revisa as informações no chamado de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece as atualizações apropriadas.
+
+Para escalar um caso de suporte, deve-se ter um chamado de suporte aberto para o problema. Além disso, assegure-se de que tenha fornecido uma descrição detalhada do problema técnico no chamado de suporte aberto.
 
  Para escalar um caso, conclua as etapas a seguir:
 
@@ -63,11 +67,3 @@ Para escalar um caso de suporte, deve-se ter o suporte avançado ou premium do {
   3. Forneça a justificação para escalação e o impacto no negócio de seu caso.
 
 Os {{site.data.keyword.Bluemix_notm}} Support Managers estão de plantão e disponíveis 24 horas por dia, todos os dias da semana. Os gerenciadores de plantão envolvem os recursos apropriados para cuidar de seu caso e, em seguida, informam sobre as ações tomadas.
-
-
-## Horas de operação
-{: #support-hours-operation}
-
-Os problemas de severidade 1 são monitorados 24 horas por dia, todos os dias da semana. Os formulários enviados para problemas com todos os outros níveis de severidade são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC.
-
-Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).

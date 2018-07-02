@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ Para escalar um caso de suporte, deve-se ter o suporte avançado ou premium do {
   3. Forneça a justificação para escalação e o impacto no negócio de seu caso.
 
 Os {{site.data.keyword.Bluemix_notm}} Support Managers estão de plantão e disponíveis 24 horas por dia, todos os dias da semana. Os gerenciadores de plantão envolvem os recursos apropriados para cuidar de seu caso e, em seguida, informam sobre as ações tomadas.
-
-
-## Horas de operação
-{: #support-hours-operation}
-
-Os problemas de severidade 1 são monitorados 24 horas por dia, todos os dias da semana. Os envios de formulário para problemas com todos os outros níveis de severidade são monitorados de domingo às 21h30 UTC a sexta-feira às 23h59 UTC.
-
-Para obter assistência na conversão dessas horas de suporte para o seu fuso horário local, veja [Timeanddate.com ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.timeanddate.com).
