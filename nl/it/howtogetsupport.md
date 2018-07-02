@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-04"
+lastupdated: "2018-06-14"
 
 ---
 
@@ -21,10 +21,9 @@ lastupdated: "2018-06-04"
 Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni per ottenere assistenza nel determinare la causa del problema e per trovare una soluzione.
 {:shortdesc}
 
-Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}}, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account possono essere collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e i servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Se il tuo account SoftLayer è stato creato dal portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
+Se il tuo account è stato creato dalla console {{site.data.keyword.Bluemix_notm}}, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Gli account possono essere collegati tra i servizi {{site.data.keyword.Bluemix_notm}} e i servizi dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}. Se il tuo account SoftLayer è stato creato dal portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} ed è un account collegato, puoi aprire i ticket di supporto dalla console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Collegamento degli account utente ID IBM](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Se il tuo account SoftLayer è stato creato nel portale del cliente dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, puoi aprire i ticket di supporto dal portale del cliente. Per ulteriori informazioni, vedi [Getting
-support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
+Se il tuo account SoftLayer è stato creato nel portale clienti dell'infrastruttura {{site.data.keyword.BluSoftlayer_notm}} e non è un account collegato, puoi aprire i ticket di supporto dal portale clienti. Per ulteriori informazioni, vedi [Richiesta di supporto per l'infrastruttura {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilizzo del Centro di supporto
 {: #using-avatar}
@@ -105,7 +104,6 @@ Se disponi di un account {{site.data.keyword.Bluemix_notm}} dedicato o locale, l
 
 * Contatta il supporto aprendo un nuovo ticket mediante la pagina
 di assistenza [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}. Per questo modulo puoi utilizzare un indirizzo e-mail o il tuo {{site.data.keyword.ibmid}}. Seleziona l'opzione **{{site.data.keyword.Bluemix_notm}} dedicato** o **{{site.data.keyword.Bluemix_notm}} locale** per il campo Regione.
-Vedi [Orario di operatività](/docs/get-support/ticketweight.html#support-hours-operation) per informazioni sugli orari in cui il team di supporto monitora attivamente le richieste di supporto.
 * Se disponi di un {{site.data.keyword.ibmid}} e dell'accesso all'ambiente {{site.data.keyword.Bluemix_notm}} pubblico, nella barra dei menu fai clic su **Supporto** e seleziona **Aggiungi ticket**. Seleziona l'area tematica per il tuo problema e segui le indicazioni per inviare il ticket.
 * Se non disponi di un {{site.data.keyword.ibmid}}, puoi contattare un membro della tua organizzazione che ne abbia uno o collaborare con il tuo rappresentante IBM.
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -69,11 +69,3 @@ Per eseguire l'escalation di un caso di supporto, devi disporre di un supporto a
   3. Fornisci la giustificazione per l'escalation e l'impatto aziendale del tuo caso.
 
 I responsabili del supporto {{site.data.keyword.Bluemix_notm}} sono in servizio e disponibili 24 ore al giorno, ogni giorno della settimana. I responsabili in servizio coinvolgono le risorse appropriate per risolvere il tuo caso e ti informano quindi delle azioni intraprese.
-
-
-## Orario di operatività
-{: #support-hours-operation}
-
-I problemi di severità 1 vengono monitorati 24 ore al giorno, ogni giorno della settimana. Gli invii dei moduli per problemi con tutti gli altri livelli di severità vengono monitorati dalla domenica alle 21:30 UTC al venerdì alle 23:59 UTC.
-
-Per assistenza nella conversione di queste ore di supporto al tuo fuso orario locale, vedi [Timeanddate.com ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.timeanddate.com).
