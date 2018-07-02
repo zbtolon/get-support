@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-10"
+lastupdated: "2018-05-14"
 
 ---
 
@@ -63,11 +63,3 @@ Pour faire remonter un cas de support, vous devez disposez du support {{site.dat
   3. Indiquez la justification de l'escalade et l'impact de votre cas.
 
 Les responsables de support {{site.data.keyword.Bluemix_notm}} sont de service et disponibles 24 heures sur 24, 7 jours sur 7. Les responsables qui sont de service affectent les ressources appropriées au traitement de votre cas et vous informent sur les actions menées.
-
-
-## Heures de service
-{: #support-hours-operation}
-
-Les problèmes de gravité 1 sont surveillés 24 heures sur 24, 7 jours sur 7. Les soumissions de formulaire relatifs aux problèmes avec d'autres niveaux de gravité sont surveillés du dimanche 21:30 UTC au vendredi 23:59 UTC (à l'exclusion des jours fériés).
-
-Pour obtenir de l'aide afin de savoir comment convertir ces heures de support dans votre fuseau horaire local, consultez [Timeanddate.com ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien ")](https://www.timeanddate.com).
