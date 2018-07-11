@@ -31,16 +31,16 @@ To diagnose and resolve problems with {{site.data.keyword.Bluemix_notm}} applica
 
 Before you collect diagnostic information, complete the following steps:
 
-1. Ensure that you have installed the latest cf command line interface. For more information, see [Installing the cf command line interface](/docs/starters/install_cli.html).
->**Note:** If you do not have the latest cf command line interface installed, after the cf command line is connected to {{site.data.keyword.Bluemix_notm}}, the `cf logs` command might not return output.
-2. Ensure that you connected the cf command line interface to where {{site.data.keyword.Bluemix_notm}} is running by using the `cf api` command.
+1. Ensure that you have installed the latest Cloud Foundry command line interface. For more information, see [Installing the Cloud Foundry command line interface](/docs/starters/install_cli.html).
+>**Note:** If you do not have the latest Cloud Foundry command line interface installed, after the cf command line is connected to {{site.data.keyword.Bluemix_notm}}, the `cf logs` command might not return output.
+2. Ensure that you connected the Cloud Foundry command line interface to where {{site.data.keyword.Bluemix_notm}} is running by using the `cf api` command.
 
 Use one of the following scripts to collect diagnostic information:
 
   * For Windows operating systems, download the [bmdiag-general.bat ![External link icon](../icons/launch-glyph.svg "External link icon")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} file and run it.
   * For Linux and Mac operating systems, download the [bmdiag-general.sh ![External link icon](../icons/launch-glyph.svg "External link icon")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} file and run it.
 
-The scripts use the cf command line interface to extract the following information from your application environment:
+The scripts use the Cloud Foundry command line interface to extract the following information from your application environment:
   * Application logs
   * Application metadata
   * Configured routes
