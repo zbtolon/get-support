@@ -55,7 +55,7 @@ También puede formular preguntas en los sitios de Stack Overflow y dW Answers. 
 ## Paso 3: Ponerse en contacto con el servicio de atención al cliente
 {: #contact-customer-support}
 
-Si tiene alguna pregunta que no tenga una causa listada en la página Estado y no puede encontrar una respuesta buscando en la documentación, en las páginas de comunidad ni en los foros, puede abrir una incidencia para ponerse en contacto con el servicio de atención al cliente.
+Si tiene alguna pregunta que no tenga una causa listada en la página Estado y no puede encontrar una respuesta buscando en la documentación, en las páginas de la comunidad ni en los foros, puede abrir una incidencia para ponerse en contacto con el servicio de atención al cliente.
 
 Para abrir una incidencia desde el Centro de soporte, siga estos pasos:
   1. Pulse **Soporte** y seleccione **Centro de soporte** desde la barra de menús.
