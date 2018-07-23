@@ -31,16 +31,16 @@ Beim Diagnostizieren und Beheben von Problemen mit {{site.data.keyword.Bluemix_n
 
 Führen Sie die folgenden Schritte aus, bevor Sie Diagnoseinformationen erfassen:
 
-1. Stellen Sie sicher, dass die neueste cf-Befehlszeilenschnittstelle installiert ist. Weitere Informationen finden Sie unter [Befehlszeilenschnittstelle 'cf' installieren](/docs/starters/install_cli.html).
->**Hinweis:** Wenn die neueste cf-Befehlszeilenschnittstelle nicht installiert ist, nachdem die cf-Befehlszeile mit {{site.data.keyword.Bluemix_notm}} verbunden ist, kann es vorkommen, dass bei Ausführung des Befehls `cf logs` keine Ausgabe zurückgegeben wird.
-2. Stellen Sie sicher, dass die cf-Befehlszeilenschnittstelle mit dem System verbunden ist, auf dem {{site.data.keyword.Bluemix_notm}} ausgeführt wird; führen Sie hierzu den Befehl `cf api` aus.
+1. Stellen Sie sicher, dass die neueste Cloud Foundry-Befehlszeilenschnittstelle installiert ist. Weitere Informationen enthält [Cloud Foundry-CLI installieren](/docs/starters/install_cli.html).
+>**Hinweis:** Wenn die neueste Cloud Foundry-Befehlszeilenschnittstelle nicht installiert ist, nachdem die cf-Befehlszeile mit {{site.data.keyword.Bluemix_notm}} verbunden ist, kann es vorkommen, dass bei Ausführung des Befehls `cf logs` keine Ausgabe zurückgegeben wird.
+2. Stellen Sie durch Ausführen des Befehls `cf api` sicher, dass die Cloud Foundry-Befehlszeilenschnittstelle mit dem Ausführungsort von {{site.data.keyword.Bluemix_notm}} verbunden ist.
 
 Verwenden Sie eines der folgenden Scripts zum Erfassen der Diagnoseinformationen:
 
   * Windows-Betriebssysteme: Laden Sie die Datei [bmdiag-general.bat ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} herunter und führen Sie sie aus.
   * Linux- und Mac-Betriebssysteme: Laden Sie die Datei [bmdiag-general.sh ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} herunter und führen Sie sie aus.
 
-Von den Scripts wird die cf-Befehlszeilenschnittstelle zum Extrahieren der folgenden Informationen aus der Anwendungsumgebung verwendet:
+Von den Scripts wird die Cloud Foundry-Befehlszeilenschnittstelle zum Extrahieren der folgenden Informationen aus der Anwendungsumgebung verwendet:
   * Anwendungsprotokolle
   * Anwendungsmetadaten
   * Konfigurierte Routen
