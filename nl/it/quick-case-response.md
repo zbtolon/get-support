@@ -34,19 +34,16 @@ potrebbe chiederti di raccogliere informazioni di diagnostica. Utilizza le segue
 Prima di raccogliere le informazioni di diagnostica, completa la
 seguente procedura:
 
-1. Assicurati di aver installato l'interfaccia riga di comando cf più recente. Per ulteriori informazioni, vedi [Installing the cf
-command line interface](/docs/starters/install_cli.html).
->**Nota:** se non hai installato l'interfaccia riga di comando cf più recente, dopo aver connesso la riga di comando cf a {{site.data.keyword.Bluemix_notm}}, il comando `cf logs` potrebbe non restituire alcun input.
-2. Assicurati di aver connesso l'interfaccia riga di comando cf alla posizione in cui {{site.data.keyword.Bluemix_notm}} è
-in esecuzione utilizzando il comando `cf api`.
+1. Assicurati di aver installato l'interfaccia riga di comando Cloud Foundry più recente. Per ulteriori informazioni, vedi [Installazione dell'interfaccia riga di comando Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** se non hai installato l'interfaccia riga di comando Cloud Foundry più recente, dopo aver connesso la riga di comando cf a {{site.data.keyword.Bluemix_notm}}, il comando `cf logs` potrebbe non restituire alcun output.
+2. Assicurati di aver connesso l'interfaccia riga di comando Cloud Foundry alla posizione in cui {{site.data.keyword.Bluemix_notm}} è in esecuzione utilizzando il comando `cf api`.
 
 Utilizza uno sei seguenti script per raccogliere le informazioni di diagnostica:
 
   * Per i sistemi operativi Windows, scarica il file [bmdiag-general.bat ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ed eseguilo.
   * Per i sistemi operativi Linux e Mac, scarica il file [bmdiag-general.sh ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ed eseguilo.
 
-Gli script utilizzano l'interfaccia riga di comando cf per estrarre
-le seguenti informazioni dal tuo ambiente applicativo:
+Gli script utilizzano l'interfaccia riga di comando Cloud Foundry per estrarre le seguenti informazioni dall'ambiente dell'applicazione:
   * Log dell'applicazione
   * Metadati dell'applicazione
   * Rotte configurate
