@@ -34,7 +34,7 @@ Si tiene una cuenta enlazada, es posible que no sea capaz de añadir o editar in
 No puede crear o editar incidencias de soporte en {{site.data.keyword.Bluemix_notm}}.
 {: tsSymptoms}
 
-Los problemas generales con el acceso y la gestión de incidencias de soporte, si tiene una cuenta enlazada, pueden estar causados por la carencia de configuraciones de cuenta más granulares en el {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Puesto que los permisos más granulares deben configurarse en las cuentas creadas en el portal del cliente, es posible que no pueda añadir o editar incidencias de soporte.
+Los problemas generales con el acceso y la gestión de incidencias de soporte, si tiene una cuenta enlazada, pueden estar causados por la carencia de configuraciones de cuenta más granulares en el {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.slportal}}. Puesto que los permisos más granulares deben configurarse en las cuentas creadas en el portal de clientes, es posible que no pueda añadir o editar incidencias de soporte.
 {: tsCauses}
 
 Para corregir el problema, póngase en contacto con su administrador de la cuenta de {{site.data.keyword.slportal}} para establecer el acceso apropiado en su cuenta. El administrador de la cuenta de {{site.data.keyword.slportal}} puede utilizar los pasos siguientes para corregir el problema:

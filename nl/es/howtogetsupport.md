@@ -21,9 +21,9 @@ lastupdated: "2018-06-14"
 Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución.
 {:shortdesc}
 
-Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}}, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas se pueden enlazar entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Si su cuenta de SoftLayer se creó desde el portal del cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
+Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}}, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas se pueden enlazar entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Si su cuenta de SoftLayer se creó desde el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/admin/softlayerlink.html#link_user_accounts).
 
-Si su cuenta de SoftLayer se creó en el portal del cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, puede abrir incidencias desde el portal del cliente. Para obtener más información, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
+Si su cuenta de SoftLayer se creó en el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, puede abrir incidencias desde el portal de clientes. Para obtener más información, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
 
 ## Utilización del Centro de soporte
 {: #using-avatar}
@@ -34,7 +34,7 @@ Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respue
 
 En función del tipo de cuenta que tenga, también hay otras opciones disponibles en el Centro de soporte.  
 * Si tiene un [plan de soporte](/docs/get-support/index.html) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
-* Si su cuenta se creó en el portal de cliente de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y está enlazado entre servicios PaaS e IaaS, también puede acceder a las opciones **Call US** y **Chat Now** para llamar al soporte o para iniciar una sesión de chat.
+* Si su cuenta se creó en el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y está enlazado entre servicios PaaS e IaaS, también puede acceder a las opciones **Call US** y **Chat Now** para llamar al soporte o para iniciar una sesión de chat.
 
 El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar una incidencia.
 

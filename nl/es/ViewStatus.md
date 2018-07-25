@@ -63,7 +63,7 @@ Para cambiar entre regiones, desde la barra de menús de {{site.data.keyword.Blu
 ### Preparar para interrupciones menores
 {: #monbp-prepmininter}
 
-En la mayoría de los casos, se puede seguir utilizando {{site.data.keyword.Bluemix_notm}} con normalidad, incluso durante los períodos de mantenimiento. Sin embargo, no siempre se pueden evitar las interrupciones menores del servicio. La ejecución de apps suele seguir disponible aunque se interrumpan temporalmente las funciones de gestión de apps de {{site.data.keyword.Bluemix_notm}}, como iniciar y detener apps. Para maximizar la disponibilidad de las apps en ejecución, ejecute al menos tres instancias de cada app.
+En la mayoría de los casos, se puede seguir utilizando {{site.data.keyword.Bluemix_notm}} con normalidad, incluso durante los períodos de mantenimiento. Sin embargo, no siempre se pueden evitar las interrupciones menores del servicio. La ejecución de aplicaciones suele seguir disponible aunque se interrumpan temporalmente las funciones de gestión de aplicaciones de {{site.data.keyword.Bluemix_notm}}, como iniciar y detener apps. Para maximizar la disponibilidad de las aplicaciones en ejecución, ejecute al menos tres instancias de cada aplicación.
 
 ## Suscripción a un hilo RSS
 {: #subscribing-rss-feed}

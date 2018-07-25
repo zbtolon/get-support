@@ -27,7 +27,7 @@ Usted define la gravedad del problema en función de sus requisitos empresariale
 ## Recopilación de información de diagnóstico
 {: #collecting-diagnostic-information}
 
-Para diagnosticar y resolver problemas con los servicios y apps de {{site.data.keyword.Bluemix_notm}}, es posible que el equipo de soporte de {{site.data.keyword.Bluemix_notm}} le solicite que recopile información de diagnóstico. Utilice las instrucciones siguientes para recopilar y proporcionar la información solicitada lo antes posible.
+Para diagnosticar y resolver problemas con los servicios y aplicaciones de {{site.data.keyword.Bluemix_notm}}, es posible que el equipo de soporte de {{site.data.keyword.Bluemix_notm}} le solicite que recopile información de diagnóstico. Utilice las instrucciones siguientes para recopilar y proporcionar la información solicitada lo antes posible.
 
 Antes de recopilar la información de diagnóstico, siga estos pasos:
 
@@ -40,7 +40,7 @@ Utilice uno de los scripts siguientes para recopilar información de diagnóstic
   * Para sistemas operativos Windows, descargue el archivo [bmdiag-general.bat ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} y ejecútelo.
   * Para sistemas operativos Linux, descargue el archivo [bmdiag-general.sh ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} y ejecútelo.
 
-Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguiente información del entorno de app:
+Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguiente información del entorno de aplicación:
   * Registro de aplicación
   * Metadatos de aplicación
   * Rutas configuradas
@@ -58,7 +58,7 @@ Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site
 
   1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat.:
     * Si lo hace por teléfono, marque el número siguiente: 866-403-7638.
-    * Si lo hace mediante el chat, desde el {{site.data.keyword.Bluemix_notm}} [Centro de soporte ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} o, si dispone de una cuenta de SoftLayer que no esté enlazada, desde el [portal de cliente ![Icono de enlace externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Si lo hace mediante el chat, desde el {{site.data.keyword.Bluemix_notm}} [Centro de soporte ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} o, si dispone de una cuenta de SoftLayer que no esté enlazada, desde el [portal de clientes ![Icono de enlace externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
   2. Proporcione el número de caso existente y solicite escalar el caso.
   3. Proporcione la justificación del escalamiento y el impacto empresarial de su caso.
 
