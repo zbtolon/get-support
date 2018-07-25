@@ -31,16 +31,16 @@ lastupdated: "2018-05-14"
 
 診断情報を収集する前に、以下のステップを実行します。
 
-1. 最新の cf コマンド・ライン・インターフェースがインストール済みであることを確認してください。 詳細については、[cf コマンド・ライン・インターフェースのインストール (Installing the cf command line interface) ](/docs/starters/install_cli.html)を参照してください。
->**注:** 最新の cf コマンド・ライン・インターフェースがインストールされていない場合、cf コマンド・ラインが {{site.data.keyword.Bluemix_notm}} に接続された後も、`cf logs` コマンドが出力を返さない可能性があります。
-2. `cf api` コマンドを使用して、{{site.data.keyword.Bluemix_notm}} が実行中の場所に cf コマンド・ライン・インターフェースを接続済みであることを確認してください。
+1. 最新の Cloud Foundry コマンド・ライン・インターフェースがインストール済みであることを確認してください。詳細については、[Cloud Foundry コマンド・ライン・インターフェースのインストール (Installing the Cloud Foundry command line interface) ](/docs/starters/install_cli.html)を参照してください。
+>**注:** 最新の Cloud Foundry コマンド・ライン・インターフェースがインストールされていない場合、cf コマンド・ラインが {{site.data.keyword.Bluemix_notm}} に接続された後も、`cf logs` コマンドが出力を返さない可能性があります。
+2. `cf api` コマンドを使用して、{{site.data.keyword.Bluemix_notm}} が実行中の場所に Cloud Foundry コマンド・ライン・インターフェースを接続済みであることを確認してください。
 
 診断情報を収集するには、以下のいずれかのスクリプトを使用してください。
 
   * Windows オペレーティング・システムの場合、[bmdiag-general.bat ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} ファイルをダウンロードして実行します。
   * Linux および Mac オペレーティング・システムの場合、[bmdiag-general.sh ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} ファイルをダウンロードして実行します。
 
-これらのスクリプトは cf コマンド・ライン・インターフェースを使用して、ご使用のアプリケーション環境から以下の情報を抽出します。
+これらのスクリプトは Cloud Foundry コマンド・ライン・インターフェースを使用して、ご使用のアプリケーション環境から以下の情報を抽出します。
   * アプリケーション・ログ
   * アプリケーション・メタデータ
   * 構成済みの経路
