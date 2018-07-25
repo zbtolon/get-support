@@ -31,16 +31,16 @@ Para diagnosticar y resolver problemas con los servicios y aplicaciones de {{sit
 
 Antes de recopilar la información de diagnóstico, siga estos pasos:
 
-1. Asegúrese de haber instalado la última interfaz de línea de mandatos cf. Para obtener más información, consulte [Instalación de la interfaz de línea de mandatos cf](/docs/starters/install_cli.html).
->**Nota:** Si no tiene instalada la última interfaz de línea de mandatos cf, después de conectar la línea de mandatos cf a {{site.data.keyword.Bluemix_notm}} el mandato `cf logs` no devuelve información.
-2. Asegúrese de haber conectado la interfaz de línea de mandatos cf al lugar en el que se ejecuta {{site.data.keyword.Bluemix_notm}} mediante el mandato `cf api`.
+1. Asegúrese de haber instalado la última interfaz de línea de mandatos Cloud Foundry. Para obtener más información, consulte [Instalación de la interfaz de línea de mandatos de Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** Si no tiene instalada la última interfaz de línea de mandatos Cloud Foundry, después de conectar la línea de mandatos cf a {{site.data.keyword.Bluemix_notm}} el mandato `cf logs` no devuelve información.
+2. Asegúrese de haber conectado la interfaz de línea de mandatos de Cloud Foundry al lugar en el que se ejecuta {{site.data.keyword.Bluemix_notm}} mediante el mandato `cf api`.
 
 Utilice uno de los scripts siguientes para recopilar información de diagnóstico:
 
   * Para sistemas operativos Windows, descargue el archivo [bmdiag-general.bat ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} y ejecútelo.
   * Para sistemas operativos Linux, descargue el archivo [bmdiag-general.sh ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} y ejecútelo.
 
-Los scripts utilizan la interfaz de línea de mandatos cf para extraer la siguiente información del entorno de aplicación:
+Los scripts utilizan la interfaz de línea de mandatos de Cloud Foundry para extraer la siguiente información del entorno de aplicación:
   * Registro de aplicación
   * Metadatos de aplicación
   * Rutas configuradas
