@@ -31,16 +31,16 @@ lastupdated: "2018-05-14"
 
 진단 정보를 수집하기 전에 다음 단계를 수행하십시오.
 
-1. 최신 cf 명령행 인터페이스를 설치했는지 확인하십시오. 자세한 정보는 [ cf 명령행 인터페이스 설치](/docs/starters/install_cli.html)를 참조하십시오.
->**참고:** 최신 cf 명령행 인터페이스가 설치되어 있지 않은 경우, cf 명령행이 {{site.data.keyword.Bluemix_notm}}에 연결된 후 `cf logs` 명령이 출력을 리턴하지 않을 수 있습니다.
-2. `cf api` 명령을 사용하여 {{site.data.keyword.Bluemix_notm}}가 실행 중인 cf 명령행 인터페이스에 연결되었는지 확인하십시오.
+1. 최신 Cloud Foundry 명령행 인터페이스를 설치했는지 확인하십시오. 자세한 정보는 [Cloud Foundry 명령행 인터페이스 설치](/docs/starters/install_cli.html)를 참조하십시오.
+>**참고:** 최신 Cloud 명령행 인터페이스가 설치되어 있지 않은 경우, Cloud Foundry 명령행이 {{site.data.keyword.Bluemix_notm}}에 연결된 후 `cf logs` 명령이 출력을 리턴하지 않을 수 있습니다.
+2. `cf api` 명령을 사용하여 Cloud Foundry 명령행 인터페이스를 {{site.data.keyword.Bluemix_notm}}가 실행 중인 위치에 연결했는지 확인하십시오.
 
 다음 스크립트 중 하나를 사용하여 진단 정보를 수집하십시오.
 
   * Windows 운영 체제의 경우 [bmdiag-general.bat ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 파일을 다운로드하고 이를 실행하십시오.
   * Linux 및 Mac 운영 체제의 경우 [bmdiag-general.sh ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 파일을 다운로드하고 이를 실행하십시오.
 
-스크립트는 cf 명령행 인터페이스를 사용하여 애플리케이션 환경에서 다음 정보를 추출합니다.
+스크립트는 Cloud Foundry 명령행 인터페이스를 사용하여 애플리케이션 환경에서 다음 정보를 추출합니다.
   * 애플리케이션 로그
   * 애플리케이션 메타데이터
   * 구성된 라우트
@@ -56,7 +56,7 @@ lastupdated: "2018-05-14"
 
  케이스를 에스컬레이션하려면 다음 단계를 완료하십시오.
 
-  1. 전화 또는 채팅으로 {{site.data.keyword.Bluemix_notm}} 지원 팀에 문의:
+  1. 전화 또는 채팅으로 {{site.data.keyword.Bluemix_notm}} 지원 팀에 문의하십시오.
     * 866-403-7638으로 전화를 거십시오.
     * {{site.data.keyword.Bluemix_notm}} [지원 센터 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} 또는 연결되지 않은 SoftLayer 계정이 있는 경우 [고객 포털 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}에서 채팅으로 문의하십시오.
   2. 기존 케이스 번호를 제공하고 케이스 에스컬레이션을 요청하십시오.

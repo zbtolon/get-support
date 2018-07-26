@@ -31,16 +31,16 @@ lastupdated: "2018-05-14"
 
 在您收集診斷資訊之前，請先完成下列步驟：
 
-1. 確定您已安裝最新的 cf 指令行介面。如需相關資訊，請參閱[安裝 cf 指令行介面](/docs/starters/install_cli.html)。
->**附註：**如果您沒有安裝最新的 cf 指令行介面，在 cf 指令行連接至 {{site.data.keyword.Bluemix_notm}} 之後，`cf logs` 指令可能不會傳回輸出。
-2. 使用 `cf api` 指令，確定您已將 cf 指令行介面連接到執行 {{site.data.keyword.Bluemix_notm}} 的目錄。
+1. 確定您已安裝最新的 Cloud Foundry 指令行介面。如需相關資訊，請參閱[安裝 Cloud Foundry 指令行介面](/docs/starters/install_cli.html)。
+>**附註：**如果您沒有安裝最新的 Cloud Foundry 指令行介面，在 cf 指令行連接至 {{site.data.keyword.Bluemix_notm}} 之後，`cf logs` 指令可能不會傳回輸出。
+2. 使用 `cf api` 指令，確定您已將 Cloud Foundry 指令行介面連接到執行 {{site.data.keyword.Bluemix_notm}} 的位置。
 
 使用下列其中一個 Script 來收集診斷資訊：
 
   * 對於 Windows 作業系統，下載並執行 [bmdiag-general.bat ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 檔案。
   * 對於 Linux 及 Mac 作業系統，下載並執行 [bmdiag-general.sh ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 檔案。
 
-Script 使用 cf 指令行介面來擷取應用程式環境的下列資訊：
+Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列資訊：
   * 應用程式日誌
   * 應用程式 meta 資料
   * 配置的路徑
