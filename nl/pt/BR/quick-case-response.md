@@ -31,16 +31,16 @@ Para diagnosticar e resolver problemas com aplicativos e serviços {{site.data.k
 
 Antes de coletar informações de diagnóstico, conclua as etapas a seguir:
 
-1. Assegure-se de que tenha instalado a interface da linha de comandos cf mais recente. Para obter mais informações, veja [Instalando a interface da linha de comandos cf](/docs/starters/install_cli.html).
->**Nota:** Se você não tiver a interface de linha de comandos cf mais recente instalada, após a linha de comandos cf ser conectada ao {{site.data.keyword.Bluemix_notm}}, o comando `cf logs` pode não retornar saída.
-2. Assegure-se de que esteja conectado à interface da linha de comandos cf para onde o {{site.data.keyword.Bluemix_notm}} será executado usando o comando `cf api`.
+1. Assegure-se de ter instalado a interface da linha de comandos mais recente do Cloud Foundry. Para obter mais informações, veja [Instalando a interface da linha de comandos do Cloud Foundry](/docs/starters/install_cli.html).
+>**Nota:** se você não tiver a interface de linha de comandos mais recente do Cloud Foundry instalada, após a linha de comandos cf ser conectada ao {{site.data.keyword.Bluemix_notm}}, o comando `cf logs` poderá não retornar a saída.
+2. Assegure-se de que tenha conectado a interface da linha de comandos do Cloud Foundry na qual o {{site.data.keyword.Bluemix_notm}} está em execução usando o comando `cf api`.
 
 Use um dos scripts a seguir para coletar informações de diagnóstico:
 
   * Para sistemas operacionais Windows, faça download do arquivo [bmdiag-general.bat ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} e execute-o.
   * Para sistemas operacionais Linux e Mac, faça download do arquivo [bmdiag-general.sh ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} e execute-o.
 
-Os scripts usam a interface de linha de comandos cf para extrair as informações a seguir do ambiente de aplicativo:
+Os scripts usam a interface da linha de comandos do Cloud Foundry para extrair as informações a seguir do ambiente de aplicativos:
   * Logs do aplicativo
   * Metadados do aplicativo
   * Rotas configuradas
