@@ -31,16 +31,16 @@ Pour diagnostiquer et résoudre des problèmes avec les applications et les serv
 
 Avant de collecter des informations de diagnostic, procédez comme suit :
 
-1. Vérifiez que vous avez installé la version la plus récente de l'interface de ligne de commande cf. Pour plus d'informations, voir [Installation de l'interface de ligne de commande cf](/docs/starters/install_cli.html).
->**Remarque :** si vous n'avez pas installé la version la plus récente de l'interface de ligne de commande cf, lorsque cette interface est connectée à {{site.data.keyword.Bluemix_notm}}, la commande `cf logs` risque de ne pas renvoyer de sortie.
-2. Assurez-vous d'avoir connecté l'interface de ligne de commande cf à l'emplacement où {{site.data.keyword.Bluemix_notm}} est en cours d'exécution par l'intermédiaire de la commande `cf api`.
+1.  Vérifiez que vous avez installé la dernière version de l'interface de ligne de commande Cloud Foundry. Pour plus d'informations, voir [Installation de l'interface de ligne de commande Cloud Foundry](/docs/starters/install_cli.html).
+>**Remarque :** si vous n'avez pas installé la dernière version de l'interface de ligne de commande Cloud Foundry, la commande `cf logs` risque de ne pas renvoyer de sortie lorsque cette interface est connectée à {{site.data.keyword.Bluemix_notm}}.
+2. Vérifiez à l'aide de la commande `cf api` que vous avez connecté l'interface de ligne de commande Cloud Foundry à l'emplacement où {{site.data.keyword.Bluemix_notm}} s'exécute.
 
 Utilisez l'un des scripts suivants pour collecter les informations de diagnostic :
 
   * Pour les systèmes d'exploitation Windows, téléchargez le fichier [bmdiag-general.bat ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} et exécutez-le.
   * Pour les systèmes d'exploitation Linux et Mac, téléchargez le fichier [bmdiag-general.sh ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} et exécutez-le.
 
-Les scripts utilisent l'interface de ligne de commande cf pour extraire les informations suivantes de votre environnement d'application :
+Les scripts utilisent l'interface de ligne de commande Cloud Foundry pour extraire les informations suivantes de votre environnement d'application :
   * Journaux d'application
   * Métadonnées d'application
   * Routes configurées
@@ -58,7 +58,7 @@ Pour faire remonter un cas de support, vous devez disposez du support {{site.dat
 
   1. Contactez l'équipe de support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne:
     * Par téléphone, composez le numéro suivant : 866-403-7638.
-    * Si vous optez pour la discussion en ligne, accédez au [centre de support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} ou, si vous disposez d'un compte SoftLayer qui n'est pas lié, accédez au [portail client ![Icône de lien externe](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Si vous optez pour la discussion en ligne, accédez au [centre de support ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}{{site.data.keyword.Bluemix_notm}} ou, si vous disposez d'un compte SoftLayer qui n'est pas lié, accédez au [portail client ![Icône de lien externe](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
   2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas.
   3. Indiquez la justification de l'escalade et l'impact de votre cas.
 
