@@ -31,16 +31,16 @@ lastupdated: "2018-05-14"
 
 在收集诊断信息之前，请完成以下步骤：
 
-1. 确保已安装最新的 cf 命令行界面。有关更多信息，请参阅[安装 cf 命令行界面](/docs/starters/install_cli.html)。
->**注：**如果未安装最新 cf 命令行界面，那么在 cf 命令行连接到 {{site.data.keyword.Bluemix_notm}} 后，`cf logs` 命令可能不会返回输出。
-2. 确保使用 `cf api` 命令将 cf 命令行界面连接到 {{site.data.keyword.Bluemix_notm}} 正在运行的位置。
+1. 确保已安装最新的 Cloud Foundry 命令行界面。有关更多信息，请参阅[安装 Cloud Foundry 命令行界面](/docs/starters/install_cli.html)。
+>**注：**如果未安装最新 Cloud Foundry 命令行界面，那么在 cf 命令行连接到 {{site.data.keyword.Bluemix_notm}} 后，`cf logs` 命令可能不会返回输出。
+2. 确保使用 `cf api` 命令将 Cloud Foundry 命令行界面连接到 {{site.data.keyword.Bluemix_notm}} 正在运行的位置。
 
 使用以下其中一个脚本来收集诊断信息：
 
   * 对于 Windows 操作系统，下载并运行 [bmdiag-general.bat ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 文件。
   * 对于 Linux 和 Mac 操作系统，下载并运行 [bmdiag-general.sh ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 文件。
 
-脚本使用 cf 命令行界面来从应用程序环境抽取以下信息：
+脚本使用 Cloud Foundry 命令行界面来从应用程序环境中抽取以下信息：
   * 应用程序日志
   * 应用程序元数据
   * 配置的路径
