@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -58,7 +58,7 @@ Si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} válida, hay varias ma
 Cuando abra una incidencia de soporte, asegúrese de indicar una gravedad adecuada a su incidencia. La gravedad determina cómo se maneja
 la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades.
 
-Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} o envíe un correo electrónico a sales@bluemix.net.
+Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Puede abrir una incidencia desde el Centro de soporte o desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}.
