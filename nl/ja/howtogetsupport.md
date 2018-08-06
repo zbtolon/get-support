@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -58,7 +58,7 @@ SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフ�
 
 サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。 重大度によってチケットの処理方法が決まります。 各種の重大度については、『[サポート・チケットの重大度および回答時間](/docs/get-support/ticketweight.html#support-ticket-severity)』を参照してください。
 
-サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「プレミアム」または「アドバンスト」のサポート層にアップグレードすることを検討してください。 アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} に連絡するか、sales@bluemix.net に E メールを送信してください。
+サポートの問い合わせに対して直ちに応答が必要な場合は、重大度 1 から 4 のサポート・チケットをオープンできるように「プレミアム」または「アドバンスト」のサポート層にアップグレードすることを検討してください。 アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}にお問い合わせください。
 {:tip}
 
 サポート・センター、または {{site.data.keyword.Bluemix_notm}} コンソールのメニュー・バーからチケットをオープンすることができます。

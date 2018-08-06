@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -57,7 +57,7 @@ Falls Sie ein gültiges {{site.data.keyword.Bluemix_notm}}-Konto besitzen, gibt 
 
 Stellen Sie beim Öffnen eines Support-Tickets sicher, dass Sie eine geeignete Priorität für das Ticket angeben. Die Priorität bestimmt, wie Ihr Ticket bearbeitet wird. Informationen zu den verschiedenen Prioritätsstufen finden Sie unter [Support-Ticket - Priorität und Reaktionszeit](/docs/get-support/ticketweight.html#support-ticket-severity).
 
-Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf Premium oder Advanced Support durchführen, damit Sie Support-Tickets mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Kontos auf ein höheres Support-Level wenden Sie sich an Ihren [IBM Vertriebsbeauftragten ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} oder senden Sie eine E-Mail an sales@bluemix.net.
+Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf Premium oder Advanced Support durchführen, damit Sie Support-Tickets mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Kontos auf ein höheres Support-Level wenden Sie sich an den zuständigen [IBM Vertriebsbeauftragten![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Sie können ein Ticket im Support Center oder über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole öffnen.
