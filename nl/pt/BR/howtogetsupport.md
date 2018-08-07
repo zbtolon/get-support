@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -58,7 +58,7 @@ Se você tem uma conta válida do {{site.data.keyword.Bluemix_notm}}, há vária
 
 Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/get-support/ticketweight.html#support-ticket-severity) para obter informações sobre as diferentes severidades.
 
-Se a sua consulta de suporte requer uma resposta mais imediata, considere fazer upgrade para a camada de suporte premium ou avançado para que seja possível abrir chamados de suporte de severidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com o [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envie um e-mail para sales@bluemix.net.
+Se a sua consulta de suporte requer uma resposta mais imediata, considere fazer upgrade para a camada de suporte premium ou avançado para que seja possível abrir chamados de suporte de severidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com seu [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 É possível abrir um chamado por meio do Centro de suporte ou da barra de menus do console do {{site.data.keyword.Bluemix_notm}}.
