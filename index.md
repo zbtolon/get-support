@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-08-07"
 
 ---
 
@@ -30,13 +30,6 @@ Whether you’re using {{site.data.keyword.Bluemix}} infrastructure or platform 
 | Additional support | Not applicable | Not applicable | Technical Account Manager (TAM) assigned <br /><br />Quarterly business reviews<br /><br />Access to experts<br /><br />Invitation to *Cloud Insights* |
 {:caption="Table 1. Support plans" caption-side="top"}
 
-For more information about how the severity of tickets is assigned and how tickets are then handled, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html)
-
-All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through communities and blogs. Other types of support that are available, and when they are available, depend on the support level of the account.
-
-You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center. The level of support you selected for your account determines the options that you see in the Support Center. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The level of support you selected for your account also determines the severity you can assign to support tickets when you contact customer support.
-
-
 ## Premium support
 {: #premium-support}
 
@@ -57,3 +50,23 @@ Advanced support is for environments with a limited number of business-critical 
 {: #basic-support}
 
 Basic support is provided for non-production environments or workloads in which traditional severities and response times are not needed.
+
+## Additional information
+{: additional-information}
+For more information about how the severity of tickets is assigned and how tickets are then handled, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html)
+
+All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through communities and blogs. Other types of support that are available, and when they are available, depend on the support level of the account.
+
+You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center. The level of support you selected for your account determines the options that you see in the Support Center. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The level of support you selected for your account also determines the severity you can assign to support tickets when you contact customer support.
+
+## Changing current support
+{:changing-support}
+
+It is possible for you to change the current support service.  Visit the [Contact us](https://www.ibm.com/cloud-computing/bluemix/contact-us) page. From there, you can communicate with an expert through chat, phone, or email.  
+
+|Type	|Description	|
+|-----|-------------|
+|Chat |click on the **Talk to an expert** tab on the right hand side of the screen |
+|Phone |scroll past the register form to the IBM Cloud sales section |
+|Email |CloudDigitalSales@us.ibm.com | 
+
