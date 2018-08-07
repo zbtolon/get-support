@@ -55,7 +55,8 @@ Basic support is provided for non-production environments or workloads in which 
 {: additional-information}
 For more information about how the severity of tickets is assigned and how tickets are then handled, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html)
 
-All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through communities and blogs. Other types of support that are available, and when they are available, depend on the support level of the account.
+You are provided with free technical support through communities and blogs.
+{: tip} 
 
 You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center. The level of support you selected for your account determines the options that you see in the Support Center. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The level of support you selected for your account also determines the severity you can assign to support tickets when you contact customer support.
 
