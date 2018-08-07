@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -57,7 +57,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 지원 티켓을 열 때, 티켓에 적합한 심각도를 지정하도록 하십시오. 심각도에 따라 티켓 처리 방식이 결정되기 때문입니다. 서로 다른 심각도에 대한 정보는 [지원 티켓 심각도 및 응답 시간](/docs/get-support/ticketweight.html#support-ticket-severity)을 참조하십시오.
 
-지원 조회에 대한 보다 즉각적인 응답이 필요한 경우, 심각도 1-4 지원 티켓을 열 수 있도록 프리미엄 또는 고급 지원 계층으로 업그레이드하는 것을 고려하십시오. 더 높은 지원 레벨로 계정을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하거나 sales@bluemix.net으로 이메일을 보내십시오.
+지원 조회에 대한 보다 즉각적인 응답이 필요한 경우, 심각도 1-4 지원 티켓을 열 수 있도록 프리미엄 또는 고급 지원 계층으로 업그레이드하는 것을 고려하십시오. 상위 지원 레벨로 계정을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하십시오.
 {:tip}
 
 지원 센터 또는 {{site.data.keyword.Bluemix_notm}} 콘솔의 메뉴 표시줄에서 티켓을 열 수 있습니다.

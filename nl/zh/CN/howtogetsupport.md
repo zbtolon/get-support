@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -57,7 +57,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 开具支持凭单时，确保为您的凭单指示了适当的严重性。严重性将决定凭单的处理方式。请参阅[支持凭单严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)，以获取有关不同严重性的信息。
 
-如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 或向 sales@bluemix.net 发送电子邮件。
+如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}。
 {:tip}
 
 您可以在支持中心或通过 {{site.data.keyword.Bluemix_notm}} 控制台的菜单栏开具凭单。
