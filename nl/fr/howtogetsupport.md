@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-07-25"
 
 ---
 
@@ -57,7 +57,7 @@ Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, il existe
 
 Lorsque vous ouvrez un ticket de demande de service, veillez à indiquer une gravité appropriée. Elle détermine la façon dont votre ticket sera traité. Voir [Gravité et temps de réponse du ticket de demande de service](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations sur les différentes gravités.
 
-Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support premium ou avancé afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} ou envoyez un courrier électronique à sales@bluemix.net.
+Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support premium ou avancé afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}.
