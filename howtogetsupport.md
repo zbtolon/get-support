@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ If your SoftLayer account was created in the {{site.data.keyword.BluSoftlayer_no
 ## Using the Support Center
 {: #using-avatar}
 
-To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console. On the menu bar, click **Support** and select **Support Center**.  
+To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console. On the menu bar, click **Support** > **Support Center**.  
 
 You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support tickets from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (dw answers) forum for all other questions under the Forums section of the Support Center.  
 
@@ -57,7 +57,7 @@ If you have a valid {{site.data.keyword.Bluemix_notm}} account, there are severa
 
 When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity) for information about the different severities.
 
-If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support tier so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 You can open a ticket from the Support Center or from the menu bar of the {{site.data.keyword.Bluemix_notm}} console.
