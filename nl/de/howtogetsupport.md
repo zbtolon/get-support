@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ Wenn Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_no
 ## Support Center verwenden
 {: #using-avatar}
 
-Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an. Klicken Sie in der Menüleiste auf **Support** und wählen Sie **Support Center** aus.  
+Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an. Klicken Sie in der Menüleiste auf **Support** > **Support Center**.  
 
 Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Forum 'Stack Overflow' (für technische Fragen) und zu 'developerWorks Answers' (für alle anderen Fragen).  
 
@@ -57,7 +57,7 @@ Falls Sie ein gültiges {{site.data.keyword.Bluemix_notm}}-Konto besitzen, gibt 
 
 Stellen Sie beim Öffnen eines Support-Tickets sicher, dass Sie eine geeignete Priorität für das Ticket angeben. Die Priorität bestimmt, wie Ihr Ticket bearbeitet wird. Informationen zu den verschiedenen Prioritätsstufen finden Sie unter [Support-Ticket - Priorität und Reaktionszeit](/docs/get-support/ticketweight.html#support-ticket-severity).
 
-Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf Premium oder Advanced Support durchführen, damit Sie Support-Tickets mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Kontos auf ein höheres Support-Level wenden Sie sich an den zuständigen [IBM Vertriebsbeauftragten![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf den Premium- oder Advanced Support-Plan durchführen, damit Sie Support-Tickets mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Kontos auf ein höheres Support-Level wenden Sie sich an den zuständigen [IBM Vertriebsbeauftragten![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Sie können ein Ticket im Support Center oder über die Menüleiste der {{site.data.keyword.Bluemix_notm}}-Konsole öffnen.
