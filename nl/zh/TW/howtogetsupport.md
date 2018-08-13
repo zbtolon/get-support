@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ lastupdated: "2018-07-25"
 ## 使用支援中心
 {: #using-avatar}
 
-若要存取「支援中心」，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。在功能表列上，按一下**支援**，然後選取**支援中心**。  
+若要存取「支援中心」，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。在功能表列上，按一下**支援** > **支援中心**。  
 
 您可以使用「支援中心」搜尋欄位，從 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 討論區中尋找問題的答案。您也可以從「支援中心」管理支援問題單。您可以在「支援中心」的「討論區」區段下尋找 Stack Overflow 討論區（適用於技術問題）及 developerWorks (dW Answers) 討論區（適用於所有其他問題）的鏈結。  
 
@@ -57,7 +57,7 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 
 開立支援問題單時，請務必為問題單指定適當的嚴重性。嚴重性會決定問題單的處理方式。如需不同嚴重性的相關資訊，請參閱[支援問題單嚴重性及回應時間](/docs/get-support/ticketweight.html#support-ticket-severity)。
 
-如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援層，您才可以開立嚴重性 1-4 的支援問題單。若要將您的帳戶升級至較高的支援層次，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 聯絡。
+如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援方案，您才可以開立嚴重性 1-4 的支援問題單。若要將您的帳戶升級至較高的支援層次，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 聯絡。
 {:tip}
 
 您可以從「支援中心」或 {{site.data.keyword.Bluemix_notm}} 主控台的功能表列開立問題單。

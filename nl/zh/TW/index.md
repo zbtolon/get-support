@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -18,36 +18,31 @@ lastupdated: "2018-05-22"
 # 支援方案
 {: #support-plans}
 
-無論您是使用 {{site.data.keyword.Bluemix}} 基礎架構還是平台服務，都有統一的支援程序支持您。{{site.data.keyword.Bluemix_notm}} 團隊可以確保您充分利用所有雲端服務。選擇您的支援方案，以針對您的商業需要自訂 {{site.data.keyword.Bluemix_notm}} 支援體驗。
+免費的技術支援可透過 {{site.data.keyword.Bluemix}} 社群及 Stack Overflow 取得，您可以從支援中心進行存取。您選取的支援層次會決定可以指派給支援問題單的嚴重性，以及您對於支援中心所提供工具的存取層次。選擇您的支援方案，以針對您的商業需要自訂 {{site.data.keyword.Bluemix}} 支援體驗。
 {:shortdesc}
 
 |  |基本支援|進階支援|超值支援|
 |-------------|-------------|-------------|-------------|
 |說明
-|	隨附於 {{site.data.keyword.Bluemix_notm}} 訂閱或「隨收隨付制」帳戶的基本商業保護|優先問題單處理，以及符合您業務需要的支援體驗|符合您業務成果的客戶參與，以加快價值創造時間|
-|可用性|使用問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|使用問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|使用問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|
-|起始回應時間目標|不適用|嚴重性 1：少於一小時<br />嚴重性 2：少於二小時<br />嚴重性 3：少於四小時<br />嚴重性 4：少於八小時|嚴重性 1：少於一小時<br />嚴重性 2：少於 90 分鐘<br />嚴重性 3：少於二小時<br />嚴重性 4：少於四小時|
+|	{{site.data.keyword.Bluemix_notm}} 隨收隨付制或訂閱帳戶所包含的基本商業保護。|優先問題單處理，以及符合您業務需要的支援體驗|符合您業務成果的客戶參與，以加快價值創造時間|
+|可用性|透過問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|透過問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|透過問題單、電話及會談的 {{site.data.keyword.Bluemix_notm}} 技術支援團隊 24 x 7 存取權|
+|起始回應時間目標|不適用|嚴重性 1：少於一小時<br/> 嚴重性 2：少於二小時<br/> 嚴重性 3：少於四小時<br/> 嚴重性 4：少於八小時|嚴重性 1：少於一小時<br/> 嚴重性 2：少於 90 分鐘<br/> 嚴重性 3：少於二小時<br/> 嚴重性 4：少於四小時|
 |問題單嚴重性|不適用|有問題單嚴重性分級可用|有問題單嚴重性分級可用|
-|其他支援|不適用|不適用|指派技術客戶經理 (TAM)<br /><br />每季業務檢閱<br /><br />能與專家聯繫<br /><br />邀請加入 *Cloud Insights* |
+|其他支援|不適用|不適用|指派技術客戶經理<br/> <br/> 每季業務檢閱<br/><br/> 能與專家聯繫<br/> <br/> 邀請加入 *Cloud Insights* |
 {:caption="表 1. 支援方案" caption-side="top"}
 
-如需如何指派問題單的嚴重性以及後來如何處理問題單的相關資訊，請參閱[如何指派及加權問題單？](/docs/get-support/ticketweight.html)
-
-所有 {{site.data.keyword.Bluemix_notm}} 客戶都可以透過社群及部落格獲提供免費的技術支援。可使用的其他支援類型及其可用時間，取決於帳戶的支援層次。
-
-您可以從 {{site.data.keyword.Bluemix_notm}} 主控台「支援中心」存取技術問題的支援選項（例如 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow）。您為帳戶所選取的支援層次，決定您在「支援中心」中看到的選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support/howtogetsupport.html#using-avatar)。您為帳戶所選取的支援層次，也決定您可在聯絡客戶支援中心時指派給支援問題單的嚴重性。
-
+如需如何指派問題單的嚴重性以及如何處理問題單的相關資訊，請參閱[如何指派及加權問題單？](/docs/get-support/ticketweight.html)。
+{: tip} 
 
 ## 超值支援
 {: #premium-support}
 
-超值支援適用於與 {{site.data.keyword.Bluemix_notm}} 具有策略相依關係的關鍵任務環境。針對超值客戶提供下列額外支援：
+超值支援適用於與 {{site.data.keyword.Bluemix_notm}} 具有策略相依關係的關鍵任務環境。如果您有超值支援方案，則我們提供下列額外支援：
   * 問題單的優先處理
   * 指定「技術客戶經理」以協助加速價值創造時間
   * 聯繫專家以進行專門的技術諮詢和協助
   * 每季業務檢閱
   * 邀請加入 *Cloud Insights*，這是與 IBM 技術專家聯繫的討論區
-
 
 ## 進階支援
 {: #standard-support}
@@ -58,3 +53,10 @@ lastupdated: "2018-05-22"
 {: #basic-support}
 
 針對不需要傳統嚴重性及回應時間的非正式作業環境或工作負載提供了基本支援。
+
+## 變更支援方案
+{:changing-support}
+
+您可以隨時與 {{site.data.keyword.Bluemix_notm}} 業務代表聯絡，變更現行支援方案。請造訪 [{{site.data.keyword.Bluemix_notm}} 支援中心](https://www.ibm.com/cloud/support){: new_window} ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示") 頁面、捲動，然後按一下**與我們聯絡**。從那裡，您可以透過會談、電話或電子郵件，與專家通訊。  
+
+

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ lastupdated: "2018-07-25"
 ## 使用支持中心
 {: #using-avatar}
 
-要访问支持中心，请登录到 {{site.data.keyword.Bluemix_notm}} 控制台。在菜单栏中，单击**支持**，然后选择**支持中心**。  
+要访问支持中心，请登录到 {{site.data.keyword.Bluemix_notm}} 控制台。在菜单栏上，单击**支持** > **支持中心**。  
 
 可以使用支持中心的搜索字段，在 {{site.data.keyword.Bluemix_notm}} 文档和 Stack Overflow 论坛中查找问题的答案。还可以通过支持中心管理支持凭单。您可以在支持中心的“论坛”部分下找到 Stack Overflow 论坛（有关技术问题）和 developerWorks (dW Answers) 论坛（有关其他所有问题）的链接。  
 
@@ -57,7 +57,7 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 开具支持凭单时，确保为您的凭单指示了适当的严重性。严重性将决定凭单的处理方式。请参阅[支持凭单严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)，以获取有关不同严重性的信息。
 
-如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持层，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}。
+如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持套餐，以便可以开具严重性为 1-4 的支持凭单。要将帐户升级到更高的支持级别，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}。
 {:tip}
 
 您可以在支持中心或通过 {{site.data.keyword.Bluemix_notm}} 控制台的菜单栏开具凭单。

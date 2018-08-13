@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ Si votre compte SoftLayer a été créé à partir du portail client de l'infras
 ## Utilisation du centre de support
 {: #using-avatar}
 
-Pour accéder au centre de support, connectez-vous à la console {{site.data.keyword.Bluemix_notm}}. Dans la barre de menus, cliquez sur **Support** et sélectionnez**Centre de support**.  
+Pour accéder au centre de support, connectez-vous à la console {{site.data.keyword.Bluemix_notm}}. Dans la barre de menu, cliquez sur **Support** > **Centre de support**.  
 
 Vous pouvez utiliser la zone de recherche du centre de support pour trouver des réponses à vos questions dans la documentation {{site.data.keyword.Bluemix_notm}} et sur le forum Stack Overflow. Vous pouvez également gérer des tickets depuis le centre de support. La section Forums du centre de support propose des liens vers le forum Stack Overflow, qui répond à vos questions d'ordre technique, et vers le forum developerWorks (dW Answers) pour toutes les autres questions.  
 
@@ -57,7 +57,7 @@ Si vous possédez un compte {{site.data.keyword.Bluemix_notm}} valide, il existe
 
 Lorsque vous ouvrez un ticket de demande de service, veillez à indiquer une gravité appropriée. Elle détermine la façon dont votre ticket sera traité. Voir [Gravité et temps de réponse du ticket de demande de service](/docs/get-support/ticketweight.html#support-ticket-severity) pour plus d'informations sur les différentes gravités.
 
-Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le niveau de support premium ou avancé afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le plan de support Avancé ou Premium afin de pouvoir ouvrir des tickets de demande de service de gravité 1 à 4. Pour ce faire, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Pour ouvrir un ticket depuis le centre de support ou depuis la barre de menus de la console {{site.data.keyword.Bluemix_notm}}.

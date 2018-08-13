@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -18,36 +18,31 @@ lastupdated: "2018-05-22"
 # 支持套餐
 {: #support-plans}
 
-无论您使用的是 {{site.data.keyword.Bluemix}} 基础架构服务还是平台服务，都有一个统一的支持流程来为您提供支持。{{site.data.keyword.Bluemix_notm}} 团队可确保您能够最大限度地利用您的所有云服务。请选择您的支持套餐，根据自己的业务需求来定制您的 {{site.data.keyword.Bluemix_notm}} 支持体验。
+将通过 {{site.data.keyword.Bluemix}} 社区和 Stack Overflow（可从支持中心进行访问）为您提供免费技术支持。所选支持级别确定您可为支持凭单指定的严重性以及支持中心中提供的工具的访问级别。请选择您的支持套餐，根据自己的业务需求来定制您的 {{site.data.keyword.Bluemix}} 支持体验。
 {:shortdesc}
 
-|  |基本支持|高级支持|高端支持|
+|  | 基本支持 | 高级支持 | 金牌支持 |
 |-------------|-------------|-------------|-------------|
 |描述
-|	您的 {{site.data.keyword.Bluemix_notm}} 预订或现买现付帐户随附的基本业务保护|您的凭单将优先得到处理，而且您可以根据自己的业务需求来定制支持体验|客户参与，帮助您缩短价值实现时间，从而实现目标业务结果|
+|	{{site.data.keyword.Bluemix_notm}} 现买现付或预订帐户随附的基本业务保护|您的凭单将优先得到处理，而且您可以根据自己的业务需求来定制支持体验|客户参与，帮助您缩短价值实现时间，从而实现目标业务结果|
 |服务时间|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过凭单、电话和交谈选项与之互动|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过凭单、电话和交谈选项与之互动|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过凭单、电话和交谈选项与之互动|
-|初始响应时间目标|不适用 |严重性 1：1 小时内<br />严重性 2：2 小时内<br />严重性 3：4 小时内<br />严重性 4：8 小时内|严重性 1：1 小时内<br />严重性 2：90 分钟内<br />严重性 3：2 小时内<br />严重性 4：4 小时内|
+|初始响应时间目标|不适用 |严重性 1：1 小时内<br/> 严重性 2：2 小时内<br/> 严重性 3：4 小时内<br/> 严重性 4：8 小时内|严重性 1：1 小时内<br/> 严重性 2：90 分钟内<br/> 严重性 3：2 小时内<br/> 严重性 4：4 小时内|
 |凭单严重性|不适用 |可以使用凭单严重性等级|可以使用凭单严重性等级|
-|其他支持|不适用 |不适用 |为您指派技术客户经理 (TAM)<br /><br />季度业务审查<br /><br />联系专家<br /><br />邀请加入 *Cloud Insights*|
+|其他支持|不适用 |不适用 |为您指派技术客户经理<br/> <br/> 季度业务审查<br/><br/> 联系专家<br/> <br/> 邀请加入 *Cloud Insights*|
 {:caption="表 1. 支持套餐" caption-side="top"}
 
-有关如何分配凭单严重性以及随后如何处理凭单的更多信息，请参阅[如何为凭单分配严重性和加权？](/docs/get-support/ticketweight.html)
-
-通过社区和博客，为所有 {{site.data.keyword.Bluemix_notm}} 客户提供了免费技术支持。其他可用的支持类型及其何时可用取决于帐户的支持级别。
-
-对于技术问题，您可以通过 {{site.data.keyword.Bluemix_notm}} 控制台支持中心来访问支持选项，例如 {{site.data.keyword.Bluemix_notm}} 社区或 Stack Overflow。为帐户选择的支持级别决定了您在支持中心看到的选项。有关更多信息，请参阅[使用支持中心](/docs/get-support/howtogetsupport.html#using-avatar)。为帐户选择的支持级别还决定了您在联系客户支持时，可以为支持凭单分配的严重性。
-
+有关如何分配凭单严重性以及如何处理凭单的更多信息，请参阅[如何为凭单分配严重性和加权？](/docs/get-support/ticketweight.html)。
+{: tip} 
 
 ## 高端支持
 {: #premium-support}
 
-高端支持适用于对 {{site.data.keyword.Bluemix_notm}} 具有战略依赖关系的任务关键型环境。针对高端客户提供了以下额外支持：
+高端支持适用于对 {{site.data.keyword.Bluemix_notm}} 具有战略依赖关系的任务关键型环境。如果您具有高级支持套餐，那么提供以下额外支持：
   * 优先处理凭单
   * 有指定的技术客户经理帮助缩短价值实现时间
   * 可联系专家获取专业的技术咨询和协助
   * 季度业务审查
   * 受邀加入联系 IBM 技术专家的论坛 - *Cloud Insights*
-
 
 ## 高级支持
 {: #standard-support}
@@ -58,3 +53,10 @@ lastupdated: "2018-05-22"
 {: #basic-support}
 
 为非生产环境或无需传统严重性和响应时间的工作负载提供了基本支持。
+
+## 更改支持套餐
+{:changing-support}
+
+您可以随时通过联系 {{site.data.keyword.Bluemix_notm}} 销售人员来更改当前支持套餐。请访问 [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![外部链接图标](../icons/launch-glyph.svg "外部链接图标") 页面，向下滚动，然后单击 **Contact us**。在此，您可以通过交谈、电话或电子邮件与专家通信。  
+
+
