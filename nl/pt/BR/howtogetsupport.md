@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -29,7 +29,7 @@ para a infraestrutura do {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer
 ## Usando o Centro de suporte
 {: #using-avatar}
 
-Para acessar o Centro de suporte, efetue login no console do {{site.data.keyword.Bluemix_notm}}. Na barra de menus, clique em **Suporte** e selecione **Centro de suporte**.  
+Para acessar o Centro de suporte, efetue login no console do {{site.data.keyword.Bluemix_notm}}. Na barra de menus, clique em **Suporte** > **Centro de Suporte**.  
 
 É possível usar o campo de procura do Centro de suporte para localizar respostas para suas perguntas na documentação do {{site.data.keyword.Bluemix_notm}} e fórum do Stack Overflow. Também é possível gerenciar os chamados de suporte por meio do Centro de suporte. É possível localizar links para o fórum do Stack Overflow para questões técnicas e o fórum do developerWorks (dw answers) para todas as outras questões na seção Fóruns do Centro de suporte.  
 
@@ -58,7 +58,7 @@ Se você tem uma conta válida do {{site.data.keyword.Bluemix_notm}}, há vária
 
 Ao abrir um chamado de suporte, assegure que você indique uma gravidade apropriada para seu chamado. A gravidade determina como o chamado será manipulado. Veja [Severidade e tempo de resposta do chamado de suporte](/docs/get-support/ticketweight.html#support-ticket-severity) para obter informações sobre as diferentes severidades.
 
-Se a sua consulta de suporte requer uma resposta mais imediata, considere fazer upgrade para a camada de suporte premium ou avançado para que seja possível abrir chamados de suporte de severidade 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com seu [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Se a sua consulta de suporte requerer uma resposta mais imediata, considere fazer upgrade para o plano de suporte Premium ou Avançado para que você possa abrir chamados de suporte com severidades de 1 a 4. Para fazer upgrade de sua conta para um nível de suporte mais alto, entre em contato com seu [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 É possível abrir um chamado por meio do Centro de suporte ou da barra de menus do console do {{site.data.keyword.Bluemix_notm}}.
