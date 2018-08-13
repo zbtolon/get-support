@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ Se il tuo account SoftLayer è stato creato nel portale clienti dell'infrastrutt
 ## Utilizzo del Centro di supporto
 {: #using-avatar}
 
-Per accedere al Centro di supporto, esegui l'accesso alla console {{site.data.keyword.Bluemix_notm}}. Nella barra dei menu, fai clic su **Supporto** e seleziona **Centro di supporto**.  
+Per accedere al Centro di supporto, esegui l'accesso alla console {{site.data.keyword.Bluemix_notm}}. Nella barra dei menu, fai clic su **Supporto** > **Centro di supporto**.  
 
 Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte alle tue domande attraverso la documentazione {{site.data.keyword.Bluemix_notm}} e il forum Stack Overflow. Dal Centro di supporto, puoi anche gestire i ticket di supporto. Puoi trovare link al forum Stack Overflow, per domande tecniche, e al forum developerWorks (dw answers), per tutte le altre domande, sotto la sezione Forum del Centro di supporto.  
 
@@ -57,7 +57,7 @@ Se hai un account {{site.data.keyword.Bluemix_notm}} valido, ci sono diversi mod
 
 Quando apri un ticket di supporto, accertati di indicare una severità appropriata per il tuo ticket. Quest'ultima determina il modo in cui il tuo ticket viene gestito. Per informazioni sui diversi livelli di severità, vedi [Severità e tempo di risposta del ticket di supporto](/docs/get-support/ticketweight.html#support-ticket-severity).
 
-Se la tua domanda di supporto richiede una risposta più immediata, prendi in considerazione di eseguire l'aggiornamento ai nostri livelli di supporto premium o avanzato in modo che puoi aprire ticket di supporto con severità da 1 a 4. Per eseguire l'upgrade a un livello di supporto superiore, contatta il tuo [rappresentante delle vendite IBM![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Se la tua domanda di supporto richiede una risposta più immediata, prendi in considerazione di eseguire l'aggiornamento ai nostri piani di supporto premium o avanzato in modo che puoi aprire ticket di supporto con severità da 1 a 4. Per eseguire l'upgrade a un livello di supporto superiore, contatta il tuo [rappresentante delle vendite IBM![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Puoi aprire un ticket dal centro di supporto o dalla barra dei menu della console {{site.data.keyword.Bluemix_notm}}.
