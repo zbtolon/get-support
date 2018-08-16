@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-07-25"
+lastupdated: "2018-08-08"
 
 ---
 
@@ -28,7 +28,7 @@ Si su cuenta de SoftLayer se creó en el portal de clientes de infraestructura d
 ## Utilización del Centro de soporte
 {: #using-avatar}
 
-Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.keyword.Bluemix_notm}}. En la barra de menús, pulse **Soporte** y seleccione **Centro de soporte**.  
+Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.keyword.Bluemix_notm}}. En la barra de menús, pulse **Soporte** > **Centro de soporte**.  
 
 Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (dw answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
 
@@ -58,7 +58,7 @@ Si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} válida, hay varias ma
 Cuando abra una incidencia de soporte, asegúrese de indicar una gravedad adecuada a su incidencia. La gravedad determina cómo se maneja
 la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades.
 
-Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al nivel de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al plan de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
 
 Puede abrir una incidencia desde el Centro de soporte o desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}.
