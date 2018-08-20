@@ -21,7 +21,7 @@ lastupdated: "2018-08-08"
 如果您遇到 {{site.data.keyword.Bluemix}} 问题，可以使用多个选项来获取有关确定问题原因并查找相应解决方案的帮助。
 {:shortdesc}
 
-如果您的帐户是在 {{site.data.keyword.Bluemix_notm}} 控制台中创建的，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。可以在 {{site.data.keyword.Bluemix_notm}} 和 {{site.data.keyword.BluSoftlayer_notm}} 基础架构服务之间链接帐户。如果您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建且为链接帐户，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。有关更多信息，请参阅[链接 IBM 标识用户帐户](/docs/admin/softlayerlink.html#link_user_accounts)。
+如果您的帐户是在 {{site.data.keyword.Bluemix_notm}} 控制台中创建的，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。可以在 {{site.data.keyword.Bluemix_notm}} 和 {{site.data.keyword.BluSoftlayer_notm}} 基础架构服务之间链接帐户。如果您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建且为链接帐户，那么可以在 {{site.data.keyword.Bluemix_notm}} 控制台中开具支持凭单。有关更多信息，请参阅[链接 IBM 标识用户帐户](/docs/account/softlayerlink.html#unifyingaccounts)。
 
 如果您的 SoftLayer 帐户是在 {{site.data.keyword.BluSoftlayer_notm}} 基础架构客户门户网站中创建且不是链接帐户，那么可以在客户门户网站中开具凭单。有关更多信息，请参阅[获取对 {{site.data.keyword.BluSoftlayer_notm}} 基础架构的支持](/docs/customer-portal/cpsupport.html#customerportal_support)。
 

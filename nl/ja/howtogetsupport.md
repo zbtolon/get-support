@@ -21,7 +21,7 @@ lastupdated: "2018-08-08"
 {{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因を判別し、解決策を特定するためにヘルプを利用するには、いくつかのオプションがあります。
 {:shortdesc}
 
-アカウントが {{site.data.keyword.Bluemix_notm}} コンソールから作成された場合、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。 {{site.data.keyword.Bluemix_notm}} サービスと {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・サービスとの間でアカウントをリンクできます。 SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルから作成され、それがリンクされたアカウントである場合は、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。 詳しくは、[IBM ID ユーザー・アカウントのリンク](/docs/admin/softlayerlink.html#link_user_accounts)を参照してください。
+アカウントが {{site.data.keyword.Bluemix_notm}} コンソールから作成された場合、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。 {{site.data.keyword.Bluemix_notm}} サービスと {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・サービスとの間でアカウントをリンクできます。 SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルから作成され、それがリンクされたアカウントである場合は、{{site.data.keyword.Bluemix_notm}} コンソールからサポート・チケットをオープンすることができます。 詳しくは、[IBM ID ユーザー・アカウントのリンク](/docs/account/softlayerlink.html#unifyingaccounts)を参照してください。
 
 SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャー・カスタマー・ポータルで作成され、それがリンクされたアカウントではない場合、カスタマー・ポータルからチケットをオープンできます。 詳しくは、[{{site.data.keyword.BluSoftlayer_notm}} インフラストラクチャーのサポートの利用](/docs/customer-portal/cpsupport.html#customerportal_support)を参照してください。
 
@@ -58,7 +58,7 @@ SoftLayer アカウントが {{site.data.keyword.BluSoftlayer_notm}} インフ�
 
 サポート・チケットをオープンするときは、チケットの適切な重大度を必ず指定してください。 重大度によってチケットの処理方法が決まります。 各種の重大度については、『[サポート・チケットの重大度および回答時間](/docs/get-support/ticketweight.html#support-ticket-severity)』を参照してください。
 
-サポートへの問い合わせに直ちに回答が必要であれば、重大度 1 から 4 のサポート・チケットをオープンできるように「プレミアム」または「アドバンスト」のサポート・プランにアップグレードすることを検討してください。アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}にお問い合わせください。
+サポートへの問い合わせに直ちに回答が必要であれば、重大度 1 から 4 のサポート・チケットをオープンできるように「プレミアム」または「アドバンスト」のサポート・プランにアップグレードすることを検討してください。 アカウントをアップグレードしてサポート・レベルを上げるには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}にお問い合わせください。
 {:tip}
 
 サポート・センター、または {{site.data.keyword.Bluemix_notm}} コンソールのメニュー・バーからチケットをオープンすることができます。

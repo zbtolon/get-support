@@ -21,7 +21,7 @@ lastupdated: "2018-08-08"
 如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個選項可以取得關於判斷問題原因與尋找解決方案的協助。
 {:shortdesc}
 
-如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間，可以鏈結帳戶。如果您的 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/admin/softlayerlink.html#link_user_accounts)。
+如果您的帳戶是從 {{site.data.keyword.Bluemix_notm}} 主控台建立，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。在 {{site.data.keyword.Bluemix_notm}} 與 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構服務之間，可以鏈結帳戶。如果您的 SoftLayer 帳戶是從 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站所建立，而且它是已鏈結帳戶，則可以從 {{site.data.keyword.Bluemix_notm}} 主控台開立支援問題單。如需相關資訊，請參閱[鏈結 IBM ID 使用者帳戶](/docs/account/softlayerlink.html#unifyingaccounts)。
 
 如果您的 SoftLayer 帳戶是在 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構客戶入口網站中建立，而且它不是已鏈結帳戶，您可以從客戶入口網站開立支援問題單。如需相關資訊，請參閱[取得 {{site.data.keyword.BluSoftlayer_notm}} 基礎架構的支援](/docs/customer-portal/cpsupport.html#customerportal_support)。
 
