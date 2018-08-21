@@ -15,20 +15,20 @@ lastupdated: "2018-08-08"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# 필요한 지원은 어떻게 받습니까?
+# 도움이 필요하십니까?
 {: #getting-customer-support}
 
 {{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다.
 {:shortdesc}
 
-계정이 {{site.data.keyword.Bluemix_notm}} 콘솔에서 작성된 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 계정은 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결될 수 있습니다. SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결된 계정인 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 자세한 정보는 [IBM ID 사용자 계정 연결](/docs/admin/softlayerlink.html#link_user_accounts)을 참조하십시오.
+계정이 {{site.data.keyword.Bluemix_notm}} 콘솔에서 작성된 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 계정은 {{site.data.keyword.Bluemix_notm}} 및 {{site.data.keyword.BluSoftlayer_notm}} 인프라 서비스 간에 연결될 수 있습니다. SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결된 계정인 경우에는 {{site.data.keyword.Bluemix_notm}} 콘솔에서 지원 티켓을 열 수 있습니다. 자세한 정보는 [IBM ID 사용자 계정 연결](/docs/account/softlayerlink.html#unifyingaccounts)을 참조하십시오.
 
 SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포털에서 작성되었으며 연결되지 않은 계정인 경우에는 고객 포털에서 티켓을 열 수 있습니다. 자세한 정보는 [{{site.data.keyword.BluSoftlayer_notm}} 인프라에 대한 지원 받기](/docs/customer-portal/cpsupport.html#customerportal_support)를 참조하십시오.
 
 ## 지원 센터 사용
 {: #using-avatar}
 
-지원 센터에 액세스하려면 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하십시오. 메뉴 표시줄에서 **지원** > **지원 센터**를 클릭하십시오.   
+지원 센터에 액세스하려면 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하십시오. 메뉴 표시줄에서 **지원** > **지원 센터**를 클릭하십시오.  
 
 지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 티켓을 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(dw 응답) 포럼(기타 모든 질문의 경우) 모두에 대한 링크를 찾을 수 있습니다.  
 
