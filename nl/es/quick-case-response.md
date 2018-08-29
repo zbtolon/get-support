@@ -56,7 +56,7 @@ Para escalar un caso de soporte, debe tener soporte avanzado o premium de {{site
 
  Para escalar un caso, complete los pasos siguientes:
 
-  1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat.:
+  1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat. :
     * Si lo hace por teléfono, marque el número siguiente: 866-403-7638.
     * Si lo hace mediante el chat, desde el {{site.data.keyword.Bluemix_notm}} [Centro de soporte ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} o, si dispone de una cuenta de SoftLayer que no esté enlazada, desde el [portal de clientes ![Icono de enlace externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
   2. Proporcione el número de caso existente y solicite escalar el caso.
