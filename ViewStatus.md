@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# Viewing {{site.data.keyword.Bluemix_notm}} status and notifications
+# Viewing system status and notifications
 {: #viewing-bluemix-status}
 
 The Status page is the central place to find notifications and announcements about key events that are affecting the {{site.data.keyword.Bluemix_notm}} platform and major services.
@@ -99,7 +99,7 @@ You can also use a third-party service to automatically send an email for each R
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
 
 
-## Setting up incident and maintenance email notifications
+## Setting up incident and maintenance notifications
 {: #setting-up-notifications}
 
-For {{site.data.keyword.Bluemix_notm}} Public, you can sign up for platform notifications. Platform notifications are optional email alerts for incident and maintenance events for the {{site.data.keyword.Bluemix_notm}} platform. You can choose to receive these email notifications by clicking **Manage** > **Account** > **Notifications** and selecting the **Platform** tab. For more information about setting account notifications, see [Setting notifications](/docs/account/notifications.html#setting-notifications).
+For {{site.data.keyword.Bluemix_notm}} Public, you can sign up for platform notifications, which are optional email alerts for incident and maintenance events for the platform. To set up notifications, click **Manage** > **Account** > **Notifications** and select the **Platform** tab. 
