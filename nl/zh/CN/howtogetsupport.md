@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ lastupdated: "2018-08-08"
 
 要访问支持中心，请登录到 {{site.data.keyword.Bluemix_notm}} 控制台。在菜单栏上，单击**支持** > **支持中心**。  
 
-可以使用支持中心的搜索字段，在 {{site.data.keyword.Bluemix_notm}} 文档和 Stack Overflow 论坛中查找问题的答案。还可以通过支持中心管理支持凭单。您可以在支持中心的“论坛”部分下找到 Stack Overflow 论坛（有关技术问题）和 developerWorks (dW Answers) 论坛（有关其他所有问题）的链接。  
+可以使用支持中心的搜索字段，在 {{site.data.keyword.Bluemix_notm}} 文档和 Stack Overflow 论坛中查找问题的答案。还可以通过支持中心管理支持凭单。您可以在支持中心的“论坛”部分下找到 Stack Overflow 论坛（有关技术问题）和 developerWorks (IBM Developer Answers) 论坛（有关其他所有问题）的链接。  
 
 根据您拥有的帐户类型，还可以从支持中心获取其他选项。  
 * 如果您拥有基本、高级或高端[支持套餐](/docs/get-support/index.html)，那么可以找到相关电话号码和交谈选项来获取帮助。
@@ -41,12 +40,12 @@ lastupdated: "2018-08-08"
 ### 提出问题
 {: #asking-a-question}
 
-Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这两个论坛都提供了针对 {{site.data.keyword.Bluemix_notm}} 问题的丰富答案，可在其中进行搜索。如果找不到现有答案，请提出新问题。您可以从支持中心访问 Stack Overflow 和 dW Answers，或者使用以下链接：
+Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规问题）这两个论坛都提供了各种 {{site.data.keyword.Bluemix_notm}} 问题的答案，供您搜索。如果找不到现有答案，请提出新问题。您可以从支持中心访问 Stack Overflow 和 IBM Developer Answers，或者使用以下链接：
 
   * 转至 [Stack Overflow ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}，以提出有关使用 {{site.data.keyword.Bluemix_notm}} 平台和服务开发应用程序的技术问题。
-  * 转至 [dW Answers ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}，以提出有关 {{site.data.keyword.Bluemix_notm}} 产品以及入门指示信息的常规问题。
+  * 转至 [IBM Developer Answers ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}，以提出有关 {{site.data.keyword.Bluemix_notm}} 产品以及入门指示信息的常规问题。
 
-{{site.data.keyword.Bluemix_notm}} 开发和支持团队会主动监视 Stack Overflow 和 dW Answers，并且会关注带有 **ibm-cloud** 标记的问题。在其中任一论坛中创建问题时，请为问题添加 **ibm-cloud** 标记，以确保 {{site.data.keyword.Bluemix_notm}} 开发和支持团队会看到此问题。
+{{site.data.keyword.Bluemix_notm}} 开发和支持团队会主动监视 Stack Overflow 和 IBM Developer Answers，并且会关注带有 **ibm-cloud** 标记的问题。在其中任一论坛中创建问题时，请为问题添加 **ibm-cloud** 标记，以确保 {{site.data.keyword.Bluemix_notm}} 开发和支持团队会看到此问题。
 
 如果问题不是因为中断而引起的，并且您找不到特定问题的答案，那么可以通过开具支持凭单来联系客户支持。
 
@@ -66,20 +65,23 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 
 开具支持凭单后，您将在数分钟后收到有关该凭单的电子邮件通知。按照电子邮件中的指示信息进行操作，以就该问题作进一步的沟通。
 
-您可以针对技术问题、帐户问题开具凭单。此外，如果您具有[链接的帐户](/docs/account/softlayerlink.html#link_accounts)，您可以针对销售查询开具凭单。  
+您可以针对技术问题、帐户问题开具凭单。如果您有[链接的帐户](/docs/account/softlayerlink.html#link_accounts)，还可以针对销售查询开具凭单。  
 
 ### 开具技术支持凭单
 {: #opentechticket}
 
 要在凭单表单中提供必需的信息，以获取有关常规技术问题的帮助，请完成以下步骤：
-  1. 如果您有[链接的帐户](/docs/account/softlayerlink.html#link_accounts)，那么首先选择**基础架构**或者**应用程序和服务**。
+  1. 如果您有[链接的帐户](/docs/account/softlayerlink.html#link_accounts)，请选择**基础架构**或**应用程序和服务**。
   2. 对于凭单类型，选择**技术**。
   3. 在**选择资源上下文**字段中，选择以下其中一个选项：
-    * **资源组**（如果有资源组管理问题）。有关更多信息，请参阅[管理资源组](/docs/resources/resourcegroups.html#rgs)。
-    * **Cloud Foundry**（如果有 Cloud Foundry 应用程序部署问题）。有关部署 Cloud Foundry 应用程序的更多信息，请参阅 [Cloud Foundry 如何用于 {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html)。
+    * **资源组**（如果您有资源组管理问题）。有关更多信息，请参阅[管理资源组](/docs/resources/resourcegroups.html#rgs)。
+    * **Cloud Foundry**（如果您有 Cloud Foundry 应用程序部署问题）。有关部署 Cloud Foundry 应用程序的更多信息，请参阅 [Cloud Foundry 如何用于 {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html)。
   4. 如果您有高端或高级级别支持，请为您的问题选择严重性级别。
   5. 填写必需的信息。必需的信息取决于您所选的资源上下文，还取决于您帐户的支持套餐类型。有关支持类型的更多信息，请参阅[支持类型](/docs/get-support/getstarttssup.html#typesofsupport)。
-  6. 单击**提交**。
+  6. 如果您有链接的帐户，那么可以选择以下附加支持选项：
+    * 最多 5 台设备（与您报告的技术问题相关）。
+    * 托管资源的数据中心（如果您有欧盟本地化支持）。
+  7. 单击**提交**。
 
 ### 针对帐户问题开具支持凭单
 {: #openacctticket}
@@ -95,16 +97,16 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 ### 开具支持凭单的其他方式
 {: #otheropenticksc}
 
-您还可以使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面。可以提交有关销售、IBM 标识和登录、记帐以及技术支持问题的凭单。对于技术支持问题，可以将问题范围缩小到特定区域或服务。如果需要有关特定服务的帮助，请选择相应的服务类别。要确定服务所属的类别，请单击菜单栏中的**目录**，然后查看类别。  
+您还可以使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面。可以提交有关销售、IBM 标识和登录、帐单以及技术支持问题的凭单。对于技术支持问题，可以将问题范围缩小到特定区域或服务。如果需要有关特定服务的帮助，请选择相应的服务类别。要确定服务所属的类别，请单击菜单栏中的**目录**，然后查看类别。  
 
 ## 联系 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Local 支持人员
 {: #contacting-bluemix-support-dedicated-local}
 
-如果您拥有的是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Local 帐户，那么支持由 {{site.data.keyword.Bluemix_notm}} 支持团队提供。但是，如果您没有 {{site.data.keyword.ibmid}}，那么可以通过几个不同的选项来获得支持。
+如果您拥有的是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Local 帐户，那么支持由 {{site.data.keyword.Bluemix_notm}} 支持团队提供。但是，如果您没有 {{site.data.keyword.ibmid}}，那么可以通过几个不同的选项来获取支持。
 
 * 与支持人员联系，方法是使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://www.ibm.biz/bluemixsupport){: new_window} 帮助页面来开具新凭单。在此表单中，您可以使用电子邮件地址或 {{site.data.keyword.ibmid}}。在“区域”字段中，选择 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 选项。
 * 如果您有 {{site.data.keyword.ibmid}}并有权访问 {{site.data.keyword.Bluemix_notm}} Public 环境，请在菜单栏中单击**支持**，然后选择**添加凭单**。针对您的问题选择主题区域，然后遵循提示来提交凭单。
-* 如果您没有 {{site.data.keyword.ibmid}}，那么可以联系您组织中拥有 IBM 标识的人员，也可以与 IBM 代表合作。
+* 如果没有 {{site.data.keyword.ibmid}}，那么可以联系您组织中拥有 IBM 标识的人员，也可以与 IBM 代表合作。
 
 根据您的请求，可以在 Dedicated 或 Local 环境中 {{site.data.keyword.Bluemix_notm}} 控制台的**支持**页面上显示您组织中可用作支持凭单联系人的用户的列表。
 {:tip}
@@ -112,18 +114,18 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 ## 请求对欧盟中资源的支持
 {: #eusupported}
 
-对于选择“欧盟支持”选项的客户，将由位于欧洲的工程师提供全天候欧盟 (EU) 支持。仅当欧盟支持团队决定并给予相应指示时，全球团队才会提供支持。例如，位于欧盟的一级或二级支持团队无法解决问题，并且需要更专业的知识时，可能会与全球团队联系。
+对于选择“欧盟支持”选项的客户，将由位于欧洲的工程师提供 24x7 全天候欧盟 (EU) 支持。仅当欧盟支持团队决定并给予相应指示时，全球团队才会提供支持。例如，位于欧盟的一级或二级支持团队无法解决问题，并且需要更专业的知识时，可能会与全球团队联系。
 
 在满足以下条件时，可以指定希望实际身处欧洲的支持团队为您的帐户提供支持：
   * 您的主用户或帐户所有者为您的帐户设置了“欧盟支持”选项
   * 您的资源位于相应的欧洲数据中心
   * 您开具凭单时，选择了**欧盟支持**凭单级别
 
-对于 {{site.data.keyword.Bluemix_notm}} 平台，实际身处欧洲的团队只能支持在德国区域中托管的服务。  
+对于 {{site.data.keyword.Bluemix_notm}} 平台，只有在德国区域托管的服务才能由实际位于欧洲的团队提供支持。  
 
-为帐户设置**欧盟支持**选项将应用于未来针对在欧盟区域中所托管任何服务或数据中心的问题而开具的所有凭单。在设置此选项之前开具的所有凭单均不受影响。如果设置了此选项，但添加了欧盟数据中心或德国区域之外的资源，那么这些资源的问题不一定会由欧洲的支持团队进行处理。
+如果为帐户设置了**欧盟支持**选项，那么该设置会应用于未来针对在欧盟区域托管的任何服务或数据中心的问题而开具的所有凭单。在设置此选项之前开具的所有凭单均不受影响。如果设置了此选项，但添加了欧盟数据中心或德国区域之外的资源，那么这些资源的问题不一定会由欧洲的支持团队进行处理。
 
-可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“记帐”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持选项](/docs/billing-usage/eusupported.html)。
+可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“帐单”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持选项](/docs/billing-usage/eusupported.html)。
 
 ### 欧盟支持服务
 {: #eusupportedservices}
@@ -153,4 +155,4 @@ Stack Overflow（有关技术问题）和 dW Answers（有关常规问题）这�
 2. 在凭单摘要中清楚地描述该凭单是关于潜在安全漏洞的。
 3. 通过包含以下某项，提供潜在安全漏洞的详细信息：
     * 可以联系到您来讨论此问题的电话号码。
-    * 问题的详细信息。必须在凭单正文中将详细信息加密为文本块。还必须提供有关 IBM 支持人员可以如何安全联系到您来获取解密说明的指示信息。
+    * 问题的详细信息。必须在凭单正文中将详细信息加密为文本块。还必须提供有关 IBM 支持人员如何以安全方式与您联系来获取解密说明的指示信息。
