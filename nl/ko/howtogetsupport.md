@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포
 
 지원 센터에 액세스하려면 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하십시오. 메뉴 표시줄에서 **지원** > **지원 센터**를 클릭하십시오.  
 
-지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 티켓을 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(dw 응답) 포럼(기타 모든 질문의 경우) 모두에 대한 링크를 찾을 수 있습니다.  
+지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 티켓을 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(IBM Developer Answers) 포럼(기타 모든 질문의 경우) 둘 다에 대한 링크를 찾을 수 있습니다.   
 
 보유 중인 계정의 유형에 따라 기타 옵션도 지원 센터에서 사용 가능합니다.  
 * 기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support/index.html)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
@@ -41,12 +40,12 @@ SoftLayer 계정이 {{site.data.keyword.BluSoftlayer_notm}} 인프라 고객 포
 ### 질문하기
 {: #asking-a-question}
 
-Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일반 질문의 경우) 두 가지 모두 {{site.data.keyword.Bluemix_notm}} 질문에 대한 매우 다양한 답변을 검색할 수 있습니다. 기존 답변을 찾을 수 없는 경우 새로운 질문을 하십시오. 지원 센터에서 Stack Overflow 및 dW Answers에 액세스하거나 다음 링크를 사용할 수 있습니다.
+Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 포럼(일반 질문의 경우)은 둘 다 사용자의 {{site.data.keyword.Bluemix_notm}} 질문에 대한 매우 다양하고 검색 가능한 답변을 제공합니다. 기존 답변을 찾을 수 없는 경우 새로운 질문을 하십시오. 지원 센터에서 Stack Overflow 및 IBM Developer Answers에 액세스하거나 다음 링크를 사용할 수 있습니다. 
 
   * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 플랫폼과 서비스를 사용한 앱 개발에 대해 기술적인 질문을 하십시오.
-  * [dW Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대한 일반적인 질문을 할 수 있습니다.
+  * [IBM Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대한 일반적인 질문을 할 수 있습니다. 
 
-{{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀은 Stack Overflow 및 dW Answers를 적극적으로 모니터하며 **ibm-cloud** 태그가 지정된 질문을 추적합니다. 두 포럼 중 하나에서 질문을 작성하는 경우에는 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀이 볼 수 있도록 질문에 **ibm-cloud** 태그를 추가하십시오.
+{{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀은 Stack Overflow 및 IBM Developer Answers를 적극적으로 모니터하며 **ibm-cloud** 태그가 지정된 질문을 추적합니다. 두 포럼 중 하나에서 질문을 작성하는 경우에는 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀이 볼 수 있도록 질문에 **ibm-cloud** 태그를 추가하십시오.
 
 가동 중단으로 인한 문제점이 아니며 특정 문제점에 대한 해답을 찾을 수 없는 경우에는 지원 티켓을 열어서 고객 지원 부서에 문의할 수 있습니다.
 
@@ -66,20 +65,23 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 
 지원 티켓을 연 후에 티켓에 대한 이메일 알림이 몇 분 후에 전송됩니다. 문제와 관련된 추가 통신은 이메일의 지시사항을 따르십시오.
 
-기술 문제나 계정 문제에 대한 티켓을 열거나, [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있는 경우 영업팀 문의를 위한 티켓을 열 수 있습니다.  
+기술 문제, 계정 문제에 대한 티켓을 열 수 있습니다. 또는 [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있으면 영업팀 문의용 티켓을 열 수 있습니다.   
 
 ### 기술 지원 티켓 열기
 {: #opentechticket}
 
 일반 기술 문제에 대해 도움을 얻기 위해 티켓 양식에 필수 정보를 제공하려면 다음 단계를 완료하십시오.
-  1. [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있는 경우, 먼저 **인프라** 또는 **애플리케이션 및 서비스**를 선택하십시오.
+  1. [연결된 계정](/docs/account/softlayerlink.html#link_accounts)이 있으면 **인프라** 또는 **애플리케이션 및 서비스**를 선택하십시오.
   2. 티켓 유형에 **기술**을 선택하십시오.
   3. **리소스 컨텍스트 선택** 필드에서 다음 옵션 중 하나를 선택하십시오.
-    * **리소스 그룹** - 리소스 그룹 관리에 문제가 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/resources/resourcegroups.html#rgs)를 참조하십시오.
-    * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제가 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [Cloud Foundry가 {{site.data.keyword.Bluemix_notm}}와 작업하는 방법](/docs/overview/cf.html)을 참조하십시오.
+    * **리소스 그룹** - 리소스 그룹 관리에 문제점이 있는 경우. 자세한 정보는 [리소스 그룹 관리](/docs/resources/resourcegroups.html#rgs)를 참조하십시오.
+    * **Cloud Foundry** - Cloud Foundry 앱 배치에 문제점이 있는 경우. Cloud Foundry 앱 배치에 대한 자세한 정보는 [{{site.data.keyword.Bluemix_notm}}에서 Cloud Foundry의 작동 방식](/docs/overview/cf.html)을 참조하십시오.
   4. 프리미엄 또는 고급 레벨 지원인 경우 문제의 심각도 레벨을 선택하십시오.
   5. 필수 정보를 완료하십시오. 필요한 정보는 선택한 리소스 컨텍스트 및 계정의 지원 플랜 유형에 따라서도 다릅니다. 지원 유형에 대한 자세한 정보는 [지원 유형](/docs/get-support/getstarttssup.html#typesofsupport)을 참조하십시오.
-  6. **제출**을 클릭하십시오.
+  6. 연결된 계정이 있으면 다음의 추가 지원 옵션을 선택할 수 있습니다. 
+    * 보고 중인 기술 문제와 연관된 최대 5개의 디바이스. 
+    * EU 현지 지원을 받는 경우, 리소스가 호스팅되는 데이터 센터. 
+  7. **제출**을 클릭하십시오.
 
 ### 계정 문제에 대한 지원 티켓 열기
 {: #openacctticket}
@@ -100,11 +102,11 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 ## {{site.data.keyword.Bluemix_notm}} 데디케이티드 또는 로컬에 대한 지원 문의
 {: #contacting-bluemix-support-dedicated-local}
 
-계정이 {{site.data.keyword.Bluemix_notm}} 데디케이티드 또는 로컬인 경우에는 {{site.data.keyword.Bluemix_notm}} 지원 팀에서 지원을 제공합니다. 그러나 {{site.data.keyword.ibmid}}가 없으면 일부 다른 옵션을 통해 지원을 받을 수 있습니다.
+계정이 {{site.data.keyword.Bluemix_notm}} 데디케이티드 또는 로컬인 경우에는 {{site.data.keyword.Bluemix_notm}} 지원 팀에서 지원을 제공합니다. 그러나 {{site.data.keyword.ibmid}}가 없으면 일부 다른 옵션으로 지원을 받을 수 있습니다.
 
-* [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용하여 새 티켓을 열어서 지원 팀에 문의하십시오. 이 양식에 이메일 주소 또는 {{site.data.keyword.ibmid}}를 사용할 수 있습니다. 지역 필드에 대해 **{{site.data.keyword.Bluemix_notm}} 데디케이티드** 또는 **{{site.data.keyword.Bluemix_notm}} 로컬** 옵션을 선택하십시오.
-* {{site.data.keyword.ibmid}}가 있고 {{site.data.keyword.Bluemix_notm}} 퍼블릭 환경에 대한 액세스 권한이 있는 경우, 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 클릭하십시오. 문제에 대한 주제 영역을 선택하고 프롬프트에 따라 티켓을 제출하십시오.
-* {{site.data.keyword.ibmid}}가 없는 경우 이 ID를 가진 조직의 사용자에게 문의하거나 IBM 담당자와 함께 작업할 수 있습니다.
+* [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.ibm.biz/bluemixsupport){: new_window} 도움말 페이지를 사용하여 새 티켓을 열고 지원 팀에 문의하십시오. 이 양식에 이메일 주소 또는 {{site.data.keyword.ibmid}}를 사용할 수 있습니다. 지역 필드에 대해 **{{site.data.keyword.Bluemix_notm}} 데디케이티드** 또는 **{{site.data.keyword.Bluemix_notm}} 로컬** 옵션을 선택하십시오.
+* {{site.data.keyword.ibmid}}가 있으며 {{site.data.keyword.Bluemix_notm}} 퍼블릭 환경에 대한 액세스 권한이 있는 경우에는 메뉴 표시줄에서 **지원**을 클릭하고 **티켓 추가**를 선택하십시오. 문제에 대한 주제 영역을 선택하고 프롬프트에 따라 티켓을 제출하십시오.
+* {{site.data.keyword.ibmid}}가 없는 경우에는 이를 보유한 조직의 구성원에게 문의하거나 IBM 담당자와 함께 작업할 수 있습니다. 
 
 요청 시에 지원 티켓의 담당자 역할을 할 수 있는 조직의 사용자에 대한 목록이 로컬 및 데디케이티드 환경에서 {{site.data.keyword.Bluemix_notm}} 콘솔의 **지원** 페이지에 표시될 수 있습니다.
   {:tip}
@@ -112,16 +114,16 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 ## EU의 리소스에 대한 지원 요청
 {: #eusupported}
 
-유럽 연합(EU) 지원은 유럽에 있는 엔지니어들에 의해 EU 지원 옵션을 선택한 고객에게 연중무휴로 제공됩니다. 글로벌 팀은 EU 지원 팀에서 원하는 경우에만 이 팀의 지시에 따라 지원을 제공합니다. EU의 레벨 1 또는 레벨 2 지원 팀이 문제를 해결하지 못하여 더 전문적인 지식이 필요한 경우 등에는 글로벌 팀에 문의할 수 있습니다.
+유럽 연합(EU) 지원은 EU 지원 옵션을 선택한 고객을 위해 유럽에 거주하는 엔지니어에 의해 연중무휴로 제공됩니다. 글로벌 팀은 EU 지원 팀에서 원하는 경우에만 이 팀의 지시에 따라 지원을 제공합니다. EU의 레벨 1 또는 레벨 2 지원 팀이 문제를 해결하지 못하여 더 전문적인 지식이 필요한 경우 등에는 글로벌 팀에 문의할 수 있습니다.
 
 다음 기준이 사실이면 실제로 유럽에만 있는 지원 팀으로부터 계정에 대한 지원을 원한다고 지정할 수 있습니다.
   * 마스터 사용자 또는 계정 소유자는 계정에 대한 EU 지원 옵션을 설정함
   * 리소스가 적합한 유럽 데이터 센터에 있음
   * 티켓을 열 때 **EU 지원** 티켓 레벨을 선택하십시오.
 
-{{site.data.keyword.Bluemix_notm}} 플랫폼의 경우 독일 지역에서 호스팅되는 서비스만 실제로 유럽에 있는 팀에서 지원될 수 있습니다.  
+{{site.data.keyword.Bluemix_notm}} 플랫폼의 경우에는 오직 독일 지역에서 호스팅되는 서비스만 유럽에 실제 상주하는 팀의 지원을 받을 수 있습니다.   
 
-계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스나 데이터 센터의 문제에 대해 여는 향후 모든 티켓에 적용됩니다. 이 옵션을 설정하기 전에 열려 있던 모든 티켓은 영향을 받지 않습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
+계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스 또는 데이터 센터 관련 문제에 대해 열리는 향후 모든 티켓에 적용됩니다. 이 옵션을 설정하기 전에 열린 티켓에는 영향이 없습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
 
 {{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 옵션 사용](/docs/billing-usage/eusupported.html)을 참조하십시오.
 
@@ -133,9 +135,9 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
   2. **필터**를 클릭하십시오.
   3. 드롭 다운 목록에서 **EU 지원**을 선택하십시오. EU 지원 필터 세트를 사용하는 경우 EU 지원 플랜이 있는 **인프라** 및 **플랫폼** 카테고리의 서비스만 표시됩니다.
   4. 원하는 서비스를 선택하십시오. 서비스에 대한 일부 지역 및 플랜이 EU 지원되는 것을 확인할 수 있습니다.
-  5. 서비스에 대한 EU 지원 플랜을 보려면 **배치할 지역/위치 선택** 드롭 다운 목록에서 올바른 지역을 선택하십시오. 예를 들어, 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 지역으로 독일을 선택하십시오. 그러면 **EU 지원**으로 레이블이 지정된 서비스에 대한 가격 책정 플랜을 볼 수 있습니다.
+  5. 서비스에 대한 EU 지원 플랜을 보려면 **배치할 지역/위치 선택** 드롭 다운 목록에서 올바른 지역을 선택하십시오. 예를 들어, 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 지역으로 독일을 선택하십시오. 그러면 **EU 지원**으로 레이블이 지정된 서비스에 대한 가격 플랜을 볼 수 있습니다.
 
-다음 {{site.data.keyword.Bluemix_notm}} 인프라 서비스 카테고리에 대한 모든 플랜(라이트 플랜 제외)은 유럽에서 호스팅되며 EU 지원으로 사용 가능합니다.
+다음 {{site.data.keyword.Bluemix_notm}} 인프라 서비스 카테고리에 대한 모든 플랜(Lite 플랜 제외)은 유럽에서 호스팅되며 EU 지원으로 사용 가능합니다.
 
   * 컴퓨팅
   * 스토리지
@@ -153,4 +155,4 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 dW Answers 포럼(일�
 2. 해당 티켓이 잠재적 보안 취약성에 대한 티켓임을 티켓 요약에 명시하십시오.
 3. 다음 항목 중 하나를 포함하여 잠재적 보안 취약성의 세부사항을 제공하십시오.
     * 해당 문제를 논의하기 위해 통화할 수 있는 전화번호.
-    * 문제에 대한 세부사항. 세부사항은 티켓 본문의 텍스트 블록으로서 암호화해야 합니다. 또한 IBM 지원 센터가 사용자에게 안전하게 연락하여 복호화 지시사항을 얻는 방법에 대한 지시사항을 제공해야 합니다.
+    * 문제에 대한 세부사항. 세부사항은 티켓 본문의 텍스트 블록으로서 암호화해야 합니다. 사용자는 복호화 지시사항을 받기 위해 IBM 지원 센터에서 안전하게 연락할 수 있는 방법에 대한 지시사항도 제공해야 합니다. 
