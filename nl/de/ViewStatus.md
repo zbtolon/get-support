@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# {{site.data.keyword.Bluemix_notm}}-Status und -Benachrichtigungen anzeigen
+# Systemstatus und Benachrichtigungen anzeigen
 {: #viewing-bluemix-status}
 
 Die Seite 'Status' ist die zentrale Position für die Suche nach Benachrichtigungen und Ankündigungen in Bezug auf bedeutende Ereignisse, die die {{site.data.keyword.Bluemix_notm}}-Plattform und die übergeordneten Services betreffen.
@@ -99,7 +99,7 @@ Sie können auch einen Drittanbieterservice nutzen, damit automatisch eine E-Mai
 Für {{site.data.keyword.Bluemix_notm}} gibt es standardmäßig ungefähr 50 Updates pro Monat.
 
 
-## E-Mail-Benachrichtigungen zu Vorfällen und Wartungsmaßnahmen einrichten
+## Benachrichtigungen zu Vorfällen und Wartungsmaßnahmen einrichten
 {: #setting-up-notifications}
 
-Bei {{site.data.keyword.Bluemix_notm}} Public können Sie sich für Plattformbenachrichtigungen anmelden. Plattformbenachrichtigungen sind optionale E-Mail-Alerts für Vorfall- und Wartungsereignisse für die {{site.data.keyword.Bluemix_notm}}-Plattform. Sie können solche E-Mail-Benachrichtigungen empfangen, indem Sie auf **Verwalten** > **Konto** > **Benachrichtigungen** klicken und die Registerkarte **Plattform** auswählen. Weitere Informationen zum Festlegen von Kontobenachrichtigungen finden Sie in [Benachrichtigungen einstellen](/docs/account/notifications.html#setting-notifications).
+Bei {{site.data.keyword.Bluemix_notm}} Public können Sie sich für Plattformbenachrichtigungen anmelden. Dabei handelt es sich um optionale E-Mail-Alerts bei Vorfall- und Wartungsereignissen für die Plattform. Klicken Sie auf **Verwalten** > **Konto** > **Benachrichtigungen** und wählen Sie die Registerkarte **Plattform** aus, um Benachrichtigungen einzurichten.  

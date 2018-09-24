@@ -21,8 +21,6 @@ lastupdated: "2018-05-22"
 Wenn Sie Unterstützung anfordern, wird eine Ursachenanalyse ausgeführt. Das Support-Team antwortet Ihnen entsprechend der eigentlichen Ursache, der Priorität, die Sie dem Problem zugeordnet haben, und dem Typ des Service.
 {:shortdesc}
 
-Weitere Informationen zu Prioritätsstufen von Tickets finden Sie unter [Zuordnung und Gewichtung von Tickets](/docs/get-support/ticketweight.html#support-ticket-severity){: new_window}.
-
 ## Allgemein verfügbarer IBM Service
 {: #s-services-gaorcont}
 
@@ -40,9 +38,9 @@ Wenn die Ursachenanalyse ergibt, dass es sich bei dem Problem um einen Fehler im
 ## Experimenteller IBM Service
 {: #s-services-exporcont}
 
-IBM gibt Services oder Container-Images frei, die als experimentell klassifiziert sind und die Sie testen können. Wenn Sie eine Auflistung aller verfügbaren experimentellen Services, Boilerplates und Laufzeiten wünschen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an. Klicken Sie dort auf **Katalog**, blättern Sie bis zum Ende des Katalogs und klicken Sie auf **{{site.data.keyword.Bluemix_notm}} Experimental Services**. Solche Services können instabil sein, sich häufig auf eine Weise ändern, die mit der vorherigen Version inkompatibel ist, und möglicherweise nach kurzfristiger Benachrichtigung eingestellt werden. Diese Services sollten nicht in Produktionsumgebungen verwendet werden.
+IBM gibt Services oder Container-Images frei, die als experimentell klassifiziert sind und die Sie testen können. Wenn Sie eine Auflistung aller verfügbaren experimentellen Services, Boilerplates und Laufzeiten wünschen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an.  Klicken Sie dort auf **Katalog**, blättern Sie bis zum Ende des Katalogs und klicken Sie auf **{{site.data.keyword.Bluemix_notm}} Experimental Services**. Solche Services können instabil sein, sich häufig auf eine Weise ändern, die mit der vorherigen Version inkompatibel ist, und möglicherweise nach kurzfristiger Benachrichtigung eingestellt werden. Diese Services sollten nicht in Produktionsumgebungen verwendet werden.
 
-Sie können Community-Unterstützung bei technischen Problemen im Zusammenhang mit experimentellen Services über [Stack Overflow ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} und bei anderen Problemen über [developerWorks Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} erhalten. Handelt es sich bei einem Problem um einen Fehler in einem experimentellen Service, ist IBM nicht verpflichtet, eine Fehlerbehebung bereitzustellen.
+Sie können Community-Unterstützung bei technischen Problemen im Zusammenhang mit experimentellen Services über [Stack Overflow ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} und bei anderen Problemen über [Developer Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} erhalten. Handelt es sich bei einem Problem um einen Fehler in einem experimentellen Service, ist IBM nicht verpflichtet, eine Fehlerbehebung bereitzustellen.
 
 ## Services anderer Anbieter
 {: #s-services-3p}
@@ -56,4 +54,4 @@ Support für Services von Drittanbietern wird durch den Service-Provider bereitg
 
 Open-Source- oder Community-Services werden von Open-Source-Communitys außerhalb von IBM bereitgestellt.
 
-Wenn die Ursachenanalyse ergibt, dass es sich bei dem Problem um einen Fehler in einem Open-Source- oder Community-Service handelt, ist IBM nicht verpflichtet, eine Korrektur bereitzustellen. IBM schließt in diesem Fall das Ticket und verweist Sie an die Community oder das Forum, um Hilfe anzufordern. Sie können Community-Unterstützung bei technischen Problemen über [Stack Overflow ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} und bei anderen Problemen über [developerWorks Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} erhalten.
+Wenn die Ursachenanalyse ergibt, dass es sich bei dem Problem um einen Fehler in einem Open-Source- oder Community-Service handelt, ist IBM nicht verpflichtet, eine Korrektur bereitzustellen. IBM schließt in diesem Fall das Ticket und verweist Sie an die Community oder das Forum, um Hilfe anzufordern. Sie können Community-Unterstützung bei technischen Problemen über [Stack Overflow ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} und bei anderen Problemen über [Developer Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} erhalten.
