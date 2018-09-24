@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ Se il tuo account SoftLayer è stato creato nel portale clienti dell'infrastrutt
 
 Per accedere al Centro di supporto, esegui l'accesso alla console {{site.data.keyword.Bluemix_notm}}. Nella barra dei menu, fai clic su **Supporto** > **Centro di supporto**.  
 
-Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte alle tue domande attraverso la documentazione {{site.data.keyword.Bluemix_notm}} e il forum Stack Overflow. Dal Centro di supporto, puoi anche gestire i ticket di supporto. Puoi trovare link al forum Stack Overflow, per domande tecniche, e al forum developerWorks (dw answers), per tutte le altre domande, sotto la sezione Forum del Centro di supporto.  
+Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte alle tue domande attraverso la documentazione {{site.data.keyword.Bluemix_notm}} e il forum Stack Overflow. Dal Centro di supporto, puoi anche gestire i ticket di supporto. Puoi trovare link al forum Stack Overflow, per domande tecniche, e al forum developerWorks (IBM Developer Answers), per tutte le altre domande, sotto la sezione Forum del Centro di supporto.  
 
 A seconda del tipo di account di cui disponi, nel Centro di supporto sono disponibili anche altre opzioni.  
 * Se hai un [piano di supporto](/docs/get-support/index.html) di base, avanzato o premium, puoi trovare i numeri da chiamare e un'opzione di chat per ottenere assistenza.
@@ -41,12 +40,12 @@ Il Centro di supporto è il metodo preferito per ottenere supporto, ma se non ri
 ### Porre una domanda
 {: #asking-a-question}
 
-Il forum Stack Overflow, per le domande tecniche, e il forum dW Answers, per domande di carattere generale, forniscono entrambi un'ampia varietà di risposte alle tue domande relative a {{site.data.keyword.Bluemix_notm}} che puoi consultare. Se non trovi una risposta esistente, poni una nuova domanda. Puoi accedere a Stack Overflow e dW Answers dal Centro di supporto o utilizzare i seguenti link:
+Il forum Stack Overflow, per le domande tecniche, e il forum IBM Developer Answers, per domande di carattere generale, forniscono entrambi un'ampia varietà di risposte ricercabili alle tue domande relative a {{site.data.keyword.Bluemix_notm}}. Se non trovi una risposta esistente, poni una nuova domanda. Puoi accedere a Stack Overflow e IBM Developer Answers dal Centro di supporto o utilizzare i seguenti link:
 
   * Vai a [Stack Overflow ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} per porre domande tecniche sullo sviluppo di applicazioni con la piattaforma e i servizi {{site.data.keyword.Bluemix_notm}}.
-  * Vai a [dW Answers ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} per porre domande di carattere generale sull'offerta {{site.data.keyword.Bluemix_notm}} e sulle istruzioni introduttive.
+  * Vai a [IBM Developer Answers ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} per porre domande di carattere generale sull'offerta {{site.data.keyword.Bluemix_notm}} e sulle istruzioni introduttive.
 
-I team di sviluppo e supporto di {{site.data.keyword.Bluemix_notm}} monitorano attivamente i forum Stack Overflow e dW Answers e seguono le domande contrassegnate con la tag **ibm-cloud**. Quando crei una domanda in uno dei forum, aggiungi la tag **ibm-cloud** alla tua domanda per accertarti che venga vista dai team di sviluppo e supporto di {{site.data.keyword.Bluemix_notm}}.
+I team di sviluppo e supporto di {{site.data.keyword.Bluemix_notm}} monitorano attivamente i forum Stack Overflow e IBM Developer Answers e seguono le domande contrassegnate con la tag **ibm-cloud**. Quando crei una domanda in uno dei forum, aggiungi la tag **ibm-cloud** alla tua domanda per accertarti che venga vista dai team di sviluppo e supporto di {{site.data.keyword.Bluemix_notm}}.
 
 Se il problema non è dovuto a un'interruzione e se non riesci a trovare una risposta per il tuo problema specifico, puoi contattare il supporto clienti aprendo un ticket di supporto.
 
@@ -72,14 +71,17 @@ Puoi aprire dei ticket per problemi tecnici, problemi di account o, se hai un [a
 {: #opentechticket}
 
 Completa la seguente procedura per fornire le informazioni richieste nel modulo del ticket per ricevere assistenza con il problema tecnico generale:
-  1. Se hai un [account collegato](/docs/account/softlayerlink.html#link_accounts), seleziona prima **Infrastruttura** o **Applicazioni e servizi.**
+  1. Se hai un [account collegato](/docs/account/softlayerlink.html#link_accounts), seleziona **Infrastruttura** o **Applicazioni e servizi.**
   2. Seleziona **Tecnico** per il tipo di ticket.
   3. Nel campo **Seleziona un contesto di risorse**, seleziona una delle seguenti opzioni:
     * **Gruppo di risorse** se stai riscontrando un problema con la gestione dei tuoi gruppi di risorse. Per ulteriori informazioni, vedi [Gestione dei gruppi di risorse](/docs/resources/resourcegroups.html#rgs).
-    * **Cloud Foundry** se stai riscontrando un problema con una distribuzione dell'applicazione Cloud Foundry. Consulta [Funzionamento di Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) per ulteriori informazioni sulla distribuzioni delle applicazioni Cloud Foundry.
+    * **Cloud Foundry** se stai riscontrando un problema con una distribuzione dell'applicazione Cloud Foundry. Per ulteriori informazioni sulla distribuzione di applicazioni Cloud Foundry, vedi [Funzionamento di Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
   4. Se disponi di un supporto di livello premium o avanzato, scegli il livello di severità per il tuo problema.
   5. Completa le informazioni richieste. Le informazioni richieste dipendono dal contesto della risorsa che hai selezionato e anche dal tipo di piano di supporto del tuo account. Per ulteriori informazioni sui tipi di supporto, vedi [Tipi di supporto](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Fai clic su **Inoltra**.
+  6. Se hai un account collegato, hai le seguenti opzioni di supporto aggiunte che puoi selezionare:
+    * Fino a 5 dispositivi associati al problema tecnico che stai notificando.
+    * Se hai un supporto localizzato nell'UE, il data center dove sono ospitate le tue risorse.
+  7. Fai clic su **Inoltra**.
 
 ### Apertura di ticket di supporto per problemi con l'account
 {: #openacctticket}
@@ -100,12 +102,13 @@ Puoi anche utilizzare la pagina di assistenza [Supporto {{site.data.keyword.Blue
 ## Come contattare il supporto per {{site.data.keyword.Bluemix_notm}} dedicato o locale
 {: #contacting-bluemix-support-dedicated-local}
 
-Se disponi di un account {{site.data.keyword.Bluemix_notm}} dedicato o locale, l'assistenza viene fornita dal team di supporto {{site.data.keyword.Bluemix_notm}}. Tuttavia, se non hai un {{site.data.keyword.ibmid}}, hai alcune opzioni diverse per ottenere assistenza.
+Se disponi di un account {{site.data.keyword.Bluemix_notm}} dedicato o locale, l'assistenza viene fornita dal team di supporto {{site.data.keyword.Bluemix_notm}}. Tuttavia, se non hai un {{site.data.keyword.ibmid}}, hai alcune opzioni diverse per ottenere supporto.
 
-* Contatta il supporto aprendo un nuovo ticket mediante la pagina
+* Contatta il supporto aprendo un nuovo ticket utilizzando la pagina
 di assistenza [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](http://www.ibm.biz/bluemixsupport){: new_window}. Per questo modulo puoi utilizzare un indirizzo e-mail o il tuo {{site.data.keyword.ibmid}}. Seleziona l'opzione **{{site.data.keyword.Bluemix_notm}} dedicato** o **{{site.data.keyword.Bluemix_notm}} locale** per il campo Regione.
 * Se disponi di un {{site.data.keyword.ibmid}} e dell'accesso all'ambiente {{site.data.keyword.Bluemix_notm}} pubblico, nella barra dei menu fai clic su **Supporto** e seleziona **Aggiungi ticket**. Seleziona l'area tematica per il tuo problema e segui le indicazioni per inviare il ticket.
-* Se non disponi di un {{site.data.keyword.ibmid}}, puoi contattare un membro della tua organizzazione che ne abbia uno o collaborare con il tuo rappresentante IBM.
+* Se non hai un {{site.data.keyword.ibmid}}, puoi contattare un membro della tua organizzazione che ne abbia uno o collaborare con il tuo rappresentante IBM.
+
 
 Su richiesta, è disponibile un elenco di utenti dell'organizzazione che possono fungere da contatti per i ticket di supporto e che può essere visualizzato nella pagina **Supporto** della console {{site.data.keyword.Bluemix_notm}} nel tuo ambiente Dedicato o Locale.
   {:tip}
@@ -113,7 +116,7 @@ Su richiesta, è disponibile un elenco di utenti dell'organizzazione che possono
 ## Richiesta di supporto per le risorse nell'Unione Europea
 {: #eusupported}
 
-Il supporto per l'Unione Europea (UE) è fornito 24 x 7 da ingegneri che si trovano in Europa per i clienti che scelgono l'opzione Supportato UE. I team globali forniscono supporto solo a discrezione e sotto la direzione del team di supporto dell'UE. I team globali potrebbero essere contattati, ad esempio, quando i problemi non vengono risolti dal team di supporto di Livello 1 o Livello 2 nell'UE e sono necessarie ulteriori competenze.
+Il supporto per l'Unione Europea (UE) è fornito 24 ore al giorno, 7 giorni alla settimana, da ingegneri situati in Europa per i clienti che scelgono l'opzione Supportato UE. I team globali forniscono supporto solo a discrezione e sotto la direzione del team di supporto dell'UE. I team globali potrebbero essere contattati, ad esempio, quando i problemi non vengono risolti dal team di supporto di Livello 1 o Livello 2 nell'UE e sono necessarie ulteriori competenze.
 
 Puoi specificare che desideri assistenza per il tuo account dal team di supporto che si trova fisicamente in Europa se i seguenti criteri sono veri:
   * Il tuo utente master o proprietario dell'account ha impostato l'opzione Supportato UE per il tuo account
@@ -154,4 +157,4 @@ Per notificare una vulnerabilità di sicurezza potenziale, completa la seguente 
 2. Descrivi chiaramente nel riepilogo del ticket che riguarda una vulnerabilità di sicurezza potenziale.
 3. Fornisci i dettagli della vulnerabilità di sicurezza potenziale includendo una delle seguenti voci:
     * Un numero di telefono in cui puoi essere raggiunto per discutere del problema.
-    * I dettagli del problema. Devi crittografare i dettagli come un blocco di testo nel corpo del ticket. Devi anche fornire istruzioni su come il supporto IBM può contattarti in modo sicuro per ottenere istruzioni sulla decrittografia.
+    * I dettagli del problema. Devi crittografare i dettagli come un blocco di testo nel corpo del ticket. Devi anche fornire istruzioni su come il supporto IBM può contattarti in modo protetto per ottenere istruzioni sulla decrittografia.
