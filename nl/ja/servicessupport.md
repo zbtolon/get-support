@@ -21,8 +21,6 @@ lastupdated: "2018-05-22"
 サポートを要求すると、根本原因分析が行われます。 サポート・チームは、根本原因、問題に割り当てた重大度、およびサービスのタイプに基づいて対応します。
 {:shortdesc}
 
-チケットの重大度について詳しくは、『[チケットの割り当てと重みづけの方法](/docs/get-support/ticketweight.html#support-ticket-severity){: new_window}』を参照してください。
-
 ## IBM の一般出荷可能なサービス
 {: #s-services-gaorcont}
 
@@ -42,7 +40,7 @@ IBM は、ベータ版と分類されるサービスまたはコンテナーの�
 
 IBM は試験的と分類されるサービスまたはコンテナーのイメージをリリースし、お客様はそれらを試してみることができます。 使用可能な試験的サービス、ボイラープレート、およびランタイムをすべて表示するには、{{site.data.keyword.Bluemix_notm}} コンソールにログインします。  次に、**「カタログ」**をクリックし、カタログの最後までスクロールし、**「{{site.data.keyword.Bluemix_notm}} Experimental Services」**をクリックします。 これらのサービスは、不安定だったり、前のバージョンと非互換であるような変更が頻繁に行われたり、十分な通知期間を設けずに中断されたりすることがあります。 これらのサービスを実稼働環境で使用することは推奨されません。
 
-試験的サービスの技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については [dW Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} を通して、コミュニティーの支援を受けることができます。 問題が試験的サービスの欠陥である場合、IBM は修正を提供する義務を負いません。
+試験的サービスの技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については [Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。問題が試験的サービスの欠陥である場合、IBM は修正を提供する義務を負いません。
 
 ## サード・パーティー・サービス
 {: #s-services-3p}
@@ -56,4 +54,4 @@ IBM は試験的と分類されるサービスまたはコンテナーのイメ�
 
 オープン・ソースまたはコミュニティーのサービスは、IBM 外部のオープン・ソース・コミュニティーによって提供されます。
 
-根本原因分析で、問題はオープン・ソースまたはコミュニティーのサービスの欠陥であると判定された場合、IBM にはフィックスを提供する義務はありません。 IBM はチケットをクローズし、支援を求める先としてコミュニティーまたはフォーラムを紹介します。 技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については [dW Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} を通して、コミュニティーの支援を受けることができます。
+根本原因分析で、問題はオープン・ソースまたはコミュニティーのサービスの欠陥であると判定された場合、IBM にはフィックスを提供する義務はありません。 IBM はチケットをクローズし、支援を求める先としてコミュニティーまたはフォーラムを紹介します。 技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については[Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# {{site.data.keyword.Bluemix_notm}} 状況と通知の表示
+# システム状況と通知の表示
 {: #viewing-bluemix-status}
 
 「状況」ページは、{{site.data.keyword.Bluemix_notm}} プラットフォームや主要なサービスに影響を及ぼす重要な事象に関する通知や発表を見つけるための中心的な場所です。
@@ -100,7 +100,7 @@ RSS フィードを読むには、他に、以下のような Web ブラウザ�
 {{site.data.keyword.Bluemix_notm}} では通常、毎月約 50 件の更新があります。
 
 
-## インシデントおよび保守の E メール通知のセットアップ
+## インシデントおよび保守の通知のセットアップ
 {: #setting-up-notifications}
 
-{{site.data.keyword.Bluemix_notm}} Public の場合、プラットフォーム通知を登録できます。 プラットフォーム通知は、{{site.data.keyword.Bluemix_notm}} プラットフォームのインシデントおよび保守のイベントに関するオプションの E メール・アラートです。 これらの E メール通知を受信することを選択するには、**「管理」** >**「アカウント」** >**「通知」**をクリックして、**「プラットフォーム」**タブを選択します。 アカウント通知の設定について詳しくは、『[通知の設定](/docs/account/notifications.html#setting-notifications)』を参照してください。
+{{site.data.keyword.Bluemix_notm}} Public の場合、プラットフォーム通知に登録できます。プラットフォーム通知は、プラットフォームのインシデントおよび保守のイベントに関するオプションの E メール・アラートです。通知をセットアップするには、**「管理」** > **「アカウント」** > **「通知」**をクリックし、**「プラットフォーム」**タブを選択します。 
