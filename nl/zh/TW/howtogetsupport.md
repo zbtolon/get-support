@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ lastupdated: "2018-08-08"
 
 若要存取「支援中心」，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。在功能表列上，按一下**支援** > **支援中心**。  
 
-您可以使用「支援中心」搜尋欄位，從 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 討論區中尋找問題的答案。您也可以從「支援中心」管理支援問題單。您可以在「支援中心」的「討論區」區段下尋找 Stack Overflow 討論區（適用於技術問題）及 developerWorks (dW Answers) 討論區（適用於所有其他問題）的鏈結。  
+您可以使用「支援中心」搜尋欄位，從 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 討論區中尋找問題的答案。您也可以從「支援中心」管理支援問題單。您可以在「支援中心」的「討論區」區段下尋找 Stack Overflow 討論區（適用於技術問題）及 developerWorks (IBM Developer Answers) 討論區（適用於所有其他問題）的鏈結。  
 
 根據您具有的帳戶類型，也可以從「支援中心」取得其他選項。  
 * 如果您有基本、進階或超值[支援方案](/docs/get-support/index.html)，可以尋找撥入號碼及會談選項，以取得協助。
@@ -41,12 +40,12 @@ lastupdated: "2018-08-08"
 ### 提問
 {: #asking-a-question}
 
-Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（適用於一般問題）都提供 {{site.data.keyword.Bluemix_notm}} 問題的多種可搜尋答案。如果您找不到現有答案，請提出新的問題。您可以從「支援中心」存取 Stack Overflow 及 dW Answers，或使用下列鏈結：
+Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討論區（適用於一般問題）都有提供 {{site.data.keyword.Bluemix_notm}} 問題的各種可搜尋答案。如果您找不到現有答案，請提出新的問題。您可以從「支援中心」存取 Stack Overflow 及 IBM Developer Answers，或使用下列鏈結：
 
   * 前往 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}，以提出有關使用 {{site.data.keyword.Bluemix_notm}} 平台和服務來開發應用程式的技術問題。
-  * 前往 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}，以提出有關 {{site.data.keyword.Bluemix_notm}} 供應項目以及開始使用之指示的一般問題。
+  * 前往 [IBM Developer Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}，以提出有關 {{site.data.keyword.Bluemix_notm}} 供應項目以及開始使用之指示的一般問題。
 
-{{site.data.keyword.Bluemix_notm}} 開發與支援團隊會主動監視 Stack Overflow 及 dW Answers，並且會追蹤標示有 **ibm-cloud** 的問題。當您在任一討論區建立問題時，請對您的問題新增 **ibm-cloud** 標籤，以確保 {{site.data.keyword.Bluemix_notm}} 開發與支援團隊可以看到此問題。
+{{site.data.keyword.Bluemix_notm}} 開發與支援團隊會主動監視 Stack Overflow 及 IBM Developer Answers，並且會追蹤標示有 **ibm-cloud** 的問題。當您在任一討論區建立問題時，請對您的問題新增 **ibm-cloud** 標籤，以確保 {{site.data.keyword.Bluemix_notm}} 開發與支援團隊可以看到此問題。
 
 如果問題不是運作中斷所造成，而且您找不到特定問題的答案，則可以開立支援問題單，與客戶支援中心聯絡。
 
@@ -66,20 +65,23 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 
 開立支援問題單之後，您會在幾分鐘後收到有關問題單的電子郵件通知。請遵循電子郵件中的指示，針對該問題進行進一步的溝通。
 
-您可以針對技術問題、帳戶問題開立問題單，或者，如果您有[已鏈結帳戶](/docs/account/softlayerlink.html#link_accounts)，則可以針對銷售查詢開立問題單。  
+您可以針對技術問題、帳戶問題開立問題單，或者如果您有[已鏈結帳戶](/docs/account/softlayerlink.html#link_accounts)，則可開立問題單來進行銷售查詢。  
 
 ### 開立技術支援問題單
 {: #opentechticket}
 
 請完成下列步驟，在問題單表單中提供必要資訊，以取得一般技術問題的協助：
-  1. 如果您有[已鏈結帳戶](/docs/account/softlayerlink.html#link_accounts)，請先選取**基礎架構**或**應用程式及服務**。
+  1. 如果您有[已鏈結帳戶](/docs/account/softlayerlink.html#link_accounts)，請選取**基礎架構**或**應用程式和服務**。
   2. 選取**技術**作為問題單類型。
   3. 在**選取資源環境定義**欄位中，選取下列其中一個選項：
-    * **資源群組**，如果您有管理資源群組方面的問題。如需相關資訊，請參閱[管理資源群組](/docs/resources/resourcegroups.html#rgs)。
-    * **Cloud Foundry**，如果您有 Cloud Foundry 應用程式部署方面的問題。如需部署 Cloud Foundry 應用程式的相關資訊，請參閱 [Cloud Foundry 如何與 {{site.data.keyword.Bluemix_notm}} 搭配運作](/docs/overview/cf.html)。
+    * **資源群組**：如果您有管理資源群組方面的問題。如需相關資訊，請參閱[管理資源群組](/docs/resources/resourcegroups.html#rgs)。
+    * **Cloud Foundry**：如果您有 Cloud Foundry 應用程式部署方面的問題。如需部署 Cloud Foundry 應用程式的相關資訊，請參閱 [Cloud Foundry 如何與 {{site.data.keyword.Bluemix_notm}} 搭配運作](/docs/overview/cf.html)。
   4. 如果您有超值或進階層次支援，請選擇問題的嚴重性層次。
   5. 完成必要資訊。所需的資訊取決於您選取的資源環境定義，另外也取決於您帳戶的支援方案類型。如需支援類型的相關資訊，請參閱[支援類型](/docs/get-support/getstarttssup.html#typesofsupport)。
-  6. 按一下**提交**。
+  6. 如果您有已鏈結帳戶，則有下列新增的支援選項可供您選取：
+    * 最多 5 項與您報告之技術問題相關聯的裝置。
+    * 如果您有歐盟本地化支援，則可選取用來管理您的資源的資料中心。
+  7. 按一下**提交**。
 
 ### 開立帳戶問題的支援問題單
 {: #openacctticket}
@@ -100,13 +102,12 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 ## 聯絡 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Bluemix Local 支援中心
 {: #contacting-bluemix-support-dedicated-local}
 
-如果您的帳戶是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Bluemix Local，則會由 {{site.data.keyword.Bluemix_notm}} 支援團隊提供支援。不過，如果您沒有 {{site.data.keyword.ibmid}}，則取得支援的選項會有一些不同。
+如果您的帳戶是 {{site.data.keyword.Bluemix_notm}} Dedicated 或 Bluemix Local，則會由 {{site.data.keyword.Bluemix_notm}} 支援團隊提供支援。不過，如果您沒有 {{site.data.keyword.ibmid}}，則有幾個不同的選項可取得支援。
 
-* 使用 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport){: new_window} 說明頁面開立新的問題單，以與支援中心聯絡。您可以在此表單中使用電子郵件位址或 {{site.data.keyword.ibmid}}。為「地區」欄位選取 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 選項。
+* 使用 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://www.ibm.biz/bluemixsupport){: new_window} 說明頁面來開立新的問題單，以與支援中心聯絡。您可以在此表單中使用電子郵件位址或 {{site.data.keyword.ibmid}}。為「地區」欄位選取 **{{site.data.keyword.Bluemix_notm}} Dedicated** 或 **{{site.data.keyword.Bluemix_notm}} Local** 選項。
 
 * 如果您有 {{site.data.keyword.ibmid}} 且能存取 {{site.data.keyword.Bluemix_notm}} Public 環境，請按一下功能表列中的**支援**，然後選取**新增問題單**。選取您問題的主題區域，並遵循提示來提交問題單。
 * 如果您沒有 {{site.data.keyword.ibmid}}，則可以聯絡組織中有 IBM ID 的人，或是與您的 IBM 業務代表合作。
-
 
 針對「專用」或「本端」環境，您可以要求在 {{site.data.keyword.Bluemix_notm}} 主控台的**支援**頁面上，顯示您組織中可作為支援問題單聯絡人的使用者清單。
   {:tip}
@@ -114,16 +115,16 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 ## 要求歐盟資源的支援
 {: #eusupported}
 
-針對已選取「歐盟支援」選項的客戶，位在歐洲的工程師可全年無休提供「歐盟 (EU) 支援」。全球團隊只會在歐盟支援團隊的決定及指示下才提供支援。可能會與全球團隊聯絡，例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要更多的專家時。
+針對選擇歐盟支援選項的客戶，位在歐洲的工程師可全年無休提供歐盟 (EU) 支援。全球團隊只會在歐盟支援團隊的決定及指示下才提供支援。可能會與全球團隊聯絡，例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要更多的專家時。
 
 您可以指定在符合下列準則時，想要實際位在歐洲的支援團隊來支援您的帳戶：
   * 您的主要使用者或帳戶擁有者設定您帳戶的「歐盟支援」選項
   * 您的資源位在適當的歐洲資料中心
   * 當您開立問題單時，選取**歐盟支援**問題單層次
 
-針對 {{site.data.keyword.Bluemix_notm}} 平台，只有實際位在歐洲的團隊才支援德國地區中所管理的服務。  
+針對 {{site.data.keyword.Bluemix_notm}} 平台，只有實際位在歐洲的團隊才能支援在德國地區管理的服務。  
 
-設定您帳戶的**歐盟支援**選項，適用於您未來針對歐盟地區中管理之任何服務或資料中心問題所開立的所有問題單。您在設定此選項之前所開立的任何問題單不受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
+若為您的帳戶設定**歐盟支援**選項，此選項將會套用於您未來針對在歐盟地區管理之任何服務或資料中心問題開立的所有問題單。您在設定此選項之前開立的任何問題單都不會受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
 
 您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援選項](/docs/billing-usage/eusupported.html)。
 
@@ -135,7 +136,7 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
   2. 按一下**過濾**。
   3. 從下拉清單中選取**歐盟支援**。設定「歐盟支援」過濾器之後，您只會看到**基礎架構**和**平台**種類中，有歐盟支援方案的服務。
   4. 選取您要的服務。您可以看到服務的部分地區及方案有歐盟支援。
-  5. 若要查看服務的歐盟支援方案，請從**選取要在其中部署的地區/位置**下拉清單選取正確的地區。例如，若要查看平台服務的歐盟支援方案，請選取「德國」作為地區。然後，您可以看到標示**歐盟支援**的服務定價方案。
+  5. 若要查看服務適用的歐盟支援方案，請從**選取要在其中部署的地區/位置**下拉清單中選取正確的地區。例如，若要查看平台服務的歐盟支援方案，請選取「德國」作為地區。然後，您可以看到標示**歐盟支援**的服務定價方案。
 
 {{site.data.keyword.Bluemix_notm}} 基礎架構服務下列種類的所有方案（精簡方案除外）都是在歐洲進行管理，並且具有「歐盟支援」功能：
 
@@ -155,4 +156,4 @@ Stack Overflow 討論區（適用於技術問題）及 dW Answers 討論區（�
 2. 在問題單摘要中，清楚說明問題單是有關潛在的安全漏洞。
 3. 包括下列其中一個項目，以提供潛在安全漏洞的詳細資料：
     * 可以聯絡到您一起討論問題的電話號碼。
-    * 問題的詳細資料。您必須將詳細資料加密為問題單內文中的文字區塊。您也必須提供指示，告知「IBM 支援中心」如何安全地與您聯絡以取得解密指示。
+    * 問題的詳細資料。您必須將詳細資料加密為問題單內文中的文字區塊。您也必須提供指示，告知「IBM 支援中心」如何安全地與您聯絡，以取得解密指示。
