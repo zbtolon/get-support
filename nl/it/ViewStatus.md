@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# Visualizzazione dello stato e delle notifiche {{site.data.keyword.Bluemix_notm}}
+# Visualizzazione delle notifiche e dello stato del sistema 
 {: #viewing-bluemix-status}
 
 La pagina Stato è la posizione centrale per trovare notifiche e annunci sugli eventi chiave che interessano la piattaforma {{site.data.keyword.Bluemix_notm}} e i servizi principali.
@@ -113,7 +113,7 @@ per ogni aggiornamento RSS. Il seguente elenco riporta alcuni esempi di servizi 
 ha circa 50 aggiornamenti al mese.
 
 
-## Configurazione di notifiche e-mail per incidenti e manutenzione
+## Configurazione di notifiche per incidenti e manutenzione
 {: #setting-up-notifications}
 
-Per {{site.data.keyword.Bluemix_notm}} pubblico, puoi registrarti per ricevere le notifiche della piattaforma. Le notifiche della piattaforma sono avvisi e-mail facoltativi per eventi di incidenti e manutenzione relativi alla piattaforma {{site.data.keyword.Bluemix_notm}}. Puoi scegliere di ricevere queste notifiche e-mail facendo clic su **Gestisci** > **Account** > **Notifiche** e selezionando la scheda **Piattaforma**. Per ulteriori informazioni sull'impostazione delle notifiche di account, vedi [Impostazione delle notifiche](/docs/account/notifications.html#setting-notifications).
+Per {{site.data.keyword.Bluemix_notm}} pubblico, puoi registrarti per ricevere le notifiche della piattaforma, che sono avvisi e-mail facoltativi per eventi di incidenti e manutenzione relativi alla piattaforma. Per configurare le notifiche, fai clic su **Gestisci** > **Account** > **Notifiche** e seleziona la scheda **Piattaforma**. 
