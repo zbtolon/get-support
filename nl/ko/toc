@@ -26,7 +26,7 @@
     알려진 문제
         appsectls.md
     {: .navgroup-end}
-    
+
     {: .navgroup id="reference"}
     bxnui.md
     {: .navgroup-end}
@@ -34,6 +34,6 @@
     {: .navgroup id="help"}
     ts_overview.md
     ts_manageticket.md
-    [dW Answers](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html)
+    [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
     {: .navgroup-end}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# 查看 {{site.data.keyword.Bluemix_notm}} 状态和通知
+# 查看系统状态和通知
 {: #viewing-bluemix-status}
 
 “状态”页面是查找通知和公告的一个中心位置，从中可了解影响 {{site.data.keyword.Bluemix_notm}} 平台和主要服务的关键事件。
@@ -99,7 +99,7 @@ lastupdated: "2018-05-22"
 {{site.data.keyword.Bluemix_notm}} 每月通常有 50 条左右的更新。
 
 
-## 设置事件和维护电子邮件通知
+## 设置事件和维护通知
 {: #setting-up-notifications}
 
-对于 {{site.data.keyword.Bluemix_notm}} Public，您可以注册平台通知。平台通知是 {{site.data.keyword.Bluemix_notm}} 平台事件和维护事件的可选电子邮件警报。您可以选择通过单击**管理** > **帐户** > **通知**，然后选择**平台**选项卡来接收这些电子邮件通知。有关设置帐户通知的更多信息，请参阅[设置通知](/docs/account/notifications.html#setting-notifications)。
+在 {{site.data.keyword.Bluemix_notm}} Public 中，您可以通过注册来获取平台通知。平台通知是平台事件和维护事件的可选电子邮件警报。要设置通知，请单击**管理** > **帐户** > **通知**，然后选择**平台**选项卡。 

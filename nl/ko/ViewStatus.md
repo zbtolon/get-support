@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# {{site.data.keyword.Bluemix_notm}} 상태 및 알림 보기
+# 시스템 상태 및 알림 보기
 {: #viewing-bluemix-status}
 
 상태 페이지는 {{site.data.keyword.Bluemix_notm}} 플랫폼 및 주요 서비스에 영향을 주는 주요 이벤트에 대한 알림 및 공지사항을 찾기 위한 중심 위치입니다.
@@ -77,7 +77,7 @@ lastupdated: "2018-05-22"
     * RSS ![RSS](images/rss.svg) 아이콘을 RSS 리더로 끄십시오.
     * 마우스 오른쪽 단추로 RSS 아이콘을 클릭하고 **링크 주소 복사**를 선택한 다음 URL을 RSS 리더에 붙여넣으십시오.
 
-자세한 정보는 리더의 **도움말** 섹션을 참조하십시오.  	   
+자세한 정보는 리더의 **도움말** 섹션을 참조하십시오. 	   
 
 RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러그인을 통해 확인할 수 있습니다.
   * Chrome용 [RSS Feed ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://feeder.co/){: new_window} 리더
@@ -87,7 +87,7 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
   * [Feedly ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.feedly.com/){: new_window}
   * [G2reader ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://www.g2reader.com/en/){: new_window}
 
-써드파티 서비스를 사용하여 각 RSS 업데이트에 대한 이메일을 자동으로 전송할 수도 있습니다. 다음 목록은 써드파티 서비스의 예입니다.
+서드파티 서비스를 사용하여 각 RSS 업데이트에 대한 이메일을 자동으로 전송할 수도 있습니다. 다음 목록은 서드파티 서비스의 예입니다.
 
   * www.feedmyinbox.com
   * www.rssforward.com
@@ -99,7 +99,7 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 {{site.data.keyword.Bluemix_notm}}에는 일반적으로 매월 약 50개의 업데이트가 있습니다.
 
 
-## 인시던트 및 유지보수 이메일 알림 설정
+## 인시던트 및 유지보수 알림 설정
 {: #setting-up-notifications}
 
-{{site.data.keyword.Bluemix_notm}} 퍼블릭의 경우 플랫폼 알림을 등록할 수 있습니다. 플랫폼 알림은 {{site.data.keyword.Bluemix_notm}} 플랫폼의 인시던트 및 유지보수 이벤트와 관련된 선택적 이메일 경보입니다. **관리** > **계정** > **알림**을 클릭하고 **플랫폼** 탭을 선택하여 이러한 이메일 알림을 수신하도록 선택할 수 있습니다. 계정 알림 설정에 대한 자세한 정보는 [알림 설정](/docs/account/notifications.html#setting-notifications)을 참조하십시오.
+{{site.data.keyword.Bluemix_notm}} 퍼블릭의 경우에는 플랫폼의 인시던트 및 유지보수 이벤트에 대한 선택적 이메일 경보인 플랫폼 알림을 등록할 수 있습니다. 알림을 설정하려면 **관리** > **계정** > **알림**을 클릭하고 **플랫폼** 탭을 선택하십시오.  
