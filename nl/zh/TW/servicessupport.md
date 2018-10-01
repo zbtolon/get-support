@@ -21,8 +21,6 @@ lastupdated: "2018-05-22"
 當您要求支援時，已完成主要原因分析。支援團隊會根據主要原因、您指派給問題的嚴重性以及服務的類型來進行回應。
 {:shortdesc}
 
-如需問題單嚴重性的相關資訊，請參閱[如何指派及加權問題單？](/docs/get-support/ticketweight.html#support-ticket-severity){: new_window}
-
 ## IBM 正式發行服務
 {: #s-services-gaorcont}
 
@@ -42,7 +40,7 @@ IBM 發行分類為測試版的服務或容器映像檔。這些服務在開發�
 
 IBM 發行分類為實驗性的服務或容器映像檔，您可以進行試用。若要檢視所有可用的實驗性服務、樣板及運行環境，請登入 {{site.data.keyword.Bluemix_notm}} 主控台。然後，按一下**型錄**、捲動至型錄結尾，再按一下 **{{site.data.keyword.Bluemix_notm}} 實驗性服務**。這些服務可能不穩定、經常變更而與舊版不相容，並且可能會在通知之後短時間內即停止使用。不建議在正式作業環境中使用這些服務。
 
-您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得實驗性服務技術問題的社群協助，並且透過 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} 取得其他問題的社群協助。如果問題為實驗性服務中的錯誤，IBM 不負責提供修正程式。
+您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得實驗性服務技術問題的社群協助，並且透過 [Developer Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} 取得其他問題的社群協助。如果問題為實驗性服務中的錯誤，IBM 不負責提供修正程式。
 
 ## 協力廠商服務
 {: #s-services-3p}
@@ -56,4 +54,4 @@ IBM 發行分類為實驗性的服務或容器映像檔，您可以進行試用�
 
 開放程式碼或社群服務是由 IBM 外部的開放程式碼社群所提供。
 
-如果主要原因分析判定問題是開放程式碼或社群服務中的錯誤，IBM 不負責提供修正程式。IBM 會關閉問題單，並將您轉介到社群或討論區以取得協助。您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得技術問題的社群協助，並且透過 [dW Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} 取得其他問題的社群協助。
+如果主要原因分析判定問題是開放程式碼或社群服務中的錯誤，IBM 不負責提供修正程式。IBM 會關閉問題單，並將您轉介到社群或討論區以取得協助。您可以透過 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} 取得技術問題的社群協助，並且透過 [Developer Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} 取得其他問題的社群協助。
