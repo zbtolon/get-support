@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# Visualizando o status e as notificações do {{site.data.keyword.Bluemix_notm}}
+# Visualizando o status e as notificações do sistema
 {: #viewing-bluemix-status}
 
 A página Status é o local central para localizar notificações e anúncios sobre os eventos chave que estão afetando a plataforma {{site.data.keyword.Bluemix_notm}} e os serviços principais.
@@ -99,7 +99,7 @@ Também é possível usar um serviço de terceiro para enviar automaticamente um
 O {{site.data.keyword.Bluemix_notm}} geralmente tem cerca de 50 atualizações por mês.
 
 
-## Configurando notificações de incidentes e manutenção por e-mail
+## Configurando notificações de incidentes e manutenção
 {: #setting-up-notifications}
 
-Para {{site.data.keyword.Bluemix_notm}} Public, é possível se inscrever para notificações de plataforma. As notificações de plataforma são alertas de e-mail opcionais para eventos de incidente e manutenção da plataforma {{site.data.keyword.Bluemix_notm}}. É possível escolher receber essas notificações por e-mail clicando em **Gerenciar** > **Conta** > **Notificações** e selecionando a guia **Plataforma**. Para obter mais informações sobre como configurar notificações de conta, consulte [Configurando notificações](/docs/account/notifications.html#setting-notifications).
+Para {{site.data.keyword.Bluemix_notm}} Public, é possível se inscrever para notificações da plataforma, que são alertas de e-mail opcionais para eventos de incidente e manutenção na plataforma. Para configurar as notificações, clique em **Gerenciar** > **Conta** > **Notificações** e selecione a guia **Plataforma**. 

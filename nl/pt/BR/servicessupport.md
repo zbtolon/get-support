@@ -21,8 +21,6 @@ lastupdated: "2018-05-22"
 Ao solicitar suporte, uma análise de causa raiz é concluída. A equipe de suporte responde com base na causa raiz, na severidade designada ao problema e no tipo de serviço.
 {:shortdesc}
 
-Para obter mais informações sobre severidade de chamados, consulte [Como os chamados são designados e ponderados?](/docs/get-support/ticketweight.html#support-ticket-severity){: new_window}
-
 ## Serviço geralmente disponível pela IBM
 {: #s-services-gaorcont}
 
@@ -40,9 +38,9 @@ Se a análise de causa raiz determinar que o problema é um defeito no serviço 
 ## Serviço experimental IBM
 {: #s-services-exporcont}
 
-A IBM libera serviços ou imagens de contêiner que são classificados como experimentais e que podem ser experimentados. Para visualizar todos os serviços experimentais, modelos e tempos de execução disponíveis, efetue login no console do {{site.data.keyword.Bluemix_notm}}. Em seguida, clique em **Catálogo**, role para o final do catálogo e clique em **Serviços experimentais do {{site.data.keyword.Bluemix_notm}}**. Esses serviços podem ser instáveis, mudar frequentemente em maneiras que não sejam compatíveis com versões anteriores e podem ser descontinuados com um curto aviso. Esses serviços não são recomendados para uso em ambientes de produção.
+A IBM libera serviços ou imagens de contêiner que são classificados como experimentais e que podem ser experimentados. Para visualizar todos os serviços experimentais, modelos e tempos de execução disponíveis, efetue login no console do {{site.data.keyword.Bluemix_notm}}.  Em seguida, clique em **Catálogo**, role para o final do catálogo e clique em **Serviços experimentais do {{site.data.keyword.Bluemix_notm}}**. Esses serviços podem ser instáveis, mudar frequentemente em maneiras que não sejam compatíveis com versões anteriores e podem ser descontinuados com um curto aviso. Esses serviços não são recomendados para uso em ambientes de produção.
 
-É possível obter assistência da comunidade para problemas técnicos para serviços experimentais por meio do [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} e outros problemas por meio do [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}. Se um problema for um defeito em um serviço experimental, a IBM não será obrigada a fornecer uma correção.
+É possível obter assistência da comunidade para problemas técnicos para serviços experimentais por meio do [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} e para outros problemas por meio do [Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}. Se um problema for um defeito em um serviço experimental, a IBM não será obrigada a fornecer uma correção.
 
 ## Serviço de terceiro
 {: #s-services-3p}
@@ -56,4 +54,4 @@ O suporte para serviços de terceiros é fornecido perlo provedor de serviços. 
 
 Os serviços de software livre ou de comunidade são fornecidos por comunidades de software livre fora da IBM.
 
-Se a análise de causa raiz determinar que o problema é um defeito em um serviço de software livre ou de comunidade, a IBM não será obrigada a fornecer uma correção. IBM fecha o chamado e encaminha você para a comunidade ou o fórum para obter assistência. É possível obter assistência da comunidade para problemas técnicos por meio do [Stack Overflow ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} e outros problemas por meio do [dW Answers ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}.
+Se a análise de causa raiz determinar que o problema é um defeito em um serviço de software livre ou de comunidade, a IBM não será obrigada a fornecer uma correção. IBM fecha o chamado e encaminha você para a comunidade ou o fórum para obter assistência. É possível obter assistência da comunidade para problemas técnicos por meio do [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} e para outros problemas por meio do [Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}.
