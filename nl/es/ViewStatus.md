@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-09-14"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-05-22"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# Visualización de estados y notificaciones de {{site.data.keyword.Bluemix_notm}}
+# Visualización del estado del sistema y notificaciones
 {: #viewing-bluemix-status}
 
 La página Estado es el recurso central para buscar notificaciones y anuncios sobre sucesos clave que afectan a la plataforma {{site.data.keyword.Bluemix_notm}} y a los servicios principales.
@@ -101,8 +101,7 @@ siguiente se proporcionan algunos ejemplos de servicios de terceros:
 {{site.data.keyword.Bluemix_notm}} suele tener unas 50 actualizaciones por mes.
 
 
-## Configuración de notificaciones de correo electrónico de incidencias y mantenimiento
+## Configuración de notificaciones de incidencias y de mantenimiento
 {: #setting-up-notifications}
 
-Para {{site.data.keyword.Bluemix_notm}} público, puede registrarse para las notificaciones de plataforma. Las notificaciones de plataforma son alertas por correo electrónico para sucesos de mantenimiento e incidencias para la plataforma
-{{site.data.keyword.Bluemix_notm}}. Puede elegir entre recibir estas notificaciones a través de correo electrónico pulsando **Gestionar** > **Cuenta** > **Notificaciones** y seleccionando el separador **Plataforma**. Para obtener más información sobre el establecimiento de notificaciones de cuenta, consulte [Configuración de notificaciones](/docs/account/notifications.html#setting-notifications).
+Para {{site.data.keyword.Bluemix_notm}} público, puede registrarse a las notificaciones de plataforma, que son alertas de correo electrónico opcionales de sucesos de mantenimiento e incidencias de la plataforma. Para configurar las notificaciones, pulse **Gestionar** > **Cuenta** > **Notificaciones** y seleccione el separador **Plataforma**. 

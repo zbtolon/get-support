@@ -21,8 +21,6 @@ lastupdated: "2018-05-22"
 Cuando solicita ayuda, se completará un análisis de causa raíz. El equipo de soporte responderá en función de la causa raíz, la gravedad que ha asignado al problema y del tipo de servicio.
 {:shortdesc}
 
-Para obtener más información sobre la gravedad de las incidencias, consulte [¿Cómo se asignan y se ponderan las incidencias?](/docs/get-support/ticketweight.html#support-ticket-severity){: new_window}
-
 ## Servicio disponible a nivel general de IBM
 {: #s-services-gaorcont}
 
@@ -42,7 +40,7 @@ Si el análisis de la causa raíz determina que el problema es un defecto en el 
 
 IBM publica servicios o imágenes de contenedor clasificados como experimentales, para que los pueda probar. Para ver todos los servicios experimentales, contenedores modelo y tiempos de ejecución disponibles, inicie una sesión en la consola de {{site.data.keyword.Bluemix_notm}}.  A continuación, pulse **Catálogo**, desplácese hasta el final del catálogo y pulse **Servicios experimentales de {{site.data.keyword.Bluemix_notm}}**. Estos servicios pueden ser inestables o cambiar con frecuencia de formas que podrían provocar que no sea compatible con versiones anteriores y pueden retirarse previo aviso con poca antelación. No se recomienda utilizar estos servicios en entornos de producción.
 
-Puede obtener asistencia de la comunidad para errores técnicos para servicios experimentales mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [dW Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}. Si un problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
+Puede obtener asistencia de la comunidad para errores técnicos para servicios experimentales mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [Developer Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}. Si un problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
 
 ## Servicio de un tercero
 {: #s-services-3p}
@@ -56,4 +54,4 @@ El soporte para servicios de terceros está proporcionado por un proveedor de se
 
 Los servicios de la comunidad o de código abierto los ofrecen comunidades de código abierto externas a IBM.
 
-Si el análisis de la causa raíz determina que el problema es un defecto en un servicio de código abierto o de la comunidad, IBM no se verá obligado a proporcionar un arreglo. IBM cerrará la incidencia y le remitirá a la comunidad o foro para que obtenga asistencia. Puede obtener asistencia de la comunidad para errores técnicos mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [dW Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}.
+Si el análisis de la causa raíz determina que el problema es un defecto en un servicio de código abierto o de la comunidad, IBM no se verá obligado a proporcionar un arreglo. IBM cerrará la incidencia y le remitirá a la comunidad o foro para que obtenga asistencia. Puede obtener asistencia de la comunidad para errores técnicos mediante [Stack Overflow ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} y otros problemas mediante [Developer Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}.
