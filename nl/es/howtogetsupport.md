@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ Si su cuenta de SoftLayer se creó en el portal de clientes de infraestructura d
 
 Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.keyword.Bluemix_notm}}. En la barra de menús, pulse **Soporte** > **Centro de soporte**.  
 
-Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (dw answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
+Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (IBM Developer Answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
 
 En función del tipo de cuenta que tenga, también hay otras opciones disponibles en el Centro de soporte.  
 * Si tiene un [plan de soporte](/docs/get-support/index.html) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
@@ -41,12 +40,12 @@ El Centro de soporte es el método recomendado para obtener soporte, pero si no 
 ### Cómo formular una pregunta
 {: #asking-a-question}
 
-Tanto el foro de Stack Overflow, para preguntas técnicas como el foro de dW Answers, para preguntas generales, proporcionan una amplia variedad de respuestas en las que se pueden realizar búsquedas para las preguntas de {{site.data.keyword.Bluemix_notm}}. Si no encuentra una respuesta existente, haga una nueva pregunta. Puede acceder a Stack Overflow y a dW Answers desde el Centro de soporte, o utilizando los enlaces siguientes:
+Tanto el foro de Stack Overflow, para preguntas técnicas como el foro de IBM Developer Answers, para preguntas generales, proporcionan una amplia variedad de respuestas en las que se pueden realizar búsquedas para las preguntas de {{site.data.keyword.Bluemix_notm}}. Si no encuentra una respuesta existente, haga una nueva pregunta. Puede acceder a Stack Overflow y a IBM Developer Answers desde el Centro de soporte, o utilizando los enlaces siguientes:
 
   * Vaya a [Stack Overflow ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} para realizar preguntas técnicas sobre el desarrollo de apps con la plataforma y los servicios de {{site.data.keyword.Bluemix_notm}}.
-  * Vaya a [dW Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} para realizar preguntas generales sobre la oferta de {{site.data.keyword.Bluemix_notm}} y sobre las instrucciones sobre cómo empezar.
+  * Vaya a [IBM Developer Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} para realizar preguntas generales sobre la oferta de {{site.data.keyword.Bluemix_notm}} y sobre las instrucciones sobre cómo empezar.
 
-Los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}} supervisan activamente Stack Overflow y dW Answers, y realizan un seguimiento de las preguntas que tienen la etiqueta **ibm-cloud**. Cuando cree una pregunta en cualquiera de los foros, añada la etiqueta **ibm-cloud** a su pregunta para asegurarse de que la vean los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}}.
+Los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}} supervisan activamente Stack Overflow e IBM Developer Answers y realizan un seguimiento de las preguntas que tienen la etiqueta **ibm-cloud**. Cuando cree una pregunta en cualquiera de los foros, añada la etiqueta **ibm-cloud** a su pregunta para asegurarse de que la vean los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}}.
 
 Si el problema no es debido a una parada y si no encuentra una respuesta para su problema específico, puede ponerse en contacto con el servicio de atención al cliente abriendo una incidencia de soporte.
 
@@ -73,14 +72,17 @@ Puede abrir incidencias para problemas técnicos, problemas de cuenta, o, si tie
 {: #opentechticket}
 
 Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema técnico genérico:
-  1. Si tiene una [cuenta enlazada](/docs/account/softlayerlink.html#link_accounts), seleccione primero **Infraestructura** o **Aplicaciones y servicios.**
+  1. Si tiene una [cuenta enlazada](/docs/account/softlayerlink.html#link_accounts), seleccione **Infraestructura** o **Aplicaciones y servicios.**
   2. Seleccione **Técnico** como tipo de incidencia.
   3. En el campo **Seleccionar un contexto de recurso**, seleccione una de las siguientes opciones:
-    * **Grupo de recursos** si tiene un problema con la gestión de sus grupos de recursos. Consulte [Gestión de recursos](/docs/resources/resourcegroups.html#rgs) para obtener más información.
-    * **Cloud Foundry** si tiene un problema con el despliegue de las apps en Cloud Foundry. Consulte [Cómo funciona Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html) para obtener más información sobre el despliegue de apps de Cloud Foundry.
+    * **Grupo de recursos** si tiene un problema con la gestión de sus grupos de recursos. Para obtener más información, consulte [Gestionar grupos de recursos](/docs/resources/resourcegroups.html#rgs).
+    * **Cloud Foundry** si tiene un problema con el despliegue de las apps en Cloud Foundry. Para obtener más información sobre el despliegue de apps de Cloud Foundry, consulte [Cómo funciona Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
   4. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
   5. Complete la información necesaria. La información necesaria depende del contexto de los recursos seleccionados y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Pulse **Enviar**.
+  6. Si tiene una cuenta enlazada, tiene las siguientes opciones de soporte añadido que puede seleccionar:
+    * Hasta 5 dispositivos que estén asociados con el problema técnico que está notificando.
+    * Si tiene soporte localizado de la UE, el centro de datos donde se alojan sus recursos.
+  7. Pulse **Enviar**.
 
 ### Apertura de incidencias de soporte para problemas de cuenta
 {: #openacctticket}
@@ -115,7 +117,7 @@ En la solicitud, se puede mostrar una lista de usuarios de su organización que 
 ## Solicitud de soporte para recursos en la Unión Europea
 {: #eusupported}
 
-En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días por semana, por parte de ingenieros ubicados en Europa para los clientes que seleccionen la opción Soporte en la UE. Los equipos globales proporcionan soporte solo a discreción y bajo la dirección del equipo de soporte de la UE. Se puede contactar con los equipos globales, por ejemplo, cuando los equipos de soporte de nivel 1 o nivel 2 en la UE no resuelven los problemas, y se necesita más experiencia.
+En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días a la semana, por parte de ingenieros ubicados en Europa para los clientes que seleccionen la opción Soporte en la UE. Los equipos globales proporcionan soporte solo a discreción y bajo la dirección del equipo de soporte de la UE. Se puede contactar con los equipos globales, por ejemplo, cuando los equipos de soporte de nivel 1 o nivel 2 en la UE no resuelven los problemas, y se necesita más experiencia.
 
 Puede especificar que desea recibir soporte para su cuenta del equipo de soporte que se encuentra físicamente en Europa si se cumplen los criterios siguientes:
   * El usuario maestro o el propietario de la cuenta establece la opción Soporte en la UE para su cuenta
@@ -124,7 +126,7 @@ Puede especificar que desea recibir soporte para su cuenta del equipo de soporte
 
 Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojados en la región de Alemania pueden recibir soporte de un equipo que esté físicamente ubicado en Europa.  
 
-Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todas las incidencias de soporte futuras que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Las incidencias abiertas antes de establecer esta opción no se ven afectadas. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
+Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todas las incidencias de soporte futuras que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Las incidencias que haya abierto antes de establecer esta opción no se ven afectadas. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
 
 Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de la opción Soporte en la UE](/docs/billing-usage/eusupported.html).
 
