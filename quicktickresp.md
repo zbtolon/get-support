@@ -50,20 +50,18 @@ The scripts use the Cloud Foundry command line interface to extract the followin
 ## Escalating support cases
 {: #escalation}
 
-You can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty if you meet one of the following criteria:
-  * You are a {{site.data.keyword.Bluemix_notm}} customer with advanced or premium support
-  * You are a SoftLayer customer operating under the SoftLayer Standard Support agreement
+Use the escalation process to surface critical issues or if you feel your support case isn’t being addressed properly. When a case is escalated, the manager on duty reviews the information in the support case, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
 
-Use the escalation process to surface critical issues or if you feel that your support ticket is not being addressed properly. When a case is escalated, the manager on duty reviews the information in the support ticket, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
+You can request further assistance by escalating your case to the {site.data.keyword.Bluemix_notm}} Support Manager on duty as a customer with any paid subscription. 
 
-To escalate a support case, you must have an open support ticket for the issue.  Also, ensure that you provided a detailed description of the technical issue in the support ticket that you opened.
+To escalate a support case, you must have an open support case for the issue. Also, ensure that you provided a detailed description of the technical issue in the support case that you opened.
 
  To escalate a case, complete the following steps:
 
   1. Contact the {{site.data.keyword.Bluemix_notm}} Support Team by phone or chat:
     * By phone at the following number: 866-403-7638.
-    * By chat from the {{site.data.keyword.Bluemix_notm}} [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} or, if you have a SoftLayer account that is not linked, from the [customer portal ![External link icon](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Provide your existing ticket number and request to escalate the case.
+    * By chat from the {{site.data.keyword.Bluemix_notm}} [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} or, if you have a SoftLayer account that isn't linked, from the [customer portal ![External link icon](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+  2. Provide your existing case number and request to escalate the case.
   3. Provide the justification for escalation and the business impact of your case.
 
 {{site.data.keyword.Bluemix_notm}} Support Managers are on duty and available 24 hours a day, every day of the week. The managers on duty engage the appropriate resources to address your case and then inform you about the actions taken.
