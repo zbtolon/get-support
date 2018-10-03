@@ -23,15 +23,14 @@ You are provided free technical support through the {{site.data.keyword.Bluemix}
 
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
-| Description |	Basic business protection that is included with your {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go or Subscription account | Prioritized ticket handling and support experience that is aligned with your business needs | Client engagement that is aligned with your business outcomes to accelerate time-to-value |
-| Availability | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through tickets, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through tickets, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through tickets, phone, and chat |
-| Initial response time objectives | Not applicable | Severity 1: Less than one hour <br/> Severity 2: Less than two hours <br/> Severity 3: Less than four hours <br/> Severity 4: Less than eight hours | Severity 1: Within 15 minutes* <br/> Severity 2: Less than 1 hour* <br/> Severity 3: Less than two hours <br/> Severity 4: Less than four hours |
-| Ticket severity | Not applicable | Ticket severity ranking available | Ticket severity ranking available |
-| Additional support | Not applicable | Not applicable | Technical Account Manager assigned <br/> <br/> Quarterly business reviews <br/><br/> Access to experts <br/> <br/> Invitation to *Cloud Insights* |
+| Description |	Basic business protection that is included with your {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go or Subscription account | Prioritized case handling and support experience that is aligned with your business needs | Client engagement that is aligned with your business outcomes to accelerate time-to-value |
+| Availability | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
+| Initial response time objectives | Not applicable | Severity 1: Less than one hour <br/> Severity 2: Less than two hours <br/> Severity 3: Less than four hours <br/> Severity 4: Less than eight hours | Severity 1: Less than 15 minutes <br/> Severity 2: Less than 1 hour <br/> Severity 3: Less than two hours <br/> Severity 4: Less than four hours |
+| Case severity | Not applicable | Case severity ranking available | Case severity ranking available |
+| Additional support | Not applicable | Not applicable | Technical Account Manager assigned <br/> <br/> Quarterly business reviews <br/><br/> Access to experts <br/> <br/> Invitation to Cloud Insights |
 {:caption="Table 1. Support plans" caption-side="top"}
 
-*Updated SLO effective Oct 01, 2018. Applicable to support cases created on or after Oct 01, 2018. 
-Premium Support initial response time objectives prior to Oct 01, 2018: Severity 1 within 1 hour; Severity 2 within 90 minutes.
+**Note**: The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
 
 For more information about how the severity of tickets is assigned and how tickets are handled, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html).
 {: tip} 

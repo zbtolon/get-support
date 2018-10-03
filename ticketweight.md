@@ -24,12 +24,12 @@ How quickly your support tickets are addressed depends on the weight that is ass
 
 The following table lists some common examples of support issues, suggested severity levels, and the response time objectives. The response time objectives are used to describe IBM goals only, and do not represent a performance guarantee.
 
-Severity | Severity definition | Response time objectives
-------|-------- | --- |
-Severity 1 | <strong>Critical business impact or service is down.</strong> <br> Business critical function is inoperable or critical interface is failed. This severity usually applies to a production environment and indicates that an inability to access services is leading to a critical impact on operations. This condition requires an immediate solution. | <ul><li><strong>Premium:</strong> Within 15 minutes*</li><li><strong>Advanced:</strong> Within 1 hour</li><li><strong>Basic:</strong> N/A, cannot open severity 1 tickets</li></ul>  			   
-Severity 2 | <strong>Significant business impact.</strong> <br> A service feature or function is severely restricted in its use or you are in danger of missing business deadlines. | <ul><li><strong>Premium:</strong> Within 1 hour* </li><li><strong>Advanced:</strong> Within 2 hours</li><li><strong>Basic:</strong> N/A, cannot open severity 2 tickets</li></ul>
-Severity 3 | <strong>Minor business impact.</strong> <br> A service feature or function is usable, but has some problems that affect its use. No critical impact on operations is caused. | <ul><li><strong>Premium:</strong> Within 2 hours</li><li><strong>Advanced:</strong> Within 4 hours</li><li><strong>Basic:</strong> N/A, cannot open severity 3 tickets</li></ul>
-Severity 4 | <strong>Minimal business impact.</strong> <br> An inquiry or non-technical request. | <ul><li><strong>Premium:</strong> Within 4 hours</li><li><strong>Advanced:</strong> Within 8 hours</li><li><strong>Basic:</strong> Best effort</li></ul> 
+Severity | Severity Definition | Response Time Objectives
+|-----|------- | ----- |
+| Severity 1 | <strong>Critical business impact or service is down.</strong> <br> Business critical function is inoperable or critical interface is failed. This severity usually applies to a production environment and indicates that an inability to access services is leading to a critical impact on operations. This condition requires an immediate solution. | Premium: Less than 15 minutes <br> Advanced: Within 1 hour <br> Basic: N/A, can't open severity 1 cases |
+| Severity 2 | <strong>Significant business impact.</strong> <br> A service feature or function is severely restricted in its use or you are in danger of missing business deadlines. | Premium: Within 1 hour <br> Advanced: Within 2 hours <br> Basic: N/A, can't open severity 2 cases |
+| Severity 3 | <strong>Minor business impact.</strong> <br> A service feature or function is usable, but has some problems that affect its use. No critical impact on operations is caused. | Premium: Within 2 hours <br> Advanced: Within 4 hours <br> Basic: N/A, can't open severity 3 cases |
+| Severity 4 | <strong>Minimal business impact.</strong> <br> An inquiry or non-technical request. | Premium: Within 4 hours <br> Advanced: Within 8 hours <br> Basic: Best effort |
 {: caption="Table 1. Severity definition and response time" caption-side="top"}
 
-*Updated SLO effective Oct 01, 2018. Applicable to support cases created on or after Oct 01, 2018. Premium Support initial response time objectives prior to Oct 01, 2018: Severity 1 within 1 hour; Severity 2 within 90 minutes.
+**Note**: The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
