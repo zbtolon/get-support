@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ If you suspect that {{site.data.keyword.Bluemix_notm}} is not functioning as exp
 ### Take advantage of multiple {{site.data.keyword.Bluemix_notm}} Foundry Service regions
 {: #monbp-multpreg}
 
-All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US-SOUTH, US-EAST, EU-GB, EU-DE, and AU-SYD regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
+All users of {{site.data.keyword.Bluemix_notm}} Public automatically have access to the US South, United Kingdom, Germany, Sydney,US East and AP North regions. The {{site.data.keyword.Bluemix_notm}} Global Operations team manages all regions to avoid maintenance impacts and minimize the risk of incidents that affect all regions at the same time.
 
 To switch regions, from the {{site.data.keyword.Bluemix_notm}} menu bar, expand the region menu, and then select another region.
 
