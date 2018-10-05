@@ -4,10 +4,9 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-09-13"
 
 ---
-
 
 {:shortdesc: .shortdesc}
 {:codeblock: .codeblock}
@@ -30,7 +29,7 @@ Wenn Ihr SoftLayer-Konto im Kundenportal der {{site.data.keyword.BluSoftlayer_no
 
 Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an. Klicken Sie in der Menüleiste auf **Support** > **Support Center**.  
 
-Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Forum 'Stack Overflow' (für technische Fragen) und zu 'developerWorks Answers' (für alle anderen Fragen).  
+Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können auch Support-Tickets über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Stack Overflow-Forum für technische Fragen und zum developerWorks-Forum (IBM Developer Answers) für alle anderen Fragen).  
 
 Abhängig vom Typ Ihres Kontos sind auch andere Optionen im Support Center verfügbar.  
 * Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support/index.html) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können.
@@ -41,12 +40,12 @@ Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, 
 ### Fragen stellen
 {: #asking-a-question}
 
-Die Foren 'Stack Overflow' für technische Fragen und 'developerWorks Answers' bieten beide eine breite Palette durchsuchbarer Antworten für Ihre Fragen zu {{site.data.keyword.Bluemix_notm}}. Wenn Sie keine Antwort vorfinden, stellen Sie eine neue Frage. Auf Stack Overflow und developerWorks Answers können Sie über das Support Center zugreifen oder hierzu die folgenden Links verwenden:
+Das Stack Overflow-Forum für technische Fragen und das Forum 'IBM Developer Answers' bieten beide eine breite Palette durchsuchbarer Antworten für Ihre Fragen zu {{site.data.keyword.Bluemix_notm}}. Wenn Sie keine Antwort vorfinden, stellen Sie eine neue Frage. Auf Stack Overflow und IBM Developer Answers können Sie über das Support Center zugreifen oder hierzu die folgenden Links verwenden: 
 
   * Rufen Sie [Stack Overflow ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} auf, um technische Fragen zur Entwicklung von Apps mit der {{site.data.keyword.Bluemix_notm}}-Plattform und den entsprechenden Services zu stellen.
-  * Rufen Sie [developerWorks Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} auf, um allgemeine Fragen zum {{site.data.keyword.Bluemix_notm}}-Angebot zu stellen und einführende Anweisungen zu erhalten.
+  * Rufen Sie [IBM Developer Answers ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} auf, um allgemeine Fragen zum {{site.data.keyword.Bluemix_notm}}-Angebot zu stellen und einführende Anweisungen zu erhalten.
 
-{{site.data.keyword.Bluemix_notm}}-Entwicklungs- und Support-Teams überwachen Stack Overflow und developerWorks Answers aktiv und verfolgen die Fragen, die mit der Kennung **ibm-cloud** versehen sind. Wenn Sie eine Frage in einem der Foren stellen, fügen Sie die Kennung **ibm-cloud** zu Ihrer Frage hinzu, um sicherzustellen, dass sie von den {{site.data.keyword.Bluemix_notm}}-Entwicklungs- und Support-Teams wahrgenommen wird.
+{{site.data.keyword.Bluemix_notm}}-Entwicklungs- und Support-Teams überwachen Stack Overflow und IBM Developer Answers aktiv und verfolgen die Fragen, die mit der Kennung **ibm-cloud** versehen sind. Wenn Sie eine Frage in einem der Foren stellen, fügen Sie die Kennung **ibm-cloud** zu Ihrer Frage hinzu, um sicherzustellen, dass sie von den {{site.data.keyword.Bluemix_notm}}-Entwicklungs- und Support-Teams wahrgenommen wird.
 
 Wenn das Problem nicht auf einer Betriebsunterbrechung beruht und Sie keine Antworten zu Ihrem speziellen Problem finden, können Sie sich mit der Kundenunterstützung in Verbindung setzen, indem Sie ein Support-Ticket öffnen.
 
@@ -72,14 +71,17 @@ Sie können Tickets für technische Probleme, für Probleme im Zusammenhang mit 
 {: #opentechticket}
 
 Führen Sie die folgenden Schritte aus, um die erforderlichen Informationen im Ticketformular anzugeben, um Hilfe bei Ihrem technischen Problem zu erhalten:
-  1. Wenn Sie über ein [verknüpftes Konto](/docs/account/softlayerlink.html#link_accounts) verfügen, wählen Sie als ersten Schritt entweder **Infrastruktur** oder **Anwendungen und Services** aus.
+  1. Wenn Sie über ein [verknüpftes Konto](/docs/account/softlayerlink.html#link_accounts) verfügen, wählen Sie **Infrastruktur** oder **Anwendungen und Services** aus.
   2. Wählen Sie als Tickettyp **Technisch** aus.
   3. Wählen Sie im Feld **Ressourcenkontext auswählen** eine der folgenden Optionen aus:
-    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/resources/resourcegroups.html#rgs).
-    * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
+    * **Ressourcengruppe**, wenn Sie ein Problem mit der Verwaltung Ihrer Ressourcengruppen haben. Weitere Informationen finden Sie unter [Ressourcengruppen verwalten](/docs/resources/resourcegroups.html#rgs). 
+    * **Cloud Foundry**, wenn Sie ein Problem mit der Bereitstellung einer Cloud Foundry-App haben. Weitere Informationen zur Bereitstellung von Cloud Foundry-Apps finden Sie unter [Gemeinsames Funktionieren von Cloud Foundry mit {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html). 
   4. Wenn Sie über Premium oder Advanced Support verfügen, wählen Sie die Prioritätsstufe für Ihr Problem aus.
   5. Füllen Sie die erforderlichen Informationen aus. Welche Informationen benötigt werden, richtet sich nach dem von Ihnen ausgewählten Ressourcenkontext sowie nach dem Typ des Supportplans für Ihr Konto. Weitere Informationen zu Supporttypen finden Sie unter [Supporttypen](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Klicken Sie auf **Abschicken**.
+  6. Wenn Sie über ein verknüpftes Konto verfügen, stehen Ihnen die folgende zusätzlichen Unterstützungsoptionen zur Verfügung, die Sie auswählen können: 
+    * Bis zu 5 Einheiten, die in Verbindung mit dem technischen Problem stehen, das Sie melden. 
+    * Wenn Sie über für die EU lokalisierten Support verfügen, das Rechenzentrum, in dem Ihre Ressourcen gehostet werden. 
+  7. Klicken Sie auf **Abschicken**.
 
 ### Support-Tickets für Kontoprobleme öffnen
 {: #openacctticket}
@@ -102,7 +104,8 @@ Sie können auch die Hilfetextseite des [{{site.data.keyword.Bluemix_notm}}-Supp
 
 Wenn Ihr Konto ein {{site.data.keyword.Bluemix_notm}} Dedicated oder Local-Konto ist, wird die Unterstützung vom {{site.data.keyword.Bluemix_notm}}-Support-Team bereitgestellt. Auch wenn Sie möglicherweise keine {{site.data.keyword.ibmid}} haben, stehen Ihnen jedoch einige verschiedene Optionen zum Abrufen der Unterstützung zur Verfügung.
 
-* Fordern Sie Unterstützung an, indem Sie auf der Hilfeseite des [{{site.data.keyword.Bluemix_notm}}-Supports ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://www.ibm.biz/bluemixsupport){: new_window} ein neues Ticket öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_notm}} Dedicated** oder **{{site.data.keyword.Bluemix_notm}} Local** für das Feld 'Region' aus.
+* Fordern Sie Unterstützung an, indem Sie auf der Hilfeseite des
+[{{site.data.keyword.Bluemix_notm}}-Supports ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://www.ibm.biz/bluemixsupport){: new_window} ein neues Ticket öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_notm}} Dedicated** oder **{{site.data.keyword.Bluemix_notm}} Local** für das Feld 'Region' aus.
 * Wenn Sie über eine {{site.data.keyword.ibmid}} verfügen und Zugriff auf die {{site.data.keyword.Bluemix_notm}} Public-Umgebung haben, klicken Sie in der Menüleiste auf **Support** und wählen **Ticket hinzufügen** aus. Wählen Sie den Themenbereich für Ihr Problem aus und befolgen Sie die Eingabeaufforderungen, um Ihr Ticket einzureichen.
 * Wenn Sie keine {{site.data.keyword.ibmid}} haben, können Sie sich an eine Person in Ihrer Organisation mit einer solchen ID wenden oder mit Ihrem IBM Ansprechpartner zusammenarbeiten.
 
@@ -112,7 +115,7 @@ Auf Anforderung kann eine Liste der Benutzer in Ihrer Organisation, die als Kont
 ## Unterstützung für Ressourcen in der EU anfordern
 {: #eusupported}
 
-Die Unterstützung für die Europäische Union wird rund um die Uhr von in Europa ansässigen Fachkräften betreut und steht Kunden zur Verfügung, die die Option für 'Unterstützung in der EU' auswählen. Globale Teams bieten nur nach Ermessen des EU-Unterstützungsteams und unter dessen Leitung Unterstützung. Globale Teams können zum Beispiel kontaktiert werden, wenn Probleme von europäischen Support-Teams der Ebene 1 oder 2 nicht behoben werden können und weiteres Fachwissen erforderlich ist.
+Die Unterstützung für die Europäische Union wird rund um die Uhr an 7 Tagen pro Woche von in Europa ansässigen Fachkräften betreut und steht Kunden zur Verfügung, die die Option für 'Unterstützung in der EU' auswählen. Globale Teams bieten nur nach Ermessen des EU-Unterstützungsteams und unter dessen Leitung Unterstützung. Globale Teams können zum Beispiel kontaktiert werden, wenn Probleme von europäischen Support-Teams der Ebene 1 oder 2 nicht behoben werden können und weiteres Fachwissen erforderlich ist.
 
 Sie können angeben, dass die Unterstützung für Ihr Konto durch ein Support-Team erfolgen soll, das in Europa ansässig ist, falls die folgenden Bedingungen zutreffen:
   * Ihr Masterbenutzer oder Kontoeigner hat die Option 'Unterstützung in der EU' für Ihr Konto festgelegt.

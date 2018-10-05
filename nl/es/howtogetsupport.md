@@ -62,7 +62,7 @@ Si su consulta de soporte requiere una respuesta inmediata, considere la posibil
 
 Puede abrir una incidencia desde el Centro de soporte o desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}.
   * Para abrir una incidencia de soporte desde el Centro de soporte, pulse **Abrir una incidencia** en la sección **Obtener ayuda**.
-  * Para abrir una incidencia de soporte desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}, pulse **Soporte** > **Añadir incidencia**.
+  * Para abrir una incidencia de soporte desde la consola de {{site.data.keyword.Bluemix_notm}} de la barra de menús, pulse **Soporte** > **Añadir incidencia**.
 
 Después de abrir una incidencia de soporte, recibirá una notificación de correo electrónico en pocos minutos para la incidencia. Siga las instrucciones del correo electrónico para obtener más comunicaciones sobre el problema.
 
