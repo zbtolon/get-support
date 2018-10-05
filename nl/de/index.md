@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-10-03"
 
 ---
 
@@ -23,12 +23,14 @@ Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword
 
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
-| Beschreibung |	Grundlegende Geschäftsabsicherung im Rahmen Ihres nutzungsabhängigen Kontos oder Ihres Abonnementkontos in {{site.data.keyword.Bluemix_notm}} | Priorisierte Erfahrung mit Ticket-Verarbeitung und Support, die auf Ihre Geschäftsanforderungen abgestimmt ist | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
-| Verfügbarkeit | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Ticket, Telefon und Chat |
-| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als eine Stunde <br/> Priorität 2: Weniger als zwei Stunden <br/> Priorität 3: Weniger als vier Stunden <br/> Priorität 4: Weniger als 8 Stunden | Priorität 1: Weniger als eine Stunde <br/> Priorität 2: Weniger als 90 Minuten <br/> Priorität 3: Weniger als zwei Stunden <br/> Priorität 4: Weniger als vier Stunden |
-| Ticket-Priorität | Nicht zutreffend | Einstufung nach Ticket-Priorität verfügbar | Einstufung nach Ticket-Priorität verfügbar |
-| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Zugriff auf Experten <br/> <br/> Einladung zu *Cloud Insights* |
+| Beschreibung |	Grundlegende Geschäftsabsicherung im Rahmen Ihres nutzungsabhängigen Kontos oder Ihres Abonnementkontos in {{site.data.keyword.Bluemix_notm}} | Priorisierte Fallbearbeitung und Unterstützung, die auf Ihre Geschäftsanforderungen abgestimmt sind | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
+| Verfügbarkeit | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
+| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als eine Stunde <br/> Priorität 2: Weniger als zwei Stunden <br/> Priorität 3: Weniger als vier Stunden <br/> Priorität 4: Weniger als 8 Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als zwei Stunden <br/> Priorität 4: Weniger als vier Stunden |
+| Fallpriorität | Nicht zutreffend | Einstufung nach Fallpriorität verfügbar | Einstufung nach Fallpriorität verfügbar |
+| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Zugriff auf Experten <br/> <br/> Einladung zu Cloud Insights |
 {:caption="Tabelle 1. Supportpläne" caption-side="top"}
+
+**Hinweis**: Die SLO-Aktualisierung für die ursprüngliche angestrebte Reaktionszeit im Rahmen des Premium-Supports ist ab 01. Oktober 2018 gültig. Die Aktualisierungen beziehen sich auf Supportfälle, die am oder nach dem 01. Oktober 2018 erstellt wurden. Die ursprüngliche angestrebte Reaktionszeit im Rahmen des Premium-Supports vor dem 01. Oktober 2018 beträgt 1 Stunde für Priorität 1 und 90 Minuten für Priorität 2.
 
 Weitere Informationen dazu, wie die Priorität von Tickets zugewiesen wird und wie die Tickets verarbeitet werden, finden Sie unter [Zuordnung und Gewichtung von Tickets](/docs/get-support/ticketweight.html).
 {: tip} 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-10-02"
 
 ---
 
@@ -50,20 +50,18 @@ Von den Scripts wird die Cloud Foundry-Befehlszeilenschnittstelle zum Extrahiere
 ## Supportfälle eskalieren
 {: #escalation}
 
-Sie können weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren, wenn Sie eines der folgenden Kriterien erfüllen: 
-  * Sie sind ein {{site.data.keyword.Bluemix_notm}}-Kunde mit Advanced oder Premium Support.
-  * Sie sind ein SoftLayer-Kunde mit einer SoftLayer-Standard-Supportvereinbarung.
+Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über entsprechende Updates.
 
-Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Support-Ticket nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Support-Ticket, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über entsprechende Updates.
+Als Kunde mit einem gebührenpflichtigen Abonnement können Sie weitere Unterstützung anfordern, indem Sie den Fall an den zuständigen {site.data.keyword.Bluemix_notm}} Support Manager eskalieren. 
 
-Um einen Supportfall eskalieren zu können, müssen Sie über ein offenes Support-Ticket für das Problem verfügen. Stellen Sie außerdem sicher, dass Sie eine detaillierte Beschreibung des technischen Problems in das von Ihnen geöffnete Support-Ticket eingebunden haben.
+Zum Eskalieren eines Supportfalls müssen Sie über einen offenen Supportfall für das Problem verfügen. Stellen Sie darüber hinaus sicher, dass Sie eine detaillierte Beschreibung des technischen Problems in dem von Ihnen geöffneten Supportfall angegeben haben.
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 
   1. Kontaktieren Sie das {{site.data.keyword.Bluemix_notm}}-Support-Team telefonisch oder über den Chat:
     * Telefonische Kontaktaufnahme unter der folgenden Nummer: 866-403-7638.
     * Kontaktaufnahme via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein SoftLayer-Konto verfügen, das nicht verknüpft ist, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Geben Sie Ihre vorhandene Ticketnummer und Anforderung an, um den Fall zu eskalieren.
+  2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren.
   3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
 
-{{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
+{{site.data.keyword.Bluemix_notm}} Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
