@@ -30,7 +30,7 @@ Se proporciona soporte técnico gratuito a través de la comunidad de {{site.dat
 | Soporte adicional | No aplicable | No aplicable | Technical Account Manager asignado <br/> <br/> Revisiones de negocio trimestrales <br/><br/> Acceso a expertos <br/> <br/> Invitación a *Cloud Insights* |
 {:caption="Tabla 1. Planes de soporte" caption-side="top"}
 
-Para obtener más información sobre cómo se asigna la gravedad de las incidencias y cómo se gestionan las incidencias, consulte [¿Cómo se asignan y se ponderan las incidencias?](/docs/get-support/ticketweight.html)
+Para obtener más información sobre cómo se asigna la gravedad de las incidencias y cómo se gestionan las incidencias, consulte [¿Cómo se asignan y se ponderan las incidencias?](/docs/get-support/ticketweight.html).
 {: tip} 
 
 ## Soporte premium
