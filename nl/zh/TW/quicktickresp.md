@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-10-02"
 
 ---
 
@@ -50,20 +50,18 @@ Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列�
 ## 呈報支援案例
 {: #escalation}
 
-如果您符合下列其中一項準則，可以透過將您的案例呈報給值班的 {{site.data.keyword.Bluemix_notm}} 支援經理，來要求進一步的協助：
-  * 您是 {{site.data.keyword.Bluemix_notm}} 客戶，並具有進階或超值支援
-  * 您是 SoftLayer 客戶，並依據 SoftLayer 標準支援合約來運作
+使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援案例的話也可使用呈報處理程序。呈報案例時，值班經理會檢閱支援案例中的資訊、安排 {{site.data.keyword.Bluemix_notm}} 支援技術團隊的適當成員參與，然後為您提供適當的更新。
 
-使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援問題單的話也可使用呈報處理程序。案例呈報之後，值班經理會檢閱支援問題單中的資訊、安排 {{site.data.keyword.Bluemix_notm}} 支援技術團隊的適當成員參與，然後為您提供適當的更新。
+身為任何付費訂閱的客戶，您可以透過將您的案例呈報給值班的 {{site.data.keyword.Bluemix_notm}} 支援經理，來要求進一步的協助。 
 
-若要呈報支援案例，您必須已開立問題的支援問題單。此外，也請確定您已在開立的支援問題單中提供技術問題的詳細說明。
+若要呈報支援案例，您必須已開立問題的支援案例。此外，也請確定您已在開立的支援案例中提供技術問題的詳細說明。
 
  若要呈報案例，請完成下列步驟：
 
   1. 以電話或會談與 {{site.data.keyword.Bluemix_notm}} 支援中心團隊聯絡：
     * 電話號碼如下：866-403-7638。
     * 使用會談請從 {{site.data.keyword.Bluemix_notm}} [支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}，或是如果您有未鏈結的 SoftLayer 帳戶，請從[客戶入口網站 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}。
-  2. 提供您現有的問題單號碼，並要求呈報案例。
+  2. 提供您現有的案例號碼，並要求呈報案例。
   3. 提供調整的理由及您案例的業務衝擊。
 
 {{site.data.keyword.Bluemix_notm}} 支援經理每天 24 小時、每週每天都值班並提供服務。值班經理會安排適當的資源以解決您的案例，然後通知您已採取的動作。
