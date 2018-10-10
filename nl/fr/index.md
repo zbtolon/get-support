@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-10-03"
 
 ---
 
@@ -23,12 +23,14 @@ Vous bénéficiez d'un support technique gratuit via la communauté {{site.data.
 
 |  | Support de base | Support avancé | Support Premium |
 |-------------|-------------|-------------|-------------|
-| Description |	La protection métier de base incluse avec votre compte {{site.data.keyword.Bluemix_notm}} de type Paiement à la carte ou Abonnement | Traitement prioritaire des tickets et support aligné avec vos besoins métier | Mandat client aligné avec votre résultat métier pour accélérer votre retour sur investissement |
-| Disponibilité | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des tickets, le téléphone et les discussions en ligne.| Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des tickets, le téléphone et les discussions en ligne.| Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des tickets, le téléphone et les discussions en ligne.|
-| Objectifs de temps de réponse initiaux | Non applicable | Gravité 1 : moins d'une heure <br/> Gravité 2 : moins de deux heures <br/> Gravité 3 : moins de quatre heures <br/> Gravité 4 : moins de huit heures | Gravité 1 : moins d'une heure <br/> Gravité 2 : Moins de 90 minutes <br/> Gravité 3 : moins de deux heures <br/> Gravité 4 : moins de quatre heures |
-| Niveau de gravité de ticket | Non applicable | Classement de gravité de ticket disponible | Classement de gravité de ticket disponible |
-| Support supplémentaire | Non applicable | Non applicable | Chargé de compte technique affecté <br/> <br/> Revues métier trimestrielles <br/><br/> Accès aux spécialistes <br/> <br/> Invitation à  *Cloud Insights* |
+| Description |	La protection métier de base incluse avec votre compte {{site.data.keyword.Bluemix_notm}} de type Paiement à la carte ou Abonnement | Traitement prioritaire des cas et support aligné avec vos besoins métier | Mandat client aligné avec votre résultat métier pour accélérer votre retour sur investissement |
+| Disponibilité | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne.| Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne.| Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne.|
+| Objectifs de temps de réponse initiaux | Non applicable | Gravité 1 : moins d'une heure <br/> Gravité 2 : moins de deux heures <br/> Gravité 3 : moins de quatre heures <br/> Gravité 4 : moins de huit heures | Gravité 1 : moins de 15 minutes <br/> Gravité 2 : moins d'1 heure <br/> Gravité 3 : moins de deux heures <br/> Gravité 4 : moins de quatre heures |
+| Gravité des cas | Non applicable | Classement de gravité cas disponible | Classement de gravité cas disponible |
+| Support supplémentaire | Non applicable | Non applicable | Chargé de compte technique affecté <br/> <br/> Revues métier trimestrielles <br/><br/> Accès aux spécialistes <br/> <br/> Invitation à Cloud Insights |
 {:caption="Tableau 1. Plans de support" caption-side="top"}
+
+**Remarque** : objectif du niveau de service mis à jour pour les objectifs de temps de réponse initiaux du support premium en vigueur le 1er octobre 2018. Les mises à jour sont applicables aux cas de support qui sont créés le 1 octobre 2018 ou après. Les objectifs de temps de réponse initiaux du support premium antérieurs au 1er octobre 2018 correspondent à 1 heure pour le niveau de gravité 1 et à 90 minutes pour le niveau de gravité 2. 
 
 Pour plus d'informations sur l'affectation de gravité aux tickets et sur leur traitement, voir [Comment les tickets sont-ils affectés et pondérés ?](/docs/get-support/ticketweight.html).
 {: tip} 
@@ -36,7 +38,7 @@ Pour plus d'informations sur l'affectation de gravité aux tickets et sur leur t
 ## Support Premium
 {: #premium-support}
 
-Le support Premium est destiné à des environnements cruciaux pour la mission et qui dépendent stratégiquement d'{{site.data.keyword.Bluemix_notm}}. Les clients du plan Premium bénéficient du support supplémentaire suivant : 
+Le support Premium est destiné à des environnements cruciaux pour la mission et qui dépendent stratégiquement d'{{site.data.keyword.Bluemix_notm}}. Les clients du plan Premium bénéficient du support supplémentaire suivant :
   * Traitement prioritaire des tickets
   * Un chargé de compte technique désigné pour vous aider à accélérer le retour sur investissement
   * Accès aux spécialistes pour consultations techniques spécialisées et assistance
@@ -56,6 +58,6 @@ Le support de base est assuré pour les environnements non destinés à la produ
 ## Changement de plan de support
 {:changing-support}
 
-Vous pouvez changer de plan de support à n'importe quel miment en contactant le service commercial {{site.data.keyword.Bluemix_notm}}.  Accédez au site du [support {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/cloud/support){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"), faites défiler la page, puis cliquez sur **Contactez-nous**. Vous pourrez alors communiquer avec un expert via une discussion en ligne, le téléphone ou un courrier électronique.  
+Vous pouvez changer de plan de support à n'importe quel miment en contactant le service commercial {{site.data.keyword.Bluemix_notm}}. Accédez au site du [support {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/cloud/support){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"), faites défiler la page, puis cliquez sur **Contactez-nous**. Vous pourrez alors communiquer avec un expert via une discussion en ligne, le téléphone ou un courrier électronique.  
 
 
