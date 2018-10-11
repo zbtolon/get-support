@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-14"
+lastupdated: "2018-10-02"
 
 ---
 
@@ -51,20 +51,18 @@ Gli script utilizzano l'interfaccia riga di comando Cloud Foundry per estrarre l
 ## Escalation dei casi di supporto
 {: #escalation}
 
-Puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {{site.data.keyword.Bluemix_notm}} in servizio se soddisfi uno dei seguenti criteri:
-  * Sei un cliente {{site.data.keyword.Bluemix_notm}} con il supporto avanzato o premium 
-  * Sei un cliente SoftLayer che opera nell'ambito del contratto di supporto standard SoftLayer
+Utilizza il processo di escalation per dare rilievo ai problemi critici o se ritieni che il tuo caso di supporto non venga affrontato adeguatamente. Quando un caso viene inoltrato al livello superiore, il responsabile in servizio riesamina le informazioni nel caso di supporto, coinvolge i membri appropriati del team tecnico di supporto {{site.data.keyword.Bluemix_notm}} e ti fornisce gli aggiornamenti appropriati.
 
-Utilizza il processo di escalation per dare rilievo ai problemi critici o se ritieni che il tuo ticket di supporto non venga affrontato adeguatamente. Quando un caso viene inoltrato al livello superiore, il responsabile in servizio riesamina le informazioni nel ticket di supporto, coinvolge i membri appropriati del team tecnico di supporto {{site.data.keyword.Bluemix_notm}} e ti fornisce gli aggiornamenti appropriati.
+Puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {site.data.keyword.Bluemix_notm}} in servizio come un cliente con una sottoscrizione a pagamento. 
 
-Per eseguire l'escalation di un caso di supporto, devi avere un ticket di supporto aperto per il problema. Inoltre, assicurati di aver fornito una descrizione dettagliata del problema tecnico nel ticket di supporto che hai aperto.
+Per eseguire l'escalation di un caso di supporto, devi avere un caso di supporto aperto per il problema. Inoltre, assicurati di aver fornito una descrizione dettagliata del problema tecnico nel caso di supporto che hai aperto.
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 
   1. Contatta il team di supporto {{site.data.keyword.Bluemix_notm}} telefonicamente o via chat:
     * Telefonicamente al seguente numero: 866-403-7638.
     * Via chat dal {{site.data.keyword.Bluemix_notm}} [Centro di supporto ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} o, se hai un account SoftLayer che non è collegato, dal [portale clienti ![Icona link esterno](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
-  2. Fornisci il tuo numero del ticket esistente e richiedi l'escalation del caso.
+  2. Fornisci il tuo numero del caso esistente e richiedi l'escalation del caso.
   3. Fornisci la giustificazione per l'escalation e l'impatto aziendale del tuo caso.
 
 I responsabili del supporto {{site.data.keyword.Bluemix_notm}} sono in servizio e disponibili 24 ore al giorno, ogni giorno della settimana. I responsabili in servizio coinvolgono le risorse appropriate per risolvere il tuo caso e ti informano quindi delle azioni intraprese.

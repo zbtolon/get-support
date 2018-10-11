@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-10-03"
 
 ---
 
@@ -23,12 +23,14 @@ Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyw
 
 |  | Supporto di base | Supporto avanzato | Supporto premium |
 |-------------|-------------|-------------|-------------|
-| Descrizione |	Protezione aziendale di base inclusa con il tuo account Sottoscrizione o Pagamento a consumo {{site.data.keyword.Bluemix_notm}} | Gestione dei ticket prioritaria ed esperienza di supporto allineata alle tue esigenze di business | Coinvolgimento del cliente allineato con i risultati aziendali per accelerare il time-to-value |
-| Disponibilità | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con ticket, telefono e chat. |
-| Obiettivi tempo di risposta iniziali | Non applicabile | Severità 1: meno di un'ora <br/> Severità 2: meno di due ore <br/> Severità 3: meno di quattro ore <br/> Severità 4: meno di otto ore | Severità 1: meno di un'ora <br/> Severità 2: meno di 90 minuti <br/> Severità 3: meno di due ore <br/> Severità 4: meno di quattro ore |
-| Severità del ticket | Non applicabile | Classificazione della severità del ticket disponibile | Classificazione della severità del ticket disponibile |
-| Supporto aggiuntivo | Non applicabile | Non applicabile | Account manager tecnico assegnato <br/> <br/> Relazioni di business trimestrali <br/><br/> Accesso ad esperti <br/> <br/> Invito a *Cloud Insights* |
+| Descrizione |	Protezione aziendale di base inclusa con il tuo account Sottoscrizione o Pagamento a consumo {{site.data.keyword.Bluemix_notm}} | Gestione dei casi prioritaria ed esperienza di supporto allineata alle tue esigenze di business | Coinvolgimento del cliente allineato con i risultati aziendali per accelerare il time-to-value |
+| Disponibilità | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. |
+| Obiettivi tempo di risposta iniziali | Non applicabile | Severità 1: meno di un'ora <br/> Severità 2: meno di due ore <br/> Severità 3: meno di quattro ore <br/> Severità 4: meno di otto ore | Severità 1: meno di 15 minuti <br/> Severità 2: meno di 1 ora <br/> Severità 3: meno di due ore <br/> Severità 4: meno di quattro ore |
+| Severità caso | Non applicabile | Classificazione della severità del caso disponibile | Classificazione della severità del caso disponibile |
+| Supporto aggiuntivo | Non applicabile | Non applicabile | Account manager tecnico assegnato <br/> <br/> Relazioni di business trimestrali <br/><br/> Accesso ad esperti <br/> <br/> Invito a Cloud Insights |
 {:caption="Tabella 1. Piani di supporto" caption-side="top"}
+
+**Nota**: lo SLO aggiornato per gli obiettivi di tempo di risposta iniziale del supporto premium sono effettivi dal primo ottobre 2018. Gli aggiornamenti vengono applicati per supportare i casi creati il primo ottobre 2018 o dopo tale data. Gli obiettivi di tempo di risposta iniziale del supporto premium precedenti al primo ottobre 2018 sono entro 1 ora per la severità 1 e entro 90 minuti per la severità 2.
 
 Per ulteriori informazioni su come viene assegnata la severità dei ticket e come vengono gestiti, consulta [In che modo vengono assegnati e ponderati i ticket?](/docs/get-support/ticketweight.html).
 {: tip} 
