@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-08-08"
+lastupdated: "2018-10-03"
 
 ---
 
@@ -23,12 +23,14 @@ Se proporciona soporte técnico gratuito a través de la comunidad de {{site.dat
 
 |  | Soporte básico | Soporte avanzado | Soporte premium |
 |-------------|-------------|-------------|-------------|
-| Descripción |	Protección empresarial básica que se incluye con la cuenta de Suscripción o Pago según uso de {{site.data.keyword.Bluemix_notm}} | Prioridad en la gestión de incidencias y experiencia de soporte alineadas con sus necesidades empresariales | Colaboración de clientes alineada con sus resultados empresariales para acelerar el plazo de rentabilización |
-| Disponibilidad | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante incidencias, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante incidencias, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante incidencias, teléfono y chat |
-| Objetivo de tiempo de respuesta inicial | No aplicable | Gravedad 1: Menos de una hora <br/> Gravedad 2: Menos de dos horas <br/> Gravedad 3: Menos de cuatro horas <br/> Gravedad 4: Menos de ocho horas | Gravedad 1: Menos de una hora <br/> Gravedad 2: Menos de 90 minutos <br/> Gravedad 3: Menos de dos horas <br/> Gravedad 4: Menos de cuatro horas |
-| Gravedad de la incidencia | No aplicable | Clasificación de la gravedad de la incidencia disponible | Clasificación de la gravedad de la incidencia disponible |
-| Soporte adicional | No aplicable | No aplicable | Technical Account Manager asignado <br/> <br/> Revisiones de negocio trimestrales <br/><br/> Acceso a expertos <br/> <br/> Invitación a *Cloud Insights* |
+| Descripción |	Protección empresarial básica que se incluye con la cuenta de Suscripción o Pago según uso de {{site.data.keyword.Bluemix_notm}} | Prioridad en la gestión del caso y experiencia de soporte alineadas con sus necesidades empresariales | Colaboración de clientes alineada con sus resultados empresariales para acelerar el plazo de rentabilización |
+| Disponibilidad | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat |
+| Objetivo de tiempo de respuesta inicial | No aplicable | Gravedad 1: Menos de una hora <br/> Gravedad 2: Menos de dos horas <br/> Gravedad 3: Menos de cuatro horas <br/> Gravedad 4: Menos de ocho horas | Gravedad 1: Menos de 15 minutos <br/> Gravedad 2: Menos de 1 hora <br/> Gravedad 3: Menos de dos horas <br/> Gravedad 4: Menos de cuatro horas |
+| Gravedad del caso | No aplicable | Clasificación de la gravedad del caso disponible | Clasificación de la gravedad del caso disponible |
+| Soporte adicional | No aplicable | No aplicable | Technical Account Manager asignado <br/> <br/> Revisiones de negocio trimestrales <br/><br/> Acceso a expertos <br/> <br/> Invitación a Cloud Insights |
 {:caption="Tabla 1. Planes de soporte" caption-side="top"}
+
+**Nota**: SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte premium, efectivos el 1 de octubre de 2018. Las actualizaciones son aplicables a casos de soporte que se crean durante o después del 1 de octubre de 2018. Los objetivos de tiempo de respuesta inicial del soporte premium antes del 1 de octubre de 2018 serán de 1 hora de plazo para gravedad 1 y 90 minutos de plazo para gravedad 2.
 
 Para obtener más información sobre cómo se asigna la gravedad de las incidencias y cómo se gestionan las incidencias, consulte [¿Cómo se asignan y se ponderan las incidencias?](/docs/get-support/ticketweight.html).
 {: tip} 
