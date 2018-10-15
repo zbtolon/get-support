@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ Wenn Sie vermuten, dass {{site.data.keyword.Bluemix_notm}} nicht wie erwartet fu
 ### Nutzen der Vorteile mehrerer {{site.data.keyword.Bluemix_notm}} Foundry-Serviceregionen
 {: #monbp-multpreg}
 
-Alle Benutzer von {{site.data.keyword.Bluemix_notm}} Public haben automatisch Zugriff auf die Regionen US-SOUTH, US-EAST, EU-GB, EU-DE und AU-SYD. Das {{site.data.keyword.Bluemix_notm}} Global Operations-Team verwaltet alle Regionen, um Auswirkungen von Instandhaltungsmaßnahmen zu verhindern und um das Risiko von Zwischenfällen zu minimieren, die sich auf alle Regionen gleichzeitig auswirken.
+Alle Benutzer von {{site.data.keyword.Bluemix_notm}} Public verfügen automatisch über Zugriff auf die Regionen 'Vereinigte Staate (Süden)', 'Vereinigtes Königreich', 'Deutschland', 'Sydney', 'Vereinigte Staaten (Osten)' und 'Asien-Pazifik (Norden)'. Das {{site.data.keyword.Bluemix_notm}} Global Operations-Team verwaltet alle Regionen, um Auswirkungen von Instandhaltungsmaßnahmen zu verhindern und um das Risiko von Zwischenfällen zu minimieren, die sich auf alle Regionen gleichzeitig auswirken.
 
 Zum Wechseln der Regionen erweitern Sie in der {{site.data.keyword.Bluemix_notm}}-Menüleiste das Regionsmenü und wählen Sie dann eine andere Region aus.
 
@@ -102,4 +102,4 @@ Für {{site.data.keyword.Bluemix_notm}} gibt es standardmäßig ungefähr 50 Upd
 ## Benachrichtigungen zu Vorfällen und Wartungsmaßnahmen einrichten
 {: #setting-up-notifications}
 
-Bei {{site.data.keyword.Bluemix_notm}} Public können Sie sich für Plattformbenachrichtigungen anmelden. Dabei handelt es sich um optionale E-Mail-Alerts bei Vorfall- und Wartungsereignissen für die Plattform. Klicken Sie auf **Verwalten** > **Konto** > **Benachrichtigungen** und wählen Sie die Registerkarte **Plattform** aus, um Benachrichtigungen einzurichten.  
+Bei {{site.data.keyword.Bluemix_notm}} Public können Sie sich für Plattformbenachrichtigungen anmelden. Dabei handelt es sich um optionale E-Mail-Alerts bei Vorfall- und Wartungsereignissen für die Plattform. Klicken Sie auf **Verwalten** > **Konto** > **Benachrichtigungen** und wählen Sie die Registerkarte **Plattform** aus, um Benachrichtigungen einzurichten. 

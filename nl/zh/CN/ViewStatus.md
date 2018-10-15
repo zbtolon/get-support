@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ lastupdated: "2018-09-14"
 ### 利用多个 {{site.data.keyword.Bluemix_notm}} Foundry 服务区域
 {: #monbp-multpreg}
 
-{{site.data.keyword.Bluemix_notm}} Public 的所有用户自动有权访问 US-SOUTH、US-EAST、EU-GB、EU-DE 和 AU-SYD 区域。{{site.data.keyword.Bluemix_notm}} 全球运营团队会管理所有区域，以避免维护影响，同时最大限度地降低影响所有区域的事件的风险。
+{{site.data.keyword.Bluemix_notm}} Public 的所有用户自动有权访问美国南部、英国、德国、悉尼、美国东部和亚太地区南部区域。{{site.data.keyword.Bluemix_notm}} 全球运营团队会管理所有区域，以避免维护影响，同时最大限度地降低影响所有区域的事件的风险。
 
 要切换区域，请从 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开区域菜单，然后选择其他区域。
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ lastupdated: "2018-09-14"
 ### 充分運用多個 {{site.data.keyword.Bluemix_notm}} Foundry Service 地區
 {: #monbp-multpreg}
 
-{{site.data.keyword.Bluemix_notm}} Public 的所有使用者都自動可存取 US-SOUTH、US-EAST、EU-GB、EU-DE 及 AU-SYD 地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
+{{site.data.keyword.Bluemix_notm}} Public 的所有使用者都自動可存取美國南部、英國、德國、雪梨、美國東部和亞太北部地區。{{site.data.keyword.Bluemix_notm}} Global Operations 團隊會管理所有地區，以避免維護造成的影響，並讓發生同時影響所有地區之突發事件的風險降到最低。
 
 若要切換地區，請從 {{site.data.keyword.Bluemix_notm}} 功能表列中，展開地區功能表，然後選取另一個地區。
 
