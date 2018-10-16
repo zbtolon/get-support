@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ lastupdated: "2018-09-14"
 ### 다중 {{site.data.keyword.Bluemix_notm}} Foundry 서비스 지역 활용
 {: #monbp-multpreg}
 
-{{site.data.keyword.Bluemix_notm}} 퍼블릭의 모든 사용자는 자동으로 US-SOUTH, US-EAST, EU-GB, EU-DE 및 AU-SYD 지역에 액세스할 수 있습니다. {{site.data.keyword.Bluemix_notm}} 글로벌 오퍼레이션 팀에서 전체 지역을 관리하여 유지보수에 미치는 영향을 방지하고 동시에 모든 지역에 영향을 미치는 인시던트의 발생 위험을 최소화합니다.
+{{site.data.keyword.Bluemix_notm}} 퍼블릭의 모든 사용자는 자동으로 미국 남부, 영국, 독일, 시드니, 미국 동부 및 AP 북부 지역에 액세스할 수 있습니다. {{site.data.keyword.Bluemix_notm}} 글로벌 오퍼레이션 팀에서 전체 지역을 관리하여 유지보수에 미치는 영향을 방지하고 동시에 모든 지역에 영향을 미치는 인시던트의 발생 위험을 최소화합니다.
 
 지역을 전환하려면 {{site.data.keyword.Bluemix_notm}} 메뉴 표시줄에서 지역 메뉴를 펼쳐서 다른 지역을 선택하십시오.
 
@@ -102,4 +102,4 @@ RSS 피드를 읽는 다른 방법은 다음과 같은 웹 브라우저 플러�
 ## 인시던트 및 유지보수 알림 설정
 {: #setting-up-notifications}
 
-{{site.data.keyword.Bluemix_notm}} 퍼블릭의 경우에는 플랫폼의 인시던트 및 유지보수 이벤트에 대한 선택적 이메일 경보인 플랫폼 알림을 등록할 수 있습니다. 알림을 설정하려면 **관리** > **계정** > **알림**을 클릭하고 **플랫폼** 탭을 선택하십시오.  
+{{site.data.keyword.Bluemix_notm}} 퍼블릭의 경우에는 플랫폼의 인시던트 및 유지보수 이벤트에 대한 선택적 이메일 경보인 플랫폼 알림을 등록할 수 있습니다. 알림을 설정하려면 **관리** > **계정** > **알림**을 클릭하고 **플랫폼** 탭을 선택하십시오. 

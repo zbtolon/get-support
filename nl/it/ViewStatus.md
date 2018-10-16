@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-09-14"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# Visualizzazione delle notifiche e dello stato del sistema 
+# Visualizzazione delle notifiche e dello stato del sistema
 {: #viewing-bluemix-status}
 
 La pagina Stato è la posizione centrale per trovare notifiche e annunci sugli eventi chiave che interessano la piattaforma {{site.data.keyword.Bluemix_notm}} e i servizi principali.
@@ -60,7 +60,7 @@ Se hai il sospetto che {{site.data.keyword.Bluemix_notm}} non funzioni nel modo 
 ### Usufruisci di più regioni del servizio {{site.data.keyword.Bluemix_notm}} Foundry
 {: #monbp-multpreg}
 
-Tutti gli utenti di {{site.data.keyword.Bluemix_notm}} pubblico hanno automaticamente accesso alle regioni US-SOUTH, US-EAST, EU-GB, EU-DE e AU-SYD. Il team di {{site.data.keyword.Bluemix_notm}} Global Operations gestisce tutte le regioni per evitare impatti sulla manutenzione e ridurre al minimo il rischio di eventi imprevisti che influiscano contemporaneamente su tutte le regioni.
+Tutti gli utenti di {{site.data.keyword.Bluemix_notm}} pubblico hanno automaticamente accesso alle regioni Stati Uniti Sud, Regno Unito, Germania, Sydney, Stati Uniti Est e Asia Pacifico Nord. Il team di {{site.data.keyword.Bluemix_notm}} Global Operations gestisce tutte le regioni per evitare impatti sulla manutenzione e ridurre al minimo il rischio di eventi imprevisti che influiscano contemporaneamente su tutte le regioni.
 
 Per cambiare regione, dalla barra dei menu di {{site.data.keyword.Bluemix_notm}}, espandi il menu della regione e seleziona quindi un'altra regione.
 

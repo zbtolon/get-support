@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ Si vous trouvez que {{site.data.keyword.Bluemix_notm}} ne fonctionne pas comme p
 ### Avantages des régions multiples de services {{site.data.keyword.Bluemix_notm}} Foundry
 {: #monbp-multpreg}
 
-Tous les utilisateurs de l'environnement {{site.data.keyword.Bluemix_notm}} Public ont automatiquement accès aux régions Sud des Etats-Unis, Est des Etats-Unis, Europe-Royaume-Uni, Europe-Allemagne et Australie-Sydney. L'équipe de {{site.data.keyword.Bluemix_notm}} Global Operations gère toutes les régions afin d'éviter les impacts de la maintenance et de minimiser le risque d'incidents affectant simultanément toutes les régions.
+Tous les utilisateurs de l'environnement {{site.data.keyword.Bluemix_notm}} ont automatiquement accès aux régions Sud des Etats-Unis, Royaume-Uni, Allemagne, Sydney, Est des Etats-Unis et AP Nord. L'équipe de {{site.data.keyword.Bluemix_notm}} Global Operations gère toutes les régions afin d'éviter les impacts de la maintenance et de minimiser le risque d'incidents affectant simultanément toutes les régions.
 
 Pour basculer vers une autre région, depuis la barre de menus {{site.data.keyword.Bluemix_notm}}, développez le menu Région, puis sélectionnez une autre région.
 
