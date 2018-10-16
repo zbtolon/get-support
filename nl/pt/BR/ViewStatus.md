@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ Se você suspeitar que o {{site.data.keyword.Bluemix_notm}} não está funcionan
 ### Aproveite várias regiões do {{site.data.keyword.Bluemix_notm}} Foundry Service
 {: #monbp-multpreg}
 
-Todos os usuários do {{site.data.keyword.Bluemix_notm}} Public têm automaticamente acesso às regiões US-SOUTH, US-EAST, EU-GB, EU-DE e AU-SYD. A equipe de Operações Globais do {{site.data.keyword.Bluemix_notm}} gerencia todas as regiões para evitar impactos de manutenção e minimizar o risco de incidentes que afetem todas as regiões ao mesmo tempo.
+Todos os usuários do {{site.data.keyword.Bluemix_notm}} Public têm acesso automaticamente às regiões Sul dos EUA, Reino Unido, Alemanha, Sydney, Leste dos EUA e Norte da Ásia-Pacífico. A equipe de Operações Globais do {{site.data.keyword.Bluemix_notm}} gerencia todas as regiões para evitar impactos de manutenção e minimizar o risco de incidentes que afetem todas as regiões ao mesmo tempo.
 
 Para alternar regiões, na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu de região e, em seguida, selecione outra região.
 
