@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-14"
+lastupdated: "2018-10-04"
 
 ---
 
@@ -56,7 +56,7 @@ Si cree que {{site.data.keyword.Bluemix_notm}} no funciona según lo previsto, c
 ### Aprovechar varias regiones de {{site.data.keyword.Bluemix_notm}} Foundry Service
 {: #monbp-multpreg}
 
-Todos los usuarios de {{site.data.keyword.Bluemix_notm}} Public tienen acceso automáticamente a las regiones US-SOUTH, US-EAST, EU-GB, EU-DE y AU-SYD. El equipo {{site.data.keyword.Bluemix_notm}} Global Operations gestiona todas las regiones para evitar que les afecte el mantenimiento y minimizar el riesgo de incidencias que afecten a todas las regiones al mismo tiempo.
+Todos los usuarios de {{site.data.keyword.Bluemix_notm}} Public tienen acceso automáticamente a las regiones EE.UU. sur, Reino Unido, Alemania, Sídney, EE.UU. este y AP norte. El equipo {{site.data.keyword.Bluemix_notm}} Global Operations gestiona todas las regiones para evitar que les afecte el mantenimiento y minimizar el riesgo de incidencias que afecten a todas las regiones al mismo tiempo.
 
 Para cambiar entre regiones, desde la barra de menús de {{site.data.keyword.Bluemix_notm}}, amplíe el menú de región y, a continuación, seleccione otra región.
 
