@@ -15,7 +15,7 @@ lastupdated: "2018-10-22"
 {:new_window: target="_blank"}
 
 # Withdrawal of support for some US data centers
-{: #tlssupportwithdraw}
+{: #dc-migrate}
 
 IBM is withdrawing support for the following data centers in the United States: 
 
