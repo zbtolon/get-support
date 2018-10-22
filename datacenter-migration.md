@@ -35,9 +35,9 @@ Yes. To ensure that you have no interruption in service, we are trying to allow 
 
 We constantly evaluate the quality of our sites to bring you the best and most dependable service. It is possible that we might have other moves as we continue to evaluate some of the older sites.
 
-## Can I choose any {{site.data.keyword.cloud}} US data center?
+## Can I choose any {{site.data.keyword.Bluemix_notm}} US data center?
 
-You can choose any US IBM site that meets your location needs.
+Yes, you can choose any US IBM site that meets your location needs.
 
 ## How do I select which data center to deploy to?
 
