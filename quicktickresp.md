@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-02"
+lastupdated: "2018-10-23"
 
 ---
 
@@ -52,7 +52,7 @@ The scripts use the Cloud Foundry command line interface to extract the followin
 
 Use the escalation process to surface critical issues or if you feel your support case isn’t being addressed properly. When a case is escalated, the manager on duty reviews the information in the support case, engages the appropriate members of the {{site.data.keyword.Bluemix_notm}} support technical team, and provides you with appropriate updates.
 
-You can request further assistance by escalating your case to the {site.data.keyword.Bluemix_notm}} Support Manager on duty as a customer with any paid subscription. 
+You can request further assistance by escalating your case to the {{site.data.keyword.Bluemix_notm}} Support Manager on duty as a customer with any paid subscription. 
 
 To escalate a support case, you must have an open support case for the issue. Also, ensure that you provided a detailed description of the technical issue in the support case that you opened.
 
