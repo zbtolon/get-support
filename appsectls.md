@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -28,18 +28,18 @@ Changing TLS version support provides a cloud environment that is secure and in 
 ## What is TLS?
 {: #what}
 
-The [TLS protocol ![External link icon](../icons/launch-glyph.svg "External link icon")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} is used to encrypt communications across a network to ensure that transmitted data remains private. TLS released the following versions: 1.0, 1.1, and 1.2. All HTTPS connections use TLS. HTTPS is the predominant method of ensuring that your connections to {{site.data.keyword.Bluemix_notm}} products and services are trusted and secure. Some {{site.data.keyword.Bluemix_notm}} products and services allow secure connections by using the WebSocket Secure (WSS) protocol, which also uses TLS. Withdrawal of support for TLS 1.0 and 1.1 covers both HTTPS and WSS connections.
+The [TLS protocol ![External link icon](../icons/launch-glyph.svg "External link icon")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} is used to encrypt communications across a network to ensure that transmitted data stays private. TLS released the following versions: 1.0, 1.1, and 1.2. All HTTPS connections use TLS. HTTPS is the predominant method of ensuring that your connections to {{site.data.keyword.Bluemix_notm}} products and services are trusted and secure. Some {{site.data.keyword.Bluemix_notm}} products and services allow secure connections by using the WebSocket Secure (WSS) protocol, which also uses TLS. Withdrawal of support for TLS 1.0 and 1.1 covers both HTTPS and WSS connections.
 
-## What actions do I need to take to make sure I am not impacted?
+## What actions do I need to take to make sure I'm not impacted?
 {: #impact}
 
-Most connections that are made to {{site.data.keyword.Bluemix_notm}} products or services already use TLS 1.2. If your connections do not require TLS 1.0 or 1.1, you are not impacted.
+Most connections that are made to {{site.data.keyword.Bluemix_notm}} products or services already use TLS 1.2. If your connections don't require TLS 1.0 or 1.1, you aren't impacted.
 
-If you are using any of the products of services that are withdrawing support for TLS 1.0 or 1.1, you must confirm that your connections do not require TLS 1.0 or 1.1.
+If you're using any of the products of services that are withdrawing support for TLS 1.0 or 1.1, you must confirm that your connections don't require TLS 1.0 or 1.1.
 
 ### Cloud Foundry on {{site.data.keyword.Bluemix_notm}}
 
-For Cloud Foundry applications, you need to confirm that your connections to your application from outside of {{site.data.keyword.Bluemix_notm}} are not impacted. Also confirm that connections from your application to another Cloud Foundry application on {{site.data.keyword.Bluemix_notm}} are not impacted.
+For Cloud Foundry applications, you must confirm your connections to your application from outside of {{site.data.keyword.Bluemix_notm}} aren't impacted. Also, confirm that connections from your application to another Cloud Foundry application on {{site.data.keyword.Bluemix_notm}} aren't impacted.
 
 All connections to Cloud Foundry that use TLS are potentially impacted, including any connections made from web browsers. All modern browsers support TLS 1.2, including browsers that are {{site.data.keyword.Bluemix_notm}} [Prerequisites](https://console.bluemix.net/docs/overview/prereqs.html#browsers).
 {: tip}
@@ -50,9 +50,9 @@ All Cloud Foundry application endpoints on the `*.mybluemix.net` domain can be a
 
 To use the alternative endpoint, add `alt.` after your application’s subdomain. For example, if your application is hosted at `https://myapplication.mybluemix.net` use `https://myapplication.alt.mybluemix.net`. Or, for `https://myapplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
 
-If you are able to successfully connect to the alternative endpoint, you are not impacted.
+If you can successfully connect to the alternative endpoint, you're not impacted.
 
-If you cannot successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
+If you can't successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
 
 #### Connecting between Cloud Foundry applications
 
@@ -68,7 +68,7 @@ cf restage <application_name>
 
 After you make these changes, any outbound request from your application redirects to the alternative TLS 1.2-only endpoints.
 
-To use the alternative endpoints, your client must support the Server Name Indication (SNI) TLS extension. If it does not, the returned certificate might be considered invalid by your client and you might incorrectly assume that you are impacted by TLS 1.0 and 1.1 removal.
+To use the alternative endpoints, your client must support the Server Name Indication (SNI) TLS extension. If it doesn't, the returned certificate might be considered invalid by your client and you might incorrectly assume that you're impacted by TLS 1.0 and 1.1 removal.
 {: tip}
 
 ### Watson products and services
@@ -77,25 +77,25 @@ For Watson products and services make the following replacements to your connect
   * Replace `gateway.watsonplatform.net` with `gateway-tls12.watsonplatform.net`
   * Replace  `stream.wastonplatform.net` with `stream-tls12.watsonplatform.net`
 
-These alternative endpoints support TLS 1.2 only. If you are able to successfully connect to these alternative endpoints, you are not impacted. If you cannot successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
+These alternative endpoints support TLS 1.2 only. If you can successfully connect to these alternative endpoints, you are not impacted. If you cannot successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
 
-Alternative endpoints for Watson products and services in regions other than US South are not provided as these already support only TLS 1.2.
+Alternative endpoints for Watson products and services in locations other than Dallas aren't provided as these already support only TLS 1.2.
 
-`gatway-tls12.watsonplatform.net` and `stream-tls12.watsonplatform.net` are for testing purposes only and will not be available after TLS 1.0 and 1.1 are removed.
+`gatway-tls12.watsonplatform.net` and `stream-tls12.watsonplatform.net` are for testing purposes only and won't be available after TLS 1.0 and 1.1 are removed.
 {: tip}
 
 ### Other products or services
 
-For products or services that do not have alternative TLS 1.2-only endpoints available refer to any available documentation for your client or client libraries for information on how to determine which versions of TLS are supported and which version you are using.
+For products or services that don't have alternative TLS 1.2-only endpoints available refer to any available documentation for your client or client libraries for information on how to determine which versions of TLS are supported and which version you're using.
 
 ## What products and services are withdrawing support for TLS 1.0 and 1.1?
 {: #prodsandservs}
 
 The following products or services are withdrawing support for TLS 1.0 and 1.1.
 
-Some products or services, such as Cloud Foundry on {{site.data.keyword.Bluemix_notm}} and services in the {{site.data.keyword.Bluemix_notm}} catalog, might be offered in multiple regions. TLS 1.0 and 1.1 will be removed across all regions where they are currently supported.
+Some products or services, such as Cloud Foundry on {{site.data.keyword.Bluemix_notm}} and services in the {{site.data.keyword.Bluemix_notm}} catalog, might be offered in multiple locations. TLS 1.0 and 1.1 is removed across all locations where they're currently supported.
 
-**Important note:** {{site.data.keyword.Bluemix_notm}} Private or {{site.data.keyword.Bluemix_notm}} Local System deployments or any {{site.data.keyword.Bluemix_notm}} services hosted in these deployments are not included. If your deployment still supports TLS 1.0 or 1.1, work with your customer or support representative to determine when removal is right for you.
+**Important note:** {{site.data.keyword.Bluemix_notm}} Private or {{site.data.keyword.Bluemix_notm}} Local System deployments or any {{site.data.keyword.Bluemix_notm}} services that are hosted in these deployments aren't included. If your deployment still supports TLS 1.0 or 1.1, work with your customer or support representative to determine when removal is right for you.
 
 ### Products or services available from the {{site.data.keyword.Bluemix_notm}} catalog
 
@@ -234,11 +234,11 @@ Your product or service might already support only TLS 1.2, or it might not be r
 ## Is there a way I can continue to use TLS 1.0 or 1.1 after support is withdrawn?
 {: #tlskeepusing}
 
-Some products and services are enabling alternative endpoints that continue to support TLS 1.0 and 1.1 after they are removed from the primary endpoints.
+Some products and services are enabling alternative endpoints that continue to support TLS 1.0 and 1.1 after they're removed from the primary endpoints.
 
 ### {{site.data.keyword.Bluemix_notm}} infrastructure
 
-When support for TLS 1.0 and 1.1 is removed from `api.softlayer.com` and `api.service.softlayer.com`, alternative endpoints will be announced and available for 30 days.
+When support for TLS 1.0 and 1.1 is removed from `api.softlayer.com` and `api.service.softlayer.com`, alternative endpoints are announced and available for 30 days.
 
 ### Watson products and services
 {: #watsonprodservices}
