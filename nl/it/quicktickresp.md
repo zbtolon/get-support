@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-02"
+lastupdated: "2018-10-23"
 
 ---
 
@@ -34,7 +34,7 @@ seguente procedura:
 
 1. Assicurati di aver istallato la versione più recente dell'interfaccia riga di comando Cloud Foundry. Per ulteriori informazioni, vedi [Installazione dell'interfaccia riga di comando Cloud Foundry](/docs/starters/install_cli.html).
 >**Nota:** se non disponi della versione più recente, dopo aver connesso la riga di comando Cloud Foundry a {{site.data.keyword.Bluemix_notm}}, il comando `cf logs` potrebbe non restituire alcun output.
-2. Assicurati di aver connesso l'interfaccia riga di comando Cloud Foundry alla posizione in cui {{site.data.keyword.Bluemix_notm}} è in esecuzione utilizzando il comando `cf api`.
+2. Assicurati di aver connesso l'interfaccia riga di comando Cloud Foundry all'ubicazione in cui {{site.data.keyword.Bluemix_notm}} è in esecuzione utilizzando il comando `cf api`.
 
 Utilizza uno sei seguenti script per raccogliere le informazioni di diagnostica:
 
@@ -53,7 +53,7 @@ Gli script utilizzano l'interfaccia riga di comando Cloud Foundry per estrarre l
 
 Utilizza il processo di escalation per dare rilievo ai problemi critici o se ritieni che il tuo caso di supporto non venga affrontato adeguatamente. Quando un caso viene inoltrato al livello superiore, il responsabile in servizio riesamina le informazioni nel caso di supporto, coinvolge i membri appropriati del team tecnico di supporto {{site.data.keyword.Bluemix_notm}} e ti fornisce gli aggiornamenti appropriati.
 
-Puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {site.data.keyword.Bluemix_notm}} in servizio come un cliente con una sottoscrizione a pagamento. 
+Puoi richiedere ulteriore assistenza eseguendo una escalation del tuo caso al responsabile del supporto {{site.data.keyword.Bluemix_notm}} in servizio come un cliente con qualsiasi sottoscrizione a pagamento. 
 
 Per eseguire l'escalation di un caso di supporto, devi avere un caso di supporto aperto per il problema. Inoltre, assicurati di aver fornito una descrizione dettagliata del problema tecnico nel caso di supporto che hai aperto.
 
