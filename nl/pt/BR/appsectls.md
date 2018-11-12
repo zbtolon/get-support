@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -28,18 +28,21 @@ A mudança do suporte de versão do TLS fornece um ambiente de nuvem seguro e em
 ## O que é TLS?
 {: #what}
 
-O [protocolo TLS ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} é usado para criptografar comunicações em uma rede para assegurar que os dados transmitidos permaneçam privados. O TLS liberou as versões a seguir: 1.0, 1.1 e 1.2. Todas as conexões HTTPS usam o TLS. HTTPS é o método predominante de assegurar que suas conexões com produtos e serviços do {{site.data.keyword.Bluemix_notm}} sejam confiáveis e seguras. Alguns produtos e serviços do {{site.data.keyword.Bluemix_notm}} permitem conexões seguras usando o protocolo WebSocket Secure (WSS), que também usa TLS. A retirada de suporte para o TLS 1.0 e o 1.1 abrange as conexões HTTPS e WSS.
+O [protocolo TLS ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} é usado para criptografar as comunicações em uma rede para assegurar que os dados transmitidos permaneçam privados. O TLS liberou as versões a seguir: 1.0, 1.1 e 1.2. Todas as conexões HTTPS usam o TLS. HTTPS é o método predominante de assegurar que suas conexões com produtos e serviços do {{site.data.keyword.Bluemix_notm}} sejam confiáveis e seguras. Alguns produtos e serviços do {{site.data.keyword.Bluemix_notm}} permitem conexões seguras usando o protocolo WebSocket Secure (WSS), que também usa TLS. A retirada de suporte para o TLS 1.0 e o 1.1 abrange as conexões HTTPS e WSS.
 
-## Quais ações preciso executar para certificar-me de não ser afetado?
+## Quais ações eu preciso tomar para ter certeza de que não serei afetado?
 {: #impact}
 
 A maioria das conexões feitas para produtos ou serviços {{site.data.keyword.Bluemix_notm}} já usa o TLS 1.2. Se as suas conexões não requererem o TLS 1.0 ou 1.1, você não será afetado.
 
-Se você está usando qualquer um dos produtos de serviços que estão retirando o suporte para o TLS 1.0 ou 1.1, deve-se confirmar se as suas conexões não requerem o TLS 1.0 ou 1.1.
+Se você estiver usando qualquer um dos produtos de serviços que estão retirando o suporte para o TLS 1.0 ou 1.1,
+confirme se as suas conexões não requerem o TLS 1.0 ou 1.1.
 
 ### Cloud Foundry no {{site.data.keyword.Bluemix_notm}}
 
-Para aplicativos Cloud Foundry, é necessário confirmar se as conexões com seu aplicativo de fora do {{site.data.keyword.Bluemix_notm}} não foram afetadas. Confirme também se as conexões de seu aplicativo com outro aplicativo Cloud Foundry no {{site.data.keyword.Bluemix_notm}} não foram afetadas.
+Para os aplicativos Cloud Foundry, deve-se confirmar que as conexões com o aplicativo de fora do
+{{site.data.keyword.Bluemix_notm}} não são afetadas. Além disso, confirme se as conexões do aplicativo com
+outro aplicativo Cloud Foundry no {{site.data.keyword.Bluemix_notm}} não são afetadas.
 
 Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](https://console.bluemix.net/docs/overview/prereqs.html#browsers) do {{site.data.keyword.Bluemix_notm}}.
 {: tip}
@@ -50,9 +53,10 @@ Todos os terminais de aplicativo do Cloud Foundry no domínio `*.mybluemix.net` 
 
 Para usar o terminal alternativo, inclua `alt.` Após o subdomínio do seu aplicativo. Por exemplo, se o seu aplicativo estiver hospedado em `https://myapplication.mybluemix.net`, use `https://myapplication.alt.mybluemix.net`. Ou, para `https://myapplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
 
-Se você puder se conectar com êxito ao terminal alternativo, é porque não foi afetado.
+Se você puder se conectar com êxito ao terminal alternativo, não será afetado.
 
-Se você não puder se conectar com êxito, deverá mudar o seu cliente, as bibliotecas do cliente ou a configuração do cliente para ativar o TLS 1.2.
+Se você não puder se conectar com êxito, mude o cliente, as bibliotecas do cliente ou a configuração do
+cliente para ativar o TLS 1.2.
 
 #### Conectando entre aplicativos Cloud Foundry
 
@@ -68,7 +72,9 @@ cf restage <application_name>
 
 Depois de fazer essas mudanças, qualquer solicitação de saída de seu aplicativo será redirecionada somente para os terminais alternativos TLS 1.2.
 
-Para usar os terminais alternativos, o cliente deve suportar a extensão do TLS Server Name Indication (SNI). Caso contrário, o certificado retornado poderá ser considerado inválido por seu cliente e você poderá supor incorretamente que foi afetado pela remoção do TLS 1.0 e 1.1.
+Para usar os terminais alternativos, o cliente deve suportar a extensão do TLS Server Name Indication (SNI). Se
+não, o certificado retornado poderá ser considerado inválido pelo cliente e você poderá supor incorretamente que
+foi afetado pela remoção do TLS 1.0 e 1.1.
 {: tip}
 
 ### Produtos e serviços Watson
@@ -77,25 +83,33 @@ Para produtos e serviços do Watson, faça as substituições a seguir para suas
   * Substitua ``gateway.watsonplatform.net` com `gateway-tls12.watsonplatform.net`
   * Substitua ``stream.wastonplatform.net` com `stream-tls12.watsonplatform.net`
 
-Esses terminais alternativos suportam apenas o TLS 1.2. Se você puder se conectar com êxito a esses terminais alternativos, é porque não foi afetado. Se você não puder se conectar com êxito, deverá mudar o seu cliente, as bibliotecas do cliente ou a configuração do cliente para ativar o TLS 1.2.
+Esses terminais alternativos suportam apenas o TLS 1.2. Se você puder se conectar com êxito a esses terminais
+alternativos, não será afetado. Se você não puder se conectar com êxito, deverá mudar o seu cliente, as bibliotecas do cliente ou a configuração do cliente para ativar o TLS 1.2.
 
-Terminais alternativos para produtos e serviços do Watson em regiões diferentes do sul dos EUA não são fornecidos, pois já suportam apenas o TLS 1.2.
+Terminais alternativos para produtos e serviços do Watson em locais diferentes de Dallas não são fornecidos, pois eles já suportam apenas o TLS 1.2.
 
-`gatway-tls12.watsonplatform.net` e `stream-tls12.watsonplatform.net` são somente para propósitos de teste e não estarão disponíveis após o TLS 1.0 e o 1.1 serem removidos.
+`gatway-tls12.watsonplatform.net` e `stream-tls12.watsonplatform.net`
+destinam-se somente a propósitos de teste e não estarão disponíveis após a remoção do TLS 1.0 e 1.1.
 {: tip}
 
 ### Outros produtos ou serviços
 
-Para produtos ou serviços que não possuem somente terminais alternativos TLS 1.2 disponíveis, consulte qualquer documentação disponível de seu cliente ou bibliotecas do cliente para obter informações sobre como determinar quais versões do TLS são suportadas e qual versão você está usando.
+Para produtos ou serviços que não têm terminais alternativos TLS 1.2 exclusivos disponíveis, consulte qualquer
+documentação disponível do cliente ou das bibliotecas do cliente para obter informações sobre como determinar quais
+versões do TLS são suportadas e qual versão você está usando.
 
 ## Quais produtos e serviços estão retirando o suporte para o TLS 1.0 e 1.1?
 {: #prodsandservs}
 
 Os produtos ou serviços a seguir estão retirando o suporte para o TLS 1.0 e 1.1.
 
-Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemix_notm}} e os serviços no catálogo do {{site.data.keyword.Bluemix_notm}}, podem ser oferecidos em múltiplas regiões. O TLS 1.0 e o 1.1 serão removidos de todas as regiões em que eles são suportados atualmente.
+Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemix_notm}} e os serviços no
+catálogo do {{site.data.keyword.Bluemix_notm}}, podem ser oferecidos em múltiplas localizações. O TLS 1.0 e 1.1
+foi removido em todas as localizações nas quais são suportados atualmente.
 
-**Nota importante:** as implementações do {{site.data.keyword.Bluemix_notm}} Private ou {{site.data.keyword.Bluemix_notm}} Local System ou quaisquer serviços do {{site.data.keyword.Bluemix_notm}} hospedados nessas implementações não são incluídos. Se a sua implementação ainda suporta o TLS 1.0 ou 1.1, trabalhe com seu cliente ou representante de suporte para determinar quando a remoção é correta para você.
+**Nota importante:** as implementações do {{site.data.keyword.Bluemix_notm}} Private ou
+do {{site.data.keyword.Bluemix_notm}} Local System ou quaisquer serviços do
+{{site.data.keyword.Bluemix_notm}} hospedados nessas implementações não estão incluídos. Se a sua implementação ainda suporta o TLS 1.0 ou 1.1, trabalhe com seu cliente ou representante de suporte para determinar quando a remoção é correta para você.
 
 ### Produtos ou serviços disponíveis no catálogo do {{site.data.keyword.Bluemix_notm}}
 
@@ -144,7 +158,7 @@ Alguns produtos ou serviços, como o Cloud Foundry no {{site.data.keyword.Bluemi
 * Alert Notification
 * Availability Monitoring
 * Entrega contínua
-* Continuous Release
+* Liberação contínua
 * DevOps Insights
 * Gerenciamento de eventos
 * Globalization Pipeline
@@ -234,11 +248,12 @@ Seu produto ou serviço já pode suportar somente o TLS 1.2 ou pode não estar r
 ## Existe uma maneira de continuar usando o TLS 1.0 ou 1.1 após a retirada do suporte?
 {: #tlskeepusing}
 
-Alguns produtos e serviços estão permitindo terminais alternativos que continuam suportando o TLS 1.0 e 1.1 após sua remoção dos terminais primários.
+Alguns produtos e serviços estão ativando terminais alternativos que continuam a suportar o TLS 1.0 e 1.1 depois
+que são removidos dos terminais primários.
 
 ### Infraestrutura do {{site.data.keyword.Bluemix_notm}}
 
-Quando o suporte para o TLS 1.0 e 1.1 for removido de `api.softlayer.com` e `api.service.softlayer.com`, terminais alternativos serão anunciados e disponibilizados por 30 dias.
+Quando o suporte para o TLS 1.0 e 1.1 for removido do `api.softlayer.com` e do `api.service.softlayer.com`, os terminais alternativos serão anunciados e estarão disponíveis por 30 dias.
 
 ### Produtos e serviços Watson
 {: #watsonprodservices}
