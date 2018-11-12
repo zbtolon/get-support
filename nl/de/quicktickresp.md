@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-02"
+lastupdated: "2018-10-23"
 
 ---
 
@@ -52,7 +52,7 @@ Von den Scripts wird die Cloud Foundry-Befehlszeilenschnittstelle zum Extrahiere
 
 Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über entsprechende Updates.
 
-Als Kunde mit einem gebührenpflichtigen Abonnement können Sie weitere Unterstützung anfordern, indem Sie den Fall an den zuständigen {site.data.keyword.Bluemix_notm}} Support Manager eskalieren. 
+Als Kunde mit einem gebührenpflichtigen Abonnement können Sie weitere Unterstützung anfordern, indem Sie den Fall an den zuständigen {{site.data.keyword.Bluemix_notm}} Support Manager eskalieren. 
 
 Zum Eskalieren eines Supportfalls müssen Sie über einen offenen Supportfall für das Problem verfügen. Stellen Sie darüber hinaus sicher, dass Sie eine detaillierte Beschreibung des technischen Problems in dem von Ihnen geöffneten Supportfall angegeben haben.
 
