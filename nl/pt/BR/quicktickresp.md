@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-02"
+lastupdated: "2018-10-23"
 
 ---
 
@@ -52,7 +52,8 @@ Os scripts usam a interface da linha de comandos do Cloud Foundry para extrair a
 
 Use o processo de escalada para problemas críticos de superfície ou se você sentir que o seu caso de suporte não está sendo tratado adequadamente. Quando um caso é escalado, o gerente de plantão revisa as informações no caso de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece a você as atualizações apropriadas.
 
-É possível solicitar assistência adicional, escalando o seu caso para o Support Manager do {site.data.keyword.Bluemix_notm}} de plantão como um cliente com qualquer assinatura paga. 
+É possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}}
+Support Manager em serviço como um cliente com qualquer assinatura paga. 
 
 Para escalar um caso de suporte, deve-se ter um caso de suporte aberto para o problema. Além disso, assegure-se de fornecer uma descrição detalhada do problema técnico no caso de suporte que você abriu.
 
