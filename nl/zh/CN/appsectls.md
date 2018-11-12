@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -39,7 +39,7 @@ IBM 于 2018 年 3 月 1 日撤销了对许多云产品和服务上 TLS 1.0 和 
 
 ### {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry
 
-对于 Cloud Foundry 应用程序，您需要确认从 {{site.data.keyword.Bluemix_notm}} 外部连接到应用程序不会受到影响。同时确认从应用程序连接到 {{site.data.keyword.Bluemix_notm}} 上的其他 Cloud Foundry 应用程序也不受影响。
+对于 Cloud Foundry 应用程序，您必须确认从 {{site.data.keyword.Bluemix_notm}} 外部连接到应用程序不会受到影响。同时确认从应用程序连接到 {{site.data.keyword.Bluemix_notm}} 上的其他 Cloud Foundry 应用程序也不受影响。
 
 与 Cloud Foundry 的所有使用 TLS 的连接都可能会受到影响，包括从 Web 浏览器建立的任何连接。所有新式浏览器都支持 TLS 1.2，包括作为 {{site.data.keyword.Bluemix_notm}} [先决条件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的浏览器。
 {: tip}
@@ -68,7 +68,7 @@ cf restage <application_name>
 
 进行这些更改后，从应用程序发起的任何出站请求都将重定向到仅支持 TLS 1.2 的备用端点。
 
-要使用备用端点，客户机必须支持服务器名称指示 (SNI) TLS 扩展。否则，客户机可能会将返回的证书视为无效，并且您可能错误地假定自己会受 TLS 1.0 和 1.1 除去的影响。
+要使用备用端点，客户机必须支持服务器名称指示 (SNI) TLS 扩展。否则，客户机可能会将返回的证书视为无效，并且您可能错误地假定自己会受 TLS 1.0 和 1.1 除去操作的影响。
 {: tip}
 
 ### Watson 产品和服务
@@ -79,7 +79,7 @@ cf restage <application_name>
 
 这两个备用端点仅支持 TLS 1.2。如果能够成功连接到这两个备用端点，说明您不会受到影响。如果无法成功连接，您必须更改客户机、客户机库或客户机配置以启用 TLS 1.2。
 
-美国南部以外区域中的 Watson 产品和服务已经仅支持 TLS 1.2，因此没有为这些产品和服务提供备用端点。
+达拉斯以外位置中的 Watson 产品和服务已经仅支持 TLS 1.2，因此没有为这些产品和服务提供备用端点。
 
 `gatway-tls12.watsonplatform.net` 和 `stream-tls12.watsonplatform.net` 仅用于测试目的，在除去 TLS 1.0 和 1.1 之后将不可用。
 {: tip}
@@ -93,9 +93,9 @@ cf restage <application_name>
 
 以下产品或服务将撤销对 TLS 1.0 和 1.1 的支持。
 
-某些产品或服务（例如，{{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 和 {{site.data.keyword.Bluemix_notm}}“目录”中的服务）可能会在多个区域中提供。所有当前支持 TLS 1.0 和 1.1 的区域中，都将除去 TLS 1.0 和 1.1。
+某些产品或服务（例如，{{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 和 {{site.data.keyword.Bluemix_notm}} 目录中的服务）可能会在多个位置中提供。将在当前受支持的所有位置中除去 TLS 1.0 和 1.1。
 
-**重要注意事项：**不包括 {{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local 系统部署，也不包括这些部署中托管的任何 {{site.data.keyword.Bluemix_notm}} 服务。如果部署仍支持 TLS 1.0 或 1.1，请与客户或支持代表一起确定何时除去这些支持对您来说比较合适。
+**重要注意事项：**不包括 {{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，也不包括这些部署中托管的任何 {{site.data.keyword.Bluemix_notm}} 服务。如果部署仍支持 TLS 1.0 或 1.1，请与客户或支持代表一起确定何时除去这些支持对您来说比较合适。
 
 ### 通过 {{site.data.keyword.Bluemix_notm}} 目录提供的产品或服务
 

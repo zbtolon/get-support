@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -28,7 +28,7 @@ IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS
 ## 何謂 TLS？
 {: #what}
 
-我們使用 [TLS 通訊協定 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 來加密透過網路的通訊，以確保傳輸的資料能維持私密。TLS 已發行下列版本：1.0、1.1 及 1.2。所有 HTTPS 連線都會使用 TLS。HTTPS 是確定您與 {{site.data.keyword.Bluemix_notm}} 產品及服務的連線受信任且安全時，主要的方法。某些 {{site.data.keyword.Bluemix_notm}} 產品及服務容許使用 WebSocket Secure (WSS) 通訊協定來進行安全連線，而該通訊協定也使用 TLS。撤銷 TLS 1.0 及 1.1 支援同時涵蓋 HTTPS 和 WSS 連線。
+我們使用 [TLS 通訊協定 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} 來加密透過網路的通訊，以確保傳輸的資料能保持專用。TLS 已發行下列版本：1.0、1.1 及 1.2。所有 HTTPS 連線都會使用 TLS。HTTPS 是確定您與 {{site.data.keyword.Bluemix_notm}} 產品及服務的連線受信任且安全時，主要的方法。某些 {{site.data.keyword.Bluemix_notm}} 產品及服務容許使用 WebSocket Secure (WSS) 通訊協定來進行安全連線，而該通訊協定也使用 TLS。撤銷 TLS 1.0 及 1.1 支援同時涵蓋 HTTPS 和 WSS 連線。
 
 ## 我需要採取哪些動作，才能確保我不會受到影響？
 {: #impact}
@@ -39,7 +39,7 @@ IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS
 
 ### {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry
 
-針對 Cloud Foundry 應用程式，您需要確認從 {{site.data.keyword.Bluemix_notm}} 外連接至您的應用程式不受影響。另請確認從您的應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上的另一個 Cloud Foundry 應用程式不受影響。
+對於 Cloud Foundry 應用程式，您必須確認從 {{site.data.keyword.Bluemix_notm}} 外連接至您應用程式的連線不受影響。同時，也請確認從您應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上另一個 Cloud Foundry 應用程式的連線不受影響。
 
 所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。當今所有的瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的瀏覽器。
 {: tip}
@@ -50,7 +50,7 @@ IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS
 
 若要使用替代端點，請在應用程式的子網域之後新增 `alt.`。例如，如果您的應用程式是在 `https://myapplication.mybluemix.net` 進行管理，則請使用 `https://myapplication.alt.mybluemix.net`。或者，針對 `https://myapplication.eu-gb.mybluemix.net`，使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
 
-如果您能夠順利連接至替代端點，便不受影響。
+如果您可以順利連接至替代端點，則不受影響。
 
 如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
@@ -77,25 +77,25 @@ cf restage <application_name>
   * 將 `gateway.watsonplatform.net` 取代為 `gateway-tls12.watsonplatform.net`
   * 將 `stream.wastonplatform.net` 取代為 `stream-tls12.watsonplatform.net`
 
-這些替代端點僅支援 TLS 1.2。如果您能夠順利連接至這些替代端點，便不受影響。如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
+這些替代端點僅支援 TLS 1.2。如果您可以順利連接至這些替代端點，則不受影響。如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
-非美國南部地區中的 Watson 產品及服務，未提供替代端點，因為這些端點僅支援 TLS 1.2。
+未提供達拉斯以外位置中 Watson 產品及服務的替代端點，因為這些端點僅支援 TLS 1.2。
 
-`gatway-tls12.watsonplatform.net` 及 `stream-tls12.watsonplatform.net` 僅供測試之用，而且在移除 TLS 1.0 及 1.1 之後就無法使用。
+`gatway-tls12.watsonplatform.net` 及 `stream-tls12.watsonplatform.net` 僅供測試使用，而且在移除 TLS 1.0 及 1.1 之後將無法使用。
 {: tip}
 
 ### 其他產品或服務
 
-針對沒有可用僅限 TLS 1.2 替代端點的產品或服務，請參閱用戶端或用戶端程式庫的任何可用文件，以取得如何判定所支援 TLS 版本以及所使用版本的相關資訊。
+對於沒有僅限 TLS 1.2 替代端點的產品或服務，請參閱用戶端或用戶端程式庫的任何可用文件，以取得如何判定所支援 TLS 版本以及您所使用版本的相關資訊。
 
 ## 哪些產品及服務將撤銷對 TLS 1.0 及 1.1 的支援？
 {: #prodsandservs}
 
 下列產品或服務將撤銷對 TLS 1.0 及 1.1 的支援。
 
-多個地區可能會提供部分產品或服務（例如 {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 及 {{site.data.keyword.Bluemix_notm}} 型錄中的服務）。將在目前支援 TLS 1.0 及 1.1 的所有地區中移除 TLS 1.0 及 1.1。
+部分產品或服務（例如 {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 及 {{site.data.keyword.Bluemix_notm}} 型錄中的服務）可能會在多個位置提供。TLS 1.0 及 1.1 則已在目前支援它們的所有位置中移除。
 
-**重要注意事項：**「{{site.data.keyword.Bluemix_notm}} 專用」或「{{site.data.keyword.Bluemix_notm}} 本端系統」部署或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
+**重要注意事項**：{{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務皆不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
 
 ### 可從 {{site.data.keyword.Bluemix_notm}} 型錄取得的產品或服務
 
@@ -238,7 +238,7 @@ cf restage <application_name>
 
 ### {{site.data.keyword.Bluemix_notm}} 基礎架構
 
-從 `api.softlayer.com` 及 `api.service.softlayer.com` 移除 TLS 1.0 及 1.1 支援時，將會公告替代端點並提供使用 30 天。
+從 `api.softlayer.com` 及 `api.service.softlayer.com` 移除 TLS 1.0 及 1.1 支援後，將會公告替代端點並提供使用 30 天。
 
 ### Watson 產品及服務
 {: #watsonprodservices}
