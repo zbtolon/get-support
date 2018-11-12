@@ -21,10 +21,6 @@ Support
         mantick.md
         ticketweight.md
         quicktickresp.md
-
-    {: .topicgroup}
-    Problèmes connus
-	    appsectls.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -34,6 +30,12 @@ Support
     {: .navgroup id="help"}
     ts_overview.md
     ts_manageticket.md
+
+    {: .topicgroup}
+    Problèmes connus
+        datacenter-migration.md
+        appsectls.md
+
     [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
     {: .navgroup-end}

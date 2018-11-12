@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-02"
+lastupdated: "2018-10-23"
 
 ---
 
@@ -52,7 +52,7 @@ Les scripts utilisent l'interface de ligne de commande Cloud Foundry pour extrai
 
 Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Lorsqu'un cas de support est remonté, le responsable qui est de service prend connaissance des informations contenues dans le cas de support, affecte le traitement de cette tâche aux personnes appropriées de l'équipe de support technique {{site.data.keyword.Bluemix_notm}} et vous tient informé.
 
-Vous pouvez demander une assistance supplémentaire en faisant remonter votre cas de support au responsable de support {site.data.keyword.Bluemix_notm}} qui est de service en tant que client disposant d'un abonnement payant.  
+Vous pouvez demander une assistance supplémentaire en faisant remonter votre cas au responsable de support {{site.data.keyword.Bluemix_notm}} qui est de service en tant que client avec un abonnement payant. 
 
 Pour faire remonter un cas de support, vous devez avoir un case de support ouvert pour le problème. Prenez soin également de bien documenter le problème technique dans le cas de support que vous avez ouvert.
 
