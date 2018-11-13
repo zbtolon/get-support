@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -50,9 +50,9 @@ Tutti gli endpoint dell'applicazione Cloud Foundry sul dominio `*.mybluemix.net`
 
 Per utilizzare l'endpoint alternativo, aggiungi `alt.` dopo il dominio secondario della tua applicazione. Ad esempio, se la tua applicazione è ospitata su `https://myapplication.mybluemix.net`, utilizza `https://myapplication.alt.mybluemix.net`. Oppure, per `https://myapplication.eu-gb.mybluemix.net`, utilizza `https://myapplication.alt.eu-gb.mybluemix.net`.
 
-Se riesci a connetterti correttamente all'endpoint alternativo, non subisci alcun impatto.
+Se puoi connetterti correttamente all'endpoint alternativo, non subisci alcun impatto.
 
-Se non riesci a connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
+Se non puoi connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
 
 #### Connessione tra le applicazioni Cloud Foundry
 
@@ -77,9 +77,9 @@ Per i prodotti e i servizi Watson, effettua le seguenti sostituzioni alle tue co
   * Sostituisci `gateway.watsonplatform.net` con `gateway-tls12.watsonplatform.net`
   * Sostituisci `stream.wastonplatform.net` con `stream-tls12.watsonplatform.net`
 
-Questi endpoint alternativi supportano solo TLS 1.2. Se riesci a connetterti correttamente a questi endpoint alternativi, non subisci alcun impatto. Se non riesci a connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
+Questi endpoint alternativi supportano solo TLS 1.2. Se puoi connetterti correttamente a questi endpoint alternativi, non subisci alcun impatto. Se non riesci a connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
 
-Gli endpoint alternativi per prodotti e servizi Watson in regioni diverse da Stati Uniti Sud non vengono forniti, in quanto supportano già solo TLS 1.2.
+Gli endpoint alternativi per prodotti e servizi Watson in ubicazioni diverse da Dallas non vengono forniti, in quanto supportano già solo TLS 1.2.
 
 `gatway-tls12.watsonplatform.net` e `stream-tls12.watsonplatform.net` sono solo a scopo di test e non saranno disponibili dopo la rimozione di TLS 1.0 e 1.1.
 {: tip}
@@ -93,7 +93,7 @@ Per prodotti o servizi che non dispongono di endpoint alternativi solo per TLS 1
 
 I seguenti prodotti e servizi ritireranno il supporto per TLS 1.0 e 1.1.
 
-Alcuni prodotti o servizi, come Cloud Foundry su {{site.data.keyword.Bluemix_notm}} e servizi nel catalogo {{site.data.keyword.Bluemix_notm}}, potrebbero essere offerti in più regioni. TLS 1.0 e 1.1 verranno rimossi in tutte le regioni in cui sono attualmente supportati.
+Alcuni prodotti o servizi, come Cloud Foundry su {{site.data.keyword.Bluemix_notm}} e i servizi nel catalogo {{site.data.keyword.Bluemix_notm}}, potrebbero essere offerti in più ubicazioni. TLS 1.0 e 1.1 viene rimosso in tutte le ubicazioni in cui sono al momento supportati.
 
 **Nota importante:** le distribuzioni di {{site.data.keyword.Bluemix_notm}} privato o del sistema {{site.data.keyword.Bluemix_notm}} locale o i servizi {{site.data.keyword.Bluemix_notm}} ospitati in queste distribuzioni non sono inclusi. Se la tua distribuzione supporta ancora TLS 1.0 o 1.1, collabora con il tuo cliente o rappresentante del supporto per determinare quando la rimozione è più giusta per te.
 
@@ -238,7 +238,7 @@ Alcuni prodotti e servizi stanno abilitando endpoint alternativi che continuano 
 
 ### Infrastruttura {{site.data.keyword.Bluemix_notm}}
 
-Quando il supporto per TLS 1.0 e 1.1 viene rimosso da `api.softlayer.com` e `api.service.softlayer.com`, verranno annunciati gli endpoint alternativi che saranno disponibili per 30 giorni.
+Quando il supporto per TLS 1.0 e 1.1 viene rimosso da `api.softlayer.com` e `api.service.softlayer.com`, vengono annunciati gli endpoint alternativi che saranno disponibili per 30 giorni.
 
 ### Prodotti e servizi Watson
 {: #watsonprodservices}
