@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -28,18 +28,18 @@ Die Änderung der TLS-Versionsunterstützung geht einher mit der Bereitstellung 
 ## Was ist TLS?
 {: #what}
 
-Das [TLS-Protokoll ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} wird zur Verschlüsselung der Kommunikation innerhalb eines Netzes verwendet, um sicherzustellen, dass die übertragenen Daten vor unbefugten Zugriffen geschützt sind. TLS hat die folgenden Versionen freigegeben: 1.0, 1.1 und 1.2. Bei allen HTTPS-Verbindungen wird TLS verwendet. Im Allgemeinen wird mithilfe von HTTPS sichergestellt, dass Ihre Verbindungen zu {{site.data.keyword.Bluemix_notm}}-Produkten und -Services zuverlässig und sicher sind. Einige {{site.data.keyword.Bluemix_notm}}-Produkte und -Service ermöglichen sichere Verbindungen über das WSS-Protokoll (WSS = WebSocket Secure), bei dem ebenfalls TLS verwendet wird. Das Einstellen der Unterstützung für TLS 1.0 und 1.1 bezieht sich sowohl auf HTTPS- als auch auf WSS-Verbindungen.
+Das [TLS-Protokoll![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} wird zur Verschlüsselung der Kommunikation über ein gesamtes Netzwerk verwendet, um die Vertraulichkeit der übertragenen Daten sicherzustellen. TLS hat die folgenden Versionen freigegeben: 1.0, 1.1 und 1.2. Bei allen HTTPS-Verbindungen wird TLS verwendet. Im Allgemeinen wird mithilfe von HTTPS sichergestellt, dass Ihre Verbindungen zu {{site.data.keyword.Bluemix_notm}}-Produkten und -Services zuverlässig und sicher sind. Einige {{site.data.keyword.Bluemix_notm}}-Produkte und -Service ermöglichen sichere Verbindungen über das WSS-Protokoll (WSS = WebSocket Secure), bei dem ebenfalls TLS verwendet wird. Das Einstellen der Unterstützung für TLS 1.0 und 1.1 bezieht sich sowohl auf HTTPS- als auch auf WSS-Verbindungen.
 
-## Welche Maßnahmen muss ich treffen, um Beeinträchtigungen zu vermeiden?
+## Welche Vorkehrungen muss ich treffen, um Beeinträchtigungen zu vermeiden?
 {: #impact}
 
 Bei den meisten Verbindungen zu {{site.data.keyword.Bluemix_notm}}-Produkten und -Services wird bereits TLS 1.2 verwendet. Wenn Ihre Verbindungen nicht TLS 1.0 oder 1.1 erfordern, sind Sie nicht betroffen.
 
-Wenn Sie Produkte oder Services verwenden, bei denen die Unterstützung für TLS 1.0 oder 1.1 eingestellt wird, müssen Sie sich vergewissern, dass Ihre Verbindungen nicht TLS 1.0 oder 1.1 benötigen.
+Wenn Sie Produkte oder Services verwenden, bei denen die Unterstützung für TLS 1.0 oder 1.1 eingestellt wird, müssen Sie sich vergewissern, dass Ihre Verbindungen TLS 1.0 oder 1.1 nicht benötigen.
 
 ### Cloud Foundry in {{site.data.keyword.Bluemix_notm}}
 
-Bei Cloud Foundry-Anwendungen müssen Sie sich vergewissern, dass die Verbindungen, die Sie außerhalb von {{site.data.keyword.Bluemix_notm}} zu Ihrer Anwendung herstellen, nicht betroffen sind. Versichern Sie sich außerdem auch, dass Verbindungen von Ihrer Anwendung zu einer anderen Cloud Foundry-Anwendung auf {{site.data.keyword.Bluemix_notm}} nicht betroffen sind. 
+Bei Cloud Foundry-Anwendungen müssen Sie sich vergewissern, dass die Verbindungen, die Sie außerhalb von {{site.data.keyword.Bluemix_notm}} zu Ihrer Anwendung herstellen, nicht betroffen sind. Versichern Sie sich außerdem auch, dass Verbindungen von Ihrer Anwendung zu einer anderen Cloud Foundry-Anwendung auf {{site.data.keyword.Bluemix_notm}} nicht betroffen sind.
 
 Alle Verbindungen zu Cloud Foundry, bei denen TLS verwendet wird, sind möglicherweise betroffen. Dies schließt über Web-Browser hergestellte Verbindungen ein. Alle modernen Browser einschließlich der als [Voraussetzungen](https://console.bluemix.net/docs/overview/prereqs.html#browsers) für {{site.data.keyword.Bluemix_notm}} erforderlichen Browser unterstützen TLS 1.2.
 {: tip}
@@ -56,7 +56,7 @@ Falls Sie nicht in der Lage sind, eine solche Verbindung herzustellen, müssen S
 
 #### Verbindungen zwischen Cloud Foundry-Anwendungen
 
-Mit dem dem folgenden Befehl können Sie Ihre Cloud Foundry-Anwendung so konfigurieren, dass beim Herstellen von Verbindungen zu anderen Anwendungen automatisch eine Weiterleitung an die in der Domäne `*.mybluemix.net` verfügbaren alternativen Endpunkte erfolgt:
+Mit dem folgenden Befehl können Sie Ihre Cloud Foundry-Anwendung so konfigurieren, dass beim Herstellen von Verbindungen zu anderen Anwendungen automatisch eine Weiterleitung an die in der Domäne `*.mybluemix.net` verfügbaren alternativen Endpunkte erfolgt:
 ```
 cf set-env <Anwendungsname> BLUEMIX_TLS10_DISABLED true
 ```
@@ -68,7 +68,7 @@ cf restage <Anwendungsname>
 
 Nach Durchführen dieser Änderungen werden alle von Ihrer Anwendung abgehenden Anforderungen an die alternativen Endpunkte weitergeleitet, bei denen ausschließlich TLS 1.2 verwendet wird.
 
-Damit eine Verwendung der alternativen Endpunkte überhaupt möglich ist, muss Ihr Client die TLS-Erweiterung SNI (Server Name Indication) unterstützen. Wenn das nicht der Fall ist, stuft Ihr Client das zurückgegebene Zertifikat möglicherweise als ungültig ein und Sie könnten fälschlicherweise annehmen, das die Einstellung der Unterstützung für TLS 1.0 und 1.1 mit Beeinträchtigungen für Sie einhergeht.
+Damit eine Verwendung der alternativen Endpunkte überhaupt möglich ist, muss Ihr Client die TLS-Erweiterung SNI (Server Name Indication) unterstützen. Wenn das nicht der Fall ist, stuft Ihr Client das zurückgegebene Zertifikat möglicherweise als ungültig ein und Sie könnten fälschlicherweise annehmen, dass die Einstellung der Unterstützung für TLS 1.0 und 1.1 mit Beeinträchtigungen für Sie einhergeht.
 {: tip}
 
 ### Watson-Produkte und -Services
@@ -79,7 +79,7 @@ Nehmen Sie für Watson-Produkte und -Service die folgenden Änderungen durch Ers
 
 Diese alternativen Endpunkte unterstützen ausschließlich TLS 1.2. Wenn Sie die Verbindung zu diesen alternativen Endpunkten erfolgreich herstellen können, ergeben sich durch die Einstellung der Unterstützung keine Beeinträchtigungen für Sie. Falls Sie nicht in der Lage sind, eine solche Verbindung herzustellen, müssen Sie Ihren Client, die Clientbibliotheken oder die Clientkonfiguration ändern, damit die Verwendung von TLS 1.2 möglich ist.
 
-In anderen Regionen als der Region 'Vereinigte Staaten (Süden)' werden keine alternativen Endpunkte für Watson-Produkte und -Services bereitgestellt, da in diesen Regionen bereits ausschließlich TLS 1.2 unterstützt wird.
+An anderen Standorten als dem Standort 'Dallas' werden keine alternativen Endpunkte für Watson-Produkte und -Services bereitgestellt, da an diesen Standorten bereits ausschließlich TLS 1.2 unterstützt wird.
 
 `gateway-tls12.watsonplatform.net` und `stream-tls12.watsonplatform.net` sind nur für Testzwecke vorgesehen und nach dem Einstellen der Unterstützung von TLS 1.0 und 1.1 nicht mehr verfügbar.
 {: tip}
@@ -93,9 +93,9 @@ Ermitteln Sie bei Produkten und Services, für die keine alternativen Endpunkte,
 
 Bei den im Folgenden aufgeführten Produkten und Services wird die Unterstützung für TLS 1.0 und 1.1 eingestellt.
 
-Einige Produkte und Services, z. B. Cloud Foundry in {{site.data.keyword.Bluemix_notm}} und Services im {{site.data.keyword.Bluemix_notm}}-Katalog, werden möglicherweise in mehreren Regionen angeboten. Die Unterstützung für TLS 1.0 und 1.1 wird in allen Regionen entfernt, in denen diese Protokollversionen zurzeit unterstützt werden.
+Einige Produkte und Services, z. B. Cloud Foundry in {{site.data.keyword.Bluemix_notm}} und Services im {{site.data.keyword.Bluemix_notm}}-Katalog, werden möglicherweise an mehreren Standorten angeboten. TLS 1.0 und 1.1 wird an allen Standorten entfernt, an denen sie derzeit unterstützt werden.
 
-**Wichtig: ** {{site.data.keyword.Bluemix_notm}} Private und {{site.data.keyword.Bluemix_notm}} Local System-Bereitstellungen sowie in diesen Bereitstellungen gehostete {{site.data.keyword.Bluemix_notm}}-Services sind nicht eingeschlossen. Wenn Ihre Bereitstellung weiterhin TLS 1.0 oder 1.1 unterstützt, wenden Sie sich an Ihren Ansprechpartner beim Kundendienst und klären Sie mit ihm, wann diese Unterstützung beendet werden sollte.
+**Wichtig:** {{site.data.keyword.Bluemix_notm}} Private und {{site.data.keyword.Bluemix_notm}} Local System-Bereitstellungen sowie in diesen Bereitstellungen gehostete {{site.data.keyword.Bluemix_notm}}-Services sind nicht eingeschlossen. Wenn Ihre Bereitstellung weiterhin TLS 1.0 oder 1.1 unterstützt, wenden Sie sich an Ihren Ansprechpartner beim Kundendienst und klären Sie mit ihm, wann diese Unterstützung beendet werden sollte.
 
 ### Über den {{site.data.keyword.Bluemix_notm}}-Katalog verfügbare Produkte und Services
 
