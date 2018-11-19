@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-05-22"
+lastupdated: "2018-10-31"
 
 ---
 
@@ -50,7 +50,7 @@ Se puede acceder a todos los puntos finales de aplicación de Cloud Foundry del 
 
 Para utilizar el punto final alternativo, añada `alt.` después del subdominio de la aplicación. Por ejemplo, si la aplicación está alojada en `https://myapplication.mybluemix.net`, utilice `https://myapplication.alt.mybluemix.net`. O, para `https://myapplication.eu-gb.mybluemix.net` utilice `https://myapplication.alt.eu-gb.mybluemix.net`.
 
-Si se puede conectar correctamente con el punto final alternativo, no se verá afectado.
+Si puede conectar correctamente con el punto final alternativo, significa que no se ve afectado.
 
 Si no se puede conectar correctamente, debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
 
@@ -77,9 +77,9 @@ Para productos y servicios de Watson, realice las siguientes sustituciones a sus
   * Sustituya `gateway.watsonplatform.net` por `gateway-tls12.watsonplatform.net`
   * Sustituya `stream.wastonplatform.net` por `stream-tls12.watsonplatform.net`
 
-Estos puntos finales alternativos solo admiten TLS 1.2. Si se puede conectar correctamente a estos puntos finales alternativos, no se verá afectado. Si no se puede conectar correctamente, debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
+Estos puntos finales alternativos solo admiten TLS 1.2. Si puede conectar correctamente con estos puntos finales alternativos, no se ve afectado. Si no se puede conectar correctamente, debe cambiar el cliente, las bibliotecas de cliente o la configuración de cliente para habilitar TLS 1.2.
 
-No se proporcionan puntos finales alternativos para productos y servicios de Watson en otras regiones diferentes a EE.UU. sur, ya que estas ya admiten solo TLS 1.2.
+No se proporcionan puntos finales alternativos para productos y servicios de Watson en otras ubicaciones que no sean Dallas, ya que estas ya admiten solo TLS 1.2.
 
 `gatway-tls12.watsonplatform.net` y `stream-tls12.watsonplatform.net` son solo para pruebas y no estarán disponibles tras la retirada de TLS 1.0 y 1.1.
 {: tip}
@@ -93,13 +93,13 @@ Para productos o servicios que no tienen puntos finales alternativos de solo TLS
 
 Los siguientes productos o servicios van a retirar el soporte para TLS 1.0 y 1.1.
 
-Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.keyword.Bluemix_notm}} y servicios del catálogo de {{site.data.keyword.Bluemix_notm}}, pueden ofrecerse en varias regiones. TLS 1.0 y 1.1 se eliminarán en todas las regiones donde están soportados actualmente.
+Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.keyword.Bluemix_notm}} y servicios del catálogo de {{site.data.keyword.Bluemix_notm}}, pueden ofrecerse en varias ubicaciones. TLS 1.0 y 1.1 se han eliminado en todas las ubicaciones en las que reciben soporte actualmente.
 
 **Nota importante:** no se incluyen los despliegues de {{site.data.keyword.Bluemix_notm}} Private o {{site.data.keyword.Bluemix_notm}} Local System, ni ningún servicio de {{site.data.keyword.Bluemix_notm}} alojado en estos despliegues. Si su despliegue todavía admite TLS 1.0 o 1.1, valore con su representante de soporte o cliente el momento adecuado de la retirada.
 
 ### Productos o servicios disponibles en el catálogo de {{site.data.keyword.Bluemix_notm}}
 
-#### Plataforma cloud
+#### Plataforma de nube
 
 * Cloud Foundry en {{site.data.keyword.Bluemix_notm}}
 * Infraestructura de {{site.data.keyword.Bluemix_notm}} (`api.softlayer.com` y `api.service.softlayer.com`)
@@ -164,7 +164,7 @@ Algunos productos o servicios, como por ejemplo Cloud Foundry en {{site.data.key
 
 #### Funciones
 
-* Functions
+* Funciones
 
 #### Integrar
 

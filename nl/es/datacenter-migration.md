@@ -58,7 +58,7 @@ Sí. Póngase en contacto con nosotros y un representante de soporte le ayudará
 
 ## ¿Cómo puedo determinar mi configuración de hardware actual?
 
-Inicie una sesión en el portal del cliente. En la **Lista de dispositivos**, seleccione el servidor en el que está interesado y busque los detalles de configuración del sistema. Desde allí, puede ver el tipo de procesador, por ejemplo, Single Intel Xeon E3-1270 (4 núcleos, 3,50 GHz). También puede ver la cantidad de memoria (RAM), el almacenamiento y otros datos.
+Inicie una sesión en el portal de clientes. En la **Lista de dispositivos**, seleccione el servidor en el que está interesado y busque los detalles de configuración del sistema. Desde allí, puede ver el tipo de procesador, por ejemplo, Single Intel Xeon E3-1270 (4 núcleos, 3,50 GHz). También puede ver la cantidad de memoria (RAM), el almacenamiento y otros datos.
 
 ## ¿Cómo puedo determinar la utilización de mi hardware actual?
 
