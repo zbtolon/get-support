@@ -60,7 +60,7 @@ To escalate a support case, you must have an open support case for the issue. Al
 
   1. Contact the {{site.data.keyword.Bluemix_notm}} Support Team by phone or chat:
     * By phone at the following number: 866-403-7638.
-    * By chat from the {{site.data.keyword.Bluemix_notm}} [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} or, if you have a SoftLayer account that isn't linked, from the [customer portal ![External link icon](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * By chat from the {{site.data.keyword.Bluemix_notm}} [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}.
   2. Provide your existing case number and request to escalate the case.
   3. Provide the justification for escalation and the business impact of your case.
 
