@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-03"
+lastupdated: "2018-11-12"
 
 ---
 
@@ -13,12 +13,13 @@ lastupdated: "2018-10-03"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Support plans
 {: #support-plans}
 
-You are provided free technical support through the {{site.data.keyword.Bluemix}} community and Stack Overflow, which you can access from the Support Center. The level of support that you select determines the severity that you can assign to support tickets and your level of access to the tools available in the Support Center. Choose your support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs.
+You're provided free technical support through the {{site.data.keyword.Bluemix}} community and Stack Overflow, which you can access from the Support Center. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center. Choose your support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs.
 {:shortdesc}
 
 |  | Basic Support | Advanced Support | Premium Support |
@@ -30,17 +31,18 @@ You are provided free technical support through the {{site.data.keyword.Bluemix}
 | Additional support | Not applicable | Not applicable | Technical Account Manager assigned <br/> <br/> Quarterly business reviews <br/><br/> Access to experts <br/> <br/> Invitation to Cloud Insights |
 {:caption="Table 1. Support plans" caption-side="top"}
 
-**Note**: The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
+The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
+{: note}
 
-For more information about how the severity of tickets is assigned and how tickets are handled, see [How are tickets assigned and weighted?](/docs/get-support/ticketweight.html).
+For more information about how the severity of cases is assigned, see [Case severity and response times](/docs/get-support/quicktickresp.html#support-case-severity).
 {: tip} 
 
 ## Premium support
 {: #premium-support}
 
 Premium support is for mission-critical environments that have a strategic dependency on {{site.data.keyword.Bluemix_notm}}. The following extra support is provided if you have a Premium support plan:
-  * Priority handling of tickets
-  * A designated Technical Account Manager to help accelerate time to value
+  * Priority handling of cases
+  * A Technical Account Manager to help accelerate time to value
   * Access to experts for specialized technical consultations and assistance
   * Quarterly business reviews
   * An invitation to *Cloud Insights*, the forum for connecting with IBM technical experts
@@ -53,7 +55,7 @@ Advanced support is for environments with a limited number of business-critical 
 ## Basic support
 {: #basic-support}
 
-Basic support is provided for non-production environments or workloads in which traditional severities and response times are not needed.
+Basic support is provided for non-production environments or workloads in which traditional severities and response times aren't needed.
 
 ## Changing your support plan
 {:changing-support}

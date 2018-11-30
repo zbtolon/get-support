@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-13"
+lastupdated: "2018-11-28"
 
 ---
 
@@ -14,28 +14,37 @@ lastupdated: "2018-09-13"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# How do I get the support I need?
+# Getting support
 {: #getting-customer-support}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution.
+If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support page](https://{DomainName}/unifiedsupport/supportcenter) to review common FAQs, open a support case, or search community content.
 {:shortdesc}
 
-If your account was created from the {{site.data.keyword.Bluemix_notm}} console, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. Accounts can be linked between {{site.data.keyword.Bluemix_notm}} and {{site.data.keyword.BluSoftlayer_notm}} infrastructure services. If your SoftLayer account was created from the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is a linked account, you can open support tickets from the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Linking IBMid user accounts](/docs/account/softlayerlink.html#unifyingaccounts).
+## How the customer support process works
+{: #gs_supoverview}
 
-If your SoftLayer account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is not a linked account, you can open tickets from the customer portal. For more information, see [Getting support for {{site.data.keyword.BluSoftlayer_notm}} infrastructure](/docs/customer-portal/cpsupport.html#customerportal_support).
+All {{site.data.keyword.Bluemix}} customers are provided with free technical support through communities and blogs. The types of support that are available, and when they're available, depend on the support level of the account.
+{:shortdesc}
+
+You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center.
+
+You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The support plan that you selected for your account determines the level of support available and the severity you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity).
+
+## Satisfaction surveys for {{site.data.keyword.Bluemix_notm}} support  
+{: #survey}
+
+IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get their feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. IBM management reviews the survey results to improve the support experience.
 
 ## Using the Support Center
 {: #using-avatar}
 
-To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console. On the menu bar, click **Support** > **Support Center**.  
+To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console, and click **Support** from the menu bar.  
 
-You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support tickets from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
+You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support cases from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
 
-Depending on the type of account you have, other options are also available from the Support Center.  
-* If you have a basic, advanced, or premium [support plan](/docs/get-support/index.html), you can find call-in numbers and a chat option to get help.
-* If your account was created in the {{site.data.keyword.BluSoftlayer_notm}} infrastructure customer portal and it is linked between PaaS and IaaS services, you can also access the **Call US** and **Chat Now** options to call support or to start a chat session.
+If you have a basic, advanced, or premium [support plan](/docs/get-support/index.html), you can find call-in numbers and a chat option to get help.
 
-The Support Center is the preferred method for obtaining support, but if you cannot log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a ticket.
+The Support Center is the preferred method for getting support, but if you can't log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a case.
 
 ### Asking a question
 {: #asking-a-question}
@@ -45,71 +54,21 @@ The Stack Overflow forum, for technical questions, and the IBM Developer Answers
   * Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
   * Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
 
-{{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and IBM Developer Answers, and follow the questions that are tagged with **ibm-cloud**. When you create a question in either forum, add the **ibm-cloud** tag to your question to ensure that it is seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
+{{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and IBM Developer Answers, and follow the questions that are tagged with **ibm-cloud**. When you create a question in either forum, add the **ibm-cloud** tag to your question to ensure that it's seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
 
-If the problem is not due to an outage, and if you can't find an answer for your specific problem, you can contact customer support by opening a support ticket.
+If the problem isn't due to an outage, and if you can't find an answer for your specific problem, you can contact customer support by opening a support case. 
 
-## Opening a support ticket
-{: #open-ticket}
-
-If you have a valid {{site.data.keyword.Bluemix_notm}} account, there are several ways that you can open a support ticket to get help with a general technical issue or with an account issue.
-
-When you open a support ticket, ensure that you indicate an appropriate severity for your ticket. The severity determines how your ticket is handled. See [Support ticket severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity) for information about the different severities.
-
-If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support tickets. To upgrade your account to a higher support level, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
-{:tip}
-
-You can open a ticket from the Support Center or from the menu bar of the {{site.data.keyword.Bluemix_notm}} console.
-  * To open a support ticket from the Support Center, click **Open a ticket** from the **Get help** section.
-  * To open a support ticket from the {{site.data.keyword.Bluemix_notm}} console menu bar, click **Support** > **Add ticket**.
-
-After you open a support ticket, you will receive an email notification in a few minutes for the ticket. Follow the instructions in the email for further communication on the issue.
-
-You can open tickets for technical issues, account issues, or, if you have a [linked account](/docs/account/softlayerlink.html#link_accounts), you can open a ticket for a sales inquiry.  
-
-### Opening technical support tickets
-{: #opentechticket}
-
-Complete the following steps to provide the required information in the ticket form to get help with your general technical issue:
-  1. If you have a [linked account](/docs/account/softlayerlink.html#link_accounts), select **Infrastructure** or **Applications and services.**
-  2. Select **Technical** for the ticket type.
-  3. In the **Select a resource context** field, select one of the following options:
-    * **Resource group** if you're having a problem with managing your resource groups. For more information, see [Managing resource groups](/docs/resources/resourcegroups.html#rgs).
-    * **Cloud Foundry** if you're having a problem with a Cloud Foundry app deployment. For more information about deploying Cloud Foundry apps, see [How Cloud Foundry works with {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
-  4. If you have premium or advanced level support, choose the severity level for your issue.
-  5. Complete the required information. The information that is required depends on the resource context that you selected and also on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. If you have a linked account, you have the following added support options that you can select:
-    * Up to 5 devices that are associated with the technical issue that you're reporting.
-    * If you have EU localized support, the data center where your resources are hosted.
-  7. Click **Submit**.
-
-### Opening support tickets for account issues
-{: #openacctticket}
-
-Complete the following steps to provide the required information in the ticket form to get help with your account issue:
-  1. If you have a [linked account](/docs/account/softlayerlink.html#link_accounts), first select either **Infrastructure** or **Applications and services.**
-  2. Select **Account & billing** for the ticket type to ensure that your ticket is routed to the correct support team so that your issue can be resolved quickly.
-  3. Select either option in the **Select a resource context** field to create the ticket. For either option, some fields in the ticket form are automatically populated with *Not applicable* because this is an account issue.
-  4. If you have premium or advanced level support, choose the severity level for your issue.
-  5. Complete the required information, providing a description of any error messages you received. The information that is required depends on the type of support plan of your account. For more information about support types, see [Types of support](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Click **Submit**.
-
-### Other ways to open a support ticket
-{: #otheropenticksc}
-
-You can also use the [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page. You can submit tickets for sales, IBM ID and login, billing, and technical support problems. For technical support problems, you can narrow the issue to a specific area or service. If you need help with a specific service, select the corresponding service category. To determine the category that your service belongs to, click **Catalog** from the menu bar and review the categories.  
-
-## Contacting support for {{site.data.keyword.Bluemix_notm}} Dedicated or Local
+## Contacting support for {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}
 {: #contacting-bluemix-support-dedicated-local}
 
-If your account is either {{site.data.keyword.Bluemix_notm}} Dedicated or Local, support is provided by the {{site.data.keyword.Bluemix_notm}} support team. However, if you don't have an {{site.data.keyword.ibmid}}, you have a few different options for getting support.
+If your account is either {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}, support is provided by the {{site.data.keyword.Bluemix_notm}} support team. However, if you don't have an {{site.data.keyword.ibmid}}, you have a few different options for getting support.
 
-* Contact support by opening a new ticket by using the
-[{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg "External link icon")](http://www.ibm.biz/bluemixsupport){: new_window} help page. You can use an email address or your {{site.data.keyword.ibmid}} for this form. Select the **{{site.data.keyword.Bluemix_notm}} Dedicated** or **{{site.data.keyword.Bluemix_notm}} Local** option for the Region field.
-* If you have an {{site.data.keyword.ibmid}} and have access to the {{site.data.keyword.Bluemix_notm}} Public environment, in the menu bar click **Support** and select **Add ticket**. Select the topic area for your issue and follow the prompts to submit your ticket.
+* Contact support by opening a new case by using the
+[{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} help page. You can use an email address or your {{site.data.keyword.ibmid}} for this form. Select the **{{site.data.keyword.Bluemix_dedicated_notm}}** or **{{site.data.keyword.Bluemix_local_notm}}** option for the Region field.
+* If you have an {{site.data.keyword.ibmid}} and have access to the {{site.data.keyword.Bluemix_notm}} Public environment, click **Support** from the menu bar. Then, click **Create new case** on the Get support tab. Select the topic area for your issue and follow the prompts to submit your case.
 * If you don't have an {{site.data.keyword.ibmid}}, you can contact someone in your organization who does have one, or work with your IBM representative.
 
-At your request, a list of users in your org who can serve as contacts for support tickets can be displayed on the **Support** page in the {{site.data.keyword.Bluemix_notm}} console in your Dedicated or Local environment.
+At your request, a list of users in your org who can serve as contacts for support cases can be displayed on the **Support** page in the {{site.data.keyword.Bluemix_notm}} console in your Dedicated or Local environment.
   {:tip}
 
 ## Requesting support for resources in the European Union
@@ -120,23 +79,23 @@ European Union (EU) support is provided, 24 hours a day and 7 days a week, by en
 You can specify that you want support for your account from the support team that is physically located in Europe if the following criteria are true:
   * Your master user or account owner set the EU Supported option for your account
   * Your resources are in the appropriate European data center
-  * You select the **EU supported** ticket level when you open the ticket
+  * You select the **EU supported** case level when you open the case
 
 For {{site.data.keyword.Bluemix_notm}} platform, only services that are hosted in the Germany region can be supported by a team that is physically located in Europe.  
 
-Setting the **EU Supported** option for your account applies to all future tickets that you open for issues on any service or data center that is hosted in the EU region. Any tickets that you opened before setting this option are not affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
+Setting the **EU Supported** option for your account applies to all future cases that you open for issues on any service or data center that is hosted in the EU region. Any cases that you opened before setting this option aren't affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
 
-You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU supported option](/docs/billing-usage/eusupported.html).
+You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU Supported settings](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
 
 ### EU Supported services
 {: #eusupportedservices}
 
 After you set the **EU Supported** option, you can also take advantage of extra controls to support and operate {{site.data.keyword.Bluemix_notm}} services from the European Union. You can filter your search for platform services with the supported plans in the {{site.data.keyword.Bluemix_notm}} catalog. To see the EU-supported plans for a platform service, complete the following steps:
-  1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/){: new_window}.
+  1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")]({DomainName}/catalog/){: new_window}.
   2. Click **Filter**.
   3. Select **EU supported** from the drop-down list. With the EU Supported filter set, you see only the services in the **Infrastructure** and **Platform** categories that have EU-supported plans.
   4. Select the service that you want. You can see some regions and plans for the service are EU-supported.
-  5. To see the EU-supported plans for the service, select the correct region from the **Choose a region/location to deploy in** drop-down list. For example, to see the EU-supported plans for a platform service, select Germany as the region. Then, you can see the pricing plans for the services that are labeled **EU Supported**.
+  5. To see the EU-supported plans for the service, select the correct region from the **Choose a region/location to deploy in** list. For example, to see the EU-supported plans for a platform service, select Germany as the region. Then, you can see the pricing plans for the services that are labeled **EU Supported**.
 
 All plans, except lite plans, for the following categories of {{site.data.keyword.Bluemix_notm}} infrastructure services are hosted in Europe and available as EU supported:
 
@@ -149,11 +108,11 @@ All plans, except lite plans, for the following categories of {{site.data.keywor
 ## Reporting a potential security vulnerability
 {: #report-security-vulnerability}
 
-If you see a potential {{site.data.keyword.Bluemix_notm}} security vulnerability, report it by opening a support ticket.
+If you see a potential {{site.data.keyword.Bluemix_notm}} security vulnerability, report it by opening a support case.
 
 To report a potential security vulnerability, complete the following steps:
-1. Open a severity 1 ticket or a ticket of the highest severity level that your support allows. For information about how to open a ticket, see [Opening a support ticket](/docs/get-support/howtogetsupport.html#open-ticket).
-2. Clearly describe in the ticket summary that the ticket is about a potential security vulnerability.
+1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/get-support/opencase.html#open-case).
+2. Clearly describe in the case summary that the case is about a potential security vulnerability.
 3. Provide details of the potential security vulnerability by including one of the following items:
     * A phone number at which you can be reached to discuss the issue.
-    * Details of the issue. You must encrypt the details as a block of text in the body of the ticket. You must also provide instructions on how IBM Support can securely contact you to get decryption instructions.
+    * Details of the issue. You must encrypt the details as a block of text in the body of the case. You must also provide instructions on how IBM Support can securely contact you to get decryption instructions.

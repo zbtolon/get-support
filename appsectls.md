@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Withdrawal of support for TLS 1.0 and 1.1
 {: #tlssupportwithdraw}
 
-IBM withdrew support for TLS 1.0 and TLS 1.1 across many cloud products and services on 01 March 2018. TLS 1.2 is supported for any {{site.data.keyword.Bluemix_notm}} product or service that is withdrawing support for TLS 1.0 and 1.1.
+IBM withdrew support for TLS 1.0 and TLS 1.1 across many cloud products and services on 01 March 2018. TLS 1.2 is supported for any {{site.data.keyword.Bluemix}} product or service that is withdrawing support for TLS 1.0 and 1.1.
 {:shortdesc}
 
 ## Why is TLS version support changing?
@@ -41,7 +41,7 @@ If you're using any of the products of services that are withdrawing support for
 
 For Cloud Foundry applications, you must confirm your connections to your application from outside of {{site.data.keyword.Bluemix_notm}} aren't impacted. Also, confirm that connections from your application to another Cloud Foundry application on {{site.data.keyword.Bluemix_notm}} aren't impacted.
 
-All connections to Cloud Foundry that use TLS are potentially impacted, including any connections made from web browsers. All modern browsers support TLS 1.2, including browsers that are {{site.data.keyword.Bluemix_notm}} [Prerequisites](https://console.bluemix.net/docs/overview/prereqs.html#browsers).
+All connections to Cloud Foundry that use TLS are potentially impacted, including any connections made from web browsers. All modern browsers support TLS 1.2, including browsers that are {{site.data.keyword.Bluemix_notm}} [Prerequisites](/docs/overview/prereqs.html#browsers).
 {: tip}
 
 #### Connecting to your Cloud Foundry application
@@ -77,7 +77,7 @@ For Watson products and services make the following replacements to your connect
   * Replace `gateway.watsonplatform.net` with `gateway-tls12.watsonplatform.net`
   * Replace  `stream.wastonplatform.net` with `stream-tls12.watsonplatform.net`
 
-These alternative endpoints support TLS 1.2 only. If you can successfully connect to these alternative endpoints, you are not impacted. If you cannot successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
+These alternative endpoints support TLS 1.2 only. If you can successfully connect to these alternative endpoints, you aren't impacted. If you can't successfully connect, you must change your client, client libraries, or client configuration to enable TLS 1.2.
 
 Alternative endpoints for Watson products and services in locations other than Dallas aren't provided as these already support only TLS 1.2.
 
@@ -86,7 +86,7 @@ Alternative endpoints for Watson products and services in locations other than D
 
 ### Other products or services
 
-For products or services that don't have alternative TLS 1.2-only endpoints available refer to any available documentation for your client or client libraries for information on how to determine which versions of TLS are supported and which version you're using.
+For products or services that don't have alternative TLS 1.2-only endpoints available refer to any available documentation for your client. For information on how to determine which versions of TLS are supported and which version you're using refer to client libraries. 
 
 ## What products and services are withdrawing support for TLS 1.0 and 1.1?
 {: #prodsandservs}

@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html"}
+{: .toc subcollection="get-support" audience="platform" href="/docs/get-support/getstarttssup.html" path="get-support"}
 Getting support
 
     {: .navgroup id="learn"}
@@ -9,18 +9,17 @@ Getting support
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    {: .topicgroup}
-    Getting customer support
-        howtogetsupport.md
-        getstarttssup.md
-        ViewStatus.md
-        servicessupport.md
+    howtogetsupport.md
+    servicessupport.md
+    opencase.md
+    quick-case-response.md
+    support_access.md
 
-    {: .topicgroup}
-    Working with tickets
-        mantick.md
-        ticketweight.md
-        quicktickresp.md
+    {: topicgroup}
+    Monitoring status
+        ViewStatus.md
+        status-bps.md
+        status_search.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -28,8 +27,7 @@ Getting support
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    ts_overview.md
-    ts_manageticket.md
+    ts_managecase.md
 
     {: .topicgroup}
     Known issues
