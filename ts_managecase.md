@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-18"
+lastupdated: "2018-12-03"
 
 ---
 
@@ -28,7 +28,7 @@ You might encounter problems with creating and managing {{site.data.keyword.Blue
 ## Why can't I create or edit support cases? 
 {: #ts_service_broker}
 
-You can't create or edit a {{site.data.keyword.Bluemix_notm}} support case, and an error message stating that you don't have the appropriate access is displayed. 
+You can't create or edit an {{site.data.keyword.Bluemix_notm}} support case, and an error message stating that you don't have the appropriate access is displayed. 
 {:shortdesc}
 
 When you try to create a case the following error message is displayed:   
@@ -69,6 +69,21 @@ You must be assigned an IAM policy with at least the Viewer role on the User man
 {: tsResolve}
 
 To resolve the issue, contact the account owner to request the appropriate access. 
+
+## Why can't I find a case that I previously created? 
+{: #ts_viewarchivedcase}
+
+You can't find your cases that you created prior to the enhanced {{site.data.keyword.Bluemix_notm}} platform experience. 
+{:shortdesc}
+
+After goingn to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 Dec 2. 
+{: tsSymptoms}
+
+Cases that were opened before 2018 Dec 2 are visable only from the **View archived cases**. 
+{: tsCauses}
+
+To view your cases, go to **Support**, select **Manage cases**, and click **View archived cases**.
+{: tsResolve} 
 
 
 
