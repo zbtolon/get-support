@@ -49,7 +49,7 @@ Check out the following table to understand exactly what permissions are include
 |Administrator | View, search, create, and update cases|
 {: caption="Table 1. Roles and actions for the Support Center service" caption-side="top"}
 
-Then, if the User list visibility setting it set to restricted in the account, you might want to add an additional policy for the User management service with the Viewer role to ensure that users can access all cases in the account. For the access group that you already created and assigned the Support Center access, complete the following steps to add the additional policy:
+Then, if the User list visibility setting is set to restricted in the account, you might want to add an additional policy for the User management service with the Viewer role to ensure that users can access all cases in the account. For the access group that you already created and assigned the Support Center access, complete the following steps to add the additional policy:
 
 1. Click **Assign access** from the **Access policies** tab for the access group.
 2. Select **Assign access to account management services**.
