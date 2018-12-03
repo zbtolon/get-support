@@ -32,10 +32,8 @@ To quickly assign users access to work with support cases in your account, compl
 
 1. From the menu bar, click **Manage** &gt; **Access (IAM)**, and then select **Access groups**.
 2. Click **Create**. 
-3. Enter an access group name and description. 
-4. Click **Create**. 
-5. Click **Access policies**.
-6. Click **Assign access**.
+3. Enter an access group name and description, and click **Create**. 
+5. Select **Access policies**, and then click **Assign access**.
 7. Select **Assign access to account management services**.
 8. Select the **Support Center** service.
 9. Select **Viewer** or **Administrator** role depending on the type of access that you want this group to have.
@@ -49,7 +47,15 @@ Check out the following table to understand exactly what permissions are include
 |Administrator | View, search, create, and update cases|
 {: caption="Table 1. Roles and actions for the Support Center service" caption-side="top"}
 
-## Adding a policy for the User management service  
+## Adding users to an access group 
+
+Now, you have an access group that you can add any users to in your account to streamline the process of assigning access to work with support cases. To add users to your access group, complete the following steps:
+
+1. From the **Users** tab for your access group, click **Add users**.
+2. Select the user that you want added to the group.
+3. Click **Add to group**.
+
+## Adding a policy for the User management service 
 
 Then, if the User list visibility setting is set to restricted in the account, you might want to add an additional policy for the User management service with the Viewer role to ensure that users can access all cases in the account. For the access group that you already created and assigned the Support Center access, complete the following steps to add the additional policy:
 
@@ -58,14 +64,4 @@ Then, if the User list visibility setting is set to restricted in the account, y
 3. Select the **User Management** service.
 4. Select the **Viewer** role.
 5. Click **Assign**.
-
-## Adding users to an access group  
-
-Now, you have an access group that you can add any users to in your account to streamline the process of assigning access to work with support cases. To add users to your access group, complete the following steps:
-
-1. From the **Users** tab for your access group, click **Add users**.
-2. Select the user that you want added to the group.
-3. Click **Add to group**.
-
-
 
