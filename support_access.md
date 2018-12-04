@@ -71,5 +71,4 @@ Using access groups to assign the support center and user management services is
 3. Select **Assign access to account management services**.
 4. Select **Support Center**.
 5. Select the **Viewer**, **Editor** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
-
-If you want your users to see all users in the account, also add the user management service.
+6. If you want a user to be able to view all other users in the account, you can also assign them the user management viewer role. 
