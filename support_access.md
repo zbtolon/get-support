@@ -53,7 +53,7 @@ The following table lists the permissions that are included in each role for wor
 |Administrator | View, search, create, and update cases|
 {: caption="Table 1. Roles and actions for the Support Center service" caption-side="top"}
 
-## Adding users to your support case management access group
+## Adding users to your case management access group
 {: #add-user-access-group} 
 
 Now that you have the access group created, add users:
@@ -61,7 +61,7 @@ Now that you have the access group created, add users:
 1. From the **Users** tab for your access group, click **Add users**.
 2. Select the user that you want to add to the group and click **Add to group**.
 
-## Granting individual access to users 
+## Granting individual users access to cases 
 
 Using access groups to assign the support center and user management services is the most efficient way for you to assign access, but you can also assign the same permissions to individual users. 
 
