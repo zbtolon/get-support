@@ -4,7 +4,7 @@ copyright:
 
   years: 2018
 
-lastupdated: "2018-12-03"
+lastupdated: "2018-12-04"
 
 ---
 
@@ -22,23 +22,28 @@ lastupdated: "2018-12-03"
 By default, users in your account don't have access to create, update, search, or view cases. As the account owner, you must provide users access by assigning an Identity and Access Management (IAM) access policy. Use the Support Center account management service to assign users access to work with support cases. 
 {:shortdesc}
 
-When you create a case, you can give users full access by entering their email. By adding a user to a case that you create, they have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
+When you create a case, you can give other users full access to that case by adding their email on the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
 {: tip}
 
-For classic infrastructure users who previously used classic infrastructure permissions to assign support case access, those permissions are now available in [migrated classic infrastructure permission access groups](/docs/iam/infrastructureaccess.html#predefined). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
+For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam/infrastructureaccess.html#predefined). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 
 ## Creating an access group for working with cases
 
-To assign users access to work with support cases in your account, complete the following steps to create an access group with the necessary support center and user management service access:
+To streamline the access assignment process, you can take advantage of assigning a policy to users through access groups. Complete the following steps to create an access group with support center service access:
 
-1. From the menu bar, click **Manage** &gt; **Access (IAM)**, and then select **Access groups**.
-2. Click **Create**. 
-3. Enter an access group name and description, and click **Create**. 
-5. Select **Access policies**, and then click **Assign access**.
-7. Select **Assign access to account management services**.
-8. Select the **Support Center** service.
-9. Select **Viewer** or **Administrator** role depending on the type of access that you want this group to have.
-10. Click **Assign**.
+1. From the menu bar, go to **Manage** &gt; **Access (IAM)**, select **Access groups**, and click **Create**. 
+2. Enter an access group name and description, and click **Create**. 
+3. Click **Access policies** > **Assign access**.
+4. Select **Assign access to account management services**.
+5. Select **Support Center**.
+6. Select the **Viewer** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
+
+If you want your users to be able to view all other users in the account, you can also add the user management viewer role to your access group:
+
+1. Click **Access policies** > **Assign access**.
+2. Select **Assign access to account management services**.
+3. Select **User Management**.
+4. Select **Viewer** and click **Assign**.
 
 The following table lists the permissions that are included in each role for working with cases.
 
@@ -54,17 +59,16 @@ The following table lists the permissions that are included in each role for wor
 Now that you have the access group created, add users:
 
 1. From the **Users** tab for your access group, click **Add users**.
-2. Select the user that you want to add to the group.
-3. Click **Add to group**.
+2. Select the user that you want to add to the group and click **Add to group**.
 
-## Adding a policy for the user management service 
-{: #policy-for-user-mgmt-service}
+## Granting individual access to users 
 
-The Support Center access policies don't provide access for users to view other users in the account. So, if an account owner has set the [user list visibility setting](/docs/iam/userlist.html#userlistview) to **Restricted view**, users might not be able to access the cases assigned to other users or the account owner. To ensure that users can view all cases, you must provide additional access by assigning an IAM access policy for the user management service with the viewer role assigned. 
+Using access groups to assign the support center and user management services is the most efficient way for you to assign access, but you can also assign the same permissions to individual users. 
 
-1. Click **Assign access** from the **Access policies** tab for the access group.
-2. Select **Assign access to account management services**.
-3. Select the **User Management** service.
-4. Select the **Viewer** role.
-5. Click **Assign**.
+1. Click **Manage** &gt; **Access (IAM)**, and then select **Users**. 
+2. Click **Access policies** > **Assign access**.
+3. Select **Assign access to account management services**.
+4. Select **Support Center**.
+5. Select the **Viewer** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
 
+If you want your users to see all users in the account, also add the user management service.
