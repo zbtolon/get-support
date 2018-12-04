@@ -36,7 +36,7 @@ To streamline the access assignment process, you can take advantage of assigning
 3. Click **Access policies** > **Assign access**.
 4. Select **Assign access to account management services**.
 5. Select **Support Center**.
-6. Select the **Viewer** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
+6. Select the **Viewer**, **Editor** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
 
 If you want your users to be able to view all other users in the account, you can also add the user management viewer role to your access group:
 
@@ -70,6 +70,6 @@ Using access groups to assign the support center and user management services is
 2. Click **Access policies** > **Assign access**.
 3. Select **Assign access to account management services**.
 4. Select **Support Center**.
-5. Select the **Viewer** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
+5. Select the **Viewer**, **Editor** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
 
 If you want your users to see all users in the account, also add the user management service.
