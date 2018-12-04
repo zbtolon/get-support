@@ -50,7 +50,8 @@ The following table lists the permissions that are included in each role for wor
 | Role | Action | 
 |--------|---------------|
 |Viewer  | View and search cases |
-|Administrator | View, search, create, and update cases|
+|Editor | View, search, create, and update cases|
+|Administrator | View, search, create, and update cases; manage support center roles for other users|
 {: caption="Table 1. Roles and actions for the Support Center service" caption-side="top"}
 
 ## Adding users to your case management access group
