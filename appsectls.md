@@ -247,7 +247,7 @@ To continue to use TLS 1.0 or 1.1 to connect to Watson products and services aft
   * Replace `gateway.watsonplatform.net` with `gateway-tls10.wastonplatform.net`
   * Replace `stream.watsonplatform.net` with `stream-tls10.watsonplatform.net`
 
-You can continue to use `gateway-tls10.watsonplatform.net` and `stream-tls10.watsonplatform.net` to support TLS 1.0, 1.1, and 1.2 after these versions of TLS are removed from `gateway.watsonplatform.net` and `stream.watsonplatform.net`.
+You can continue to use `gateway-tls10.watsonplatform.net` and `stream-tls10.watsonplatform.net` to support TLS 1.0 and 1.1 after these versions of TLS are removed from `gateway.watsonplatform.net` and `stream.watsonplatform.net`.
 
 ## Get in touch
 {: #tlssupport}
