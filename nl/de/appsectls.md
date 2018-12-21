@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Unterstützung für TLS 1.0 und 1.1 wird eingestellt
 {: #tlssupportwithdraw}
 
-IBM hat die Unterstützung für TLS 1.0 und TLS 1.1 bei vielen Cloud-Produkten und -Services am 1. März 2018 eingestellt. TLS 1.2 wird für alle {{site.data.keyword.Bluemix_notm}}-Produkte und -Services unterstützt, bei denen die Unterstützung für TLS 1.0 und 1.1 eingestellt wird.
+IBM hat die Unterstützung für TLS 1.0 und TLS 1.1 bei vielen Cloud-Produkten und -Services am 1. März 2018 eingestellt. TLS 1.2 wird für alle {{site.data.keyword.Bluemix}}-Produkte und -Services unterstützt, bei denen die Unterstützung für TLS 1.0 und 1.1 eingestellt wird.
 {:shortdesc}
 
 ## Warum gibt es Änderungen bei der TLS-Versionsunterstützung?
@@ -41,7 +41,7 @@ Wenn Sie Produkte oder Services verwenden, bei denen die Unterstützung für TLS
 
 Bei Cloud Foundry-Anwendungen müssen Sie sich vergewissern, dass die Verbindungen, die Sie außerhalb von {{site.data.keyword.Bluemix_notm}} zu Ihrer Anwendung herstellen, nicht betroffen sind. Versichern Sie sich außerdem auch, dass Verbindungen von Ihrer Anwendung zu einer anderen Cloud Foundry-Anwendung auf {{site.data.keyword.Bluemix_notm}} nicht betroffen sind.
 
-Alle Verbindungen zu Cloud Foundry, bei denen TLS verwendet wird, sind möglicherweise betroffen. Dies schließt über Web-Browser hergestellte Verbindungen ein. Alle modernen Browser einschließlich der als [Voraussetzungen](https://console.bluemix.net/docs/overview/prereqs.html#browsers) für {{site.data.keyword.Bluemix_notm}} erforderlichen Browser unterstützen TLS 1.2.
+Alle Verbindungen zu Cloud Foundry, bei denen TLS verwendet wird, sind möglicherweise betroffen. Dies schließt über Web-Browser hergestellte Verbindungen ein. Alle aktuellen Browser einschließlich der Browser, die {{site.data.keyword.Bluemix_notm}}-[Voraussetzungen](/docs/overview/prereqs.html#browsers) sind, unterstützen TLS 1.2.
 {: tip}
 
 #### Verbindung zu Ihrer Cloud Foundry-Anwendung herstellen
@@ -86,7 +86,7 @@ An anderen Standorten als dem Standort 'Dallas' werden keine alternativen Endpun
 
 ### Sonstige Produkte und Services
 
-Ermitteln Sie bei Produkten und Services, für die keine alternativen Endpunkte, die ausschließlich TLS 1.2 unterstützen, verfügbar sind, anhand der für Ihren Client oder Ihre Clientbibliothek verfügbaren Dokumentation, welche TLS-Versionen unterstützt werden und welche Version von Ihnen verwendet wird.
+Für Produkte oder Services, die nicht über alternative, reine TLS 1.2-Endpunkte verfügen, finden Sie Informationen in der verfügbaren Dokumentation zu Ihrem Client. Informationen darüber, wie Sie feststellen, welche Versionen von TLS unterstützt werden und welche Versionen Sie verwenden, finden Sie in den Clientbibliotheken.  
 
 ## Bei welchen Produkten und Services wird die Unterstützung für TLS 1.0 und 1.1 eingestellt?
 {: #prodsandservs}
@@ -247,7 +247,7 @@ Wenn Sie TLS 1.0 oder 1.1 auch nach dem Einstellen der Unterstützung weiterhin 
   * Ersetzen Sie `gateway.watsonplatform.net` durch `gateway-tls10.wastonplatform.net`
   * Ersetzen Sie `stream.watsonplatform.net` durch `stream-tls10.watsonplatform.net`
 
-Sie können `gateway-tls10.watsonplatform.net` und `stream-tls10.watsonplatform.net` auch dann noch zur Unterstützung von TLS 1.0, 1.1 und 1.2 verwenden, nachdem diese Versionen von TLS aus `gateway.watsonplatform.net` und `stream.watsonplatform.net` entfernt worden sind.
+Sie können `gateway-tls10.watsonplatform.net` und `stream-tls10.watsonplatform.net` auch dann noch zur Unterstützung von TLS 1.0 und 1.1 verwenden, nachdem diese Versionen von TLS aus `gateway.watsonplatform.net` und `stream.watsonplatform.net` entfernt worden sind.
 
 ## Kontaktaufnahme
 {: #tlssupport}

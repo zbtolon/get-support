@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -60,7 +60,7 @@ lastupdated: "2018-10-23"
 
   1. 電話またはチャットで {{site.data.keyword.Bluemix_notm}} サポート・チームに連絡を取ります。
     * 電話の場合は番号 866-403-7638 を使用します。
-    * チャットの場合は {{site.data.keyword.Bluemix_notm}} [サポート・センター ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} から行うか、または、リンクされていない SoftLayer アカウントをお持ちの場合は[カスタマー・ポータル ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window} から行います。
+    * チャットの場合は{{site.data.keyword.Bluemix_notm}} [サポート・センター ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} から問い合わせます。
   2. 既存のケース番号を知らせ、その問題をエスカレートするよう依頼します。
   3. エスカレーションの理由付けと、ビジネスへのその問題の影響を説明します。
 

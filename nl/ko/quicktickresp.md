@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -60,7 +60,7 @@ lastupdated: "2018-10-23"
 
   1. 전화 또는 채팅으로 {{site.data.keyword.Bluemix_notm}} 지원 팀에 문의하십시오.
     * 866-403-7638으로 전화를 거십시오.
-    * {{site.data.keyword.Bluemix_notm}} [지원 센터 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} 또는 연결되지 않은 SoftLayer 계정이 있는 경우 [고객 포털 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}에서 채팅으로 문의하십시오.
+    * {{site.data.keyword.Bluemix_notm}} [지원 센터 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}에서 채팅을 통해.
   2. 기존 케이스 번호를 제공하고 케이스 에스컬레이션을 요청하십시오.
   3. 케이스에 대한 에스컬레이션 사유와 비즈니스 영향을 설명하십시오.
 

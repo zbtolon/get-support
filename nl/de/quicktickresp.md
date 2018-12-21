@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -60,7 +60,7 @@ Zum Eskalieren eines Supportfalls müssen Sie über einen offenen Supportfall f�
 
   1. Kontaktieren Sie das {{site.data.keyword.Bluemix_notm}}-Support-Team telefonisch oder über den Chat:
     * Telefonische Kontaktaufnahme unter der folgenden Nummer: 866-403-7638.
-    * Kontaktaufnahme via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein SoftLayer-Konto verfügen, das nicht verknüpft ist, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Kontaktaufnahme über Chat vom {{site.data.keyword.Bluemix_notm}} [Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}.
   2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren.
   3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
 

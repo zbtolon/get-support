@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # TLS 1.0 および 1.1 のサポート終了
 {: #tlssupportwithdraw}
 
-IBM は、2018 年 3 月 1 日付けでクラウド製品ならびにサービスの多くで TLS 1.0 および TLS 1.1 のサポートを終了します。 TLS 1.0 および 1.1 のサポートを終了するすべての {{site.data.keyword.Bluemix_notm}} 製品およびサービスで、TLS 1.2 がサポートされます。
+IBM は、2018 年 3 月 1 日付けでクラウド製品ならびにサービスの多くで TLS 1.0 および TLS 1.1 のサポートを終了します。 TLS 1.0 および 1.1 のサポートを終了するすべての {{site.data.keyword.Bluemix}} 製品およびサービスで、TLS 1.2 がサポートされます。
 {:shortdesc}
 
 ## TLS バージョンのサポートが変更されるのはなぜですか?
@@ -28,7 +28,7 @@ TLS バージョンのサポートを変更することによって、セキュ�
 ## TLS とは?
 {: #what}
 
-[TLS プロトコル![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window}は、送信データの秘密が守られるようにネットワークでの通信を暗号化するために使用されます。リリースされている TLS のバージョンには、1.0、1.1、および 1.2 があります。 HTTPS 接続はすべて TLS を使用します。 HTTPS は、{{site.data.keyword.Bluemix_notm}} 製品およびサービスへの接続がセキュアで信頼できることを保証するための主要な方式です。 一部の {{site.data.keyword.Bluemix_notm}} 製品およびサービスは、WebSocket Secure (WSS) プロトコルを使用したセキュア接続を許可していますが、このプロトコルも TLS を使用します。 TLS 1.0 および 1.1 のサポート終了は、HTTPS 接続と WSS 接続の両方に該当します。
+[TLS プロトコル![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window}は、送信データの秘密が守られるようにネットワークでの通信を暗号化するために使用されます。 リリースされている TLS のバージョンには、1.0、1.1、および 1.2 があります。 HTTPS 接続はすべて TLS を使用します。 HTTPS は、{{site.data.keyword.Bluemix_notm}} 製品およびサービスへの接続がセキュアで信頼できることを保証するための主要な方式です。 一部の {{site.data.keyword.Bluemix_notm}} 製品およびサービスは、WebSocket Secure (WSS) プロトコルを使用したセキュア接続を許可していますが、このプロトコルも TLS を使用します。 TLS 1.0 および 1.1 のサポート終了は、HTTPS 接続と WSS 接続の両方に該当します。
 
 ## 影響を受けないようにするには、どのような処置が必要ですか?
 {: #impact}
@@ -41,7 +41,7 @@ TLS 1.0 または 1.1 のサポートが終了されるいずれかの製品ま�
 
 Cloud Foundry アプリケーションに関しては、{{site.data.keyword.Bluemix_notm}} 外部からアプリケーションへの接続は影響を受けないことを確認しておく必要があります。 また、アプリケーションから {{site.data.keyword.Bluemix_notm}} 上の別の Cloud Foundry アプリケーションへの接続が影響を受けないことも確認してください。
 
-Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
+Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](/docs/overview/prereqs.html#browsers)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
 {: tip}
 
 #### Cloud Foundry アプリケーションへの接続
@@ -86,7 +86,7 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 
 ### その他の製品またはサービス
 
-使用可能な代替の TLS 1.2 専用エンドポイントを持たない製品またはサービスの場合、サポートされる TLS のバージョンおよび使用中のバージョンを判別する方法については、提供されているクライアントまたはクライアント・ライブラリーの資料を参照してください。
+使用可能な代替の TLS 1.2 専用エンドポイントを持たない製品またはサービスの場合、提供されているクライアントの資料を参照してください。サポートされる TLS のバージョンおよび使用中のバージョンを判別する方法については、クライアント・ライブラリーを参照してください。 
 
 ## TLS 1.0 および 1.1 のサポートを終了する製品およびサービス
 {: #prodsandservs}

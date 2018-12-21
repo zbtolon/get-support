@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-14"
+lastupdated: "2018-11-28"
 
 ---
 
@@ -13,53 +13,41 @@ lastupdated: "2018-05-14"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 
-# Schnelle Antworten auf einen Fall erhalten
-{: #quicktickresp}
-
-Wenn Sie sich mit dem Support in Verbindung setzen und einen Supportfall öffnen, können Sie eine bestimmte Prioritätsstufe auswählen, die sich nach dem Typ und der Dringlichkeit des Problems richtet. Die Prioritätsstufe kann sich darauf auswirken, wie schnell Ihr Problem bearbeitet wird.
-{:shortdesc}
-
-Sie definieren die Priorität des Problems auf der Basis Ihrer Geschäftsanforderungen und Ihrem Support-Level. Weitere Informationen zu den verschiedenen Typen von Supportplänen finden Sie unter [Supportpläne](/docs/get-support/index.html). Alle Fälle werden untersucht, um die eigentliche Ursache des Problems zu ermitteln und zu beheben. Wenn Problemdiagnosedaten zur Ermittlung der zugrunde liegenden Ursache des Problems erforderlich sind, werden Sie gebeten, dem Zugriff auf Protokolldateien und anderen Problembestimmungsdaten über Ihre Anwendung zuzustimmen. Ohne diese Daten könnte sich die Lösung Ihres Problems verzögern.
-
-## Diagnoseinformationen erfassen
-{: #collecting-diagnostic-information}
-
-Beim Diagnostizieren und Beheben von Problemen mit {{site.data.keyword.Bluemix_notm}}-Anwendungen und -Services kann es vorkommen, dass Sie vom {{site.data.keyword.Bluemix_notm}}-Support-Team aufgefordert werden, Diagnoseinformationen zu erfassen. Gehen Sie anhand der folgenden Anweisungen vor, damit die angeforderten Informationen so schnell wie möglich erfasst und bereitgestellt werden.
-
-Führen Sie die folgenden Schritte aus, bevor Sie Diagnoseinformationen erfassen:
-
-1. Stellen Sie sicher, dass die neueste Cloud Foundry-Befehlszeilenschnittstelle installiert ist. Weitere Informationen enthält [Cloud Foundry-CLI installieren](/docs/starters/install_cli.html).
->**Hinweis:** Wenn die neueste Cloud Foundry-Befehlszeilenschnittstelle nicht installiert ist, nachdem die cf-Befehlszeile mit {{site.data.keyword.Bluemix_notm}} verbunden ist, kann es vorkommen, dass bei Ausführung des Befehls `cf logs` keine Ausgabe zurückgegeben wird.
-2. Stellen Sie durch Ausführen des Befehls `cf api` sicher, dass die Cloud Foundry-Befehlszeilenschnittstelle mit dem Ausführungsort von {{site.data.keyword.Bluemix_notm}} verbunden ist.
-
-Verwenden Sie eines der folgenden Scripts zum Erfassen der Diagnoseinformationen:
-
-  * Windows-Betriebssysteme: Laden Sie die Datei [bmdiag-general.bat ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} herunter und führen Sie sie aus.
-  * Linux- und Mac-Betriebssysteme: Laden Sie die Datei [bmdiag-general.sh ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} herunter und führen Sie sie aus.
-
-Von den Scripts wird die Cloud Foundry-Befehlszeilenschnittstelle zum Extrahieren der folgenden Informationen aus der Anwendungsumgebung verwendet:
-  * Anwendungsprotokolle
-  * Anwendungsmetadaten
-  * Konfigurierte Routen
-  * Ereignisse
-  * Bereitgestellte Services
-
-## Supportfälle eskalieren
+# Supportfälle eskalieren
 {: #escalation}
 
-Als {{site.data.keyword.Bluemix_notm}}-Kunde können Sie weitergehende Unterstützung anfordern, indem Sie Ihren Fall an den zuständigen {{site.data.keyword.Bluemix_notm}}-Support Manager eskalieren. Während des Eskalationsprozesses können Sie kritische Probleme auf den Punkt bringen und Ihre Sorge äußern, wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen bearbeitet wird. Nach der Eskalation eines Falls prüft der zuständige Support Manager die Informationen im Supportfall, bindet die passenden Mitglieder des technischen {{site.data.keyword.Bluemix_notm}}-Supportteams ein und informiert Sie über Updates.
-
-Um einen Supportfall zu eskalieren, müssen Sie über {{site.data.keyword.Bluemix_notm}} Advanced oder Premium Support verfügen und einen Supportfall für das Problem geöffnet haben. Stellen Sie außerdem sicher, dass das technische Problem im geöffneten Supportfall ausreichend dokumentiert ist.
+Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft das {{site.data.keyword.Bluemix}}-Support-Team die Informationen im Supportfall und informiert Sie über entsprechende Updates.
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 
-  1. Kontaktieren Sie das {{site.data.keyword.Bluemix_notm}}-Support-Team via Telefon oder Chat:
+  1. Kontaktieren Sie den {{site.data.keyword.Bluemix_notm}}-Support telefonisch oder über den Chat:
     * Via Telefon unter der folgenden Nummer: 866-403-7638.
-    * Via Chat über das {{site.data.keyword.Bluemix_notm}}-[Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} oder, falls Sie über ein nicht verknüpftes SoftLayer-Konto verfügen, über das [Kundenportal ![Symbol für externen Link](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Kontaktaufnahme über Chat vom [Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren.
-  3. Geben Sie die Begründung für die Eskalation und den Einfluss Ihres Falls auf die Geschäftsabläufe an.
+  3. Geben Sie die Begründung für die Eskalation und den Einfluss des Problems oder Fehlers auf die Geschäftsabläufe an.
 
-{{site.data.keyword.Bluemix_notm}}-Support Managers sind rund um die Uhr im Einsatz. Sie binden die passenden Ressourcen für Ihren Fall ein und informieren Sie anschließend über die getroffenen Maßnahmen.
+## Fallpriorität und Antwortzeiten 
+{: #support-case-severity}
+
+Wie schnell Ihre Supportfälle bearbeitet werden, richtet sich nach zugeordneten Priorität. Die Priorität des Problems ordnen Sie zu, wenn Sie den Fall öffnen.  
+
+In der folgenden Tabelle sind einige allgemeine Beispiele für Supportfälle mit vorgeschlagenen Prioritätsstufen und den zugehörigen angestrebten Reaktionszeiten aufgeführt. Die angestrebten Reaktionszeiten geben lediglich die Ziele von IBM wieder und stellen keine Leistungsgarantie dar.
+
+| Priorität | Prioritätsdefinition | Angestrebte Reaktionszeiten |
+|-----|------- | ----- |
+| Priorität 1 | <strong>Kritischer Einfluss auf die Geschäftsabläufe oder Serviceausfall.</strong> <br> Eine geschäftskritische Funktion ist nicht funktionsfähig oder eine kritische Schnittstelle ist ausgefallen. Diese Prioritätsstufe gilt in der Regel für eine Produktionsumgebung und zeigt an, dass nicht erreichbare Services kritische Auswirkungen für Betriebsabläufe haben. Für diesen Zustand ist eine sofortige Lösung erforderlich. | Premium: Weniger als 15 Minuten <br> Advanced: Innerhalb einer Stunde <br> Basic: Nicht zutreffend, kann keine Fälle mit der Priorität 1 öffnen |
+| Priorität 2 | <strong>Signifikanter Einfluss auf die Geschäftsabläufe.</strong> <br> Die Verwendung eines Servicefeature oder einer Funktion ist sehr stark eingeschränkt oder die Einhaltung von Geschäftsterminen ist gefährdet. | Premium: Innerhalb einer Stunde <br> Advanced: Innerhalb von 2 Stunden <br> Basic: Nicht zutreffend, kann keine Fälle mit der Priorität 2 öffnen |
+| Priorität 3 | <strong>Geringfügiger Einfluss auf die Geschäftsabläufe.</strong> <br> Ein Servicefeature oder eine Funktion ist verwendbar, aber die Verwendbarkeit ist durch Probleme eingeschränkt. Es werden keine kritischen Auswirkungen auf Betriebsoperationen verursacht. | Premium: Innerhalb von 2 Stunden <br> Advanced: Innerhalb von 4 Stunden <br> Basic: Nicht zutreffend, kann keine Fälle mit der Priorität 3 öffnen |
+| Priorität 4 | <strong>Minimaler Einfluss auf die Geschäftsabläufe.</strong> <br> Eine Anfrage oder eine Anforderung nicht technischer Art. | Premium: Innerhalb von 4 Stunden <br> Advanced: Innerhalb von 8 Stunden <br> Basic: Bestmöglich |
+{: caption="Tabelle 1. Prioritätsdefinition und Reaktionszeit" caption-side="top"}
+
+Die SLO-Aktualisierung für die angestrebte Erstreaktionszeit im Rahmen des Premium Supports ist ab 01. Oktober 2018 gültig. Die Aktualisierungen beziehen sich auf Supportfälle, die am oder nach dem 01. Oktober 2018 erstellt wurden. Die angestrebte Erstreaktionszeit im Rahmen des Premium Supports vor dem 01. Oktober 2018 beträgt 1 Stunde für Priorität 1 und 90 Minuten für Priorität 2.
+{: note}
+
+Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf den Premium- oder Advanced Supportplan durchführen, damit Sie Supportfälle mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Supportplans wenden Sie sich an den zuständigen [IBM Vertriebsbeauftragten ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+{:tip}
+

@@ -9,18 +9,17 @@
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    {: .topicgroup}
-    お客様サポートの利用
-        howtogetsupport.md
-        getstarttssup.md
-        ViewStatus.md
-        servicessupport.md
+    howtogetsupport.md
+    servicessupport.md
+    opencase.md
+    quick-case-response.md
+    support_access.md
 
-    {: .topicgroup}
-    チケットの処理
-        mantick.md
-        ticketweight.md
-        quicktickresp.md
+    {: topicgroup}
+    状況のモニタリング
+        ViewStatus.md
+        status-bps.md
+        status_search.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -28,8 +27,7 @@
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    ts_overview.md
-    ts_manageticket.md
+    ts_managecase.md
 
     {: .topicgroup}
     既知の問題
