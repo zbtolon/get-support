@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # 撤销对 TLS 1.0 和 1.1 的支持
 {: #tlssupportwithdraw}
 
-IBM 于 2018 年 3 月 1 日撤销了对许多云产品和服务上 TLS 1.0 和 TLS 1.1 的支持。对于要撤销对 TLS 1.0 和 1.1 的支持的任何 {{site.data.keyword.Bluemix_notm}} 产品或服务，将继续支持 TLS 1.2。
+IBM 于 2018 年 3 月 1 日撤销了对许多云产品和服务上 TLS 1.0 和 TLS 1.1 的支持。对于要撤销对 TLS 1.0 和 1.1 的支持的任何 {{site.data.keyword.Bluemix}} 产品或服务，将继续支持 TLS 1.2。
 {:shortdesc}
 
 ## 为什么 TLS 版本支持会更改？
@@ -41,7 +41,7 @@ IBM 于 2018 年 3 月 1 日撤销了对许多云产品和服务上 TLS 1.0 和 
 
 对于 Cloud Foundry 应用程序，您必须确认从 {{site.data.keyword.Bluemix_notm}} 外部连接到应用程序不会受到影响。同时确认从应用程序连接到 {{site.data.keyword.Bluemix_notm}} 上的其他 Cloud Foundry 应用程序也不受影响。
 
-与 Cloud Foundry 的所有使用 TLS 的连接都可能会受到影响，包括从 Web 浏览器建立的任何连接。所有新式浏览器都支持 TLS 1.2，包括作为 {{site.data.keyword.Bluemix_notm}} [先决条件](https://console.bluemix.net/docs/overview/prereqs.html#browsers)的浏览器。
+与 Cloud Foundry 的所有使用 TLS 的连接都可能会受到影响，包括从 Web 浏览器建立的任何连接。所有新式浏览器都支持 TLS 1.2，包括作为 {{site.data.keyword.Bluemix_notm}} [先决条件](/docs/overview/prereqs.html#browsers)的浏览器。
 {: tip}
 
 #### 连接到 Cloud Foundry 应用程序
@@ -86,7 +86,7 @@ cf restage <application_name>
 
 ### 其他产品或服务
 
-对于没有仅支持 TLS 1.2 的备用端点的产品或服务，请参阅客户机或客户机库的任何可用文档，以获取有关如何确定支持的 TLS 版本以及正在使用的版本的信息。
+对于没有仅支持 TLS 1.2 的备用端点可用的产品或服务，请参阅客户机的任何可用文档。有关如何确定支持的 TLS 版本以及正在使用的版本的信息，请参阅客户机库。 
 
 ## 哪些产品和服务将撤销对 TLS 1.0 和 1.1 的支持？
 {: #prodsandservs}

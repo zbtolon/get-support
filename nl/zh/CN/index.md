@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-03"
+lastupdated: "2018-11-12"
 
 ---
 
@@ -13,12 +13,13 @@ lastupdated: "2018-10-03"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # 支持套餐
 {: #support-plans}
 
-将通过 {{site.data.keyword.Bluemix}} 社区和 Stack Overflow（可从支持中心进行访问）为您提供免费技术支持。所选支持级别确定您可为支持凭单指定的严重性以及支持中心中提供的工具的访问级别。请选择您的支持套餐，根据自己的业务需求来定制您的 {{site.data.keyword.Bluemix}} 支持体验。
+将通过 {{site.data.keyword.Bluemix}} 社区和 Stack Overflow（可从支持中心进行访问）为您提供免费技术支持。所选支持级别确定您可为支持案例分配的严重性以及您对支持中心内可用的工具的访问级别。请选择您的支持套餐，根据自己的业务需求来定制您的 {{site.data.keyword.Bluemix}} 支持体验。
 {:shortdesc}
 
 |  | 基本支持 | 高级支持 | 高端支持 |
@@ -31,17 +32,18 @@ lastupdated: "2018-10-03"
 |其他支持|不适用 |不适用 |为您指派技术客户经理<br/> <br/> 季度业务审查<br/><br/> 联系专家<br/> <br/> 邀请加入 Cloud Insights|
 {:caption="表 1. 支持套餐" caption-side="top"}
 
-**注**：更新的高端支持初始响应时间目标的 SLO 于 2018 年 10 月 1 日生效。更新适用于在 2018 年 10 月 1 日或之后创建的支持案例。对于 2018 年 10 月 1 日之前的高端支持初始响应时间目标，严重性为 1 时为 1 小时内，严重性为 2 时为 90 分钟内。
+高端支持初始响应时间目标的已更新 SLO 于 2018 年 10 月 1 日生效。更新适用于在 2018 年 10 月 1 日或之后创建的支持案例。2018 年 10 月 1 日之前的高端支持初始响应时间目标针对严重性 1 为 1 小时内，针对严重性 2 为 90 分钟内。
+{: note}
 
-有关如何分配凭单严重性以及如何处理凭单的更多信息，请参阅[如何为凭单分配严重性和加权？](/docs/get-support/ticketweight.html)。
+有关如何分配案例严重性的更多信息，请参阅[案例严重性和响应时间](/docs/get-support/quicktickresp.html#support-case-severity)。
 {: tip} 
 
 ## 高端支持
 {: #premium-support}
 
 高端支持适用于对 {{site.data.keyword.Bluemix_notm}} 具有战略依赖关系的任务关键型环境。如果您有高端支持套餐，那么还提供以下支持：
-  * 优先处理凭单
-  * 有指定的技术客户经理帮助缩短价值实现时间
+  * 优先处理案例
+  * 技术客户经理帮助缩短价值实现时间
   * 可联系专家获取专业的技术咨询和协助
   * 季度业务审查
   * 受邀加入联系 IBM 技术专家的论坛 - *Cloud Insights*

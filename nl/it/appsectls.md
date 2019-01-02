@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Ritiro del supporto per TLS 1.0 e 1.1
 {: #tlssupportwithdraw}
 
-Il 1° marzo 2018 IBM ha ritirato il supporto per TLS 1.0 e TLS 1.1 in molti prodotti e servizi cloud. TLS 1.2 è supportato per qualsiasi prodotto o servizio {{site.data.keyword.Bluemix_notm}} che stia ritirando il supporto per TLS 1.0 e 1.1.
+Il 1° marzo 2018 IBM ha ritirato il supporto per TLS 1.0 e TLS 1.1 in molti prodotti e servizi cloud. TLS 1.2 è supportato per qualsiasi prodotto o servizio {{site.data.keyword.Bluemix}} che stia ritirando il supporto per TLS 1.0 e 1.1.
 {:shortdesc}
 
 ## Perché viene modificato il supporto della versione TLS?
@@ -30,7 +30,7 @@ La modifica del supporto della versione TLS fornisce un ambiente cloud sicuro e 
 
 Il [protocollo TLS ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://en.wikipedia.org/wiki/Transport_Layer_Security){: new_window} viene utilizzato per crittografare le comunicazioni attraverso una rete per garantire che i dati trasmessi rimangano privati. TLS ha rilasciato le seguenti versioni: 1.0, 1.1 e 1.2. Tutte le connessioni HTTPS utilizzano TLS. HTTPS è il metodo predominante per garantire che le connessioni a prodotti e servizi {{site.data.keyword.Bluemix_notm}} siano attendibili e sicure. Alcuni prodotti e servizi {{site.data.keyword.Bluemix_notm}} consentono connessioni sicure utilizzando il protocollo WSS (WebSocket Secure), che utilizza anche TLS. Il ritiro del supporto per TLS 1.0 e 1.1 riguarda entrambe le connessioni HTTPS e WSS.
 
-## Quali azioni devo svolgere per assicurarmi di non subire alcun impatto? 
+## Quali azioni devo svolgere per assicurarmi di non subire alcun impatto?
 {: #impact}
 
 La maggior parte delle connessioni effettuate ai prodotti o ai servizi {{site.data.keyword.Bluemix_notm}} utilizza già TLS 1.2. Se le tue connessioni non richiedono TLS 1.0 o 1.1, non subisci alcun impatto.
@@ -41,7 +41,7 @@ Se utilizzi uno dei prodotti o servizi che ritirano il supporto per TLS 1.0 o 1.
 
 Per le applicazioni Cloud Foundry, devi confermare che le connessioni alla tua applicazione dall'esterno di {{site.data.keyword.Bluemix_notm}} non siano interessate. Conferma inoltre che le connessioni dalla tua applicazione a un'altra applicazione Cloud Foundry su {{site.data.keyword.Bluemix_notm}} non siano interessate.
 
-Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](https://console.bluemix.net/docs/overview/prereqs.html#browsers) di {{site.data.keyword.Bluemix_notm}}.
+Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](/docs/overview/prereqs.html#browsers) di {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connessione alla tua applicazione Cloud Foundry
@@ -77,7 +77,7 @@ Per i prodotti e i servizi Watson, effettua le seguenti sostituzioni alle tue co
   * Sostituisci `gateway.watsonplatform.net` con `gateway-tls12.watsonplatform.net`
   * Sostituisci `stream.wastonplatform.net` con `stream-tls12.watsonplatform.net`
 
-Questi endpoint alternativi supportano solo TLS 1.2. Se puoi connetterti correttamente a questi endpoint alternativi, non subisci alcun impatto. Se non riesci a connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
+Questi endpoint alternativi supportano solo TLS 1.2. Se puoi connetterti correttamente a questi endpoint alternativi, non subisci alcun impatto. Se non puoi connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
 
 Gli endpoint alternativi per prodotti e servizi Watson in ubicazioni diverse da Dallas non vengono forniti, in quanto supportano già solo TLS 1.2.
 
@@ -86,7 +86,7 @@ Gli endpoint alternativi per prodotti e servizi Watson in ubicazioni diverse da 
 
 ### Altri prodotti e servizi
 
-Per prodotti o servizi che non dispongono di endpoint alternativi solo per TLS 1.2, fai riferimento a qualsiasi documentazione disponibile per il tuo client o le tue librerie client per informazioni su come determinare quali versioni di TLS sono supportate e quale versione stai utilizzando.
+Per prodotti o servizi che non dispongono di endpoint alternativi solo per TLS 1.2, fai riferimento a qualsiasi documentazione disponibile per il tuo client. Per informazioni su come determinare quali versioni di TLS sono supportate e quale versione stai utilizzando, fai riferimento alle librerie client. 
 
 ## Quali prodotti e servizi ritireranno il supporto per TLS 1.0 e 1.1?
 {: #prodsandservs}

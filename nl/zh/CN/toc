@@ -9,18 +9,17 @@
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    {: .topicgroup}
-    获取客户支持
-        howtogetsupport.md
-        getstarttssup.md
-        ViewStatus.md
-        servicessupport.md
+    howtogetsupport.md
+    servicessupport.md
+    opencase.md
+    quick-case-response.md
+    support_access.md
 
-    {: .topicgroup}
-    使用凭单
-        mantick.md
-        ticketweight.md
-        quicktickresp.md
+    {: topicgroup}
+    监视状态
+        ViewStatus.md
+        status-bps.md
+        status_search.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -28,11 +27,10 @@
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    ts_overview.md
-    ts_manageticket.md
+    ts_managecase.md
 
     {: .topicgroup}
-    Known issues
+    已知问题
         datacenter-migration.md
         appsectls.md
 

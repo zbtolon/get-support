@@ -9,18 +9,17 @@ Obtendo Suporte
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    {: .topicgroup}
-    Obtendo suporte ao cliente
-        howtogetsupport.md
-        getstarttssup.md
-        ViewStatus.md
-        servicessupport.md
+    howtogetsupport.md
+    servicessupport.md
+    opencase.md
+    quick-case-response.md
+    support_access.md
 
-    {: .topicgroup}
-    Trabalhando com chamados
-        mantick.md
-        ticketweight.md
-        quicktickresp.md
+    {: topicgroup}
+    Monitorando o status
+        ViewStatus.md
+        status-bps.md
+        status_search.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -28,8 +27,7 @@ Obtendo Suporte
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    ts_overview.md
-    ts_manageticket.md
+    ts_managecase.md
 
     {: .topicgroup}
     Problemas conhecidos

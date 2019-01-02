@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-14"
+lastupdated: "2018-11-28"
 
 ---
 
@@ -13,53 +13,41 @@ lastupdated: "2018-05-14"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 
-# 如何让我的案例快速得到受理？
-{: #quicktickresp}
-
-当您联系技术支持来建立支持案例时，可以根据问题的类型和紧急程度来请求特定严重性级别。严重性级别可能会影响解决问题的速度。
-{:shortdesc}
-
-您可根据业务需要和支持级别来定义问题的严重性。有关支持套餐级别的更多信息，请参阅[支持套餐](/docs/get-support/index.html)。所有案例都需要经过调查，才能确定和分析问题的根本原因。当需要问题诊断数据来确定问题的根本原因时，会询问您是否允许访问您应用程序中的日志文件，以及其他用于确定问题的数据。没有这些数据，您的问题解决起来可能更慢。
-
-## 收集诊断信息
-{: #collecting-diagnostic-information}
-
-要诊断并解决 {{site.data.keyword.Bluemix_notm}} 应用程序和服务的问题，{{site.data.keyword.Bluemix_notm}} 支持团队可能会要求您收集诊断信息。请根据以下指示信息，尽快收集并提供所要求的信息。
-
-在收集诊断信息之前，请完成以下步骤：
-
-1. 确保已安装最新的 Cloud Foundry 命令行界面。有关更多信息，请参阅[安装 Cloud Foundry 命令行界面](/docs/starters/install_cli.html)。
->**注：**如果未安装最新 Cloud Foundry 命令行界面，那么在 cf 命令行连接到 {{site.data.keyword.Bluemix_notm}} 后，`cf logs` 命令可能不会返回输出。
-2. 确保使用 `cf api` 命令将 Cloud Foundry 命令行界面连接到 {{site.data.keyword.Bluemix_notm}} 正在运行的位置。
-
-使用以下其中一个脚本来收集诊断信息：
-
-  * 对于 Windows 操作系统，下载并运行 [bmdiag-general.bat ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} 文件。
-  * 对于 Linux 和 Mac 操作系统，下载并运行 [bmdiag-general.sh ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} 文件。
-
-脚本使用 Cloud Foundry 命令行界面来从应用程序环境中抽取以下信息：
-  * 应用程序日志
-  * 应用程序元数据
-  * 配置的路径
-  * 事件
-  * 提供的服务
-
-## 上报支持案例
+# 上报支持案例
 {: #escalation}
 
-作为 {{site.data.keyword.Bluemix_notm}} 客户，您可以将您的案例上报给当值的 {{site.data.keyword.Bluemix_notm}} 支持经理来请求进一步的帮助。通过上报过程，您可以报告严重问题。如果您认为自己的支持案例未得到妥善处理，也可以通过此过程来表达您的担忧。上报案例后，当值经理会复查支持案例中的信息，与 {{site.data.keyword.Bluemix_notm}} 技术支持团队的相应成员进行沟通，然后通知您最新的进展。
-
-要上报支持案例，您必须拥有 {{site.data.keyword.Bluemix_notm}} 高级或高端支持，并已为问题建立支持案例。此外，请必须确保在所建立的支持案例中已对技术问题进行清楚的描述。
+使用上报过程可报告严重问题，或者如果您认为自己的支持案例未得到妥善处理，也可以使用上报过程。上报案例后，{{site.data.keyword.Bluemix}} 支持团队会复查支持案例中的信息，并为您提供适当的更新。
 
  要上报案例，请完成以下步骤：
 
-  1. 通过电话或交谈与 {{site.data.keyword.Bluemix_notm}} 支持团队进行联系:
+  1. 通过电话或交谈与 {{site.data.keyword.Bluemix_notm}} 支持人员联系：
     * 电话号码：866-403-7638。
-    * 交谈选项：{{site.data.keyword.Bluemix_notm}} [支持中心 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}，或[客户门户网站 ![外部链接图标](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}（如果您有未链接的 SoftLayer 帐户）。
+    * 通过从[支持中心 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://{DomainName}/unifiedsupport/supportcenter){: new_window} 进行交谈。
   2. 提供现有案例号并请求上报案例。
-  3. 提供上报理由以及该案例所带来的业务影响。
+  3. 提供上报理由以及该问题所带来的业务影响。
 
-{{site.data.keyword.Bluemix_notm}} 支持经理全天候当值。当值经理会与相应的资源进行联系来处理您的案例，然后会通知您要采取哪些措施。
+## 案例严重性和响应时间 
+{: #support-case-severity}
+
+您的支持案例的处理速度取决于分配的严重性。您在开具案例时，可分配问题的严重性。 
+
+下表列出了支持问题、建议严重性级别和响应时间目标的一些常见示例。响应时间目标仅用于描述 IBM 目标，并不表示性能保证。
+
+|严重性|严重性定义|响应时间目标|
+|-----|------- | ----- |
+|严重性 1|<strong>严重业务影响或服务关闭。</strong><br> 业务关键功能无法运行或关键接口发生故障。此严重性通常应用于生产环境，指示由于无法访问服务而导致对运营产生严重影响。此情况需要立即解决。|高端：在 15 分钟内<br> 高级：在 1 小时内<br> 基本：不适用，无法开具严重性为 1 的案例|
+|严重性 2|<strong>重大业务影响。</strong><br> 服务特色或功能的使用受到严重限制，或者您即将超过业务截止期限。|高端：在 1 小时内<br> 高级：在 2 小时内<br> 基本：不适用，无法开具严重性为 2 的案例|
+|严重性 3|<strong>轻微业务影响。</strong><br> 服务特色或功能可使用，但存在一些影响其使用的问题。不会对操作产生严重影响。|高端：在 2 小时内<br> 高级：在 4 小时内<br> 基本：不适用，无法开具严重性为 3 的案例|
+|严重性 4|<strong>最小业务影响。</strong><br> 查询或非技术请求。|高端：在 4 小时内<br> 高级：在 8 小时内<br> 基本：尽力|
+{: caption="表 1. 严重性定义和响应时间" caption-side="top"}
+
+高端支持初始响应时间目标的已更新 SLO 于 2018 年 10 月 1 日生效。更新适用于在 2018 年 10 月 1 日或之后创建的支持案例。2018 年 10 月 1 日之前的高端支持初始响应时间目标针对严重性 1 为 1 小时内，针对严重性 2 为 90 分钟内。
+{: note}
+
+如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持套餐，以便可以开具严重性为 1-4 的支持案例。要升级支持套餐，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}。
+{:tip}
+

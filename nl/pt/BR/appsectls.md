@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Retirada de suporte para o TLS 1.0 e 1.1
 {: #tlssupportwithdraw}
 
-A IBM retirou o suporte para o TLS 1.0 e TLS 1.1 em muitos produtos e serviços de nuvem em 01 de março de 2018. O TLS 1.2 é suportado para qualquer produto ou serviço {{site.data.keyword.Bluemix_notm}} que esteja retirando o suporte para o TLS 1.0 e 1.1.
+A IBM retirou o suporte para o TLS 1.0 e TLS 1.1 em muitos produtos e serviços de nuvem em 01 de março de 2018. O TLS 1.2 é suportado para qualquer produto ou serviço {{site.data.keyword.Bluemix}} que esteja retirando o suporte para o TLS 1.0 e 1.1.
 {:shortdesc}
 
 ## Por que está mudando o suporte de versão do TLS.
@@ -44,7 +44,7 @@ Para os aplicativos Cloud Foundry, deve-se confirmar que as conexões com o apli
 {{site.data.keyword.Bluemix_notm}} não são afetadas. Além disso, confirme se as conexões do aplicativo com
 outro aplicativo Cloud Foundry no {{site.data.keyword.Bluemix_notm}} não são afetadas.
 
-Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](https://console.bluemix.net/docs/overview/prereqs.html#browsers) do {{site.data.keyword.Bluemix_notm}}.
+Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](/docs/overview/prereqs.html#browsers) do {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Conectando-se ao seu aplicativo Cloud Foundry
@@ -83,8 +83,8 @@ Para produtos e serviços do Watson, faça as substituições a seguir para suas
   * Substitua ``gateway.watsonplatform.net` com `gateway-tls12.watsonplatform.net`
   * Substitua ``stream.wastonplatform.net` com `stream-tls12.watsonplatform.net`
 
-Esses terminais alternativos suportam apenas o TLS 1.2. Se você puder se conectar com êxito a esses terminais
-alternativos, não será afetado. Se você não puder se conectar com êxito, deverá mudar o seu cliente, as bibliotecas do cliente ou a configuração do cliente para ativar o TLS 1.2.
+Esses terminais alternativos suportam apenas o TLS 1.2. Se puder se conectar com êxito a esses terminais alternativos, você não será afetado. Se você não puder se conectar com êxito, mude o cliente, as bibliotecas do cliente ou a configuração do
+cliente para ativar o TLS 1.2.
 
 Terminais alternativos para produtos e serviços do Watson em locais diferentes de Dallas não são fornecidos, pois eles já suportam apenas o TLS 1.2.
 
@@ -94,9 +94,7 @@ destinam-se somente a propósitos de teste e não estarão disponíveis após a 
 
 ### Outros produtos ou serviços
 
-Para produtos ou serviços que não têm terminais alternativos TLS 1.2 exclusivos disponíveis, consulte qualquer
-documentação disponível do cliente ou das bibliotecas do cliente para obter informações sobre como determinar quais
-versões do TLS são suportadas e qual versão você está usando.
+Para produtos ou serviços que não têm terminais alternativos somente do TLS 1.2 disponíveis, consulte qualquer documentação disponível de seu cliente. Para obter informações sobre como determinar quais versões do TLS são suportadas e qual versão você está usando, consulte as bibliotecas do cliente. 
 
 ## Quais produtos e serviços estão retirando o suporte para o TLS 1.0 e 1.1?
 {: #prodsandservs}

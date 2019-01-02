@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -22,7 +22,7 @@ lastupdated: "2018-10-23"
 與支援中心聯絡並開立支援問題單時，您可以要求特定嚴重性層次（視問題的類型及緊急性而定）。嚴重性層次可能會影響解決問題的快慢。
 {:shortdesc}
 
-您可以根據商業需求及支援層次來定義問題嚴重性。如需支援方案層次的相關資訊，請參閱[支援方案](/docs/get-support/index.html)。調查所有問題單，以識別及解決問題的主要原因。支援團隊需要問題診斷資料來判定問題的主要原因時，系統將要求您核准從應用程式存取日誌檔及其他問題判斷資料。如果沒有此資料，可能會延遲問題的解決。
+您可以根據業務需要及支援層次來定義問題嚴重性。如需支援方案層次的相關資訊，請參閱[支援方案](/docs/get-support/index.html)。所有問題單都會受到調查，以識別及解決問題的主要原因。支援團隊需要問題診斷資料來判定問題的主要原因時，將要求您核准從應用程式存取日誌檔及其他問題判斷資料。如果沒有此資料，可能會延遲問題的解決。
 
 ## 收集診斷資訊
 {: #collecting-diagnostic-information}
@@ -52,7 +52,7 @@ Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列�
 
 使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援案例的話也可使用呈報處理程序。呈報案例時，值班經理會檢閱支援案例中的資訊、安排 {{site.data.keyword.Bluemix_notm}} 支援技術團隊的適當成員參與，然後為您提供適當的更新。
 
-如果是任何方式的付費訂閱，您可以將您的案例以客戶身分呈報至值班 {{site.data.keyword.Bluemix_notm}} 支援經理。 
+如果是任何付費訂閱，您可以將您的案例以客戶身分呈報給值班的 {{site.data.keyword.Bluemix_notm}} 支援經理，來要求進一步的協助。 
 
 若要呈報支援案例，您必須已開立問題的支援案例。此外，也請確定您已在開立的支援案例中提供技術問題的詳細說明。
 
@@ -60,7 +60,7 @@ Script 使用 Cloud Foundry 指令行介面來擷取應用程式環境的下列�
 
   1. 以電話或會談與 {{site.data.keyword.Bluemix_notm}} 支援中心團隊聯絡：
     * 電話號碼如下：866-403-7638。
-    * 使用會談請從 {{site.data.keyword.Bluemix_notm}} [支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}，或是如果您有未鏈結的 SoftLayer 帳戶，請從[客戶入口網站 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}。
+    * 從{{site.data.keyword.Bluemix_notm}} [支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} 使用會談。
   2. 提供您現有的案例號碼，並要求呈報案例。
   3. 提供調整的理由及您案例的業務衝擊。
 

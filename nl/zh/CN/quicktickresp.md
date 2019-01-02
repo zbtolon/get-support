@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -60,7 +60,7 @@ lastupdated: "2018-10-23"
 
   1. 通过电话或交谈与 {{site.data.keyword.Bluemix_notm}} 支持团队进行联系：
     * 电话号码：866-403-7638。
-    * 交谈选项：{{site.data.keyword.Bluemix_notm}} [支持中心 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}，或[客户门户网站 ![外部链接图标](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}（如果您有未链接的 SoftLayer 帐户）。
+    * 通过从{{site.data.keyword.Bluemix_notm}} [支持中心 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} 进行交谈。
   2. 提供现有案例号并请求上报案例。
   3. 提供上报理由以及该案例所带来的业务影响。
 

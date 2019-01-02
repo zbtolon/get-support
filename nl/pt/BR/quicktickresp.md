@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -52,8 +52,7 @@ Os scripts usam a interface da linha de comandos do Cloud Foundry para extrair a
 
 Use o processo de escalada para problemas críticos de superfície ou se você sentir que o seu caso de suporte não está sendo tratado adequadamente. Quando um caso é escalado, o gerente de plantão revisa as informações no caso de suporte, envolve os membros apropriados da equipe técnica de suporte do {{site.data.keyword.Bluemix_notm}} e fornece a você as atualizações apropriadas.
 
-É possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}}
-Support Manager em serviço como um cliente com qualquer assinatura paga. 
+É possível solicitar assistência adicional escalando seu caso para o {{site.data.keyword.Bluemix_notm}} Support Manager em serviço como um cliente com qualquer assinatura paga. 
 
 Para escalar um caso de suporte, deve-se ter um caso de suporte aberto para o problema. Além disso, assegure-se de fornecer uma descrição detalhada do problema técnico no caso de suporte que você abriu.
 
@@ -61,7 +60,7 @@ Para escalar um caso de suporte, deve-se ter um caso de suporte aberto para o pr
 
   1. Entre em contato com a Equipe de suporte do {{site.data.keyword.Bluemix_notm}} por telefone ou bate-papo:
     * Por telefone para o seguinte número: 866-403-7638.
-    * Por bate-papo no [Centro de suporte![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window} do {{site.data.keyword.Bluemix_notm}} ou pelo [portal do cliente ![Ícone de link externo](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window} se você tiver uma conta da SoftLayer que não esteja vinculada.
+    * Por bate-papo por meio do [Centro de suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}.
   2. Forneça seu número de caso existente e solicite para escalar o caso.
   3. Forneça a justificação para escalação e o impacto no negócio de seu caso.
 
