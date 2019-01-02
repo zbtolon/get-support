@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-22"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -25,11 +25,11 @@ IBM retire le support des centres de données suivants aux Etats-Unis :
 
 ##  Pourquoi dois-je migrer vers un autre centre de données ?
 
-Pour continuer à vous faire bénéficier des meilleurs services, matériels et connectivité; nous évaluons continuellement tous nos sites pour nous assurer qu'ils répondent aux réseaux, aux équipements électriques et aux autres normes d'infrastructure. Même si ces sites sont adéquats, ils ne répondent plus à nos normes actuelles.
+Pour continuer à vous faire bénéficier des meilleurs services, matériels et connectivité, nous évaluons continuellement tous nos sites pour nous assurer qu'ils répondent aux réseaux, aux équipements électriques et aux autres normes d'infrastructure. Même si ces sites sont adéquats, ils ne répondent plus à nos normes actuelles.
 
 ## Dois-je avoir terminé la migration à la date indiquée ?
 
-Oui. Pour éviter toute interruption de service, nous essayons d'accorder un délai de mise en oeuvre le plus long possible afin de rendre la transition quasiment transparente pour vous. Nous avons commencé à évoquer le déplacement de ce site en mai 2018.
+Oui. Pour éviter toute interruption de service, nous essayons d'accorder un délai de mise en oeuvre le plus long possible afin de rendre la transition quasiment transparente pour vous. Nous avons évoqué le déplacement de ce site en mai 2018.
 
 ## Devrais-je à nouveau migrer un jour vers un autre centre de données ?
 
@@ -46,7 +46,7 @@ IBM dispose de plus de 60 centres de données répartis à des emplacements dive
 Les facteurs suivants peuvent avoir un impact sur le centre de données que vous sélectionnez :
 * Proximité avec les utilisateurs des systèmes
 * Proximité avec les autres systèmes avec lesquels ce serveur a besoin de communiquer
-* Stratégies de données ou réglementation imposant de stocker les données à un emplacement spécifique
+* Règles de données ou réglementation imposant de stocker les données à un emplacement spécifique
 
 ## Suis-je obligé d'utiliser aussi des sites aux Etats-Unis pour la période de transition ?
 
@@ -54,7 +54,7 @@ Vous pouvez utiliser n'importe que site {{site.data.keyword.cloud_notm}} mondial
 
 ## Les deux mois gratuits des ressources de transition s'ajoutent-ils à mon temps serveur existant ?
 
-Oui. Vous pouvez nous contacter et un représentant du support technique vous aidera pour la procédure d'acquisition de serveurs pour votre période de transition.
+Oui. Vous pouvez nous contacter et un représentant du support technique peut vous aider pour la procédure d'acquisition de serveurs pour votre période de transition.
 
 ## Comment déterminer quelle est ma configuration matérielle actuelle ?
 
@@ -66,15 +66,15 @@ La plupart des systèmes d'exploitation fournissent des outils que vous pouvez u
 
 ## Comment comparer anciens et nouveaux processeurs ?
 
-Pour comparer les spécifications des anciens et nouveaux processeurs Intel, accédez à [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors). Si vous connaissez le type de processeur, vous pouvez naviguer dans les menus. Sinon, vous pouvez utiliser l'option de recherche pour identifier les spécifications des deux processeurs. Les processeurs les plus récents ont tendance à comporter plus de coeurs et à opérer à une cadence d'horloge plus faible que les variantes plus anciennes. Si votre charge de travail est tributaire du processeur (ses performances sont limitées par la vitesse du processeur), nous vous recommandons de choisir un processeur avec moins de coeurs et une vitesse supérieure. Si vous exécutez plusieurs charges de travail qui ne sont pas particulièrement limitées par la vitesse du processeur, la sélection d'un processeur avec plus de coeurs et une cadence d'horloge identique, ou plus faible, peut constituer une meilleure solution.
+Pour comparer les spécifications des anciens et nouveaux processeurs Intel, accédez à [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe"). Si vous connaissez le type de processeur, vous pouvez naviguer dans les menus. Sinon, vous pouvez utiliser l'option de recherche pour identifier les spécifications des deux processeurs. Les processeurs les plus récents ont tendance à comporter plus de coeurs et à opérer à une cadence d'horloge plus faible que les variantes plus anciennes. Si votre charge de travail est tributaire du processeur (ses performances sont limitées par la vitesse du processeur), nous vous recommandons de choisir un processeur avec moins de coeurs et une vitesse supérieure.  Si vous exécutez plusieurs charges de travail qui ne sont pas particulièrement limitées par la vitesse du processeur, la sélection d'un processeur avec plus de coeurs et une cadence d'horloge identique, ou plus faible, peut constituer une meilleure solution.
 
 ## Comment sélectionner mon nouveau système d'exploitation ?
 
-Si vous utilisez le serveur depuis plusieurs années sans l'avoir mis jour, il est probable que vous exécutez une version plus ancienne du système d'exploitation. Ceci peut poser des défis pour la migration. Il se peut que vous ne disposiez pas du support d'installation de l'ancien système d'exploitation pour le réinstaller.  Vous pourriez aussi découvrir que le nouveau matériel serveur vers lequel vous migrez n'est pas pris en charge par l'ancienne version du système d'exploitation. Par conséquent, vous devez peut-être choisir un système d'exploitation différent vers lequel migrer.
+Si vous utilisez le serveur depuis plusieurs années sans l'avoir mis jour, il est probable que vous exécutez une version plus ancienne du système d'exploitation. Ceci peut poser des défis pour la migration. Il se peut que vous ne disposiez pas du support d'installation de l'ancien système d'exploitation pour le réinstaller. Vous pourriez aussi découvrir que le nouveau matériel serveur vers lequel vous migrez n'est pas pris en charge par l'ancienne version du système d'exploitation. Vous devrez peut-être choisir un système d'exploitation différent vers lequel migrer.
 
-Votre choix de système d'exploitation peut être dicté par les applications que vous exécutez. Dans le cadre de la migration, vous pouvez être amené à exécuter l'application sur une version ultérieure du système d'exploitation. Vérifiez qu'elle fonctionnera sur la version plus récente.
+Votre choix de système d'exploitation peut être dicté par les applications que vous exécutez. Dans le cadre de la migration, vous pouvez être amené à exécuter l'application sur une version ultérieure du système d'exploitation. Vérifiez qu'elle fonctionne sur la version plus récente.
 
-Les compétences disponibles avec un système d'exploitation spécifique peuvent aussi influencer votre choix. Si vous disposez du code source de l'application, vérifiez que les outils de développement et les fonctions de système et de middleware sont disponibles sur la nouvelle plateforme. En général, les systèmes Linux sont plus à même que Windows de prendre en charge les anciennes applications sur de nouvelles versions du système d'exploitation, mais ceci n'est pas garanti.
+Les compétences disponibles avec un système d'exploitation spécifique peuvent aussi influencer votre choix. Si vous disposez du code source de l'application, vérifiez que les outils de développement et les fonctions de système et de middleware sont disponibles sur la nouvelle plateforme.  En général, les systèmes Linux sont plus à même que Windows de prendre en charge les anciennes applications sur de nouvelles versions du système d'exploitation, mais ceci n'est pas garanti.
 
 ## Quelle bande passante est-elle obtenue avec ma nouvelle configuration et est-elle la même que ma bande passante actuelle ?
 
@@ -82,9 +82,9 @@ Vous recevez un package de bande passante actuel étroitement associé à celui 
 
 ## Comment copier des données de mon ancien serveur vers le nouveau ?
 
-Une fois établie la connectivité entre l'ancien et le nouveau serveur, vous devez prendre en compte la manière dont vous transférez des données entre eux. En supposant que vous disposez d'un stockage suffisant sur le nouveau serveur pour gérer le volume de données, une copie directe serveur à serveur est la méthode la plus simple pour ce faire.  Il existe de nombreux outils disponibles que vous pouvez utiliser.  
+Une fois établie la connectivité entre l'ancien et le nouveau serveur, vous devez prendre en compte la manière dont vous transférez des données entre eux.  En supposant que vous disposez d'un stockage suffisant sur le nouveau serveur pour gérer le volume de données, une copie directe serveur à serveur est la méthode la plus simple pour ce faire.  Il existe de nombreux outils disponibles que vous pouvez utiliser.  
 
-* scp est un choix idoine pour copier en sécurité un fichier de la source à la destination. Il effectue une copie linéaire ordinaire. 
+* scp est un choix idoine pour copier en sécurité un fichier de la source à la destination.  Il effectue une copie linéaire ordinaire. 
 * Si vous avez besoin de copier un grand nombre de fichiers, la resynchronisation sous ssh est bien plus rapide que sous scp. rsync copie également les structures de répertoires et préserve les autorisations d'accès aux fichiers.
 
 En général, vous de devriez copier que des applications et des données d'application entre les systèmes. La copie d'anciennes versions des fichiers de systèmes d'exploitation vers une nouvelle version peut provoquer des problèmes.
@@ -93,7 +93,7 @@ Arrêtez les bases de données avant de les copier entre les systèmes afin de g
 
 ## Dois-je configurer mon réseau à nouveau sur le nouveau site ?
 
-Votre réseau devra probablement être modifié pour opérer avec les nouveaux serveurs et le nouveau site. Si vous avez besoin d'aide pour ce processus, contactez l'équipe de support par téléphone ou via une discussion.
+Votre réseau doit probablement être modifié pour opérer avec les nouveaux serveurs et le nouveau site. Si vous avez besoin d'aide pour ce processus, contactez l'équipe de support par téléphone ou via une discussion.
 
 ## Que dois-je faire si je n'ai pas les compétences nécessaires pour migrer ?
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Retrait de la prise en charge de TLS 1.0 et 1.1
 {: #tlssupportwithdraw}
 
-IBM a retiré la prise en charge de TLS 1.0 et TLS 1.1 sur plusieurs produits et services de cloud à compter du 1 mars 2018. TLS 1.2 est pris en charge pour n'importe quel produit ou service {{site.data.keyword.Bluemix_notm}} sur lequel la prise en charge de TLS 1.0 et 1.1 été retirée.
+IBM a retiré la prise en charge de TLS 1.0 et TLS 1.1 sur plusieurs produits et services de cloud à compter du 1 mars 2018. TLS 1.2 est pris en charge pour n'importe quel produit ou service {{site.data.keyword.Bluemix}} sur lequel la prise en charge de TLS 1.0 et 1.1 été retirée.
 {:shortdesc}
 
 ## Pourquoi la prise en charge de version TLS a-t-elle été modifiée ?
@@ -33,7 +33,7 @@ Le [protocole TLS ![Icône de lien externe](../icons/launch-glyph.svg "Icône de
 ## Quelles actions dois-je entreprendre pour m'assurer que je ne sois pas impacté ?
 {: #impact}
 
-La plupart des connexions vers les produits et services {{site.data.keyword.Bluemix_notm}} utilisent déjà TLS 1.2. Si vos connexions ne requièrent pas TLS 1.0 ou 1.1,  vous n'êtes pas impacté.
+La plupart des connexions vers les produits et services {{site.data.keyword.Bluemix_notm}} utilisent déjà TLS 1.2. Si vos connexions ne requièrent pas TLS 1.0 ou 1.1, vous n'êtes pas impacté.
 
 Si vous utilisez l'un des produits ou services sur lequel cette prise en charge a été retirée, vous devez vérifier que vos connexions ne requièrent pas TLS 1.0 ou 1.1.
 
@@ -41,7 +41,7 @@ Si vous utilisez l'un des produits ou services sur lequel cette prise en charge 
 
 Pour les applications Cloud Foundry, vous devez vérifier que les connexions de l'extérieur de {{site.data.keyword.Bluemix_notm}} vers votre application ne sont pas impactées. Vérifiez également que les connexions depuis votre application vers une autre application Cloud Foundry sur {{site.data.keyword.Bluemix_notm}} ne sont pas impactées.
 
-Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](https://console.bluemix.net/docs/overview/prereqs.html#browsers) pour {{site.data.keyword.Bluemix_notm}}.
+Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](/docs/overview/prereqs.html#browsers) pour {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connexion à votre application Cloud Foundry
@@ -86,7 +86,7 @@ Aucun noeud final alternatif pour les produits et services Watson dans des empla
 
 ### Autres produits ou services
 
-Pour les produits ou services qui ne disposent pas de noeuds finaux TLS 1.2 alternatifs, reportez-vous à la documentation disponible pour votre client ou vos bibliothèques client pour plus d'informations sur l'identification des versions TLS prises en charge et de la version que vous utilisez.
+Pour les produits ou services qui ne disposent pas de noeuds finaux TLS 1.2 alternatifs, reportez-vous à la documentation disponible pour votre client. Pour plus d'informations sur l'identification des versions TLS prises en charge et de la version que vous utilisez, consultez les bibliothèques client. 
 
 ## Quels sont les produits et services qui retirent leur prise en charge pour TLS 1.0 et 1.1 ?
 {: #prodsandservs}

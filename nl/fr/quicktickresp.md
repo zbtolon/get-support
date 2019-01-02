@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-23"
+lastupdated: "2018-11-27"
 
 ---
 
@@ -60,7 +60,7 @@ Pour faire remonter un cas de support, vous devez avoir un case de support ouver
 
   1. Contactez l'équipe de support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne :
     * Par téléphone, composez le numéro suivant : 866-403-7638.
-    * Si vous optez pour la discussion en ligne, accédez au [centre de support ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}{{site.data.keyword.Bluemix_notm}} ou, si vous disposez d'un compte SoftLayer qui n'est pas lié, accédez au [portail client ![Icône de lien externe](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Par discussion en ligne sur le {{site.data.keyword.Bluemix_notm}} [Centre de support![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}.
   2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas.
   3. Indiquez la justification de l'escalade et l'impact de votre cas.
 

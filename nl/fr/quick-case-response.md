@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-05-14"
+lastupdated: "2018-11-28"
 
 ---
 
@@ -13,53 +13,41 @@ lastupdated: "2018-05-14"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 
-# Comment obtenir une réponse rapide à mon cas ?
-{: #quicktickresp}
-
-Lorsque vous contactez le support et ouvrez un cas de support, vous pouvez demander un niveau de gravité particulier, en fonction du type et de l'urgence du problème. Le niveau de gravité peut avoir un impact sur la rapidité à laquelle votre problème est traité.
-{:shortdesc}
-
-Vous définissez la gravité du problème en fonction de vos besoins métier et de votre niveau d'assistance. Pour plus d'informations sur les niveaux des plans de support, voir [Plans de support](/docs/get-support/index.html). Tous les cas sont examinés afin d'identifier la cause première du problème et de résoudre celui-ci. Lorsque des données de diagnostic de problème sont nécessaires pour déterminer la cause première du problème, le système vous demande d'approuver l'accès aux fichiers journaux et à d'autres données d'identification de problème à partir de votre application. Sans ces données, la résolution du problème peut être retardée.
-
-## Collecte d'informations de diagnostic
-{: #collecting-diagnostic-information}
-
-Pour diagnostiquer et résoudre des problèmes avec les applications et les services {{site.data.keyword.Bluemix_notm}}, il se peut que l'équipe de support {{site.data.keyword.Bluemix_notm}} vous demande de collecter des informations de diagnostic. Utilisez les instructions ci-après pour collecter et fournir les informations demandées le plus rapidement possible.
-
-Avant de collecter des informations de diagnostic, procédez comme suit :
-
-1.  Vérifiez que vous avez installé la dernière version de l'interface de ligne de commande Cloud Foundry. Pour plus d'informations, voir [Installation de l'interface de ligne de commande Cloud Foundry](/docs/starters/install_cli.html).
->**Remarque :** si vous n'avez pas installé la dernière version de l'interface de ligne de commande Cloud Foundry, la commande `cf logs` risque de ne pas renvoyer de sortie lorsque cette interface est connectée à {{site.data.keyword.Bluemix_notm}}.
-2. Vérifiez à l'aide de la commande `cf api` que vous avez connecté l'interface de ligne de commande Cloud Foundry à l'emplacement où {{site.data.keyword.Bluemix_notm}} s'exécute.
-
-Utilisez l'un des scripts suivants pour collecter les informations de diagnostic :
-
-  * Pour les systèmes d'exploitation Windows, téléchargez le fichier [bmdiag-general.bat ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.bat){: new_window} et exécutez-le.
-  * Pour les systèmes d'exploitation Linux et Mac, téléchargez le fichier [bmdiag-general.sh ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://bluemix-mustgather.mybluemix.net/mustgather/general/bmdiag-general.sh){: new_window} et exécutez-le.
-
-Les scripts utilisent l'interface de ligne de commande Cloud Foundry pour extraire les informations suivantes de votre environnement d'application :
-  * Journaux d'application
-  * Métadonnées d'application
-  * Routes configurées
-  * Evénements
-  * Services mis à disposition
-
-## Escalade de cas de support
+# Escalade de cas de support
 {: #escalation}
 
-En tant que client {{site.data.keyword.Bluemix_notm}}, vous pouvez demander une assistance supplémentaire en faisant remonter votre cas au responsable de support {{site.data.keyword.Bluemix_notm}} qui est de service. Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Une fois qu'un cas est remonté, le responsable qui est de service prend connaissance des informations contenues dans le cas de support, affecte le traitement de cette tâche aux personnes appropriées de l'équipe de support technique {{site.data.keyword.Bluemix_notm}} et vous tient informé.
-
-Pour faire remonter un cas de support, vous devez disposez du support {{site.data.keyword.Bluemix_notm}} avancé ou premium et vous devez avoir ouvert un cas de support relatif au problème. En outre, le problème technique doit être bien documenté dans le cas de support que vous avez ouvert.
+Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Lorsqu'un cas est transféré, l'équipe de support {{site.data.keyword.Bluemix}} examine les informations contenues dans le cas de support et vous fournit les mises à jour appropriées.
 
  Pour faire remonter un cas, procédez comme suit :
 
-  1. Contactez l'équipe de support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne:
+  1. Contactez le support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne :
     * Par téléphone, composez le numéro suivant : 866-403-7638.
-    * Si vous optez pour la discussion en ligne, accédez au [centre de support ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://console.bluemix.net/unifiedsupport/supportcenter){: new_window}{{site.data.keyword.Bluemix_notm}} ou, si vous disposez d'un compte SoftLayer qui n'est pas lié, accédez au [portail client ![Icône de lien externe](../icons/launch-glyph.svg)](https://control.softlayer.com/){:new_window}.
+    * Par discussion en ligne sur le [Centre de support![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas.
-  3. Indiquez la justification de l'escalade et l'impact de votre cas.
+  3. Indiquez la justification de l'escalade et l'impact métier de votre problème ou de votre problème.
 
-Les responsables de support {{site.data.keyword.Bluemix_notm}} sont de service et disponibles 24 heures sur 24, 7 jours sur 7. Les responsables qui sont de service affectent les ressources appropriées au traitement de votre cas et vous informent sur les actions menées.
+## Gravité du cas et temps de réponse  
+{: #support-case-severity}
+
+La rapidité avec laquelle vos cas de support sont traités dépend de la gravité attribuée. Vous affectez une gravité à un problème au moment où vous ouvrez le cas.  
+
+Le tableau suivant répertorie divers exemples de problèmes soumis au support, les niveaux de gravité suggérés et les objectifs de temps de réponse. Les objectifs de temps de réponse sont utilisés uniquement pour décrire les intentions d'IBM et ne représentent pas une garantie de performance.
+
+| Gravité | Définition de la gravité | Objectifs de temps de réponse |
+|-----|------- | ----- |
+| Gravité 1 | <strong>Impact métier critique ou panne du service.</strong> <br> Les fonctionnalités métier critiques sont inexploitables ou l'interface critique a échoué. Cette gravité s'applique généralement à un environnement de production et indique qu'une incapacité à accéder à des services a une incidence critique sur les opérations. Cette situation nécessite une solution immédiate. | Premium : moins de 15 minutes <br> Avancé : sous 1 heure <br> De base : N/D, ne peut pas ouvrir de cas de gravité 1 |
+| Gravité 2 | <strong>Répercussion importante sur l'activité.</strong> <br> L'utilisation d'un dispositif ou d'une fonction du service est sévèrement limitée ou vous risquez de ne pas respecter des échéances métier. | Premium : sous 1 heure <br> Avancé : sous 2 heures <br> De base : N/D, ne peut pas ouvrir de cas de gravité 2 |
+| Gravité 3 | <strong>Répercussion minime sur l'activité.</strong> <br> Un dispositif ou une fonction du service est exploitable, mais certains problèmes affectent son utilisation. Aucune incidence critique sur les opérations ne s'ensuit. | Premium : sous 2 heures <br> Avancé : sous 4 heures <br> De base : N/D, ne peut pas ouvrir de cas de gravité 3 |
+| Gravité 4 | <strong>Répercussion minime sur l'activité.</strong> <br> Question ou demande non technique. | Premium : sous 4 heures <br> Avancé : sous 8 heures <br> De base : pour le mieux |
+{: caption="Tableau 1. Définition des niveaux de gravité et des temps de réponse" caption-side="top"}
+
+Objectif du niveau de service mis à jour pour les objectifs de temps de réponse initiaux du support premium en vigueur le 1er octobre 2018. Les mises à jour sont applicables aux cas de support qui sont créés le 1 octobre 2018 ou après. Les objectifs de temps de réponse initiaux du support premium antérieurs au 1er octobre 2018 correspondent à 1 heure pour le niveau de gravité 1 et à 90 minutes pour le niveau de gravité 2.
+{: note}
+
+Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le plan de support Avancé ou Premium afin de pouvoir ouvrir des cas de support de service de gravité 1 à 4. Pour mettre à niveau votre plan de support, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+{:tip}
+
