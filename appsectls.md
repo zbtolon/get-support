@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-1-04"
 
 ---
 
@@ -95,7 +95,8 @@ The following products or services are withdrawing support for TLS 1.0 and 1.1.
 
 Some products or services, such as Cloud Foundry on {{site.data.keyword.Bluemix_notm}} and services in the {{site.data.keyword.Bluemix_notm}} catalog, might be offered in multiple locations. TLS 1.0 and 1.1 is removed across all locations where they're currently supported.
 
-**Important note:** {{site.data.keyword.Bluemix_notm}} Private or {{site.data.keyword.Bluemix_notm}} Local System deployments or any {{site.data.keyword.Bluemix_notm}} services that are hosted in these deployments aren't included. If your deployment still supports TLS 1.0 or 1.1, work with your customer or support representative to determine when removal is right for you.
+{{site.data.keyword.Bluemix_notm}} Private or {{site.data.keyword.Bluemix_notm}} Local System deployments or any {{site.data.keyword.Bluemix_notm}} services that are hosted in these deployments aren't included. If your deployment still supports TLS 1.0 or 1.1, work with your customer or support representative to determine when removal is right for you.
+{: note}
 
 ### Products or services available from the {{site.data.keyword.Bluemix_notm}} catalog
 
