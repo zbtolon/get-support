@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-10-03"
+lastupdated: "2018-11-12"
 
 ---
 
@@ -13,12 +13,13 @@ lastupdated: "2018-10-03"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Planes de soporte
 {: #support-plans}
 
-Se proporciona soporte técnico gratuito a través de la comunidad de {{site.data.keyword.Bluemix}} y Stack Overflow, a los que puede acceder desde el Centro de soporte. El nivel de soporte que seleccione determina la gravedad que puede asignar a las incidencias de soporte y su nivel de acceso a las herramientas disponibles en el Centro de soporte. Elija su plan de soporte para personalizar la experiencia de soporte de {{site.data.keyword.Bluemix}} para sus necesidades empresariales.
+Se proporciona soporte técnico gratuito a través de la comunidad de {{site.data.keyword.Bluemix}} y Stack Overflow, a los que puede acceder desde el Centro de soporte. El nivel de soporte que seleccione determina la gravedad que puede asignar a los casos de soporte y su nivel de acceso a las herramientas disponibles en el Centro de soporte. Elija su plan de soporte para personalizar la experiencia de soporte de {{site.data.keyword.Bluemix}} para sus necesidades empresariales.
 {:shortdesc}
 
 |  | Soporte básico | Soporte avanzado | Soporte premium |
@@ -30,17 +31,18 @@ Se proporciona soporte técnico gratuito a través de la comunidad de {{site.dat
 | Soporte adicional | No aplicable | No aplicable | Technical Account Manager asignado <br/> <br/> Revisiones de negocio trimestrales <br/><br/> Acceso a expertos <br/> <br/> Invitación a Cloud Insights |
 {:caption="Tabla 1. Planes de soporte" caption-side="top"}
 
-**Nota**: SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte premium, efectivos el 1 de octubre de 2018. Las actualizaciones son aplicables a casos de soporte que se crean durante o después del 1 de octubre de 2018. Los objetivos de tiempo de respuesta inicial del soporte premium antes del 1 de octubre de 2018 serán de 1 hora de plazo para gravedad 1 y 90 minutos de plazo para gravedad 2.
+SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte premium, efectivos el 1 de octubre de 2018. Las actualizaciones son aplicables a casos de soporte que se crean durante o después del 1 de octubre de 2018. Los objetivos de tiempo de respuesta inicial del soporte premium antes del 1 de octubre de 2018 serán de 1 hora de plazo para gravedad 1 y 90 minutos de plazo para gravedad 2.
+{: note}
 
-Para obtener más información sobre cómo se asigna la gravedad de las incidencias y cómo se gestionan las incidencias, consulte [¿Cómo se asignan y se ponderan las incidencias?](/docs/get-support/ticketweight.html).
+Para obtener más información sobre cómo se asigna el nivel de gravedad a los casos, consulte [Gravedad del caso y tiempos de respuesta](/docs/get-support/quicktickresp.html#support-case-severity).
 {: tip} 
 
 ## Soporte premium
 {: #premium-support}
 
 El soporte premium sirve para entornos críticos que tengan una dependencia estratégica de {{site.data.keyword.Bluemix_notm}}. Se proporciona el siguiente soporte adicional si dispone de un plan de soporte premium:
-  * Manejo prioritario de incidencias
-  * Un Technical Account Manager designado para ayudar a acelerar el tiempo de respuesta
+  * Manejo prioritario de casos
+  * Un Technical Account Manager para ayudar a acelerar el tiempo de respuesta
   * Acceso a expertos para consultas y asistencia técnica especializada
   * Revisiones de negocio trimestrales
   * Una invitación a *Cloud Insights*, el foro para conectarse con expertos técnicos de IBM

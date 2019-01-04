@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-10-31"
+lastupdated: "2018-11-10"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2018-10-31"
 # Retirada de soporte para TLS 1.0 y 1.1
 {: #tlssupportwithdraw}
 
-IBM retira el soporte para TLS 1.0 y TLS 1.1 en muchos productos y servicios de nube el 1 de marzo de 2018. TLS 1.2 tiene soporte para cualquier producto o servicio de {{site.data.keyword.Bluemix_notm}} en el que se retire el soporte para TLS 1.0 y 1.1.
+IBM retira el soporte para TLS 1.0 y TLS 1.1 en muchos productos y servicios de nube el 1 de marzo de 2018. TLS 1.2 tiene soporte para cualquier producto o servicio de {{site.data.keyword.Bluemix}} en el que se retire el soporte para TLS 1.0 y 1.1.
 {:shortdesc}
 
 ## ¿Por qué está cambiando el soporte de la versión de TLS?
@@ -41,7 +41,7 @@ Si utiliza cualquiera de los productos o servicios en los que se va a retirar el
 
 Para las aplicaciones de Cloud Foundry, debe confirmar que sus conexiones a la aplicación desde fuera de {{site.data.keyword.Bluemix_notm}} no se verán afectadas. Confirme también que las conexiones desde la aplicación a otra aplicación de Cloud Foundry en {{site.data.keyword.Bluemix_notm}} no se verán afectadas.
 
-Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, incluidas las conexiones realizadas desde los navegadores web. Todos los navegadores modernos son compatibles con TLS 1.2, incluidos los que son [Requisitos previos](https://console.bluemix.net/docs/overview/prereqs.html#browsers) de {{site.data.keyword.Bluemix_notm}}.
+Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, incluidas las conexiones realizadas desde los navegadores web. Todos los navegadores modernos admiten TLS 1.2, incluidos los navegadores que son [Requisitos previos](/docs/overview/prereqs.html#browsers) de {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Conexión a la aplicación de Cloud Foundry
@@ -86,7 +86,7 @@ No se proporcionan puntos finales alternativos para productos y servicios de Wat
 
 ### Otros productos o servicios
 
-Para productos o servicios que no tienen puntos finales alternativos de solo TLS 1.2 disponibles, consulte cualquier documentación disponible para el cliente o las bibliotecas de cliente para obtener información sobre cómo determinar qué versiones de TLS están soportadas y qué versión está utilizando.
+Para productos o servicios que no tienen puntos finales alternativos de solo TLS 1.2 disponibles, consulte la documentación disponible para el cliente. Para obtener información sobre cómo determinar qué versiones de TLS están soportadas y qué versión está utilizando, consulte las bibliotecas de cliente. 
 
 ## ¿Qué productos y servicios van a retirar el soporte para TLS 1.0 y 1.1?
 {: #prodsandservs}

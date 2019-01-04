@@ -17,7 +17,7 @@ lastupdated: "2018-11-28"
 # サポートの利用
 {: #getting-customer-support}
 
-{{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因を判別し、解決策を特定するためにヘルプを利用するには、いくつかのオプションがあります。 ログインしている場合は、[サポート・ページ](https://{DomainName}/unifiedsupport/supportcenter)に直接アクセスして、一般的な FAQ を確認したり、サポート Case をオープンしたり、コミュニティー・コンテンツを検索したりできます。
+{{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因を判別し、解決策を特定するためにヘルプを利用するには、いくつかのオプションがあります。 ログインしている場合は、[サポート・ページ](https://{DomainName}/unifiedsupport/supportcenter)に直接アクセスして、一般的な FAQ を確認したり、サポート・ケースをオープンしたり、コミュニティー・コンテンツを検索したりできます。
 {:shortdesc}
 
 ## お客様サポート・プロセスの仕組み
@@ -28,7 +28,7 @@ lastupdated: "2018-11-28"
 
 {{site.data.keyword.Bluemix_notm}} コンソールのサポート・センターから、{{site.data.keyword.Bluemix_notm}} コミュニティーやスタック・オーバーフロー (技術的問題の場合) など、サポート・オプションにアクセスできます。
 
-サポート・センターを使用して、サポート・オプションにアクセスできます。 詳しくは、[サポート・センターの使用](/docs/get-support/howtogetsupport.html#using-avatar)を参照してください。 使用可能なサポートのレベルと、サポート Case に割り当てることのできる重大度は、アカウントに選択したサポート・プランによって決まります。 詳しくは、[Case 重大度と応答時間](/docs/get-support/ticketweight.html#support-ticket-severity)を参照してください。
+サポート・センターを使用して、サポート・オプションにアクセスできます。 詳しくは、[サポート・センターの使用](/docs/get-support/howtogetsupport.html#using-avatar)を参照してください。 使用可能なサポートのレベルと、サポート・ケースに割り当てることのできる重大度は、アカウントに選択したサポート・プランによって決まります。 詳しくは、[ケース重大度と応答時間](/docs/get-support/ticketweight.html#support-ticket-severity)を参照してください。
 
 ## {{site.data.keyword.Bluemix_notm}} サポートの満足度調査  
 {: #survey}
@@ -40,11 +40,11 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 
 サポート・センターにアクセスするには、{{site.data.keyword.Bluemix_notm}} コンソールにログインし、メニュー・バーで**「サポート」**をクリックします。  
 
-サポート・センターの検索フィールドを使用して、{{site.data.keyword.Bluemix_notm}} 資料およびスタック・オーバーフロー・フォーラム全体から疑問点に対する回答を見つけることができます。 サポート・センターからサポート Case を管理することもできます。 サポート・センターの「フォーラム」セクションに、技術的質問向けのスタック・オーバーフロー・フォーラムへのリンクと、その他のすべての質問向けの developerWorks (IBM Developer Answers) フォーラムへのリンクの両方があります。  
+サポート・センターの検索フィールドを使用して、{{site.data.keyword.Bluemix_notm}} 資料およびスタック・オーバーフロー・フォーラム全体から疑問点に対する回答を見つけることができます。 サポート・センターからサポート・ケースを管理することもできます。 サポート・センターの「フォーラム」セクションに、技術的質問向けのスタック・オーバーフロー・フォーラムへのリンクと、その他のすべての質問向けの developerWorks (IBM Developer Answers) フォーラムへのリンクの両方があります。  
 
 [サポート・プラン](/docs/get-support/index.html)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
 
-サポート利用のための優先される方法はサポート・センターですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「ヘルプの利用」](http://www.ibm.biz/bluemixsupport){: new_window}ページを使用して Case を送信できます。
+サポート利用のための優先される方法はサポート・センターですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「ヘルプの利用」](http://www.ibm.biz/bluemixsupport){: new_window}ページを使用してケースを送信できます。
 
 ### 質問する
 {: #asking-a-question}
@@ -57,19 +57,19 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 {{site.data.keyword.Bluemix_notm}} の開発チームとサポート・チームは、スタック・オーバーフローと IBM Developer Answers をアクティブにモニターし、**ibm-cloud** のタグが付いた質問をフォローしています。 いずれかのフォーラムで質問を作成する際は、その質問が
 {{site.data.keyword.Bluemix_notm}} の開発チームとサポート・チームによって確実に読まれるように **ibm-cloud** タグを質問に追加してください。
 
-特定の問題の答えが見つからず、その問題が障害に起因しない場合は、サポート Case をオープンしてお客様サポートに問い合わせることができます。 
+特定の問題の答えが見つからず、その問題が障害に起因しない場合は、サポート・ケースをオープンしてお客様サポートに問い合わせることができます。 
 
 ## {{site.data.keyword.Bluemix_dedicated_notm}} または {{site.data.keyword.Bluemix_local_notm}} のサポートへのお問い合わせ
 {: #contacting-bluemix-support-dedicated-local}
 
 アカウントが {{site.data.keyword.Bluemix_dedicated_notm}} または {{site.data.keyword.Bluemix_local_notm}} の場合、サポートは {{site.data.keyword.Bluemix_notm}} サポート・チームによって提供されます。 ただし、{{site.data.keyword.ibmid}} を持っていない場合は、サポートを取得するためのいくつかの異なるオプションがあります。
 
-* [{{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} のヘルプ・ページを使用して新しい Case をオープンすることで、サポートに連絡します。 このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_dedicated_notm}}」**オプションまたは **「{{site.data.keyword.Bluemix_local_notm}}」**オプションを選択します。
+* [{{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} のヘルプ・ページを使用して新しいケースをオープンすることで、サポートに連絡します。 このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_dedicated_notm}}」**オプションまたは **「{{site.data.keyword.Bluemix_local_notm}}」**オプションを選択します。
 
-* {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックします。次に、「サポートの利用」タブで**「新規 Case の作成 (Create new case)」**をクリックします。 問題に合ったトピック領域を選択し、プロンプトに従って Case を送信します。
+* {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックします。次に、「サポートの利用」タブで**「新規ケースの作成 (Create new case)」**をクリックします。 問題に合ったトピック領域を選択し、プロンプトに従ってケースを送信します。
 * {{site.data.keyword.ibmid}} をお持ちではない場合は、それを持つ組織内のユーザーに連絡するか、IBM 担当員にご連絡ください。
 
-ご要望に応じて、サポート Case の連絡先としての役割を果たすことができる組織内のユーザーのリストを、ご使用の Dedicated 環境または Private 環境で {{site.data.keyword.Bluemix_notm}} コンソールの**「サポート」**ページに表示できます。
+ご要望に応じて、サポート・ケースの連絡先としての役割を果たすことができる組織内のユーザーのリストを、ご使用の Dedicated 環境または Private 環境で {{site.data.keyword.Bluemix_notm}} コンソールの**「サポート」**ページに表示できます。
   {:tip}
 
 ## EU 内のリソースに関するサポートの依頼
@@ -80,13 +80,13 @@ EU サポート対象オプションを選択したお客様を対象に、ヨ�
 以下の基準が当てはまる場合、お客様のアカウントがサポートを受ける際に物理的にヨーロッパに配置されているサポート・チームを希望することを指定できます。
   * マスター・ユーザーまたはアカウント所有者が、アカウントの「EU サポート対象 (EU Supported)」オプションを設定します。
   * リソースが適切なヨーロッパのデータ・センター内に存在します。
-  * Case のオープン時に**EU サポート対象**の Case レベルを選択します。
+  * ケースのオープン時に**EU サポート対象**のケース・レベルを選択します。
 
 {{site.data.keyword.Bluemix_notm}} プラットフォームに関しては、ドイツ地域でホストされているサービスのみが、物理的にヨーロッパに配置されているチームのサポートを受けることができます。  
 
-アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべての Case に適用されます。 このオプションを設定する前にオープンした Case には影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
+アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべてのケースに適用されます。 このオプションを設定する前にオープンしたケースには影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
 
-{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」設定の有効化](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)を参照してください。
+{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポートあり」設定の有効化](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)を参照してください。
 
 ### EU サポート対象のサービス
 {: #eusupportedservices}
@@ -109,11 +109,11 @@ EU サポート対象オプションを選択したお客様を対象に、ヨ�
 ## 潜在的なセキュリティー脆弱性の報告
 {: #report-security-vulnerability}
 
-潜在的な {{site.data.keyword.Bluemix_notm}} セキュリティー脆弱性を見つけた場合、サポート Case をオープンして報告してください。
+潜在的な {{site.data.keyword.Bluemix_notm}} セキュリティー脆弱性を見つけた場合、サポート・ケースをオープンして報告してください。
 
 潜在的なセキュリティー脆弱性を報告するには、以下の手順を実行します。
-1. 重大度 1  Case 、またはサポートが許可する最高の重大度レベルの Case をオープンします。 Case のオープン方法については、[サポート Case の作成](/docs/get-support/opencase.html#open-case)を参照してください。
-2. その Case が潜在的なセキュリティー脆弱性に関するものであることを、 Case のサマリーに明記します。
+1. 重大度 1 ケース、またはサポートが許可する最高の重大度レベルのケースをオープンします。 ケースのオープン方法については、[サポート・ケースの作成](/docs/get-support/opencase.html#open-case)を参照してください。
+2. そのケースが潜在的なセキュリティー脆弱性に関するものであることを、ケースのサマリーに明記します。
 3. 潜在的なセキュリティー脆弱性の詳細を記述し、以下のいずれかの項目を含めます。
     * その問題について意見を交わすためにアクセス可能な電話番号。
-    * 問題の詳細。 詳細は、Case の本文にテキスト・ブロックとして暗号化する必要があります。 また、復号の手順を入手するために IBM サポートが安全に連絡できる方法についての指示を提供する必要があります。
+    * 問題の詳細。 詳細は、ケースの本文にテキスト・ブロックとして暗号化する必要があります。 また、復号の手順を入手するために IBM サポートが安全に連絡できる方法についての指示を提供する必要があります。

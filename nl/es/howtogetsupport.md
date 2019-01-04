@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-09-13"
+lastupdated: "2018-11-28"
 
 ---
 
@@ -14,28 +14,37 @@ lastupdated: "2018-09-13"
 {:tip: .tip}
 {:new_window: target="_blank"}
 
-# ¿Cómo puedo obtener la ayuda que necesito?
+# Obtención de soporte
 {: #getting-customer-support}
 
-Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución.
+Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución. Si ha iniciado una sesión, puede ir directamente a la [página Soporte](https://{DomainName}/unifiedsupport/supportcenter) para revisar las preguntas frecuentes comunes, abrir un caso de soporte o buscar contenido de la comunidad.
 {:shortdesc}
 
-Si su cuenta se creó desde la consola de {{site.data.keyword.Bluemix_notm}}, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Las cuentas se pueden enlazar entre {{site.data.keyword.Bluemix_notm}} y los servicios de infraestructura de {{site.data.keyword.BluSoftlayer_notm}}. Si su cuenta de SoftLayer se creó desde el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y es una cuenta enlazada, puede abrir incidencias de soporte desde la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Cómo enlazar cuentas de usuario de IBMid](/docs/account/softlayerlink.html#unifyingaccounts).
+## Funcionamiento del proceso del servicio de atención al cliente
+{: #gs_supoverview}
 
-Si su cuenta de SoftLayer se creó en el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y no es una cuenta enlazada, puede abrir incidencias desde el portal de clientes. Para obtener más información, consulte [Obtención de soporte para la infraestructura de {{site.data.keyword.BluSoftlayer_notm}}](/docs/customer-portal/cpsupport.html#customerportal_support).
+A todos los clientes de {{site.data.keyword.Bluemix}} se les proporciona soporte técnico gratuito a través de las comunidades y los blogs. Los tipos de soporte que están disponibles, y cuándo están disponibles, depende del nivel de soporte de la cuenta.
+{:shortdesc}
+
+Puede acceder a las opciones de soporte, como la comunidad de {{site.data.keyword.Bluemix_notm}} o Stack Overflow para cuestiones técnicas, desde el Centro de soporte de la consola de {{site.data.keyword.Bluemix_notm}}.
+
+Puede utilizar el centro de soporte para acceder a las opciones de soporte. Para obtener más información, consulte [Utilización del centro de soporte](/docs/get-support/howtogetsupport.html#using-avatar). El plan de soporte que ha seleccionado para la cuenta determina el nivel de soporte disponible y la gravedad que puede asignar a los casos de soporte. Para obtener más información, consulte [Gravedad del caso y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity).
+
+## Encuestas de satisfacción para el soporte de {{site.data.keyword.Bluemix_notm}}  
+{: #survey}
+
+IBM envía periódicamente encuestas a clientes de {{site.data.keyword.Bluemix_notm}} para obtener sus comentarios sobre experiencias recientes con el servicio de atención al cliente. La encuesta se centra en la calidad de soporte y la experiencia global. La gestión de IBM revisa los resultados de la encuesta para mejorar la experiencia de soporte.
 
 ## Utilización del Centro de soporte
 {: #using-avatar}
 
-Para acceder al Centro de soporte, inicie sesión en la consola de {{site.data.keyword.Bluemix_notm}}. En la barra de menús, pulse **Soporte** > **Centro de soporte**.  
+Para acceder al Centro de soporte, inicie una sesión en la consola de {{site.data.keyword.Bluemix_notm}} y pulse **Soporte** en la barra de menús.  
 
-Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar incidencias de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (IBM Developer Answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
+Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respuestas a sus preguntas en la documentación de {{site.data.keyword.Bluemix_notm}} y en el foro de Stack Overflow. También puede gestionar casos de soporte desde el Centro de soporte. Puede encontrar los enlaces al foro de Stack Overflow para las preguntas técnicas y al foro de developerWorks (IBM Developer Answers) para el resto de las preguntas en la sección Foros del Centro de soporte.  
 
-En función del tipo de cuenta que tenga, también hay otras opciones disponibles en el Centro de soporte.  
-* Si tiene un [plan de soporte](/docs/get-support/index.html) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
-* Si su cuenta se creó en el portal de clientes de infraestructura de {{site.data.keyword.BluSoftlayer_notm}} y está enlazado entre servicios PaaS e IaaS, también puede acceder a las opciones **Call US** y **Chat Now** para llamar al soporte o para iniciar una sesión de chat.
+Si tiene un [plan de soporte](/docs/get-support/index.html) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
 
-El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar una incidencia.
+El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar un caso.
 
 ### Cómo formular una pregunta
 {: #asking-a-question}
@@ -47,71 +56,18 @@ Tanto el foro de Stack Overflow, para preguntas técnicas como el foro de IBM De
 
 Los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}} supervisan activamente Stack Overflow e IBM Developer Answers y realizan un seguimiento de las preguntas que tienen la etiqueta **ibm-cloud**. Cuando cree una pregunta en cualquiera de los foros, añada la etiqueta **ibm-cloud** a su pregunta para asegurarse de que la vean los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}}.
 
-Si el problema no es debido a una parada y si no encuentra una respuesta para su problema específico, puede ponerse en contacto con el servicio de atención al cliente abriendo una incidencia de soporte.
+Si el problema no es debido a una parada y si no encuentra una respuesta para su problema específico, puede ponerse en contacto con el servicio de atención al cliente abriendo un caso de soporte. 
 
-## Apertura de una incidencia de soporte
-{: #open-ticket}
-
-Si tiene una cuenta de {{site.data.keyword.Bluemix_notm}} válida, hay varias maneras de abrir una incidencia de soporte para obtener ayuda con un problema técnico genérico o un problema con la cuenta.
-
-Cuando abra una incidencia de soporte, asegúrese de indicar una gravedad adecuada a su incidencia. La gravedad determina cómo se maneja
-la incidencia. Consulte [Gravedad de la incidencia de soporte y tiempo de respuesta](/docs/get-support/ticketweight.html#support-ticket-severity) para obtener información sobre las distintas gravedades.
-
-Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al plan de soporte estándar o avanzado para poder abrir incidencias de soporte de gravedad 1-4. Para actualizar su cuenta a un nivel de soporte superior, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
-{:tip}
-
-Puede abrir una incidencia desde el Centro de soporte o desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}.
-  * Para abrir una incidencia de soporte desde el Centro de soporte, pulse **Abrir una incidencia** en la sección **Obtener ayuda**.
-  * Para abrir una incidencia de soporte desde la barra de menús de la consola de {{site.data.keyword.Bluemix_notm}}, pulse **Soporte** > **Añadir incidencia**.
-
-Después de abrir una incidencia de soporte, recibirá una notificación de correo electrónico en pocos minutos para la incidencia. Siga las instrucciones del correo electrónico para obtener más comunicaciones sobre el problema.
-
-Puede abrir incidencias para problemas técnicos, problemas de cuenta, o, si tiene una [cuenta enlazada](/docs/account/softlayerlink.html#link_accounts), puede abrir una incidencia para una consulta de ventas.  
-
-### Apertura de incidencias de soporte técnico
-{: #opentechticket}
-
-Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema técnico genérico:
-  1. Si tiene una [cuenta enlazada](/docs/account/softlayerlink.html#link_accounts), seleccione **Infraestructura** o **Aplicaciones y servicios.**
-  2. Seleccione **Técnico** como tipo de incidencia.
-  3. En el campo **Seleccionar un contexto de recurso**, seleccione una de las siguientes opciones:
-    * **Grupo de recursos** si tiene un problema con la gestión de sus grupos de recursos. Para obtener más información, consulte [Gestionar grupos de recursos](/docs/resources/resourcegroups.html#rgs).
-    * **Cloud Foundry** si tiene un problema con el despliegue de las apps en Cloud Foundry. Para obtener más información sobre el despliegue de apps de Cloud Foundry, consulte [Cómo funciona Cloud Foundry con {{site.data.keyword.Bluemix_notm}}](/docs/overview/cf.html).
-  4. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
-  5. Complete la información necesaria. La información necesaria depende del contexto de los recursos seleccionados y también del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Si tiene una cuenta enlazada, tiene las siguientes opciones de soporte añadido que puede seleccionar:
-    * Hasta 5 dispositivos que estén asociados con el problema técnico que está notificando.
-    * Si tiene soporte localizado de la UE, el centro de datos donde se alojan sus recursos.
-  7. Pulse **Enviar**.
-
-### Apertura de incidencias de soporte para problemas de cuenta
-{: #openacctticket}
-
-Complete los pasos siguientes para proporcionar la información necesaria en el formulario de la incidencia para obtener ayuda con relación al problema de cuenta:
-  1. Si tiene una [cuenta enlazada](/docs/account/softlayerlink.html#link_accounts), seleccione primero **Infraestructura** o **Aplicaciones y servicios.**
-  2. Seleccione **Contabilidad y facturación** como el tipo de incidencia para asegurarse de que esta se dirige al equipo de soporte adecuado de forma que la misma se pueda resolver rápidamente.
-  3. Seleccione una opción en el campo **Seleccionar un contexto de recurso** para crear la incidencia. Para cualquier opción, se rellenan automáticamente algunos campos del formulario de la incidencia con *No aplicable* porque es un problema de cuenta.
-  4. Si tiene soporte de nivel premium o avanzado, seleccione el nivel de gravedad del problema.
-  5. Complete la información necesaria, proporcionando una descripción de los mensajes de error que ha recibido. La información necesaria depende del tipo de plan de soporte de su cuenta. Para obtener más información sobre los tipos de soporte, consulte [Tipos de soporte](/docs/get-support/getstarttssup.html#typesofsupport).
-  6. Pulse **Enviar**.
-
-### Otras maneras de abrir una incidencia de soporte
-{: #otheropenticksc}
-
-También se puede utilizar la página de ayuda [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}. Puede enviar incidencias correspondientes a ventas, facturación, ID de IBM e inicio de sesión y problemas de soporte técnico. Para problemas de soporte técnico, puede reducir el problema a un servicio específico o una área específica. Si necesita ayuda con un servicio específico, seleccione
-la categoría de servicio correspondiente. Para determinar la categoría a la que pertenece su servicio, pulse **Catálogo** en la barra de menús y revise las categorías.  
-
-## Cómo ponerse en contacto para {{site.data.keyword.Bluemix_notm}} dedicado o local
+## Cómo ponerse en contacto con el servicio de soporte para {{site.data.keyword.Bluemix_dedicated_notm}} o {{site.data.keyword.Bluemix_local_notm}}
 {: #contacting-bluemix-support-dedicated-local}
 
-Si su cuenta es {{site.data.keyword.Bluemix_notm}} Dedicado o Local, el soporte lo proporciona el equipo de soporte de {{site.data.keyword.Bluemix_notm}}. Sin embargo, si no tiene un {{site.data.keyword.ibmid}}, diversas opciones para obtener soporte.
+Si su cuenta es {{site.data.keyword.Bluemix_dedicated_notm}} o {{site.data.keyword.Bluemix_local_notm}}, el servicio de soporte lo proporciona el equipo de soporte de {{site.data.keyword.Bluemix_notm}}. Sin embargo, si no tiene un {{site.data.keyword.ibmid}}, diversas opciones para obtener soporte.
 
-* Póngase en contacto con el soporte abriendo una nueva incidencia mediante la página de ayuda
-[Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://www.ibm.biz/bluemixsupport){: new_window}. Puede utilizar una dirección de correo electrónico o un {{site.data.keyword.ibmid}} para este formulario. Seleccione la opción **{{site.data.keyword.Bluemix_notm}} Dedicado** o **{{site.data.keyword.Bluemix_notm}} Local** para el campo Región.
-* Si tiene un {{site.data.keyword.ibmid}} y tiene acceso al entorno público de {{site.data.keyword.Bluemix_notm}}, en la barra de menús pulse **Soporte** y seleccione **Añadir incidencia**. Seleccione el área temática correspondiente a su problema y siga las indicaciones para enviar la incidencia.
+* Para ponerse en contacto con el servicio de soporte, abra un caso nuevo utilizando la página de ayuda del [servicio de soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. Puede utilizar una dirección de correo electrónico o un {{site.data.keyword.ibmid}} para este formulario. Seleccione la opción **{{site.data.keyword.Bluemix_dedicated_notm}}** o **{{site.data.keyword.Bluemix_local_notm}}** para el campo Región.
+* Si tiene un {{site.data.keyword.ibmid}} y tiene acceso al entorno {{site.data.keyword.Bluemix_notm}} Public, pulse **Soporte** en la barra de menús. Luego pulse **Crear caso nuevo** en el separador Obtener soporte. Seleccione el área temática correspondiente a su problema y siga las indicaciones para enviar el caso.
 * Si no dispone de un {{site.data.keyword.ibmid}}, puede ponerse en contacto con alguien de la organización que lo tenga o puede trabajar con el representante de IBM.
 
-En la solicitud, se puede mostrar una lista de usuarios de su organización que puede servir como contactos para dar incidencias de soporte en la página **Soporte** de la consola de {{site.data.keyword.Bluemix_notm}} en el entorno Dedicado o Local.
+En la solicitud, se puede mostrar una lista de usuarios de su organización que pueden servir como contactos para los casos de soporte que se muestran en la página **Soporte** de la consola de {{site.data.keyword.Bluemix_notm}} en el entorno Dedicado o Local.
   {:tip}
 
 ## Solicitud de soporte para recursos en la Unión Europea
@@ -122,23 +78,23 @@ En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días a la
 Puede especificar que desea recibir soporte para su cuenta del equipo de soporte que se encuentra físicamente en Europa si se cumplen los criterios siguientes:
   * El usuario maestro o el propietario de la cuenta establece la opción Soporte en la UE para su cuenta
   * Los recursos están en el centro de datos europeo apropiado
-  * Selecciona el nivel de incidencia **Soporte en la UE** al abrir la incidencia
+  * Selecciona el nivel del caso de **Soporte en la UE** al abrir el caso.
 
 Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojados en la región de Alemania pueden recibir soporte de un equipo que esté físicamente ubicado en Europa.  
 
-Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todas las incidencias de soporte futuras que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Las incidencias que haya abierto antes de establecer esta opción no se ven afectadas. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
+Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todos los casos de soporte futuros que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Los casos que haya abierto antes de establecer esta opción no se ven afectados. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
 
-Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de la opción Soporte en la UE](/docs/billing-usage/eusupported.html).
+Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de valores de Soporte en la UE](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
 
 ### Servicios con soporte en la UE
 {: #eusupportedservices}
 
 Después de establecer la opción **Soporte en la UE**, también puede aprovecharse de controles extra para dar soporte y trabajar con servicios de {{site.data.keyword.Bluemix_notm}} desde la Unión Europea. Puede filtrar la búsqueda de servicios de plataforma con los planes soportados del catálogo de {{site.data.keyword.Bluemix_notm}}. Para ver los planes de un servicio de plataforma con soporte en la UE, complete los pasos siguientes:
-  1. Abra el catálogo de [{{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://console.bluemix.net/catalog/){: new_window}.
+  1. Abra el [catálogo de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")]({DomainName}/catalog/){: new_window}.
   2. Pulse **Filtro**.
   3. Seleccione **Soporte en la UE** de la lista desplegable. Con el filtro Soporte en la UE establecido, verá solo los servicios de las categorías **Infraestructura** y **Plataforma** que tienen planes con soporte en la UE.
   4. Seleccione el servicio que desee. Verá que algunas regiones y planes del servicio tienen soporte en la UE.
-  5. Para ver los planes del servicio con soporte en la UE, seleccione la región correcta de la lista desplegable **Seleccionar una región/ubicación de despliegue**. Por ejemplo, para ver los planes de un servicio de plataforma con soporte en la UE, seleccione Alemania como región. A continuación, puede ver los planes de precios de los servicios etiquetados como **Soporte en la UE**.
+  5. Para ver los planes del servicio con soporte en la UE, seleccione la región correcta de la lista **Seleccionar una región/ubicación de despliegue**. Por ejemplo, para ver los planes de un servicio de plataforma con soporte en la UE, seleccione Alemania como región. A continuación, puede ver los planes de precios de los servicios etiquetados como **Soporte en la UE**.
 
 Todos los planes, excepto los planes Lite, de las categorías siguientes de los servicios de infraestructura de {{site.data.keyword.Bluemix_notm}} se alojan en Europa y están disponibles con soporte en la UE:
 
@@ -151,11 +107,11 @@ Todos los planes, excepto los planes Lite, de las categorías siguientes de los 
 ## Notificar una vulnerabilidad de seguridad potencial
 {: #report-security-vulnerability}
 
-Si ve una potencial vulnerabilidad de seguridad de {{site.data.keyword.Bluemix_notm}}, notifíquela abriendo una incidencia de soporte.
+Si ve una potencial vulnerabilidad de seguridad de {{site.data.keyword.Bluemix_notm}}, notifíquela abriendo un caso de soporte.
 
 Para notificar una vulnerabilidad de seguridad potencial, realice los siguientes pasos:
-1. Abra una incidencia de gravedad 1 o una incidencia del nivel de gravedad más alto que permite el soporte. Para obtener información sobre cómo abrir una incidencia, consulte [Apertura de una incidencia de soporte](/docs/get-support/howtogetsupport.html#open-ticket).
-2. Describa claramente en el resumen de incidencia que la incidencia se refiere a una vulnerabilidad de seguridad potencial.
+1. Abra un caso de gravedad 1 o un caso del nivel de gravedad más alto que permite el soporte. Para obtener información sobre cómo abrir un caso, consulte [Creación de casos de soporte](/docs/get-support/opencase.html#open-case).
+2. Describa claramente en el resumen del caso que el caso se refiere a una vulnerabilidad de seguridad potencial.
 3. Proporcione detalles de la vulnerabilidad de seguridad potencial incluyendo uno de los siguientes elementos:
     * Un número de teléfono al que puede llamar para tratar el problema.
-    * Detalles del problema. Debe cifrar los detalles como un bloque de texto en el cuerpo de la incidencia. También debe proporcionar instrucciones sobre cómo el soporte de IBM puede ponerse en contacto con usted de forma segura para obtener instrucciones de descifrado.
+    * Detalles del problema. Debe cifrar los detalles como un bloque de texto en el cuerpo del caso. También debe proporcionar instrucciones sobre cómo el soporte de IBM puede ponerse en contacto con usted de forma segura para obtener instrucciones de descifrado.

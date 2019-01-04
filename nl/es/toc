@@ -9,18 +9,17 @@ Obtención de soporte
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
-    {: .topicgroup}
-    Obtención de soporte al cliente
-        howtogetsupport.md
-        getstarttssup.md
-        ViewStatus.md
-        servicessupport.md
+    howtogetsupport.md
+    servicessupport.md
+    opencase.md
+    quick-case-response.md
+    support_access.md
 
-    {: .topicgroup}
-    Trabajo con incidencias
-        mantick.md
-        ticketweight.md
-        quicktickresp.md
+    {: topicgroup}
+    Supervisión de estado
+        ViewStatus.md
+        status-bps.md
+        status_search.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
@@ -28,11 +27,10 @@ Obtención de soporte
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    ts_overview.md
-    ts_manageticket.md
+    ts_managecase.md
 
     {: .topicgroup}
-    Known issues
+    Problemas conocidos
         datacenter-migration.md
         appsectls.md
 
