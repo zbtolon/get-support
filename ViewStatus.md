@@ -52,7 +52,7 @@ To subscribe, follow these steps:
 
 1. Download and install an RSS reader.
 2. Use your reader to subscribe to the feed with one of the following methods:
-    * Drag the RSS icon ![icon_RSS](../icons/icon_RSS.svg) into your RSS reader.
+    * Drag the RSS icon ![RSS-24px](../icons/RSS-24px.svg) into your RSS reader.
     * Right-click the RSS icon, select **Copy link address**, and paste the URL into your RSS reader.
 
 For more information, see your reader's **Help** section.
@@ -75,10 +75,5 @@ You can also use a third-party service to automatically send an email for each R
 * [www.iftt.com](https://www.iftt.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
-
-
-
-
-
 
 
