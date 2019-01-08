@@ -91,7 +91,7 @@ You can set the **EU Supported** option for your account from the Billing window
 {: #eusupportedservices}
 
 After you set the **EU Supported** option, you can also take advantage of extra controls to support and operate {{site.data.keyword.Bluemix_notm}} services from the European Union. You can filter your search for platform services with the supported plans in the {{site.data.keyword.Bluemix_notm}} catalog. To see the EU-supported plans for a platform service, complete the following steps:
-  1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")]https://{DomainName}/catalog{: new_window}.
+  1. Open the [{{site.data.keyword.Bluemix_notm}} catalog ![External link icon](../icons/launch-glyph.svg "External link icon")] https://{DomainName}/catalog{: new_window}.
   2. Click **Filter**.
   3. Select **EU supported** from the drop-down list. With the EU Supported filter set, you see only the services in the **Infrastructure** and **Platform** categories that have EU-supported plans.
   4. Select the service that you want. You can see some regions and plans for the service are EU-supported.
