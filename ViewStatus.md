@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-12-13"
+lastupdated: "2018-01-08"
 
 ---
 
@@ -69,12 +69,13 @@ News sources, such as the following sites, also provide methods to read RSS feed
 
 You can also use a third-party service to automatically send an email for each RSS update. The following list provides some example third-party services:
 
-* [www.feedmyinbox.com](www.feedmyinbox.com)
-* [www.rssforward.com](www.rssforward.com)
-* [www.feedrabbit.com](www.feedrabbit.com)
-* [www.mailchimp.com](www.mailchimp.com)
-* [www.feedmailer.com](www.feedmailer.com)
-* [www.iftt.com](ww.iftt.com)
+* [www.rssforward.com](https://www.rssforward.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+* [www.feedrabbit.com](https://www.feedrabbit.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+* [www.mailchimp.com](https://www.mailchimp.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+* [www.iftt.com](https://www.iftt.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+
+{{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
+
 
 
 
