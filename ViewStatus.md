@@ -73,6 +73,8 @@ You can also use a third-party service to automatically send an email for each R
 * [www.feedrabbit.com](https://www.feedrabbit.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
 * [www.mailchimp.com](https://www.mailchimp.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
 * [www.iftt.com](https://www.iftt.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+* [www.rssowl.org](http://www.rssowl.org){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
+
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
 
