@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -21,10 +21,10 @@ lastupdated: "2018-11-28"
 You can use the Support Center to access your available support options. The support option that you receive is different based on the type of service you have. 
 {:shortdesc}
 
-## {{site.data.keyword.IBM}} generally available service
+## {{site.data.keyword.IBM_notm}} generally available service
 {: #s-services-gaorcont}
 
-For services or container images that are provided by IBM and are generally available, support is provided for problems that are determined to be a defect.
+For services or container images that are provided by {{site.data.keyword.IBM}} and are generally available, support is provided for problems that are determined to be a defect.
 
 If the root cause analysis determines that the issue is a defect in the IBM generally available service or container image, the case is addressed based on the severity that you assign.
 
