@@ -2,7 +2,7 @@
 
 copyright:
 
-  years: 2015, 2018, 2019
+  years: 2015, 2018
 
 lastupdated: "2019-01-09"
 
@@ -28,7 +28,7 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
 
 * Click **Planned maintenance** to view a list of scheduled upcoming maintenance. 
 
-  Click a scheduled maintenance to view more details, such as start and stop times and a description of the impact. You can filter the list by selecting specific locations and components or by by using keyword searches.
+  Click a scheduled maintenance to view more details, such as start and stop times and a description of the impact. You can filter the list by selecting specific locations and components or by using keyword searches.
 
 * Click **Security bulletins** to view a list of security bulletins that might affect various {{site.data.keyword.Bluemix_notm}} services, infrastructure, or the platform.
 
@@ -50,31 +50,12 @@ You receive alerts of any notifications by subscribing to the RSS feed for the S
 
 To subscribe, follow these steps:
 
-1. Download and install an RSS reader.
+1. Access your favorite RSS readers. Many browsers have built-in RSS capabilities or extensions available. Several third-party RSS reader offerings are also available. 
 2. Use your reader to subscribe to the feed with one of the following methods:
     * Drag the RSS icon ![RSS-24px](../icons/RSS-24px.svg) into your RSS reader.
     * Right-click the RSS icon, select **Copy link address**, and paste the URL into your RSS reader.
 
 For more information, see your reader's **Help** section.
-
-Other methods of reading RSS feeds are available through web browser plug-ins such as:
-
-* [RSS Feed Reader](https://feeder.co/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") Reader for Chrome
-* [Brief Reader](https://addons.mozilla.org/en-US/firefox/addon/brief/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") for Chrome add-on for Firefox
-
-News sources, such as the following sites, also provide methods to read RSS feeds:
-
-* [Feedly](https://feedly.com/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-* [G2reader](https://g2reader.com/en/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-
-You can also use a third-party service to automatically send an email for each RSS update. The following list provides some example third-party services:
-
-* [www.rssforward.com](https://www.rssforward.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-* [www.feedrabbit.com](https://www.feedrabbit.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-* [www.mailchimp.com](https://www.mailchimp.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-* [www.iftt.com](https://www.iftt.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-* [www.rssowl.org](http://www.rssowl.org){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
-
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
 
