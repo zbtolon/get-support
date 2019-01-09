@@ -30,7 +30,7 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
 
   Click a scheduled maintenance to view more details, such as start and stop times and a description of the impact. You can filter the list by selecting specific locations and components or by by using keyword searches.
 
-* Click **Security bullentins** to view a list of security bulletins that might affect various {{site.data.keyword.Bluemix_notm}} services, infrastructure, or the platform.
+* Click **Security bulletins** to view a list of security bulletins that might affect various {{site.data.keyword.Bluemix_notm}} services, infrastructure, or the platform.
 
   You can filter the list by selecting specific locations and components or by using keyword searches.
 
