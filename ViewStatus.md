@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-01-08"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -75,5 +75,9 @@ You can also use a third-party service to automatically send an email for each R
 * [www.iftt.com](https://www.iftt.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon")
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
+
+
+
+
 
 
