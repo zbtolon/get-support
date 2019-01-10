@@ -22,7 +22,7 @@ Puede realizar búsquedas en todos los separadores de la página Estado, pero ¿
 
 La lista siguiente incluye ejemplos de opciones de búsqueda de URL:
 
-* Cargue la página con el separador Estado seleccionado: `console.cloud.ibm.com/status?selected=status `
+* Cargue la página con el separador Estado seleccionado: `console.cloud.ibm.com/status?selected=status`
 * Cargue la página con el separador Mantenimiento planificado seleccionado: `console.cloud.ibm.com/status?selected=maintenance`
 * Cargue la página con el separador Boletín de seguridad seleccionado: `console.cloud.ibm.com/status?selected=security`
 * Cargue la página con el separador Anuncios seleccionado: `console.cloud.ibm.com/status?selected=announcement`
