@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-11"
 
 ---
 
@@ -20,20 +20,20 @@ lastupdated: "2018-11-28"
 # Escalating support cases
 {: #escalation}
 
-Use the escalation process to surface critical issues or if you feel your support case isn’t being addressed properly. When a case is escalated, the {{site.data.keyword.Bluemix}} support team reviews the information in the support case and provides you with appropriate updates.
+If you have advanced or premium support, you can use the escalation process to surface critical issues or if you feel your support case isn’t being addressed properly. When a case is escalated, the {{site.data.keyword.Bluemix}} support team reviews the information in the support case and provides you with appropriate updates.
 
  To escalate a case, complete the following steps:
 
   1. Contact {{site.data.keyword.Bluemix_notm}} Support by phone or chat:
-    * By phone at the following number: 866-403-7638.
+    * By phone at the following number: +1-866-403-7638.
     * By chat from the [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Provide your existing case number and request to escalate the case.
   3. Provide the justification for escalation and the business impact of your problem or issue.
 
-## Case severity and response times 
+## Case severity and response times
 {: #support-case-severity}
 
-How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case. 
+How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case.
 
 The following table lists some common examples of support issues, suggested severity levels, and the response time objectives. The response time objectives are used to describe IBM goals only, and don't represent a performance guarantee.
 
@@ -50,4 +50,3 @@ The updated SLO for premium support initial response time objectives effective 2
 
 If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support cases. To upgrade your support plan, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-
