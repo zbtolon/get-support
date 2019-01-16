@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -30,7 +30,7 @@ A página Status é o local central para localizar incidentes não planejados, m
 
   Clique em uma manutenção planejada para visualizar mais detalhes, como os horários de início e de parada e uma descrição do impacto. É possível filtrar a lista selecionando locais e componentes específicos ou usando pesquisas por palavra-chave.
 
-* Clique em **Boletins de segurança** para visualizar uma lista de boletins de segurança que podem afetar vários serviços, a infraestrutura ou a plataforma do {{site.data.keyword.Bluemix_notm}}.
+* Clique em **Boletins de segurança** para visualizar uma lista de boletins de segurança que podem afetar vários serviços, a infraestrutura ou a plataforma {{site.data.keyword.Bluemix_notm}}.
 
   É possível filtrar a lista selecionando locais e componentes específicos ou usando pesquisas por palavra-chave.
 
@@ -43,7 +43,21 @@ A página Status é o local central para localizar incidentes não planejados, m
 
 Para obter mais informações sobre o tipo de notificações por e-mail que é possível receber com base em seu tipo de conta, consulte [Configurando preferências de e-mail](/docs/account/email.html). 
 
+## Assinando um feed RSS
+{: #subscribing-rss-feed}
 
+Você recebe alertas de quaisquer notificações assinando o feed RSS da página Status. Essa abordagem fornece uma maneira de obter atualizações sem precisar consultar regularmente a página Status.
+
+Para assinar, siga estas etapas:
+
+1. Acesse seus leitores RSS favoritos. Muitos navegadores têm recursos RSS integrados ou extensões disponíveis. Várias ofertas de leitor RSS de terceiros também estão disponíveis. 
+2. Use seu leitor para assinar o feed por um dos métodos a seguir:
+    * Arraste o ícone RSS ![RSS-24px](../icons/RSS-24px.svg) para o leitor RSS.
+    * Clique com o botão direito no ícone RSS, selecione **Copiar endereço de link** e cole a URL em seu leitor RSS.
+
+Para obter mais informações, veja a seção de **Ajuda** de seu leitor.
+
+O {{site.data.keyword.Bluemix_notm}} geralmente tem cerca de 50 atualizações por mês.
 
 
 

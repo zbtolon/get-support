@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -103,7 +103,7 @@ A configuração da opção **Suportado pela União Europeia** de sua conta se a
 {: #eusupportedservices}
 
 Depois de configurar a opção **Suportado pela UE**, também será possível aproveitar os controles extras para suportar e operar os serviços do {{site.data.keyword.Bluemix_notm}} da União Europeia. É possível filtrar sua procura por serviços de plataforma com os planos suportados no catálogo do {{site.data.keyword.Bluemix_notm}}. Para ver os planos suportados pela UE para um serviço de plataforma, conclua as etapas a seguir:
-  1. Abra o [catálogo do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")]({DomainName}/catalog/){: new_window}.
+  1. Abra o [catálogo do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://{DomainName}/catalog/){: new_window}.
   2. Clique em **Filtrar**.
   3. Selecione **Suportado pela UE** na lista suspensa. Com o filtro Suportado pela UE configurado, você vê somente os serviços nas categorias **Infraestrutura** e **Plataforma** que possuem planos suportados pela UE.
   4. Selecione o serviço que você deseja. É possível ver que algumas regiões e planos para o serviço são suportados pela UE.

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-12"
+lastupdated: "2018-01-09"
 
 ---
 
@@ -25,7 +25,7 @@ lastupdated: "2018-11-12"
 |  | Suporte básico | Suporte avançado | Suporte premium |
 |-------------|-------------|-------------|-------------|
 | Descrição |	Proteção básica de negócios que está incluída na sua conta pré-paga ou da assinatura do {{site.data.keyword.Bluemix_notm}} | Manipulação de caso priorizada e experiência de suporte que é alinhada com as suas necessidades de negócios | O engajamento do cliente alinhado a seus resultados de negócios para acelerar o tempo de maturação |
-| Disponibilidade | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo |
+| Disponibilidade | Acesso 24 x 7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos e telefone | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo |
 | Objetivos de tempo de resposta iniciais | Não aplicável | Severidade 1: menos de uma hora <br/> Severidade 2: menos de duas horas <br/> Severidade 3: menos de quatro horas <br/> Severidade 4: menos de oito horas | Severidade 1: Menos de 15 minutos <br/> Severidade 2: Menos de 1 hora <br/> Severidade 3: menos de duas horas <br/> Severidade 4: menos de quatro horas |
 | Gravidade do caso | Não aplicável | Classificação de gravidade de caso disponível | Classificação de gravidade de caso disponível |
 | Suporte adicional | Não aplicável | Não aplicável | Technical Account Manager designado <br/> <br/> Análises comerciais trimestrais <br/><br/> Acesso aos especialistas <br/> <br/> Convite para o Cloud Insights |
