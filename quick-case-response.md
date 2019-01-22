@@ -20,7 +20,7 @@ lastupdated: "2019-01-22"
 # Escalating support cases
 {: #escalation}
 
-{{site.data.keyword.Bluemix}} customers can use the escalation process to surface critical issues and to voice their concern if they feel their support ticket isn't being addressed appropriately. Once a case is escalated, the {{site.data.keyword.Bluemix_notm}} support team reviews the information in the support case and provides responds with appropriate updates.
+{{site.data.keyword.Bluemix}} customers can use the escalation process to surface critical issues and to voice their concern if they feel their support ticket isn't being addressed appropriately. Once a case is escalated, the {{site.data.keyword.Bluemix_notm}} support team reviews the information in the support case and responds with appropriate updates.
 
  To escalate a case, complete the following steps:
 
