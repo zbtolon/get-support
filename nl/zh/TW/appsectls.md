@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # 撤銷 TLS 1.0 及 1.1 支援
@@ -79,7 +80,7 @@ cf restage <application_name>
 
 這些替代端點僅支援 TLS 1.2。如果您可以順利連接至這些替代端點，則不受影響。如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
-在達拉斯以外的位置中，未提供 Watson 產品及服務的替代端點，因為這些端點僅支援 TLS 1.2。
+在達拉斯以外的位置中，未提供 Watson 產品及服務的替代端點，因為這些產品及服務已經僅支援 TLS 1.2。
 
 `gatway-tls12.watsonplatform.net` 及 `stream-tls12.watsonplatform.net` 僅供測試使用，而且在移除 TLS 1.0 及 1.1 之後將無法使用。
 {: tip}
@@ -95,7 +96,8 @@ cf restage <application_name>
 
 部分產品或服務（例如 {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 及 {{site.data.keyword.Bluemix_notm}} 型錄中的服務）可能會在多個位置提供。TLS 1.0 及 1.1 已在目前支援它們的所有位置中移除。
 
-**重要注意事項**：{{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務皆不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
+{{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，或者這些部署中所管理的任何 {{site.data.keyword.Bluemix_notm}} 服務皆不在此列。如果您的部署仍然支援 TLS 1.0 或 1.1，請與客戶或支援代表合作，決定適合移除的時機。
+{: note}
 
 ### 可從 {{site.data.keyword.Bluemix_notm}} 型錄取得的產品或服務
 
@@ -162,9 +164,9 @@ cf restage <application_name>
 * Simulated Historical Instrument Analytics\*
 * Simulated Instrument Analytics\*
 
-#### 函數
+#### 功能
 
-* Functions
+* 函數
 
 #### 整合
 

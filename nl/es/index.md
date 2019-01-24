@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-12"
+lastupdated: "2018-01-09"
 
 ---
 
@@ -25,7 +25,7 @@ Se proporciona soporte técnico gratuito a través de la comunidad de {{site.dat
 |  | Soporte básico | Soporte avanzado | Soporte premium |
 |-------------|-------------|-------------|-------------|
 | Descripción |	Protección empresarial básica que se incluye con la cuenta de Suscripción o Pago según uso de {{site.data.keyword.Bluemix_notm}} | Prioridad en la gestión del caso y experiencia de soporte alineadas con sus necesidades empresariales | Colaboración de clientes alineada con sus resultados empresariales para acelerar el plazo de rentabilización |
-| Disponibilidad | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat |
+| Disponibilidad | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos y por teléfono | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat | Acceso 24 horas al día, 7 días a la semana al equipo de soporte técnico de {{site.data.keyword.Bluemix_notm}} mediante casos, teléfono y chat |
 | Objetivo de tiempo de respuesta inicial | No aplicable | Gravedad 1: Menos de una hora <br/> Gravedad 2: Menos de dos horas <br/> Gravedad 3: Menos de cuatro horas <br/> Gravedad 4: Menos de ocho horas | Gravedad 1: Menos de 15 minutos <br/> Gravedad 2: Menos de 1 hora <br/> Gravedad 3: Menos de dos horas <br/> Gravedad 4: Menos de cuatro horas |
 | Gravedad del caso | No aplicable | Clasificación de la gravedad del caso disponible | Clasificación de la gravedad del caso disponible |
 | Soporte adicional | No aplicable | No aplicable | Technical Account Manager asignado <br/> <br/> Revisiones de negocio trimestrales <br/><br/> Acceso a expertos <br/> <br/> Invitación a Cloud Insights |

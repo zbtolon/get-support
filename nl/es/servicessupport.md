@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -21,10 +21,10 @@ lastupdated: "2018-11-28"
 Puede utilizar el centro de soporte para acceder a las opciones de soporte disponibles. La opción de soporte que recibe varía en función del tipo de servicio que tiene. 
 {:shortdesc}
 
-## Servicio disponible a nivel general de {{site.data.keyword.IBM}}
+## Servicio disponible a nivel general de {{site.data.keyword.IBM_notm}}
 {: #s-services-gaorcont}
 
-Los servicios o imágenes de contenedor proporcionados por IBM están disponibles a nivel general y se proporciona soporte para los problemas que se consideran un defecto.
+Los servicios o imágenes de contenedor proporcionados por {{site.data.keyword.IBM}} están disponibles a nivel general y se proporciona soporte para los problemas que se consideran un defecto.
 
 Si el análisis de la causa raíz determina que el problema es un defecto en el servicio o imagen de contenedor disponible a nivel general de IBM, el caso se solucionará en función de la gravedad que le haya asignado.
 

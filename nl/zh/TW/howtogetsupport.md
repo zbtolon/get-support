@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -26,7 +26,7 @@ lastupdated: "2018-11-28"
 所有 {{site.data.keyword.Bluemix}} 客戶都可以透過社群及部落格獲得免費的技術支援。可使用的支援類型及其可用時間，取決於帳戶的支援層次。
 {:shortdesc}
 
-您可以從 {{site.data.keyword.Bluemix_notm}} 主控台「支援中心」存取技術問題的支援選項（例如 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow）。
+您可以從 {{site.data.keyword.Bluemix_notm}} 主控台「支援中心」存取支援選項，例如 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow（適用於技術問題）。
 
 您可以使用「支援中心」來存取您的支援選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support/howtogetsupport.html#using-avatar)。您為帳戶所選取的支援方案，決定了可用的支援層次，以及可以指派給支援案例的嚴重性。如需相關資訊，請參閱[案例嚴重性和回應時間](/docs/get-support/ticketweight.html#support-ticket-severity)。
 
@@ -73,7 +73,7 @@ Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討
 ## 要求歐盟資源的支援
 {: #eusupported}
 
-針對選擇歐盟支援選項的客戶，位在歐洲的工程師可以全年無休地提供歐盟 (EU) 支援。全球團隊只會在歐盟支援團隊的決定及指示下才提供支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要更多的專家時，可能會與全球團隊聯絡。
+針對選擇歐盟支援選項的客戶，位在歐洲的工程師可以全年無休地提供歐盟 (EU) 支援。全球團隊只會在歐盟支援團隊的決定及指示下才提供支援。例如，如果歐盟中的「層次 1」或「層次 2」支援團隊無法解決問題，而需要更多專門知識時，可能會與全球團隊聯絡。
 
 您可以指定在符合下列準則時，想要實際位在歐洲的支援團隊來支援您的帳戶：
   * 您的主要使用者或帳戶擁有者設定您帳戶的「歐盟支援」選項
@@ -90,7 +90,7 @@ Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討
 {: #eusupportedservices}
 
 設定**歐盟支援**選項之後，您也可以充分運用額外的控制措施，從歐盟支援及操作 {{site.data.keyword.Bluemix_notm}} 服務。您可以使用 {{site.data.keyword.Bluemix_notm}} 型錄中支援的方案來過濾平台服務的搜尋。若要查看平台服務的歐盟支援方案，請完成下列步驟：
-  1. 開啟 [{{site.data.keyword.Bluemix_notm}} 型錄 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")]({DomainName}/catalog/){: new_window}。
+  1. 開啟 [{{site.data.keyword.Bluemix_notm}} 型錄 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://{DomainName}/catalog/){: new_window}。
   2. 按一下**過濾器**。
   3. 從下拉清單中選取**歐盟支援**。設定「歐盟支援」過濾器之後，您只會看到**基礎架構**和**平台**種類中，有歐盟支援方案的服務。
   4. 選取您要的服務。您可以看到服務的部分地區及方案有歐盟支援。

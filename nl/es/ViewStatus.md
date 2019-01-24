@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -43,7 +43,22 @@ Puede realizar búsquedas en todos los separadores de la página Estado, pero ¿
 
 Para obtener más información sobre el tipo de notificaciones de correo electrónico que puede recibir en función de su tipo de cuenta, consulte [Establecimiento de preferencias de correo electrónico](/docs/account/email.html). 
 
+## Suscripción a un hilo RSS
+{: #subscribing-rss-feed}
 
+Para recibir alertas de notificaciones, suscríbase al hilo RSS de la página Estado. Este enfoque proporciona una forma de recibir las actualizaciones sin tener que consultar la página de estado.
+
+Para suscribirse, siga estos pasos:
+
+1. Acceda a sus lectores RSS preferidos. Muchos navegadores tienen capacidades RSS incorporadas o extensiones disponibles. También hay varias ofertas de lectores RSS de terceros disponibles. 
+2. Utilice el lector para suscribirse al hilo de una de las formas siguientes:
+    * Arrastre el icono RSS ![RSS-24px](../icons/RSS-24px.svg) al lector RSS. 
+    * Pulse con el botón derecho en el icono de RSS, seleccione **Copiar dirección del enlace** y pegue el URL
+en el lector de RSS.
+
+Para obtener más información, consulte la sección ** Ayuda ** del lector.
+
+{{site.data.keyword.Bluemix_notm}} suele tener unas 50 actualizaciones por mes.
 
 
 

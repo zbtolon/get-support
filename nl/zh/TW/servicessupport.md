@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -21,10 +21,10 @@ lastupdated: "2018-11-28"
 您可以使用「支援中心」來存取您可用的支援選項。您所收到的支援選項會因您擁有的服務類型而有所不同。
 {:shortdesc}
 
-## {{site.data.keyword.IBM}} 正式發行服務
+## {{site.data.keyword.IBM_notm}} 正式發行服務
 {: #s-services-gaorcont}
 
-對於 IBM 所提供且正式發行的服務或容器映像檔，提供了對於已判定為錯誤之問題的支援。
+對於 {{site.data.keyword.IBM}} 所提供且正式發行的服務或容器映像檔，提供了對於已判定為錯誤之問題的支援。
 
 如果主要原因分析判定問題是 IBM 正式發行服務或容器映像檔中的錯誤，則會根據您指派的嚴重性來處理案例。
 

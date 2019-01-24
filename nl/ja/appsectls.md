@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # TLS 1.0 および 1.1 のサポート終了
@@ -86,7 +87,7 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 
 ### その他の製品またはサービス
 
-使用可能な代替の TLS 1.2 専用エンドポイントを持たない製品またはサービスの場合、提供されているクライアントの資料を参照してください。サポートされる TLS のバージョンおよび使用中のバージョンを判別する方法については、クライアント・ライブラリーを参照してください。 
+使用可能な代替の TLS 1.2 専用エンドポイントを持たない製品またはサービスの場合、提供されているクライアントの資料を参照してください。 サポートされる TLS のバージョンおよび使用中のバージョンを判別する方法については、クライアント・ライブラリーを参照してください。 
 
 ## TLS 1.0 および 1.1 のサポートを終了する製品およびサービス
 {: #prodsandservs}
@@ -95,7 +96,8 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 
 {{site.data.keyword.Bluemix_notm}} 上の Cloud Foundry や {{site.data.keyword.Bluemix_notm}} カタログ内のサービスなど、一部の製品またはサービスは、複数のロケーションで提供されていることがあります。 TLS 1.0 および 1.1 は、現在サポートされているすべてのロケーションで削除されます。
 
-**重要な注:** {{site.data.keyword.Bluemix_notm}} Private または {{site.data.keyword.Bluemix_notm}} Local System デプロイメント、またはそのようなデプロイメントでホストされる {{site.data.keyword.Bluemix_notm}} サービスは含まれません。 ご使用のデプロイメントがまだ TLS 1.0 または 1.1 をサポートしている場合は、顧客またはサポート担当者と相談して廃止する適当な時機を決定してください。
+{{site.data.keyword.Bluemix_notm}} Private または {{site.data.keyword.Bluemix_notm}} Local System デプロイメント、またはそのようなデプロイメントでホストされる {{site.data.keyword.Bluemix_notm}} サービスは含まれません。 ご使用のデプロイメントがまだ TLS 1.0 または 1.1 をサポートしている場合は、顧客またはサポート担当者と相談して廃止する適当な時機を決定してください。 
+{: note}
 
 ### {{site.data.keyword.Bluemix_notm}} カタログから使用可能な製品またはサービス
 
@@ -247,7 +249,7 @@ TLS 1.0 および 1.1 のサポートが `api.softlayer.com` および `api.serv
   * `gateway.watsonplatform.net` を `gateway-tls10.wastonplatform.net` に置き換えます
   * `stream.watsonplatform.net` を `stream-tls10.watsonplatform.net` に置き換えます
 
-TLS 1.0、1.1、および 1.2 が `gateway.watsonplatform.net` および `stream.watsonplatform.net` から削除された後、これらのバージョンの TLS をサポートするために `gateway-tls10.watsonplatform.net` および `stream-tls10.watsonplatform.net` を引き続き使用できます。
+TLS 1.0 および 1.1 が `gateway.watsonplatform.net` および `stream.watsonplatform.net` から削除された後、これらのバージョンの TLS をサポートするために `gateway-tls10.watsonplatform.net` および `stream-tls10.watsonplatform.net` を引き続き使用できます。
 
 ## 連絡
 {: #tlssupport}
