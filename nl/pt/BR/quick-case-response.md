@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -20,20 +20,23 @@ lastupdated: "2018-11-28"
 # Escalando casos de suporte
 {: #escalation}
 
-Use o processo de escalada para problemas críticos de superfície ou se você sentir que o seu caso de suporte não está sendo tratado adequadamente. Quando um caso é escalado, a equipe de suporte do {{site.data.keyword.Bluemix}} revisa as informações no caso de suporte e fornece as atualizações apropriadas.
+Os clientes do {{site.data.keyword.Bluemix}} podem usar o processo de encaminhamento para apresentar
+problemas críticos e expressar sua preocupação se sentirem que seu chamado de suporte não está sendo tratado
+apropriadamente. Quando um caso é encaminhado, a equipe de suporte do {{site.data.keyword.Bluemix_notm}}
+revisa as informações no caso de suporte e responde com as atualizações apropriadas.
 
  Para escalar um caso, conclua as etapas a seguir:
 
   1. Entre em contato com o Suporte do {{site.data.keyword.Bluemix_notm}} por telefone ou bate-papo:
-    * Por telefone para o seguinte número: 866-403-7638.
+    * Por telefone, ligando para o número a seguir: +1-866-403-7638.
     * Por bate-papo por meio do [Centro de suporte ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Forneça seu número de caso existente e solicite para escalar o caso.
   3. Forneça a justificação para escalação e o impacto no negócio de seu problema.
 
-## Gravidade do caso e tempos de resposta 
+## Gravidade do caso e tempos de resposta
 {: #support-case-severity}
 
-A rapidez com que os casos de suporte são tratados depende da severidade designada. Você designa a severidade do problema quando abre o caso. 
+A rapidez com que os casos de suporte são tratados depende da severidade designada. Você designa a severidade do problema quando abre o caso.
 
 A tabela a seguir lista alguns exemplos comuns de problemas de suporte, níveis de severidade sugeridos e objetivos de tempo de resposta. Os objetivos de tempo de resposta são usados para descrever apenas os objetivos da IBM e não representam uma garantia de desempenho.
 
@@ -50,4 +53,3 @@ O SLO atualizado para objetivos de tempo de resposta inicial do suporte premium 
 
 Se a sua consulta de suporte requerer uma resposta mais imediata, considere fazer upgrade para o plano de suporte premium ou avançado para que seja possível abrir os casos de suporte de gravidade 1 a 4. Para fazer upgrade do plano de suporte, entre em contato com o [Representante de vendas IBM ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-

@@ -52,11 +52,11 @@ Para suscribirse, siga estos pasos:
 
 1. Acceda a sus lectores RSS preferidos. Muchos navegadores tienen capacidades RSS incorporadas o extensiones disponibles. También hay varias ofertas de lectores RSS de terceros disponibles. 
 2. Utilice el lector para suscribirse al hilo de una de las formas siguientes:
-    * Arrastre el icono RSS ![RSS-24px](../icons/RSS-24px.svg) al lector RSS. 
+    * Arrastre el icono RSS ![RSS-24px](../icons/RSS-24px.svg) al lector RSS.
     * Pulse con el botón derecho en el icono de RSS, seleccione **Copiar dirección del enlace** y pegue el URL
 en el lector de RSS.
 
-Para obtener más información, consulte la sección ** Ayuda ** del lector.
+Para obtener más información, consulte la sección **Ayuda** del lector.
 
 {{site.data.keyword.Bluemix_notm}} suele tener unas 50 actualizaciones por mes.
 

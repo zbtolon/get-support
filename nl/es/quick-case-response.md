@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -17,23 +17,23 @@ lastupdated: "2018-11-28"
 {:new_window: target="_blank"}
 
 
-# Escalamiento de casos de soporte
+# Escalado de casos de soporte
 {: #escalation}
 
-Utilice el proceso de escalamiento para emerger problemas críticos o si cree que su caso de soporte no se está resolviendo como es debido. Una vez que se haya escalado un caso, el equipo de soporte de {{site.data.keyword.Bluemix}} revisa la información del caso de soporte y le proporciona las actualizaciones adecuadas.
+Los clientes de {{site.data.keyword.Bluemix}} pueden utilizar el proceso de escalado para exponer problemas críticos y para expresar su preocupación si creen que su incidencia de soporte no se está gestionando de manera adecuada. Una vez que se haya escalado un caso, el equipo de soporte de {{site.data.keyword.Bluemix_notm}} revisa la información del caso de soporte y responde con las actualizaciones adecuadas.
 
  Para escalar un caso, complete los pasos siguientes:
 
   1. Póngase en contacto con el equipo de soporte de {{site.data.keyword.Bluemix_notm}} por teléfono o a través del chat:
-    * Si lo hace por teléfono, marque el número siguiente: 866-403-7638.
+    * Si lo hace por teléfono, marque el número siguiente: +1-866-403-7638.
     * Por chat, desde el [Centro de soporte ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Proporcione el número de caso existente y solicite escalar el caso.
-  3. Proporcione la justificación del escalamiento y el impacto empresarial de su problema.
+  3. Proporcione la justificación del escalado y el impacto empresarial de su problema.
 
-## Gravedad del caso y tiempos de respuesta 
+## Gravedad del caso y tiempos de respuesta
 {: #support-case-severity}
 
-La rapidez con la que se solucionan los casos de soporte depende de la gravedad del problema. Asigne la gravedad del problema al abrir el caso. 
+La rapidez con la que se solucionan los casos de soporte depende de la gravedad del problema. Asigne la gravedad del problema al abrir el caso.
 
 La siguiente tabla lista algunos ejemplos comunes de los problemas de soporte, niveles de gravedad sugeridos y los objetivos de tiempo de respuesta. Los objetivos de tiempo de respuesta se utilizan únicamente para describir los objetivos de IBM y no representan una garantía de rendimiento.
 
@@ -50,4 +50,3 @@ SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte pre
 
 Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al plan de soporte estándar o avanzado para poder abrir casos de soporte de gravedad 1-4. Para actualizar su plan de soporte, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-
