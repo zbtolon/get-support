@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,12 +12,13 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Retrait de la prise en charge de TLS 1.0 et 1.1
 {: #tlssupportwithdraw}
 
-IBM a retiré la prise en charge de TLS 1.0 et TLS 1.1 sur plusieurs produits et services de cloud à compter du 1 mars 2018. TLS 1.2 est pris en charge pour n'importe quel produit ou service {{site.data.keyword.Bluemix}} sur lequel la prise en charge de TLS 1.0 et 1.1 été retirée.
+IBM a retiré la prise en charge de TLS 1.0 et TLS 1.1 sur plusieurs produits et services de cloud à compter du 1er mars 2018. TLS 1.2 est pris en charge pour n'importe quel produit ou service {{site.data.keyword.Bluemix}} sur lequel la prise en charge de TLS 1.0 et 1.1 été retirée.
 {:shortdesc}
 
 ## Pourquoi la prise en charge de version TLS a-t-elle été modifiée ?
@@ -63,7 +64,7 @@ cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 
 Après avoir défini `BLUEMIX_TLS10_DISABLED` à `true`, vous devez utiliser la commande suivante pour reconstituer votre application pour que ce changement prenne effet :
 ```
-cf restage <nom_application>
+cf restage <application_name>
 ```
 
 Une fois que vous avez effectué ces changements, toute demande sortante en provenance de votre application est redirigée vers les noeuds finaux alternatifs TLS 1.2 uniquement.
@@ -95,7 +96,8 @@ Les produits et services ci-après retirent leur prise en charge pour TLS 1.0 et
 
 Certains produits ou services, comme Cloud Foundry on {{site.data.keyword.Bluemix_notm}} et des services du catalogue {{site.data.keyword.Bluemix_notm}} peuvent être proposés sur plusieurs emplacements différents. La prise en charge de TLS 1.0 et 1.1 sera retirée des emplacements où ils sont actuellement gérés.
 
-**Remarque importante : ** Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private ou d'{{site.data.keyword.Bluemix_notm}} Local System ou de services {{site.data.keyword.Bluemix_notm}} non hébergés dans ces déploiements ne sont pas inclus. Si votre déploiement prend toujours en charge TLS 1.0 ou 1.1, voyez avec votre responsable client ou support quand effectuer le retrait .
+Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.keyword.Bluemix_notm}} Local System ou de services {{site.data.keyword.Bluemix_notm}} hébergés dans ces déploiements ne sont pas inclus. Si votre déploiement prend toujours en charge TLS 1.0 ou 1.1, voyez avec votre responsable client ou support quand effectuer le retrait . 
+{: note}
 
 ### Produits ou services disponibles depuis le catalogue {{site.data.keyword.Bluemix_notm}}
 
@@ -247,7 +249,7 @@ Pour continuer à utiliser TLS 1.0 ou 1.1 pour se connecter aux produits et serv
   * Remplacez `gateway.watsonplatform.net` par `gateway-tls10.wastonplatform.net`
   * Remplacez `stream.watsonplatform.net` par `stream-tls10.watsonplatform.net`
 
-Vous pouvez continuer à utiliser `gateway-tls10.watsonplatform.net` et `stream-tls10.watsonplatform.net` pour prendre en charge TLS 1.0, 1.1 et 1.2 après que ces versions TLS ont été retirées de `gateway.watsonplatform.net` et `stream.watsonplatform.net`.
+Vous pouvez continuer à utiliser `gateway-tls10.watsonplatform.net` et `stream-tls10.watsonplatform.net` pour prendre en charge TLS 1.0 et 1.1 après le retrait de ces versions de `gateway.watsonplatform.net` et de `stream.watsonplatform.net`.
 
 ## Contactez-nous
 {: #tlssupport}

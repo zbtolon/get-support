@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -15,15 +15,16 @@ lastupdated: "2018-11-28"
 {:new_window: target="_blank"}
 
 
-# Options de support pour votre type d'offre 
+# Options de support pour votre type d'offre
 {: #support-different-services}
 
-Vous pouvez utiliser le centre de support pour accéder à vos options de support disponibles. L'option de support que vous recevez est différente en fonction du type de service que vous avez. {:shortdesc}
+Vous pouvez utiliser le centre de support pour accéder à vos options de support disponibles. L'option de support que vous recevez est différente en fonction du type de service que vous avez. 
+{:shortdesc}
 
-## Service officiellement mis à disposition par {{site.data.keyword.IBM}}
+## Service officiellement mis à disposition par {{site.data.keyword.IBM_notm}}
 {: #s-services-gaorcont}
 
-Pour les services ou les images de conteneur fournis par IBM et officiellement mis à disposition, un support est fourni pour les problèmes identifiés comme étant des incidents.
+Pour les services ou les images de conteneur fournis par {{site.data.keyword.IBM}} et officiellement mis à disposition, un support est fourni pour les problèmes identifiés comme étant des incidents.
 
 Si l'analyse de la cause première détermine que le problème provient du service ou de l'image de conteneur officiellement mis à disposition par IBM, le cas est traité en fonction du niveau de gravité que vous avez indiqué.
 

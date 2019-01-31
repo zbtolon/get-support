@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -91,7 +91,7 @@ Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fat
 {: #eusupportedservices}
 
 Dopo aver impostato l'opzione **Supportato UE**, puoi anche usufruire di controlli aggiuntivi per supportare e utilizzare i servizi {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Puoi filtrare la tua ricerca di servizi di piattaforma con i piani supportati nel catalogo {{site.data.keyword.Bluemix_notm}}. Per visualizzare i piani supportati dall'UE per un servizio della piattaforma, completa la seguente procedura:
-  1. Apri il [catalogo {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")]({DomainName}/catalog/){: new_window}.
+  1. Apri il [catalogo {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://{DomainName}/catalog/){: new_window}.
   2. Fai clic su **Filtro**.
   3. Seleziona **Supportato UE** dall'elenco a discesa. Con il filtro Supportato UE impostato, vedi solo i servizi nelle categorie **Infrastruttura** e **Piattaforma** che hanno dei piani supportati dall'UE.
   4. Selezionare il servizio che desideri. Puoi vedere che alcune regioni e alcuni piani per il servizio sono supportati dall'UE.

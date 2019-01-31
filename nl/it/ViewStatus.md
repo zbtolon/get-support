@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -43,7 +43,24 @@ Puoi eseguire ricerche in tutte le schede della pagina Stato, ma sapevi che puoi
 
 Per ulteriori informazioni sul tipo di notifiche email che puoi ricevere in base al tuo tipo di account, vedi [Impostazione delle preferenze email](/docs/account/email.html). 
 
+## Sottoscrizione a un feed RSS
+{: #subscribing-rss-feed}
 
+Ricevi gli avvisi di eventuali notifiche sottoscrivendo il feed RSS per la pagina Stato. In questo modo puoi ottenere gli aggiornamenti senza dover consultare regolarmente la pagina Stato.
+
+Per eseguire la sottoscrizione, completa la seguente procedura:
+
+1. Accedi ai tuoi lettori RSS preferiti. Molti browser hanno a disposizione funzionalità o estensioni RSS integrate. Sono disponibili anche diverse offerte di lettori RSS di terze parti. 
+2. Utilizza il tuo lettore per sottoscrivere il feed con uno dei seguenti
+metodi:
+    * Trascina l'icona RSS ![RSS-24px](../icons/RSS-24px.svg) nel tuo lettore RSS.
+    * Fai clic con il tasto destro del mouse sull'icona RSS, seleziona **Copia indirizzo link** e incolla l'URL
+nel tuo lettore RSS.
+
+Per ulteriori informazioni, vedi la sezione della **Guida** del tuo lettore.
+
+{{site.data.keyword.Bluemix_notm}} solitamente
+ha circa 50 aggiornamenti al mese.
 
 
 

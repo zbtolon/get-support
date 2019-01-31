@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -38,7 +38,7 @@ IBM envoie périodiquement des sondages aux clients {{site.data.keyword.Bluemix_
 ## Utilisation du centre de support
 {: #using-avatar}
 
-Pour accéder au Centre de support, connectez-vous à la console {{site.data.keyword.Bluemix_notm}} et cliquez sur **Support** dans la barre de menus.   
+Pour accéder au Centre de support, connectez-vous à la console {{site.data.keyword.Bluemix_notm}} et cliquez sur **Support** dans la barre de menus.  
 
 Vous pouvez utiliser la zone de recherche du centre de support pour trouver des réponses à vos questions dans la documentation {{site.data.keyword.Bluemix_notm}} et sur le forum Stack Overflow. Vous pouvez également gérer des cas depuis le Centre de support. La section Forums du centre de support propose des liens vers le forum Stack Overflow, qui répond à vos questions d'ordre technique, et vers le forum developerWorks (IBM Developer Answers) pour toutes les autres questions.  
 
@@ -79,7 +79,7 @@ Le support dans l'Union européenne est assuré 24 heures sur 24, 7 jours sur 7,
 Vous pouvez spécifier que vous souhaitez pour votre compte que le support soit assuré par l'équipe de support physiquement localisée en Europe si les critères suivants sont vérifiés :
   * Votre utilisateur principal ou votre propriétaire de compte a défini l'option de support européen pour votre compte
   * Vos ressources se trouvent dans le centre de données européen approprié
-  * Vous sélectionnez le niveau de cas **Support dans l'Union européenne** lorsque vous ouvrez le cas 
+  * Vous sélectionnez le niveau de cas **Support dans l'Union européenne** lorsque vous ouvrez le cas
 
 Pour la plateforme {{site.data.keyword.Bluemix_notm}}, seuls les services hébergés dans la région Allemagne peuvent être pris en charge par une équipe qui est située physiquement en Europe.  
 
@@ -91,7 +91,7 @@ Vous pouvez définir l'option **Support dans l'Union européenne** pour votre co
 {: #eusupportedservices}
 
 Après avoir défini l'option **Support dans l'Union européenne**, vous pouvez également tirer parti de contrôles supplémentaires pour la prise en charge et l'utilisation de services {{site.data.keyword.Bluemix_notm}} depuis l'Union européenne. Vous pouvez filtrer votre recherche de services de plateforme avec les plans pris en charge dans le catalogue {{site.data.keyword.Bluemix_notm}}. Pour voir les plans pris en charge dans l'Union européenne pour un service de plateforme, procédez comme suit :
-  1. Ouvrez le [catalogue {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")]({DomainName}/catalog/){: new_window}.
+  1. Ouvrez le catalogue [{{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://{DomainName}/catalog/){: new_window}.
   2. Cliquez sur **Filtrer**.
   3. Sélectionnez **Support dans l'Union européenne** dans la liste déroulante. Le filtre Support dans l'Union européenne étant défini, seuls les services des catégories **Infrastructure** et **Plateforme** comportant des plans pris en charge dans l'Union européenne sont visibles.
   4. Sélectionnez le service de votre choix. Les régions et les plans pris en charge dans l'Union européenne pour le service sont affichés.
@@ -112,7 +112,7 @@ Si vous pensez qu'une vulnérabilité de sécurité {{site.data.keyword.Bluemix_
 
 Pour signaler une vulnérabilité de sécurité potentielle, procédez comme suit :
 1. Ouvrez un cas de gravité 1 ou un cas du niveau de gravité le plus élevé autorisé par votre niveau de support. Pour plus d'informations sur la procédure d'ouverture d'un cas, voir [Création de cas de support](/docs/get-support/opencase.html#open-case).
-2. Décrivez clairement dans le résumé du cas qu'il s'agit d'une vulnérabilité potentielle en matière de sécurité. 
+2. Décrivez clairement dans le résumé du cas qu'il s'agit d'une vulnérabilité potentielle en matière de sécurité.
 3. Fournissez des détails sur la vulnérabilité de sécurité potentielle en incluant l'un des éléments suivants :
     * Un numéro de téléphone où vous pouvez être joint pour discuter du problème.
     * Les détails du problème. Vous devez les chiffrer dans un bloc de texte dans le corps du cas. Pour obtenir des instructions de déchiffrement, vous devez également indiquer comment le support IBM peut vous contacter en toute sécurité.

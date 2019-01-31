@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Ritiro del supporto per TLS 1.0 e 1.1
@@ -95,7 +96,8 @@ I seguenti prodotti e servizi ritireranno il supporto per TLS 1.0 e 1.1.
 
 Alcuni prodotti o servizi, come Cloud Foundry su {{site.data.keyword.Bluemix_notm}} e i servizi nel catalogo {{site.data.keyword.Bluemix_notm}}, potrebbero essere offerti in più ubicazioni. TLS 1.0 e 1.1 viene rimosso in tutte le ubicazioni in cui sono al momento supportati.
 
-**Nota importante:** le distribuzioni di {{site.data.keyword.Bluemix_notm}} privato o del sistema {{site.data.keyword.Bluemix_notm}} locale o i servizi {{site.data.keyword.Bluemix_notm}} ospitati in queste distribuzioni non sono inclusi. Se la tua distribuzione supporta ancora TLS 1.0 o 1.1, collabora con il tuo cliente o rappresentante del supporto per determinare quando la rimozione è più giusta per te.
+Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{site.data.keyword.Bluemix_notm}} locale o qualsiasi servizio {{site.data.keyword.Bluemix_notm}} ospitato in queste distribuzioni non sono inclusi. Se la tua distribuzione supporta ancora TLS 1.0 o 1.1, collabora con il tuo cliente o rappresentante del supporto per determinare quando la rimozione è più giusta per te. 
+{: note}
 
 ### Prodotti o servizi disponibili dal catalogo {{site.data.keyword.Bluemix_notm}}
 
@@ -247,7 +249,7 @@ Per continuare a utilizzare TLS 1.0 o 1.1 per la connessione ai prodotti e servi
   * Sostituisci `gateway.watsonplatform.net` con `gateway-tls10.wastonplatform.net`
   * Sostituisci `stream.watsonplatform.net` con `stream-tls10.watsonplatform.net`
 
-Puoi continuare a utilizzare `gateway-tls10.watsonplatform.net` e `stream-tls10.watsonplatform.net` per supportare TLS 1.0, 1.1 e 1.2 dopo che queste versioni di TLS sono state rimosse da `gateway.watsonplatform.net` e `stream.watsonplatform.net`.
+Puoi continuare a utilizzare `gateway-tls10.watsonplatform.net` e `stream-tls10.watsonplatform.net` per supportare TLS 1.0 e 1.1 dopo che queste versioni di TLS sono state rimosse da `gateway.watsonplatform.net` e `stream.watsonplatform.net`.
 
 ## Contattaci
 {: #tlssupport}

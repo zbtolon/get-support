@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -90,7 +90,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 
 {: #eusupportedservices}
 
 **EU 지원** 옵션을 설정하고 나면, 유럽 연합에서의 {{site.data.keyword.Bluemix_notm}} 서비스를 지원하고 운영하기 위해 추가 제어를 이용할 수도 있습니다. {{site.data.keyword.Bluemix_notm}} 카탈로그에서 지원 플랜별로 플랫폼 서비스 검색을 필터링할 수 있습니다. 플랫폼 서비스에 대한 EU 지원 플랜을 보려면 다음 단계를 완료하십시오.
-  1. [{{site.data.keyword.Bluemix_notm}} 카탈로그 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")]({DomainName}/catalog/){: new_window}를 여십시오.
+  1. [{{site.data.keyword.Bluemix_notm}} 카탈로그 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://{DomainName}/catalog/){: new_window}를 여십시오.
   2. **필터**를 클릭하십시오.
   3. 드롭 다운 목록에서 **EU 지원**을 선택하십시오. EU 지원 필터 세트를 사용하는 경우 EU 지원 플랜이 있는 **인프라** 및 **플랫폼** 카테고리의 서비스만 표시됩니다.
   4. 원하는 서비스를 선택하십시오. 서비스에 대한 일부 지역 및 플랜이 EU 지원되는 것을 확인할 수 있습니다.

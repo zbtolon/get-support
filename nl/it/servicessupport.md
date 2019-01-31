@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -18,13 +18,13 @@ lastupdated: "2018-11-28"
 # Opzioni di supporto per il tuo tipo di offerta
 {: #support-different-services}
 
-Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto disponibili. L'opzione di supporto che ricevi differisce in base al tipo di servizio che hai.
+Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto disponibili. L'opzione di supporto che ricevi differisce in base al tipo di servizio che hai. 
 {:shortdesc}
 
-## Servizio generalmente disponibile {{site.data.keyword.IBM}}
+## Servizio generalmente disponibile {{site.data.keyword.IBM_notm}}
 {: #s-services-gaorcont}
 
-Per i servizi o le immagini contenitore forniti da IBM e generalmente disponibili, il supporto viene fornito per i problemi che si stabilisce siano un difetto.
+Per i servizi o le immagini contenitore forniti da {{site.data.keyword.IBM}} che sono generalmente disponibili, il supporto viene fornito per i problemi considerati come un difetto.
 
 Se l'analisi della causa principale stabilisce che il problema è un difetto nel servizio o nell'immagine contenitore generalmente disponibile IBM, il caso viene affrontato in base alla severità che hai assegnato.
 

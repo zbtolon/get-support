@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # TLS 1.0 및 1.1에 대한 지원 중단
@@ -95,7 +96,8 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 
 {{site.data.keyword.Bluemix_notm}}의 Cloud Foundry와 {{site.data.keyword.Bluemix_notm}} 카탈로그의 서비스와 같은 일부 제품 또는 서비스는 여러 위치에 제공될 수 있습니다. 현재 지원되는 모든 위치에서 TLS 1.0 및 1.1이 제거됩니다.
 
-**중요한 참고:** {{site.data.keyword.Bluemix_notm}} 프라이빗 또는 {{site.data.keyword.Bluemix_notm}} 로컬 시스템 배치나 이러한 배치에서 호스팅되는 모든 {{site.data.keyword.Bluemix_notm}} 서비스는 포함되지 않습니다. 배치가 여전히 TLS 1.0 또는 1.1을 지원하는 경우, 고객 또는 지원 담당자와 함께 제거 시기를 판별하십시오.
+{{site.data.keyword.Bluemix_notm}} 프라이빗 또는 {{site.data.keyword.Bluemix_notm}} 로컬 시스템 배치나 이러한 배치에서 호스팅된 {{site.data.keyword.Bluemix_notm}} 서비스는 포함되지 않습니다. 배치가 여전히 TLS 1.0 또는 1.1을 지원하는 경우, 고객 또는 지원 담당자와 함께 제거 시기를 판별하십시오. 
+{: note}
 
 ### {{site.data.keyword.Bluemix_notm}} 카탈로그에서 사용 가능한 제품 또는 서비스
 
@@ -247,7 +249,7 @@ TLS 1.0 및 1.1에 대한 지원이 `api.softlayer.com` 및 `api.service.softlay
   * `gateway.watsonplatform.net`을 `gateway-tls10.wastonplatform.net`으로 대체
   * `stream.watsonplatform.net`을 `stream-tls10.watsonplatform.net`으로 대체
 
-TLS 1.0, 1.1 및 1.2 버전이 `gateway.watsonplatform.net` 및 `stream.watsonplatform.net`에서 제거된 후에도 `gateway-tls10.watsonplatform.net` 및 `stream-tls10.watsonplatform.net`을 계속 사용하여 이러한 버전을 지원할 수 있습니다.
+TLS 1.0 및 1.1 버전이 `gateway.watsonplatform.net` 및 `stream.watsonplatform.net`에서 제거된 후에도 계속해서 `gateway-tls10.watsonplatform.net` 및 `stream-tls10.watsonplatform.net`을 사용하여 이러한 TLS 버전을 지원할 수 있습니다. 
 
 ## 문의하기
 {: #tlssupport}
