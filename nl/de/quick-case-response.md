@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -20,20 +20,20 @@ lastupdated: "2018-11-28"
 # Supportfälle eskalieren
 {: #escalation}
 
-Verwenden Sie den Eskalationsprozess, um kritische Probleme auf den Punkt zu bringen oder wenn Sie den Eindruck haben, dass Ihr Supportfall nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft das {{site.data.keyword.Bluemix}}-Support-Team die Informationen im Supportfall und informiert Sie über entsprechende Updates.
+{{site.data.keyword.Bluemix}}-Kunden können den Eskalationsprozess nutzen, um kritische Probleme auf den Punkt zu bringen und ihr Anliegen zu adressieren, wenn sie den Eindruck haben, dass ihr Support-Ticket nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft das {{site.data.keyword.Bluemix_notm}}-Support-Team die Informationen im Supportfall und informiert den Kunden über entsprechende Updates.
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 
   1. Kontaktieren Sie den {{site.data.keyword.Bluemix_notm}}-Support telefonisch oder über den Chat:
-    * Via Telefon unter der folgenden Nummer: 866-403-7638.
+    * Via Telefon unter der folgenden Nummer: +1-866-403-7638.
     * Kontaktaufnahme über Chat vom [Support Center ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Geben Sie Ihre Fallnummer und Anforderung an, um den Fall zu eskalieren.
   3. Geben Sie die Begründung für die Eskalation und den Einfluss des Problems oder Fehlers auf die Geschäftsabläufe an.
 
-## Fallpriorität und Antwortzeiten 
+## Fallpriorität und Antwortzeiten
 {: #support-case-severity}
 
-Wie schnell Ihre Supportfälle bearbeitet werden, richtet sich nach zugeordneten Priorität. Die Priorität des Problems ordnen Sie zu, wenn Sie den Fall öffnen.  
+Wie schnell Ihre Supportfälle bearbeitet werden, richtet sich nach zugeordneten Priorität. Die Priorität des Problems ordnen Sie zu, wenn Sie den Fall öffnen.
 
 In der folgenden Tabelle sind einige allgemeine Beispiele für Supportfälle mit vorgeschlagenen Prioritätsstufen und den zugehörigen angestrebten Reaktionszeiten aufgeführt. Die angestrebten Reaktionszeiten geben lediglich die Ziele von IBM wieder und stellen keine Leistungsgarantie dar.
 
@@ -50,4 +50,3 @@ Die SLO-Aktualisierung für die angestrebte Erstreaktionszeit im Rahmen des Prem
 
 Wenn Ihre Supportanfrage eine schnellere Antwort erfordert, können Sie ein Upgrade auf den Premium- oder Advanced Supportplan durchführen, damit Sie Supportfälle mit einer Priorität von 1 - 4 öffnen können. Für ein Upgrade Ihres Supportplans wenden Sie sich an den zuständigen [IBM Vertriebsbeauftragten ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-
