@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -20,20 +20,20 @@ lastupdated: "2018-11-28"
 # Escalade de cas de support
 {: #escalation}
 
-Le processus d'escalade vous permet non seulement de signaler des problèmes critiques, mais également d'exprimer vos inquiétudes si vous avez le sentiment que votre cas de support n'est pas traité de manière appropriée. Lorsqu'un cas est transféré, l'équipe de support {{site.data.keyword.Bluemix}} examine les informations contenues dans le cas de support et vous fournit les mises à jour appropriées.
+Les clients {{site.data.keyword.Bluemix}} peuvent utiliser le processus d'escalade pour signaler des problèmes critiques et exprimer leurs inquiétudes s'ils ont le sentiment que leur ticket de demande n'est pas traité de manière appropriée. Lorsqu'un cas est transféré, l'équipe de support {{site.data.keyword.Bluemix_notm}} examine les informations se trouvant dans le cas de support et vous fournit les mises à jour appropriées.
 
  Pour faire remonter un cas, procédez comme suit :
 
   1. Contactez le support {{site.data.keyword.Bluemix_notm}} par téléphone ou via une discussion en ligne :
-    * Par téléphone, composez le numéro suivant : 866-403-7638.
+    * Par téléphone, composez le numéro suivant : +1-866-403-7638.
     * Par discussion en ligne sur le [Centre de support![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Indiquez le numéro de cas de support dont vous disposez et demandez à faire remonter le cas.
   3. Indiquez la justification de l'escalade et l'impact métier de votre problème ou de votre problème.
 
-## Gravité du cas et temps de réponse  
+## Gravité du cas et temps de réponse
 {: #support-case-severity}
 
-La rapidité avec laquelle vos cas de support sont traités dépend de la gravité attribuée. Vous affectez une gravité à un problème au moment où vous ouvrez le cas.  
+La rapidité avec laquelle vos cas de support sont traités dépend de la gravité attribuée. Vous affectez une gravité à un problème au moment où vous ouvrez le cas.
 
 Le tableau suivant répertorie divers exemples de problèmes soumis au support, les niveaux de gravité suggérés et les objectifs de temps de réponse. Les objectifs de temps de réponse sont utilisés uniquement pour décrire les intentions d'IBM et ne représentent pas une garantie de performance.
 
@@ -50,4 +50,3 @@ Objectif du niveau de service mis à jour pour les objectifs de temps de répons
 
 Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le plan de support Avancé ou Premium afin de pouvoir ouvrir des cas de support de service de gravité 1 à 4. Pour mettre à niveau votre plan de support, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-
