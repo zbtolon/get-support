@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -20,20 +20,20 @@ lastupdated: "2018-11-28"
 # Escalation dei casi di supporto
 {: #escalation}
 
-Utilizza il processo di escalation per dare rilievo ai problemi critici o se ritieni che il tuo caso di supporto non venga affrontato adeguatamente. Quando un caso viene inoltrato al livello superiore, il team di supporto {{site.data.keyword.Bluemix}} riesamina le informazioni nel caso di supporto e ti fornisce gli aggiornamenti appropriati.
+I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} riesamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati.
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 
   1. Contatta il supporto {{site.data.keyword.Bluemix_notm}} telefonicamente o via chat:
-    * Telefonicamente al seguente numero: 866-403-7638.
+    * Telefonicamente al seguente numero: +1-866-403-7638.
     * Via chat dal [Centro di supporto ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
   2. Fornisci il tuo numero del caso esistente e richiedi l'escalation del caso.
   3. Fornisci la giustificazione per l'escalation e l'impatto aziendale del tuo problema.
 
-## Severità dei casi e tempi di risposta 
+## Severità dei casi e tempi di risposta
 {: #support-case-severity}
 
-La rapidità con cui vengono affrontati i casi di supporto dipende dalla severità assegnata. La severità del problema viene assegnata da te all'apertura del caso. 
+La rapidità con cui vengono affrontati i casi di supporto dipende dalla severità assegnata. La severità del problema viene assegnata da te all'apertura del caso.
 
 La seguente tabella elenca alcuni esempi comuni di problemi di supporto, di livelli di severità suggeriti e di obiettivi del tempo di risposta. Gli obiettivi del tempo di risposta vengono utilizzati solo per descrivere gli obiettivi di IBM e non rappresentano una garanzia sulle prestazioni.
 
@@ -48,6 +48,5 @@ La seguente tabella elenca alcuni esempi comuni di problemi di supporto, di live
 Lo SLO aggiornato per gli obiettivi di tempo di risposta iniziale del supporto premium sono effettivi dal primo ottobre 2018. Gli aggiornamenti sono applicabili ai casi di supporto creati il primo ottobre 2018 o dopo tale data. Gli obiettivi di tempo di risposta iniziale del supporto premium precedenti al primo ottobre 2018 sono entro 1 ora per la severità 1 ed entro 90 minuti per la severità 2.
 {: note}
 
-Se la tua domanda di supporto richiede una risposta più immediata, valuta la possibilità di eseguire l'aggiornamento al piano di supporto premium o avanzato in modo che tu possa aprire casi di supporto con severità da 1 a 4. Per aggiornare il piano di supporto, contatta il tuo [rappresentante delle vendite IBM ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Se la tua domanda di supporto richiede una risposta più immediata, valuta la possibilità di eseguire l'upgrade al piano di supporto premium o avanzato in modo che tu possa aprire casi di supporto con severità da 1 a 4. Per eseguire l'upgrade del piano di supporto, contatta il tuo [rappresentante delle vendite IBM ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
-
