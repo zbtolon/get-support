@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -24,7 +24,7 @@ To stay informed and plan accordingly, use the following best practices for moni
 {: #monbp-checmaintwin}
 
 Check for upcoming maintenance windows posted on the {{site.data.keyword.Bluemix_notm}} console Dashboard page, at least once every 24 hours, by using one of the following options:
-* Check out the Planned maintenance widget on the [Dashboard ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com){: new_window}. Click **All events** to view all planned maintenances.
+* Check out the Planned maintenance widget on the [Dashboard ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com){: new_window}. Click **All events** to view all planned maintenance.
 * Navigate directly to the [Status - Planned maintenance ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=maintenance){: new_window} page
 
 ## Check for current maintenance windows or an incident in progress

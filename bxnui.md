@@ -546,7 +546,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 
 **Message**: You will be logged out because you are not a member of an active account.
 
-Your {{site.data.keyword.Bluemix_notm}}account might have expired or been cancelled, or you might have been removed from your org.
+Your {{site.data.keyword.Bluemix_notm}} account might have expired or been cancelled, or you might have been removed from your org.
 Contact your org manager. Or, for help and support options, see the Troubleshooting section of the {{site.data.keyword.Bluemix_notm}}Docs.
 
 ## BXNUI0126E

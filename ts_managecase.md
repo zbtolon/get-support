@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -76,7 +76,7 @@ To resolve the issue, contact the account owner to request the appropriate acces
 You can't find your cases that you created prior to the enhanced {{site.data.keyword.Bluemix_notm}} platform experience. 
 {:shortdesc}
 
-After goingn to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 Dec 2. 
+After going to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 Dec 2. 
 {: tsSymptoms}
 
 Cases that were opened before 2018 Dec 2 are visable only from the **View archived cases**. 
