@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -34,7 +34,7 @@ You're provided free technical support through the {{site.data.keyword.Bluemix}}
 The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
 {: note}
 
-For more information about how the severity of cases is assigned, see [Case severity and response times](/docs/get-support/quicktickresp.html#support-case-severity).
+For more information about how the severity of cases is assigned, see [Case severity and response times](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 {: tip} 
 
 ## Premium support

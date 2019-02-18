@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-12-03"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -20,7 +20,7 @@ lastupdated: "2018-12-03"
 If you experience problems with {{site.data.keyword.Bluemix}}, you can use support cases to get help with technical, account and access, billing and invoice or sales inquiry issues. You can create and manage a support case by using the [Support Center](https://dev.console.cloud.ibm.com/unifiedsupport/supportcenter){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). After you submit a support case, the support team works to investigate and resolve the issue depending on your type of support plan.
 {:shortdesc}
 
-By default, users in an account don't have access to create, update, search, or view cases. As the account owner, you must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Assigning user access for working with support cases](/docs/get-support/support_access.html#access)
+By default, users in an account don't have access to create, update, search, or view cases. As the account owner, you must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Assigning user access for working with support cases](/docs/get-support?topic=get-support-access#access)
 {:tip}
 
 ## Creating support cases
@@ -28,7 +28,7 @@ By default, users in an account don't have access to create, update, search, or 
 
 All users can open any type of support case.
 
-By default, users in an account don't have access to create, update, search, or view cases. You must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Platform management roles](/docs/iam/users_roles.html#platformrolestable2)
+By default, users in an account don't have access to create, update, search, or view cases. You must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Platform management roles](/docs/iam?topic=iam-platformroles#platformroles)
 {:tip}
 
 Complete the following steps to create a support case from the Support Center: 
@@ -36,7 +36,7 @@ Complete the following steps to create a support case from the Support Center:
   1. Click **Support** from the console menu bar.
   2. Create a case by clicking **Create case** from the **Need more help** menu or by clicking **Manage cases > Create a new case**.
   3. Select **Technical**, **Account & Access**, **Billing & Invoice**, or **Sales Inquiry** depending on your issue.
-  4. Next, choose the severity of your case from the menu. The severity determines how your case is handled. For more information on case severity, see [Escalating support cases](/docs/get-support/quick-case-response.html#escalation).
+  4. Next, choose the severity of your case from the menu. The severity determines how your case is handled. For more information on case severity, see [Escalating support cases](/docs/get-support?topic=get-support-escalation#escalation).
   5. Select the category and offering of your case. The information that is required depends on the resource context that you selected and also on the type of support plan of your account.
   6. Complete the required information for the subject and description of the case. 
   
@@ -65,7 +65,8 @@ To view and manage your support cases, use the following steps:
 
   1. Click **Support** from the console menu bar.
   2. To view a listing of open cases, select **Manage cases**.
-  3. Select a case from the list to add comments or update a case. 
+  3. Select a case from the list to add comments or update a case.
+  4. Closed or resolved cases can be found by using the filter option to retrieve cases in any status. 
 
 If you're a classic infrastructure user, and you don't see a listing of a previous case, go to **View archived cases**. 
 {: tip}

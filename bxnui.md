@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ When you receive an error message from {{site.data.keyword.Bluemix}}, you can us
 ## BXNUI0001E
 **Message**: The page wasn't loaded because {{site.data.keyword.Bluemix_notm}} didn't detect whether a session exists.
 
-For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account/ts_accessing.html#accessing){: new_window} troubleshooting topic.
+For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account?topic=account-accessing#accessing){: new_window} troubleshooting topic.
 
 ## BXNUI0004E
 **Message**: The '{0}' app wasn't deleted because a problem occurred contacting Cloud Foundry.
@@ -78,7 +78,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 ## BXNUI0016E
 **Message**: The apps and services weren't retrieved because a {{site.data.keyword.Bluemix_notm}} page didn't load.
 
-For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account/ts_accessing.html#accessing){: new_window}.
+For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0017E
 **Message**: The service instance wasn't retrieved because a problem occurred contacting Cloud Foundry.
@@ -299,7 +299,7 @@ The following browsers are supported. Ensure that you use the latest version for
 * Internet Explorer
 * Safari
 
-For details, see the [Prerequisites](/docs/overview/prereqs.html#prereqs){: new_window}.
+For details, see the [Prerequisites](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}.
 
 
 ## BXNUI0065E
@@ -453,12 +453,12 @@ Use a different name and try again.
 
 Your account is inactive because it was canceled or suspended.
 
-For instructions to fix this problem, see the [Account is inactive](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window} troubleshooting topic.
+For instructions to fix this problem, see the [Account is inactive](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window} troubleshooting topic.
 
 ## BXNUI0097E
 **Message**: Before you can add an app, at least one space must be associated with your organization and region.
 
-From the console menu bar, click **Manage** &gt; **Account** &gt; **Cloud Foundry Orgs**, and then click **Create**. When the space is created, try again. For more instructions to fix this problem, see [Why are no spaces associated with my current org?](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+From the console menu bar, click **Manage** &gt; **Account** &gt; **Cloud Foundry Orgs**, and then click **Create**. When the space is created, try again. For more instructions to fix this problem, see [Why are no spaces associated with my current org?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Message**: The list of credentials can't be retrieved at the moment.
@@ -735,7 +735,7 @@ Try to select another org or create a space, or request the developer role from 
 
 **Message**: The spaces in the org weren't retrieved. Either a network connection problem occurred, or your current organization does not have a space associated with it.
 
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. Or, for instructions to fix this problem, see the [Can't retrieve spaces in the org](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window} troubleshooting topic.
+Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/bluemix/support/#status){: new_window} to check whether a service or component has an issue. Or, for instructions to fix this problem, see the [Can't retrieve spaces in the org](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window} troubleshooting topic.
 
 ## BXNUI0516E
 
@@ -990,7 +990,7 @@ Contact the system administrator for assistance in fixing the datastore componen
 
 While Cloud Foundry was being contacted to create the resource, an error occurred. Cloud Foundry message: "{0}."
 
-For instructions to fix this problem, see the [Org's services limit is exceeded](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window} troubleshooting topic.
+For instructions to fix this problem, see the [Org's services limit is exceeded](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window} troubleshooting topic.
 
 ## BXNUI2033E
  **Message**: The {1} resource wasn't modified. While Cloud Foundry was being contacted to modify the resource, an error occurred. Cloud Foundry message: "{0}."
@@ -1289,7 +1289,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 ## BXNUI2093E
 **Message**: The number of intermediate certificates exceeds the number allowed.
 
-For details about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window} topic.
+For details about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window} topic.
 
 ## BXNUI2094E
 **Message**: The attempted operation failed because of a connection error.

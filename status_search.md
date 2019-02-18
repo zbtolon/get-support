@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-13"
+lastupdated: "2019-01-30"
 
 ---
 
@@ -32,6 +32,7 @@ The following list includes examples of URL search options:
 * Use unique notification identifiers as a search parameter to go directly to the details for the notification.  For example, `query=INC1000001` targets items with the ID: `INC1000001`. In this example, `INC1000001` is the case number for a maintenance notification.
 
 ### URL query filters:
+{: #url-query}
 
 | URL Query Parameter | Description | Values |
 | ----- | ----- | ----- | ----- |

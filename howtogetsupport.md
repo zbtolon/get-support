@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -28,7 +28,7 @@ All {{site.data.keyword.Bluemix}} customers are provided with free technical sup
 
 You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center.
 
-You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support/howtogetsupport.html#using-avatar). The support plan that you selected for your account determines the level of support available and the severity you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support/ticketweight.html#support-ticket-severity).
+You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support?topic=get-support-using-avatar#using-avatar). The support plan that you selected for your account determines the level of support available and the severity you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 
 ## Satisfaction surveys for {{site.data.keyword.Bluemix_notm}} support  
 {: #survey}
@@ -42,7 +42,7 @@ To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} c
 
 You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support cases from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
 
-If you have a basic, advanced, or premium [support plan](/docs/get-support/index.html), you can find call-in numbers and a chat option to get help.
+If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find call-in numbers and a chat option to get help.
 
 The Support Center is the preferred method for getting support, but if you can't log in to {{site.data.keyword.Bluemix_notm}}, you can use the [Get Help](http://www.ibm.biz/bluemixsupport){: new_window} page to submit a case.
 
@@ -85,7 +85,7 @@ For {{site.data.keyword.Bluemix_notm}} platform, only services that are hosted i
 
 Setting the **EU Supported** option for your account applies to all future cases that you open for issues on any service or data center that is hosted in the EU region. Any cases that you opened before setting this option aren't affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
 
-You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU Supported settings](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
+You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU Supported settings](/docs/account?topic=account-bill_eusupported#bill_eusupported).
 
 ### EU Supported services
 {: #eusupportedservices}
@@ -111,7 +111,7 @@ All plans, except lite plans, for the following categories of {{site.data.keywor
 If you see a potential {{site.data.keyword.Bluemix_notm}} security vulnerability, report it by opening a support case.
 
 To report a potential security vulnerability, complete the following steps:
-1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/get-support/opencase.html#open-case).
+1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/get-support?topic=get-support-open-case#open-case).
 2. Clearly describe in the case summary that the case is about a potential security vulnerability.
 3. Provide details of the potential security vulnerability by including one of the following items:
     * A phone number at which you can be reached to discuss the issue.

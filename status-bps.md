@@ -45,8 +45,9 @@ To switch locations, go to your dashboard and expand the **LOCATION** menu.
 In most cases, {{site.data.keyword.Bluemix_notm}} can continue to be used normally, even during the maintenance window. However, minor interruptions of a service can't always be avoided. Running applications typically remain available even if the application management functions of {{site.data.keyword.Bluemix_notm}}, such as starting and stopping apps, are temporarily interrupted. To maximize the availability of your running applications, run at least three instances of each application.
 
 ## Subscribing to email notifications
+{: #monbp-subscribing}
 
-If you're a Lite account owner, you can select whether to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform unplanned events, such as outages, and planned events, such as maintenance. Additionally, if you have a Pay-As-You-Go or Subscription account, you can choose whether to receive {{site.data.keyword.Bluemix_notm}} infrastructure email notifications about unplanned events, maintenance, and announcements. For more information, see [Setting email preferences](/docs/account/email.html).
+If you're a Lite account owner, you can select whether to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform unplanned events, such as outages, and planned events, such as maintenance. Additionally, if you have a Pay-As-You-Go or Subscription account, you can choose whether to receive {{site.data.keyword.Bluemix_notm}} infrastructure email notifications about unplanned events, maintenance, and announcements. For more information, see [Setting email preferences](/docs/account?topic=account-account_setup#account_setup).
 
 
 
