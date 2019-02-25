@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-01"
 
+keywords: error messages, errors, platform errors, message ID
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
