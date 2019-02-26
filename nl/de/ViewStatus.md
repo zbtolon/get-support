@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -28,22 +28,36 @@ Die Seite 'Status' wird angezeigt, wenn Sie sich an der {{site.data.keyword.Blue
 
 * Klicken Sie auf **Geplante Wartung**, um eine Liste der geplanten anstehenden Wartungsarbeiten anzuzeigen. 
 
-  Klicken Sie auf eine geplante Wartung, um weitere Details anzuzeigen, wie z. B. Start- und Stoppzeiten und eine Beschreibung der Auswirkungen. Sie können die Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern. 
+  Klicken Sie auf eine geplante Wartung, um weitere Details anzuzeigen, wie z. B. Start- und Stoppzeiten und eine Beschreibung der Auswirkungen. Sie können die Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern.
 
-* Klicken Sie auf **Sicherheitsbulletins**, um eine Liste mit Sicherheitsbulletins anzuzeigen, die verschiedene Services, die Infrastruktur und die Plattform von {{site.data.keyword.Bluemix_notm}} betreffen können. 
+* Klicken Sie auf **Sicherheitsbulletins**, um eine Liste mit Sicherheitsbulletins anzuzeigen, die verschiedene Services, die Infrastruktur und die Plattform von {{site.data.keyword.Bluemix_notm}} betreffen können.
 
-  Sie können die Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern. 
+  Sie können die Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern.
 
-* Klicken Sie auf **Ankündigungen**, um eine Liste der Ankündigungen anzuzeigen, die möglicherweise von allgemeinem Interesse für Sie sind. 
+* Klicken Sie auf **Ankündigungen**, um eine Liste der Ankündigungen anzuzeigen, die möglicherweise von allgemeinem Interesse für Sie sind.
 
-  Sie können diese Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern. 
+  Sie können diese Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern.
 
 Sie können alle Registerkarten auf der Seite "Status" durchsuchen, aber wussten Sie, dass Sie URL-Suchwerte mithilfe von Abfrageparametern außerhalb der Konsole erstellen können? Weitere Details finden Sie in [Erweiterte Statussuche](/docs/get-support/status_search.html).
 {: tip}
 
 Weitere Informationen zum Typ der E-Mail-Benachrichtigungen, die Sie basierend auf Ihrem Kontotyp erhalten können, finden Sie unter [E-Mail-Einstellungen festlegen](/docs/account/email.html). 
 
+## RSS-Feed abonnieren
+{: #subscribing-rss-feed}
 
+Sie erhalten Alerts für alle Benachrichtigungen, indem Sie den RSS-Feed für die Statusseite abonnieren. Dieser Ansatz bietet Ihnen eine Möglichkeit, Aktualisierungen zu beziehen, ohne die Statusseite regelmäßig aufsuchen zu müssen.
+
+Führen Sie zum Abonnieren die folgenden Schritte aus:
+
+1. Greifen Sie auf Ihre bevorzugten RSS-Reader zu. Viele Browser verfügen über integrierte RSS-Funktionen oder es stehen Erweiterungen für sie zur Verfügung. Mehrere RSS-Reader-Angebote von Drittanbietern sind ebenfalls verfügbar. 
+2. Verwenden Sie Ihren Reader, um den Feed mit einer der folgenden Methoden zu abonnieren:
+    * Ziehen Sie das RSS-Symbol ![RSS-24px](../icons/RSS-24px.svg) in Ihren RSS-Reader.
+    * Klicken Sie mit der rechten Maustaste auf das RSS-Symbol, wählen Sie die Option **Linkadresse kopieren** aus und fügen Sie die URL in Ihren RSS-Reader ein.
+
+Weitere Informationen finden Sie im **Hilfe**abschnitt Ihres Readers.
+
+Für {{site.data.keyword.Bluemix_notm}} fallen in der Regel ungefähr 50 Aktualisierungen pro Monat an.
 
 
 

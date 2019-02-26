@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ Lorsque vous recevez un message d'erreur d'{{site.data.keyword.Bluemix}}, utilis
 ## BXNUI0001E
 **Message** : La page n'a pas été chargée car {{site.data.keyword.Bluemix_notm}} n'a pas détecté s'il existait une session.
 
-Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Pourquoi certaines pages de la console ne se chargent-elles pas ?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Pourquoi certaines pages de la console ne se chargent-elles pas ?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0004E
 **Message** : L'application '{0}' n'a pas été supprimée car un problème est survenu lors du contact de Cloud Foundry.
@@ -78,7 +78,7 @@ Essayez à nouveau ultérieurement. Si ce message réapparaît, ouvrez la [page 
 ## BXNUI0016E
 **Message** : Les applications et les services n'ont pas été extraits car une page {{site.data.keyword.Bluemix_notm}} n'a pas été chargée.
 
-Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Pourquoi certaines pages de la console ne se chargent-elles pas ?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Pourquoi certaines pages de la console ne se chargent-elles pas ?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0017E
 **Message** : L'instance de service n'a pas été extraite car un problème est survenu lors du contact de Cloud Foundry.
@@ -300,7 +300,7 @@ Les navigateurs suivants sont pris en charge. Veillez à utiliser la dernière v
 * Internet Explorer
 * Safari
 
-Pour plus d'informations, voir les [prérequis](/docs/overview/prereqs.html#prereqs){: new_window}.
+Pour plus d'informations, voir les [prérequis](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}.
 
 
 ## BXNUI0065E
@@ -455,12 +455,12 @@ Utilisez un autre nom, puis renouvelez l'opération.
 
 Votre compte est inactif car il a été annulé ou suspendu.
 
-Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Le compte est inactif](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}.
+Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [Le compte est inactif](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}.
 
 ## BXNUI0097E
 **Message** : Pour qu'une application puisse être ajoutée, un espace au moins doit être associé à votre organisation et à votre région.
 
-Dans la barre de menus, cliquez sur **Gérer** &gt; **Compte** &gt; **Cloud Foundry Orgs**, puis cliquez sur **Créer**. Une fois l'espace créé, essayez à nouveau. Pour plus d'instructions pour résoudre ce problème, voir [Pourquoi aucun espace n'est-il associé à mon organisation en cours ?](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+Dans la barre de menus, cliquez sur **Gérer** &gt; **Compte** &gt; **Cloud Foundry Orgs**, puis cliquez sur **Créer**. Une fois l'espace créé, essayez à nouveau. Pour plus d'instructions pour résoudre ce problème, voir [Pourquoi aucun espace n'est-il associé à mon organisation en cours ?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Message** : La liste des données d'identification ne peut pas être extraite pour le moment.
@@ -737,7 +737,7 @@ Essayez de sélectionner une autre organisation ou de créer un espace, ou deman
 
 **Message** : les espaces de l'organisation n'ont pas été extraits. Un problème de connexion réseau est survenu ou votre organisation actuelle n'est pas associée à un espace.
 
-Essayez à nouveau ultérieurement. Si ce message réapparaît, ouvrez la [page de statut {{site.data.keyword.Bluemix_notm}}![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://developer.ibm.com/bluemix/support/#status){: new_window} pour déterminer si un service ou un composant présente un problème. Ou bien, pour des instructions permettant de corriger le problème, voir la rubrique de traitement des incidents [Impossible d'extraire les espaces de l'organisation](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}.
+Essayez à nouveau ultérieurement. Si ce message réapparaît, ouvrez la [page de statut {{site.data.keyword.Bluemix_notm}}![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://developer.ibm.com/bluemix/support/#status){: new_window} pour déterminer si un service ou un composant présente un problème. Ou bien, pour des instructions permettant de corriger le problème, voir la rubrique de traitement des incidents [Impossible d'extraire les espaces de l'organisation](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
 ## BXNUI0516E
 
@@ -994,7 +994,7 @@ l'administrateur système pour qu'il vous aide à corriger les problèmes liés 
 
 Une erreur est survenue lors du contact de Cloud Foundry pour la création d'une ressource. Message Cloud Foundry : "{0}."
 
-Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [La limite de services de l'organisation est dépassée](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}.
+Pour des instructions permettant de résoudre le problème, voir la rubrique de traitement des incidents [La limite de services de l'organisation est dépassée](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}.
 
 ## BXNUI2033E
  **Message** : La ressource {1} n'a pas été modifiée. Une erreur est survenue lors du contact de Cloud Foundry pour modifier la ressource. Message Cloud Foundry : "{0}."
@@ -1296,7 +1296,7 @@ Accédez à [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe
 ## BXNUI2093E
 **Message** : Le nombre de certificats intermédiaires dépasse le nombre autorisé.
 
-Pour des détails sur le nombre de certificats autorisé et la façon de les supprimer ou de les remplacer, voir la rubrique [Téléchargement de certificats SSL](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}.
+Pour des détails sur le nombre de certificats autorisé et la façon de les supprimer ou de les remplacer, voir la rubrique [Téléchargement de certificats SSL](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}.
 
 ## BXNUI2094E
 **Message** : L'opération tentée a échoué en raison d'une erreur de connexion.
@@ -1533,7 +1533,7 @@ Déconnectez-vous, reconnectez-vous, puis réessayez. Si le problème persiste, 
 
 Il a peut-être été supprimé.
 
-Vérifiez, puis réessayez. Si le problème persiste, rendez-vous sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vérifiez, puis réessayez.  Si le problème persiste, rendez-vous sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3064E
 **Message** : Une erreur s'est produite et l'instance de serveur virtuel est maintenant signalée comme en conflit.

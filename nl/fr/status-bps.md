@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -24,7 +24,7 @@ Pour rester informé et planifier en conséquence, utilisez les bonnes pratiques
 {: #monbp-checmaintwin}
 
 Vérifiez les fenêtres de maintenance prévues publiées sur la page Tableau de bord de la console {{site.data.keyword.Bluemix_notm}} au moins une fois par jour en utilisant l'une des options suivantes :
-* Consultez le widget Maintenance planifiée sur le [Tableau de bord ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com){: new_window}. Cliquez sur **Tous les événements** pour voir toutes les maintenances prévues.
+* Consultez le widget Maintenance planifiée sur le [Tableau de bord ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com){: new_window}. Cliquez sur **Tous les événements** pour afficher l'ensemble des opérations de maintenance planifiées.
 * Accédez directement à la page [Statut ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/status?selected=maintenance){: new_window}
 
 ## Vérification des fenêtres de maintenance ou d'un incident en cours
@@ -44,9 +44,10 @@ Pour changer de site, accédez à votre tableau de bord et développez le menu *
 
 Dans la plupart des cas, {{site.data.keyword.Bluemix_notm}} peut continuer à être utilisé normalement, même pendant une fenêtre de maintenance. Des interruptions mineures de service ne peuvent cependant pas toujours être évitées. L'exécution des applications reste généralement disponible, même si les fonctions de gestion d'application de {{site.data.keyword.Bluemix_notm}}, telles que le démarrage et l'arrêt d'applications, sont temporairement interrompues. Pour une plus grande disponibilité de vos applications en cours d'exécution, exécutez au moins trois instances de chaque application.
 
-## Abonnement aux notifications par courrier électronique 
+## Abonnement aux notifications par courrier électronique
+{: #monbp-subscribing}
 
-Si vous possédez un compte Lite, vous pouvez choisir de recevoir des notifications par courrier électronique concernant les événements non planifiés de la plateforme {{site.data.keyword.Bluemix_notm}}, comme les indisponibilités et concernant les événements planifiés, comme la maintenance. En outre, si vous possédez un compte Paiement à la carte ou Abonnement, vous pouvez choisir de recevoir des notifications par courrier électronique relatives à l'infrastructure {{site.data.keyword.Bluemix_notm}} concernant les annonces, la maintenance et les événements non planifiés. Pour plus d'informations, voir [Définition des préférences de courrier](/docs/account/email.html).
+Si vous possédez un compte Lite, vous pouvez choisir de recevoir des notifications par courrier électronique concernant les événements non planifiés de la plateforme {{site.data.keyword.Bluemix_notm}}, comme les indisponibilités et concernant les événements planifiés, comme la maintenance. En outre, si vous possédez un compte Paiement à la carte ou Abonnement, vous pouvez choisir de recevoir des notifications par courrier électronique relatives à l'infrastructure {{site.data.keyword.Bluemix_notm}} concernant les annonces, la maintenance et les événements non planifiés. Pour plus d'informations, voir [Définition des préférences de courrier](/docs/account?topic=account-account_setup#account_setup).
 
 
 

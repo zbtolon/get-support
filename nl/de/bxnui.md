@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ Wenn Sie eine Fehlernachricht von {{site.data.keyword.Bluemix}} empfangen, könn
 ## BXNUI0001E
 **Nachricht**: Die Seite wurde nicht geladen, weil von {{site.data.keyword.Bluemix_notm}} nicht erkannt wurde, ob eine Sitzung vorhanden ist.
 
-Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Warum finde ich Kosolenseiten, die ich nicht geladen habe?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Warum finde ich Konsolenseiten, die ich nicht geladen habe?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0004E
 **Nachricht**: Die App '{0}' wurde nicht gelöscht, da beim Kontaktieren von Cloud Foundry ein Problem auftrat.
@@ -78,7 +78,7 @@ Versuchen Sie es später erneut. Wird diese Nachricht erneut angezeigt, rufen Si
 ## BXNUI0016E
 **Nachricht**: Die Apps und Services wurden nicht abgerufen, da eine {{site.data.keyword.Bluemix_notm}}-Seite nicht geladen wurde.
 
-Anweisungen zur Lösung dieses Problems finden Sie in [Warum finde ich Kosolenseiten, die ich nicht geladen habe?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Anweisungen zur Lösung dieses Problems finden Sie in [Warum finde ich Konsolenseiten, die ich nicht geladen habe?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0017E
 **Nachricht**: Die Serviceinstanz wurde nicht abgerufen, da beim Kontaktieren von Cloud Foundry ein Problem auftrat.
@@ -299,7 +299,7 @@ Die folgenden Browser werden unterstützt. Stellen Sie sicher, dass Sie die neue
 * Internet Explorer
 * Safari
 
-Details hierzu finden Sie unter [Voraussetzungen](/docs/overview/prereqs.html#prereqs){: new_window}.
+Details hierzu finden Sie unter [Voraussetzungen](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}.
 
 
 ## BXNUI0065E
@@ -310,7 +310,7 @@ Versuchen Sie es später erneut. Wird diese Nachricht erneut angezeigt, rufen Si
 ## BXNUI0066E
 **Nachricht**: Die Laufzeit kann nicht gelöscht werden, da ein Buildpackwert unter Verwendung der Option `-b` für den PUSH-Befehl `cf` beim Hinzufügen der Laufzeit explizit für die Anwendung eingestellt wurde.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support ![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support ![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0067E
 **Nachricht**: Die Daten für die Pläne wurden nicht abgerufen, da beim Kontaktieren von Cloud Foundry ein Problem auftrat.
@@ -453,12 +453,12 @@ Verwenden Sie einen anderen Namen und versuchen Sie es erneut.
 
 Ihr Konto ist inaktiv, da es storniert oder ausgesetzt wurde.
 
-Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Konto ist inaktiv ](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}.
+Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Konto ist inaktiv ](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}.
 
 ## BXNUI0097E
 **Nachricht**: Bevor Sie eine App hinzufügen können, muss Ihrer Organisation und Ihrer Region mindestens ein Bereich zugeordnet sein.
 
-Klicken Sie in der Menüleiste der Konsole auf **Verwalten** &gt; **Konto** &gt; **Cloud Foundry-Organisationen** und anschließend auf **Erstellen**. Wiederholen Sie den Vorgang, wenn der Bereich erstellt worden ist. Weitere Anweisungen zum Beheben dieses Problems finden Sie in [Warum sind meiner aktuellen Organisation keine Bereiche zugeordnet?](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+Klicken Sie in der Menüleiste der Konsole auf **Verwalten** &gt; **Konto** &gt; **Cloud Foundry-Organisationen** und anschließend auf **Erstellen**. Wiederholen Sie den Vorgang, wenn der Bereich erstellt worden ist. Weitere Anweisungen zum Beheben dieses Problems finden Sie in [Warum sind meiner aktuellen Organisation keine Bereiche zugeordnet?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Nachricht**: Die Liste der Berechtigungsnachweise kann derzeit nicht abgerufen werden.
@@ -734,7 +734,7 @@ Wählen Sie eine andere Organisation aus oder erstellen Sie einen Bereich oder f
 
 **Nachricht**: Die Bereiche in der Organisation wurden nicht abgerufen. Es ist entweder ein Netzverbindungsproblem aufgetreten oder Ihrer aktuellen Organisation ist kein Bereich zugeordnet.
 
-Versuchen Sie es später erneut. Wird diese Nachricht erneut angezeigt, rufen Sie die [{{site.data.keyword.Bluemix_notm}}-Statusseite ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/bluemix/support/#status){: new_window} auf, um zu prüfen, ob für einen Service oder eine Komponente ein Problem vorliegt. Alternativ finden Sie Anweisungen zur Lösung dieses Problems im Fehlerbehebungsabschnitt [Abrufen von Bereichen in Organisation nicht möglich](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}.
+Versuchen Sie es später erneut. Wird diese Nachricht erneut angezeigt, rufen Sie die [{{site.data.keyword.Bluemix_notm}}-Statusseite ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://developer.ibm.com/bluemix/support/#status){: new_window} auf, um zu prüfen, ob für einen Service oder eine Komponente ein Problem vorliegt. Alternativ finden Sie Anweisungen zur Lösung dieses Problems im Fehlerbehebungsabschnitt [Abrufen von Bereichen in Organisation nicht möglich](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
 ## BXNUI0516E
 
@@ -849,17 +849,17 @@ Versuchen Sie es später erneut.
 ## BXNUI2000E
 **Nachricht**: Die Anforderung wurde aufgrund eines Fehlers nicht verarbeitet. Die folgende Ausnahmebedingung wurde ausgegeben: {0}
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2001E
 **Nachricht**: Es ist keine Ant-Datei `build.xml` für den Starter "{0}" vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2002E
 **Nachricht**: Es ist kein Builder für den Starter "{0}" vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2004E
 **Nachricht**: Die App wurde aufgrund eines Fehlers des Cloud-Servers nicht erstellt.
@@ -874,17 +874,17 @@ Wiederholen Sie den Vorgang. Wenn das Problem bestehen bleibt, wenden Sie sich a
 ## BXNUI2009E
 **Nachricht**: Die Konfiguration wurde aufgrund eines Fehlers nicht geladen.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2010E
 **Nachricht**: Die Konfiguration konnte nicht geladen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2011E
 **Nachricht**: Die Konfiguration kann nicht gespeichert werden, weil sie aus mehreren Quellen stammt.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2012E
 **Nachricht**: Die Konfiguration kann nicht gespeichert werden, weil sie schreibgeschützt ist.
@@ -892,57 +892,57 @@ Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für extern
 ## BXNUI2013E
 **Nachricht**: Aufgrund eines Fehlers wurde keine Klasse aus der Konfiguration "{0}" erstellt.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2014E
 **Nachricht**: Der Klassenname ist nicht in der Konfiguration "{0}" enthalten.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2015E
 **Nachricht**: Der Anmeldeversuch ist fehlgeschlagen, weil die Cloud-Controller-URL nicht ordnungsgemäß formatiert ist.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2016E
 **Nachricht**: Die Ressourcenmetadaten konnten nicht geladen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2017E
 **Nachricht**: Die Ressourcenmetadaten konnten nicht gespeichert werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2018E
 **Nachricht**: Die Metadaten für den Starter "{1}" enthielten nicht die erforderliche Eigenschaft "{0}".
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2019E
 **Nachricht**: Die Vorlagenmetadaten haben den unbekannten Quellcodeverwaltungstyp "{0}" angegeben.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2020E
 **Nachricht**: Die Ressource "{0}" ist nicht vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2021E
 **Nachricht**: Das Starterverzeichnis "{0}" ist nicht vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2022E
 **Nachricht**: Die Starter konnten nicht kopiert werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2023E
 **Nachricht**: Die Umgebungsvariable `VCAP_SERVICES` ist nicht definiert.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2024E
 **Nachricht**: Die Selbstregistrierung für Benutzer ist nicht aktiviert.
@@ -952,7 +952,7 @@ Kontaktieren Sie den Kontoeigner.
 ## BXNUI2025E
 **Nachricht**: Bei dem Versuch, einen Entitätstag für Web-Caching zu erstellen, ist ein Fehler aufgetreten. {{site.data.keyword.Bluemix_notm}} konnte nicht feststellen, ob ein Symbol im Cache gespeichert wurde.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2026E
 **Nachricht**: Dieser Name wird bereits von einem anderen Benutzer verwendet.
@@ -967,17 +967,17 @@ Melden Sie sich an und versuchen Sie es erneut.
 ## BXNUI2028E
 **Nachricht**: Cloud Foundry hat eine unerwartete Ausnahmebedingung mit der folgenden Nachricht ausgegeben: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2029E
 **Nachricht**: Die Cloudinformationen konnten nicht abgerufen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2030E
 **Nachricht**: Cloud Foundry-Nachricht: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2031E
 **Nachricht**: Die {{site.data.keyword.Bluemix_notm}}-Datenspeicherkomponente ist nicht verfügbar.
@@ -989,62 +989,62 @@ Wenden Sie sich an den Systemadministrator, um Unterstützung bei der Korrektur 
 
 Während der Kontaktaufnahme mit Cloud Foundry zum Erstellen der Ressource ist ein Fehler aufgetreten. Cloud Foundry-Nachricht: "{0}."
 
-Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Für die Organisation geltender Grenzwert für Services wurde überschritten](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}.
+Anweisungen zur Lösung dieses Problems finden Sie im Fehlerbehebungsabschnitt [Für die Organisation geltender Grenzwert für Services wurde überschritten](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}.
 
 ## BXNUI2033E
  **Nachricht**: Die Ressource {1} wurde nicht geändert. Während der Kontaktaufnahme mit Cloud Foundry zum Ändern der Ressource ist ein Fehler aufgetreten. Cloud Foundry-Nachricht: "{0}."
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2034E
  **Nachricht**: Die Ressource {1} wurde nicht abgerufen. Während der Kontaktaufnahme mit Cloud Foundry zum Abrufen der Ressource ist ein Fehler aufgetreten. Cloud Foundry-Nachricht: "{0}."
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2035E
  **Nachricht**: Die Ressource {1} wurde nicht gelöscht. Während der Kontaktaufnahme mit Cloud Foundry zum Löschen der Ressource ist ein Fehler aufgetreten. Cloud Foundry-Nachricht: "{0}."
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2036E
 **Nachricht**: Zum Ändern von Startern müssen Sie über zusätzliche Berechtigungen verfügen.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2037E
 **Nachricht**: Die Startermetadaten der ID "{0}" unter URL "{1}" konnten nicht gelesen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2038E
 **Nachricht**: Die Registrierung der Starter-ID "{0}" ist für die URL "{1}" fehlgeschlagen.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2039E
 **Nachricht**: Die Starter-ID "{0}" wurde nicht kopiert, weil das Git-Repository, das der Boilerplate-Vorlage zugeordnet ist, nicht zugänglich ist.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2040E
 **Nachricht**: Die Metadaten für die Starter-ID "{0}" konnten nicht registriert werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2041E
 **Nachricht**: Die Metadaten für die Starter-Registry konnten nicht gelesen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2042E
 **Nachricht**: Ein Archiv des Starters "{0}" konnte nicht erstellt werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2043E
 **Nachricht**: Die URL {0} für die Vorlagenmetadaten ist ungültig. Fehler: "{1}". 
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2044E
 **Nachricht**: Die URL {0} für die Startermetadaten ist ungültig, weil der Hostname ungültig ist.
@@ -1056,22 +1056,22 @@ Wiederholen Sie den Vorgang.
 ## BXNUI2045E
 **Nachricht**: Der Service "{0}" ist nicht vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2046E
 **Nachricht**: Die Servicekategorien konnten nicht gelesen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2047E
 **Nachricht**: Der Service "{0}" ist bereits vorhanden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2048E
 **Nachricht**: Die Aktion ist fehlgeschlagen, weil die Servicebezeichnung und der Service-Provider nicht aktualisiert werden können.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2049E
 **Nachricht**: Instanzen des Service "{0}" sind bereits vorhanden.
@@ -1086,7 +1086,7 @@ Stellen Sie sicher, dass die Organisation ordnungsgemäß angegeben wird. Wird d
 ## BXNUI2051E
 **Nachricht**: Während der Erstellung des Service konnte ein Symbol nicht erstellt werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2052E
 **Nachricht**: Der Anmeldeversuch ist fehlgeschlagen.
@@ -1111,17 +1111,17 @@ Wenn das Problem bestehen bleibt, wenden Sie sich an den [{{site.data.keyword.Bl
 ## BXNUI2056E
 **Nachricht**: Ihre Benutzerinformationen konnten nicht abgerufen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2057E
 **Nachricht**: JSON-Quelltextformatierung ist nicht möglich.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2058E
 **Nachricht**: Die Anforderung ist nicht berechtigt, da sie nicht den erforderlichen Geltungsbereich {0} hat.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2059E
 **Nachricht**: Ein Service kann nicht mit den Tags "ibm_created" oder "3rd_party" veröffentlicht werden. Diese Tags können nur durch einen Administrator festgelegt werden.
@@ -1129,27 +1129,27 @@ Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für extern
 ## BXNUI2060E
 **Nachricht**: Die Nutzungsinformationen konnten nicht verarbeitet werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2061E
 **Nachricht**: Die Preiskataloginformationen können nicht analysiert werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2062E
 **Nachricht**: Die Kontoinformationen konnten nicht verarbeitet werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2063E
 **Nachricht**: Dieser App ist kein Starter zugeordnet.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2064E
 **Nachricht**: Die eindeutige ID der Webidentität konnte nicht abgerufen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2065E
 **Nachricht**: Die Vorlagen-ID ist ungültig, weil sie HTML enthält.
@@ -1161,32 +1161,32 @@ Entfernen Sie diese Tags und wiederholen Sie den Vorgang.
 ## BXNUI2066E
 **Nachricht**: Dieser App ist kein JazzHub-Repository zugeordnet.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2067E
 **Bei der Erstellung oder Aktualisierung eines Service-Brokers mit der ID "{1}" wurde eine ungültige URL "{0}" festgestellt.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2068E
 **Nachricht**: Eine Remote URL für die Service-ID "{0}" wurde nicht geladen, weil ein URL-Nullwert erkannt wurde.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2069E
 **Nachricht**: Die URL "{0}" für die Service-ID "{2}" wurde aufgrund eines Fehlers nicht geladen: "{1}".
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2070E
 **Nachricht**: Die Organisation {0} ist nicht Eigner von {1}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2071E
 **Nachricht**: Nur Manager können Zertifikate ändern.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2072E
 **Nachricht**: Das Zertifikat wurde nicht hochgeladen.
@@ -1198,7 +1198,7 @@ Korrigieren Sie den Domänennamen im Zertifikat und wiederholen Sie den Vorgang.
 ## BXNUI2073E
 **Nachricht**: Der private Schlüssel entspricht nicht dem öffentlichen Zertifikat.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
 **Nachricht**: Der private Schlüssel wird nicht unterstützt. Es wird ein unverschlüsselter RSA-Schlüssel erwartet.
@@ -1218,32 +1218,32 @@ Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für extern
 ## BXNUI2079E
 **Nachricht**: Das Zwischenzertifikat ist abgelaufen seit {0}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2080E
 **Nachricht**: Die Operation hat das Zeitlimit überschritten, während Zertifikate und Schlüssel geändert wurden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2081E
 **Nachricht**: Die Zertifikate und Schlüssel wurden nicht geändert, weil ein unbekannter Fehler aufgetreten ist: {0}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2082E
 **Nachricht**: Der Inhalt des hochgeladenen Zertifikats wurde nicht gelesen, weil ein Problem aufgetreten ist: {0}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2083E
 **Nachricht**: Die Anforderung an eine Erweiterung von Business Support Systems konnte nicht ausgeführt werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2084E
 **Nachricht**: Die Liste der Länder, die die Zahlung unterstützen, konnte nicht abgerufen werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2085E
 **Nachricht**: Die Preiskalkulation konnte nicht analysiert werden.
@@ -1253,7 +1253,7 @@ Wenden Sie sich an den [{{site.data.keyword.Bluemix_notm}}-Support ![Symbol für
 ## BXNUI2086E
 **Nachricht**: Bei einem Versuch, hochgeladene Zertifikate abzurufen, wurde die Organisation nicht gefunden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2087E
 **Nachricht**: Der App-Name ist zu lang. Der App-Name ist auf {0} Zeichen begrenzt. 
@@ -1268,27 +1268,27 @@ Melden Sie sich ab und anschließend wieder an und versuchen Sie es erneut. Wird
 ## BXNUI2089E
 **Nachricht**: Bei einem Versuch, eine Vorlage unter der URL "{0}" zu registrieren, ist ein Fehler aufgetreten. Fehler: "{1}". 
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2090E
 **Nachricht**: Der Versuch, eine Vorlage unter der folgenden URL zu registrieren, ist fehlgeschlagen: "{0}". Der Inhalt der Vorlage ist fehlerhaft. Fehler: "{1}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2091E
 **Nachricht**: Der Versuch, eine Verbindung zur Service-Broker-URL "{0}" herzustellen, ist aufgrund eines Fehlers fehlgeschlagen: "{1}".
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2092E
 **Nachricht**: Ein Versuch, den Service-Broker-Katalog unter der URL "{0}" abzurufen, hat null zurückgegeben.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2093E
 **Nachricht**: Die Anzahl der Zwischenzertifikate überschreitet die zulässige Anzahl.
 
-Informationen zur Anzahl der zulässigen Zertifikate und zum Löschen oder Ersetzen von Zertifikaten enthält der Abschnitt [SSL-Zertifikate hochladen](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}.
+Informationen zur Anzahl der zulässigen Zertifikate und zum Löschen oder Ersetzen von Zertifikaten enthält der Abschnitt [SSL-Zertifikate hochladen](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}.
 
 ## BXNUI2094E
 **Nachricht**: Die versuchte Operation ist aufgrund eines Verbindungsfehlers fehlgeschlagen.
@@ -1298,32 +1298,32 @@ Versuchen Sie es später erneut. Wird diese Nachricht erneut angezeigt, rufen Si
 ## BXNUI2099E
 **Nachricht**: Die {{site.data.keyword.Bluemix_notm}}-Serviceabrechnung hat eine unerwartete Ausnahmebedingung mit der folgenden Nachricht ausgegeben: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2100E
 **Nachricht**: JazzHub hat eine unerwartete Ausnahmebedingung mit der folgenden Nachricht ausgegeben: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2101E
 **Nachricht**: IBM DataPower hat eine unerwartete Ausnahmebedingung mit der folgenden Nachricht ausgegeben: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2102E
 **Nachricht**: Nachricht der {{site.data.keyword.Bluemix_notm}}-Serviceabrechnung: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2103E
 **Nachricht**: JazzHub-Nachricht: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2104E
 **Nachricht**: IBM Data Power-Nachricht: "{0}"
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2105E
 **Nachricht**: Der Versuch, eine Verbindung zu Cloud Foundry herzustellen, ist fehlgeschlagen.
@@ -1333,7 +1333,7 @@ Wenn das Problem bestehen bleibt, wenden Sie sich an den [{{site.data.keyword.Bl
 ## BXNUI2108E
 **Nachricht**: Der Inhalt des hochgeladenen Zertifikats wurde nicht gelesen, weil ein Problem aufgetreten ist: {0}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2109E
 **Nachricht**: Der Service-Broker wurde nicht erstellt oder aktualisiert, weil Ihrer Benutzer-ID ("{0}") die Organisationsmanagerrolle in der Organisation nicht zugewiesen ist.
@@ -1350,13 +1350,13 @@ Prüfen Sie, ob Sie die richtige Eignerorganisation eingegeben haben, oder forde
 
 **Nachricht**: Das Clientzertifikat ist abgelaufen seit {0}.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2113E
 
 **Nachricht**: Die Benutzerplattformvorgaben konnten nicht verarbeitet werden.
 
-Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}. 
+Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3000E
 **Nachricht**: Die Operation zum Starten der Containerinstanz hat das zulässige Zeitlimit überschritten.

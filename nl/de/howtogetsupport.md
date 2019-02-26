@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -28,7 +28,7 @@ Alle {{site.data.keyword.Bluemix}}-Kunden erhalten über Communitys und Blogs ko
 
 Auf die Unterstützungsoptionen (z. B. die {{site.data.keyword.Bluemix_notm}}-Community oder Stack Overflow für technische Fragen) können Sie über das Support Center in der {{site.data.keyword.Bluemix_notm}}-Konsole zugreifen.
 
-Im Support Center können Sie auf Ihre Unterstützungsoptionen zugreifen. Weitere Informationen hierzu finden Sie unter [Support Center verwenden](/docs/get-support/howtogetsupport.html#using-avatar). Der Supportplan, den Sie für Ihr Konto ausgewählt haben, bestimmt, welche Unterstützungsstufe verfügbar ist und welche Priorität Sie Supportfällen zuordnen können. Weitere Informationen finden Sie in [Fallpriorität und Antwortzeit](/docs/get-support/ticketweight.html#support-ticket-severity).
+Im Support Center können Sie auf Ihre Unterstützungsoptionen zugreifen. Weitere Informationen hierzu finden Sie unter [Support Center verwenden](/docs/get-support?topic=get-support-using-avatar#using-avatar). Der Supportplan, den Sie für Ihr Konto ausgewählt haben, bestimmt, welche Unterstützungsstufe verfügbar ist und welche Priorität Sie Supportfällen zuordnen können. Weitere Informationen finden Sie in [Fallpriorität und Antwortzeit](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 
 ## Zufriedenheitsumfragen für den {{site.data.keyword.Bluemix_notm}}-Support  
 {: #survey}
@@ -38,11 +38,11 @@ IBM sendet regelmäßig Umfragen an {{site.data.keyword.Bluemix_notm}}-Kunden, u
 ## Support Center verwenden
 {: #using-avatar}
 
-Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an und klicken in der Menüleiste auf **Support**.   
+Um auf das Support Center zuzugreifen, melden Sie sich bei der {{site.data.keyword.Bluemix_notm}}-Konsole an und klicken in der Menüleiste auf **Support**.  
 
 Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Fragen in der gesamten {{site.data.keyword.Bluemix_notm}}-Dokumentation und im Stack Overflow-Forum zu finden. Sie können Supportfälle auch über das Support Center verwalten. Im Abschnitt 'Foren' im Support Center finden Sie Links zum Stack Overflow-Forum für technische Fragen und zum developerWorks-Forum (IBM Developer Answers) für alle anderen Fragen).  
 
-Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support/index.html) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können.
+Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support?topic=get-support-support-plans#support-plans) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können.
 
 Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Hilfe anfordern](http://www.ibm.biz/bluemixsupport){: new_window} verwenden, um einen Fall zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können.
 
@@ -63,7 +63,7 @@ Wenn das Problem nicht auf einer Betriebsunterbrechung beruht und Sie keine Antw
 
 Wenn Ihr Konto ein {{site.data.keyword.Bluemix_dedicated_notm}} oder {{site.data.keyword.Bluemix_local_notm}} ist, wird die Unterstützung vom {{site.data.keyword.Bluemix_notm}}-Support-Team bereitgestellt. Auch wenn Sie möglicherweise keine {{site.data.keyword.ibmid}} haben, stehen Ihnen jedoch einige verschiedene Optionen zum Abrufen der Unterstützung zur Verfügung.
 
-* Fordern Sie Unterstützung an, indem Sie einen neuen Fall über die Hilfeseite von [{{site.data.keyword.Bluemix_notm}}-Support ![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_dedicated_notm}}** oder **{{site.data.keyword.Bluemix_local_notm}}** für das Feld 'Region' aus. 
+* Fordern Sie Unterstützung an, indem Sie einen neuen Fall über die Hilfeseite von [{{site.data.keyword.Bluemix_notm}}-Support ![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} öffnen. Sie können eine E-Mail-Adresse oder Ihre {{site.data.keyword.ibmid}} für dieses Formular verwenden. Wählen Sie die Option **{{site.data.keyword.Bluemix_dedicated_notm}}** oder **{{site.data.keyword.Bluemix_local_notm}}** für das Feld 'Region' aus.
 * Wenn Sie über eine {{site.data.keyword.ibmid}} verfügen und Zugriff auf die {{site.data.keyword.Bluemix_notm}} Public-Umgebung haben, klicken Sie in der Menüleiste auf **Support**. Klicken Sie anschließend auf der Registerkarte 'Unterstützung anfordern' auf **Neuen Fall erstellen**. Wählen Sie den Themenbereich für Ihr Problem aus und befolgen Sie die Eingabeaufforderungen, um Ihren Fall einzureichen.
 * Wenn Sie keine {{site.data.keyword.ibmid}} haben, können Sie sich an eine Person in Ihrer Organisation mit einer solchen ID wenden oder mit Ihrem IBM Ansprechpartner zusammenarbeiten.
 
@@ -84,13 +84,13 @@ Bei der {{site.data.keyword.Bluemix_notm}}-Plattform können nur in der Region '
 
 Die Option **Unterstützung in der EU** Ihres Kontos bleibt anschließend für alle weiteren Fälle gültig, die Sie für Probleme bei Services oder Rechenzentren öffnen, die in der EU gehostet werden. Die Option wirkt sich nicht auf vor dieser Festlegung geöffneter Fälle aus. Wenn Sie diese Option aktivieren und Ressourcen hinzufügen, die sich nicht in einem EU-Rechenzentrum oder der Region 'Deutschland' befinden, werden Probleme im Zusammenhang mit diesen Ressourcen nicht unbedingt von einem europäischen Support-Team bearbeitet.
 
-Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie unter [Option 'Unterstützung in der EU' festlegen](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
+Sie können die Option **Unterstützung in der EU** für Ihr Konto über das Rechnungsfenster der {{site.data.keyword.Bluemix_notm}}-Konsole angeben. Weitere Informationen finden Sie unter [Option 'Unterstützung in der EU' festlegen](/docs/account?topic=account-bill_eusupported#bill_eusupported).
 
 ### Services mit Unterstützung in der EU
 {: #eusupportedservices}
 
 Nachdem Sie die Option **Unterstützung in der EU** festgelegt haben, können Sie weitere Steuerelemente für den Support und den Betrieb von {{site.data.keyword.Bluemix_notm}}-Services in der europäischen Union nutzen. Sie können Ihre Suche nach Plattformservices nach den unterstützten Supportplänen im {{site.data.keyword.Bluemix_notm}}-Katalog filtern. Führen Sie die folgenden Schritte aus, um die in der EU unterstützten Pläne für einen Plattformservice anzuzeigen:
-  1. Werfen Sie einen Blick in den [{{site.data.keyword.Bluemix_notm}}-Katalog ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")]({DomainName}/catalog/){: new_window}.
+  1. Werfen Sie einen Blick in den [{{site.data.keyword.Bluemix_notm}}-Katalog ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://{DomainName}/catalog/){: new_window}.
   2. Klicken Sie auf **Filtern**.
   3. Wählen Sie in der Dropdown-Liste **Unterstützung in der EU** aus. Wenn Sie den Filter 'Unterstützung in der EU' anwenden, werden nur die Services in den Kategorien **Infrastruktur** und **Plattform** angezeigt, deren Pläne in der EU unterstützt werden.
   4. Wählen Sie den gewünschten Service aus. Es werden einige in der EU unterstützte Regionen und Pläne für den Service angezeigt.
@@ -110,7 +110,7 @@ Mit Ausnahme der Lite-Pläne werden alle Pläne für die nachfolgenden Kategorie
 Wenn Sie eine potenzielle {{site.data.keyword.Bluemix_notm}}-Sicherheitslücke entdecken, melden Sie diese, indem Sie einen Supportfall öffnen.
 
 Führen Sie die folgenden Schritte aus, um eine potenzielle Sicherheitslücke zu melden:
-1. Öffnen Sie einen Fall mit der Prioritätsstufe 1 oder einen Fall mit der höchsten zulässigen Support-Priorität. Informationen zum Öffnen eines Falls finden Sie in [Supportfälle erstellen](/docs/get-support/opencase.html#open-case).
+1. Öffnen Sie einen Fall mit der Prioritätsstufe 1 oder einen Fall mit der höchsten zulässigen Support-Priorität. Informationen zum Öffnen eines Falls finden Sie in [Supportfälle erstellen](/docs/get-support?topic=get-support-open-case#open-case).
 2. Beschreiben Sie in der Fallzusammenfassung deutlich, dass es um ein potenzielle Sicherheitslücke geht.
 3. Stellen Sie in den Details für die potenzielle Sicherheitslücke eines der folgenden Elemente bereit:
     * Eine Telefonnummer, unter der Sie für Rückfragen erreichbar sind.

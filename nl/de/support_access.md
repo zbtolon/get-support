@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -19,29 +19,56 @@ lastupdated: "2018-11-28"
 # Benutzerzugriff für die Arbeit mit Supportfällen zuweisen
 {: #access}
 
-Standardmäßig haben Benutzer in Ihrem Konto keinen Zugriff zum Erstellen, Aktualisieren, Suchen oder Anzeigen von Fällen. Als Kontoeigner müssen Sie Benutzern erst Zugriff gewähren, indem Sie eine IAM-Zugriffsrichtlinie (IAM, Identitäts- und Zugriffsmanagement) zuweisen. Verwenden Sie den Kontenverwaltungservice des Support Centers, um Benutzern Zugriffsrecht auf die Arbeit mit Supportfällen zuzuweisen. {:shortdesc}
+Standardmäßig haben Benutzer in Ihrem Konto keinen Zugriff zum Erstellen, Aktualisieren, Suchen oder Anzeigen von Fällen. Als Kontoeigner müssen Sie Benutzern erst Zugriff gewähren, indem Sie eine IAM-Zugriffsrichtlinie (IAM, Identitäts- und Zugriffsmanagement) zuweisen. Verwenden Sie den Kontenverwaltungsservice des Support Centers, um Benutzern Zugriffsrecht auf die Arbeit mit Supportfällen zuzuweisen. 
+{:shortdesc}
 
-Die Zugriffsrichtlinien des Support Centers bieten Benutzern Zugriff auf die Arbeit mit Supportfällen. Diese Zugriffsrichtlinien bieten jedoch für Benutzer keinen Zugriff, um andere Benutzer in dem Konto anzuzeigen. Wenn ein Kontoeigner für die Einstellung [**Sichtbarkeit der Benutzerliste**](/docs/iam/userlist.html#userlistview) die Option **Eingeschränkte Ansicht** festgelegt hat, können Benutzer, die Zugriff auf die Verwaltung der Fälle haben, möglicherweise nicht auf die Fälle zugreifen, die anderen Benutzern oder dem Kontoeigner zugewiesen sind. Um sicherzustellen, dass Benutzer alle Fälle anzeigen können, müssen Sie weiteren Zugriff erteilen, in dem Sie zusätzlich eine IAM-Zugriffsrichtlinie für den Kontoverwaltungsservice der Benutzerverwaltung mit der zugeordneten Rolle als Anzeigeberechtigter zuweisen.  
+Wenn Sie einen Fall erstellen, können Sie anderen Benutzern den uneingeschränkten Zugriff auf bestimmte Fälle im Konto gewähren, indem Sie deren E-Mail-Adresse im Feld **Andere Person zu diesem Fall hinzufügen** ... angeben. Alle hinzugefügten Benutzer erhalten Zugriff zum Anzeigen, Bearbeiten und Aktualisieren für genau diesen Fall im Konto. Sie erhalten außerdem Benachrichtigungen, wenn der Fall aktualisiert wird.{: tip}
 
-Um bestimmten Benutzern den uneingeschränkten Zugriff auf bestimmte Fälle im Konto zu gewähren, anstatt den Zugriff auf alle Fälle mithilfe einer IAM-Zugriffsrichtlinie zu gewähren, fügen Sie die Benutzer dem Fall hinzu, indem Sie deren E-Mail eingeben, wenn Sie den Fall erstellen. Durch das Hinzufügen eines Benutzers zu dem Fall, den Sie erstellen, erhalten diese Benutzer Zugriff zum Anzeigen, Bearbeiten und Aktualisieren für genau diesen Fall im Konto. Die Benutzer erhalten ferner Benachrichtigungen, wenn Aktualisierung zum Fall vorliegen. 
+Für Benutzer der klassischen Infrastruktur stehen die Berechtigungen für die Zuweisung von Zugriff auf Supportfälle nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam?topic=iam-predefined#predefined) zur Verfügung. Die Zugriffsgruppen für migrierte Berechtigungen umfassen die IAM-Richtlinie für den Benutzerverwaltungsservice mit der zugeordneten Rolle als Anzeigeberechtigter (viewer).
 
-Für Benutzer der klassischen Infrastruktur, die bisher Berechtigungen für die klassische Infrastruktur verwendet haben, um den Zugriff auf Supportfälle zuzuweisen, stehen diese Berechtigungen nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam/infrastructureaccess.html#predefined) zur Verfügung. Die migrierten Zugriffsgruppen umfassen die IAM-Richtlinie für den Benutzerverwaltungsservice mit der zugeordneten Rolle als Anzeigeberechtigter (Viewer).
+## Zugriffsgruppe für das Arbeiten mit Fällen erstellen
+{: #creating-access-group}
 
-Führen Sie die folgenden Schritte aus, um einem Benutzer eine IAM-Zugriffsrichtlinie in einem Kontoverwaltungsservice wie dem Support Center-Service oder dem Benutzerverwaltungsservice zuzuweisen. 
+Sie können den Prozess der Zugriffszuweisung optimieren, wenn Sie Benutzern anhand von Zugriffsgruppen eine Richtlinie zuweisen. Führen Sie die folgenden Schritte aus, um eine Zugriffsgruppe mit Zugriff auf den Support Center-Service zu erstellen:
 
-1. Klicken Sie in der Menüleiste auf **Verwalten** &gt; **Zugriff (IAM)** und wählen Sie anschließend **Benutzer** aus.
-2. Wählen Sie einen Benutzer aus der Liste aus. 
-3. Klicken Sie auf **Zugriffsrichtlinien**.
-4. Klicken Sie auf **Zugriff zuweisen**.
-5. Wählen Sie **Zugriff auf Kontoverwaltungsservices zuweisen**.
-6. Wählen Sie einen Service aus der Liste aus. 
-5. Wählen Sie eine Rolle aus, um den beabsichtigten Zugriff zuzuweisen. 
+1. Navigieren Sie in der Menüleiste zu **Verwalten** &gt; **Zugriff (IAM)**, wählen Sie **Zugriffsgruppen** aus und klicken Sie auf **Erstellen**.  
+2. Geben Sie einen Namen und eine Beschreibung für die Zugriffsgruppe ein und klicken Sie dann auf **Erstellen**.  
+3. Klicken Sie auf **Zugriffsrichtlinien** > **Zugriff zuweisen**.
+4. Wählen Sie **Zugriff auf Kontoverwaltungsservices zuweisen** aus.
+5. Wählen Sie **Support Center** aus.
+6. Wählen Sie abhängig davon, welche Art von Zugriff diese Gruppe erhalten soll, die Rolle **Anzeigeberechtigter** (Viewer), **Bearbeiter** (Editor) oder **Administrator** aus und klicken Sie auf **Zuweisen**.
 
-Überprüfen Sie die folgende Tabelle, um genau nachzuvollziehen, welche Berechtigungen in jeder Rolle enthalten sind. 
+Wenn Ihre Benutzer in der Lage sein sollen, alle übrigen Benutzer im Konto anzuzeigen, können Sie zu Ihrer Zugriffsgruppe auch die Rolle des Anzeigeberechtigten für das Benutzermanagement wie folgt hinzufügen:
+
+1. Klicken Sie auf **Zugriffsrichtlinien** > **Zugriff zuweisen**.
+2. Wählen Sie **Zugriff auf Kontoverwaltungsservices zuweisen** aus. 
+3. Wählen Sie **Benutzermanagement** aus. 
+4. Wählen Sie **Anzeigeberechtigter** aus und klicken Sie auf **Zuweisen**. 
+
+Die folgende Tabelle enthält eine Auflistung der Berechtigungen, die in den einzelnen Rollen für das Arbeiten moit Fällen enthalten sind.
 
 | Rolle | Aktion | 
 |--------|---------------|
-|Viewer (Anzeigeberechtigter)  | Fälle anzeigen und durchsuchen |
-|Administrator | Fälle anzeigen, durchsuchen, erstellen und aktualisieren |
+|Anzeigeberechtigter  | Fälle anzeigen und durchsuchen |
+|Bearbeiter | Fälle anzeigen, durchsuchen, erstellen und aktualisieren|
+|Administrator | View, search, create, and update cases; manage support center roles for other users|
 {: caption="Tabelle 1. Rollen und Aktionen für den Support Center-Service" caption-side="top"}
 
+## Benutzer zur Zugriffsgruppe für das Fallmanagement hinzufügen
+{: #add-user-access-group} 
+
+Nachdem Sie die Zugriffsgruppe erstellt haben, können Sie nun Benutzer zu ihr hinzufügen:
+
+1. Klicken Sie auf der Registerkarte **Benutzer** für Ihre Zugriffsgruppe auf **Benutzer hinzufügen**. 
+2. Wählen Sie den Benutzer aus, den Sie zur Gruppe hinzufügen möchten, und klicken Sie auf **Zu Gruppe hinzufügen**. 
+
+## Einzelperson Zugriff auf Fälle erteilen 
+
+Die Verwendung von Zugriffsgruppen für die Zuweisung von Support Center- und Benutzermanagementservices stellt die effizienteste Methode zum Erteilen von Zugriff dar. Dieselben Berechtigungen können Sie aber auch einzelnen Benutzern zuweisen. 
+
+1. Klicken Sie auf **Verwalten** &gt; **Zugriff (IAM)** und wählen Sie **Benutzer** aus.  
+2. Klicken Sie auf **Zugriffsrichtlinien** > **Zugriff zuweisen**.
+3. Wählen Sie **Zugriff auf Kontoverwaltungsservices zuweisen** aus.
+4. Wählen Sie **Support Center** aus.
+5. Wählen Sie abhängig davon, welche Art von Zugriff diese Gruppe erhalten soll, die Rolle **Anzeigeberechtigter** (Viewer), **Bearbeiter** (Editor) oder **Administrator** aus und klicken Sie auf **Zuweisen**.
+6. Wenn ein Benutzer in der Lage sein soll, alle übrigen Benutzer im Konto anzuzeigen, können Sie ihm auch die Rolle des Anzeigeberechtigten für das Benutzermanagement zuweisen.  
