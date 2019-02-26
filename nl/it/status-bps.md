@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -24,7 +24,7 @@ Per rimanere informato e pianificare di conseguenza, utilizza le seguenti proced
 {: #monbp-checmaintwin}
 
 Controlla le prossime finestre di manutenzione pubblicate nella pagina Dashboard di {{site.data.keyword.Bluemix_notm}}, almeno una volta ogni 24 ore, utilizzando una delle seguenti opzioni:
-* Controlla il widget Manutenzione pianificata nel [Dashboard ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com){: new_window}. Fai clic su **Tutti gli eventi** per visualizzare tutte le manutenzioni pianificate.
+* Controlla il widget Manutenzione pianificata nel [Dashboard ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com){: new_window}. Fai clic su **Tutti gli eventi** per visualizzare tutta la manutenzione pianificata.
 * Vai direttamente alla pagina [Stato - Manutenzione pianificata ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/status?selected=maintenance){: new_window}
 
 ## Controlla le finestre di manutenzione correnti o un incidente in corso
@@ -50,8 +50,9 @@ massimizzare la disponibilità delle tue applicazioni in esecuzione, esegui alme
 tre istanze di ciascuna applicazione.
 
 ## Sottoscrizione alle notifiche email
+{: #monbp-subscribing}
 
-Se sei il proprietario di un account Lite, puoi scegliere se ricevere notifiche email sugli eventi non pianificati della piattaforma {{site.data.keyword.Bluemix_notm}}, come le interruzioni, e sugli eventi pianificati, come la manutenzione. Inoltre, se hai un account Pagamento a consumo o Sottoscrizione, puoi scegliere se ricevere notifiche email dell'infrastruttura {{site.data.keyword.Bluemix_notm}} sugli eventi non pianificati, la manutenzione e gli annunci. Per ulteriori informazioni, vedi [Impostazione delle preferenze email](/docs/account/email.html).
+Se sei il proprietario di un account Lite, puoi scegliere se ricevere notifiche email sugli eventi non pianificati della piattaforma {{site.data.keyword.Bluemix_notm}}, come le interruzioni, e sugli eventi pianificati, come la manutenzione. Inoltre, se hai un account Pagamento a consumo o Sottoscrizione, puoi scegliere se ricevere notifiche email dell'infrastruttura {{site.data.keyword.Bluemix_notm}} sugli eventi non pianificati, la manutenzione e gli annunci. Per ulteriori informazioni, vedi [Impostazione delle preferenze email](/docs/account?topic=account-account_setup#account_setup).
 
 
 

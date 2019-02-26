@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0001E
 **메시지**: {{site.data.keyword.Bluemix_notm}}에서 세션이 있는지 발견하지 못했으므로 페이지가 로드되지 않았습니다.
 
-이 문제점 수정에 대한 지시사항은 [콘솔 페이지를 로드할 수 없는 이유](/docs/account/ts_accessing.html#accessing){: new_window} 문제점 해결 주제를 참조하십시오.
+이 문제점 수정에 대한 지시사항은 [콘솔 페이지를 로드할 수 없는 이유](/docs/account?topic=account-accessing#accessing){: new_window} 문제점 해결 주제를 참조하십시오.
 
 ## BXNUI0004E
 **메시지**: Cloud Foundry 접속 중에 문제점이 발생하여 '{0}' 앱이 삭제되지 않았습니다.
@@ -78,7 +78,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0016E
 **메시지**: {{site.data.keyword.Bluemix_notm}} 페이지가 로드되지 않았으므로 앱과 서비스가 검색되지 않았습니다.
 
-이 문제점 수정에 대한 지시사항은 [콘솔 페이지를 로드할 수 없는 이유](/docs/account/ts_accessing.html#accessing){: new_window}를 참조하십시오.
+이 문제점 수정에 대한 지시사항은 [콘솔 페이지를 로드할 수 없는 이유](/docs/account?topic=account-accessing#accessing){: new_window}를 참조하십시오.
 
 ## BXNUI0017E
 **메시지**: Cloud Foundry 접속 중에 문제점이 발생하여 서비스 인스턴스가 검색되지 않았습니다.
@@ -299,7 +299,7 @@ lastupdated: "2018-11-28"
 * Internet Explorer
 * Safari
 
-세부사항은 [전제조건](/docs/overview/prereqs.html#prereqs){: new_window}을 참조하십시오.
+세부사항은 [전제조건](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}을 참조하십시오.
 
 
 ## BXNUI0065E
@@ -453,12 +453,12 @@ lastupdated: "2018-11-28"
 
 계정이 취소되었거나 일시중단되었기 때문에 계정이 비활성 상태입니다.
 
-이 문제점을 수정하기 위한 지시사항은 [계정이 비활성화됨](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window} 문제점 해결 주제를 참조하십시오.
+이 문제점을 수정하기 위한 지시사항은 [계정이 비활성화됨](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window} 문제점 해결 주제를 참조하십시오.
 
 ## BXNUI0097E
 **메시지**: 앱을 추가하려면 먼저 하나 이상의 영역을 조직 및 지역과 연관시켜야 합니다.
 
-콘솔 메뉴 표시줄에서 **관리** &gt; **계정** &gt; **Cloud Foundry 조직**을 클릭한 후에 **작성**을 클릭하십시오. 영역이 작성되면 다시 시도하십시오. 이 문제점 수정에 대한 자세한 지시사항은 [영역이 현재 내 조직과 연관되지 않은 이유](/docs/account/ts_accounts.html#ts_no_space){: new_window}를 참조하십시오.
+콘솔 메뉴 표시줄에서 **관리** &gt; **계정** &gt; **Cloud Foundry 조직**을 클릭한 후에 **작성**을 클릭하십시오. 영역이 작성되면 다시 시도하십시오. 이 문제점 수정에 대한 자세한 지시사항은 [영역이 현재 내 조직과 연관되지 않은 이유](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}를 참조하십시오.
 
 ## BXNUI0098E
 **메시지**: 인증 정보 목록을 지금 검색할 수 없습니다.
@@ -734,7 +734,7 @@ lastupdated: "2018-11-28"
 
 **메시지**: 조직의 영역이 검색되지 않았습니다. 네트워크 연결 문제점이 발생했거나 현재 조직에 이와 연관된 영역이 없습니다.
 
-나중에 다시 시도하십시오. 이 메시지가 다시 표시되면 [{{site.data.keyword.Bluemix_notm}} 상태 페이지 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/bluemix/support/#status){: new_window}로 이동하여 서비스 또는 컴포넌트에 문제가 있는지 여부를 확인하십시오. 또는, 이 문제점을 수정하기 위한 지시사항은 [조직에서 영역을 검색할 수 없음](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window} 문제점 해결 주제를 참조하십시오.
+나중에 다시 시도하십시오. 이 메시지가 다시 표시되면 [{{site.data.keyword.Bluemix_notm}} 상태 페이지 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/bluemix/support/#status){: new_window}로 이동하여 서비스 또는 컴포넌트에 문제가 있는지 여부를 확인하십시오. 또는, 이 문제점을 수정하기 위한 지시사항은 [조직에서 영역을 검색할 수 없음](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window} 문제점 해결 주제를 참조하십시오.
 
 ## BXNUI0516E
 
@@ -989,7 +989,7 @@ lastupdated: "2018-11-28"
 
 리소스를 작성하기 위해 Cloud Foundry에 접속하는 중에 오류가 발생했습니다. Cloud Foundry 메시지: "{0}."
 
-이 문제점을 수정하기 위한 지시사항은 [조직의 서비스 한계를 초과함](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window} 문제점 해결 주제를 참조하십시오.
+이 문제점을 수정하기 위한 지시사항은 [조직의 서비스 한계를 초과함](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window} 문제점 해결 주제를 참조하십시오.
 
 ## BXNUI2033E
  **메시지**: {1} 리소스가 수정되지 않았습니다. 리소스를 수정하기 위해 Cloud Foundry에 접속하는 동안 오류가 발생했습니다. Cloud Foundry 메시지: "{0}."
@@ -1288,7 +1288,7 @@ lastupdated: "2018-11-28"
 ## BXNUI2093E
 **메시지**: 중간 인증서의 수가 허용된 수를 초과합니다.
 
-허용되는 인증서의 수 및 인증서를 삭제하거나 대체하는 방법에 대한 세부사항은 [SSL 인증서 업로드](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window} 주제를 참조하십시오.
+허용되는 인증서의 수 및 인증서를 삭제하거나 대체하는 방법에 대한 세부사항은 [SSL 인증서 업로드](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window} 주제를 참조하십시오.
 
 ## BXNUI2094E
 **메시지**: 연결 오류로 인해 시도한 오퍼레이션이 실패했습니다.

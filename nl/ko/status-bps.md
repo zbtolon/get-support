@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -24,7 +24,7 @@ lastupdated: "2018-11-14"
 {: #monbp-checmaintwin}
 
 다음 옵션 중 하나를 사용하여 최소한 24시간마다 한 번씩 {{site.data.keyword.Bluemix_notm}} 콘솔 대시보드 페이지에 게시된 예정된 유지보수 기간을 확인하십시오.
-* [대시보드 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com){: new_window}에서 계획된 유지보수 위젯을 확인하십시오. 계획된 모든 유지보수를 보려면 **모든 이벤트**를 클릭하십시오.
+* [대시보드 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com){: new_window}에서 계획된 유지보수 위젯을 확인하십시오. 계획된 모든 유지보수를 보려면 **모든 이벤트**를 클릭하십시오. 
 * [상태 - 계획된 유지보수 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/status?selected=maintenance){: new_window} 페이지로 직접 이동하십시오.
 
 ## 진행 중인 인시던트 또는 현재 유지보수 기간 확인
@@ -45,8 +45,9 @@ lastupdated: "2018-11-14"
 대부분의 경우 {{site.data.keyword.Bluemix_notm}}는 정상적으로 계속 사용할 수 있습니다(유지보수 기간에 있는 동안에도 마찬가지임). 하지만 사소한 서비스 인터럽트를 항상 방지할 수는 없습니다. 실행 중인 애플리케이션은 {{site.data.keyword.Bluemix_notm}}의 애플리케이션 관리 기능(예: 앱 시작 및 중지)이 일시적으로 인터럽트되는 경우에도 일반적으로 계속 사용할 수 있습니다. 실행 중인 애플리케이션의 가용성을 최대화하려면 각 애플리케이션의 인스턴스를 셋 이상 실행하십시오.
 
 ## 이메일 알림 구독
+{: #monbp-subscribing}
 
-Lite 계정 소유자인 경우 {{site.data.keyword.Bluemix_notm}} 플랫폼의 계획되지 않은 이벤트(예: 정전)와 계획된 이벤트(예: 유지보수)에 대한 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 또는 종량과금제 또는 구독 계정이 있는 경우 계획되지 않은 이벤트, 유지보수 및 공지사항에 대한 {{site.data.keyword.Bluemix_notm}} 인프라 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 자세한 정보는 [이메일 환경 설정](/docs/account/email.html)을 참조하십시오.
+Lite 계정 소유자인 경우 {{site.data.keyword.Bluemix_notm}} 플랫폼의 계획되지 않은 이벤트(예: 정전)와 계획된 이벤트(예: 유지보수)에 대한 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 또는 종량과금제 또는 구독 계정이 있는 경우 계획되지 않은 이벤트, 유지보수 및 공지사항에 대한 {{site.data.keyword.Bluemix_notm}} 인프라 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 자세한 정보는 [이메일 환경 설정](/docs/account?topic=account-account_setup#account_setup)을 참조하십시오.
 
 
 

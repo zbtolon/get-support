@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-13"
+lastupdated: "2019-01-30"
 
 ---
 
@@ -32,6 +32,7 @@ Il seguente elenco include esempi di opzioni di ricerca URL:
 * Utilizza identificativi di notifica univoci come parametro di ricerca per accedere direttamente ai dettagli della notifica.  Ad esempio, `query=INC1000001` identifica gli elementi con ID: `INC1000001`. In questo esempio, `INC1000001` è il numero del caso per una notifica di manutenzione.
 
 ### Filtri di query URL:
+{: #url-query}
 
 | Parametro di query URL | Descrizione | Valori |
 | ----- | ----- | ----- | ----- |

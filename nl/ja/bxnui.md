@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0001E
 **メッセージ**: セッションが存在しているかどうかを {{site.data.keyword.Bluemix_notm}} が検出しなかったため、ページはロードされませんでした。
 
-この問題を修正する手順については、[ロードされないコンソール・ページがあるのはなぜですか?](/docs/account/ts_accessing.html#accessing){: new_window} のトラブルシューティングのトピックを参照してください。
+この問題を修正する手順については、[ロードされないコンソール・ページがあるのはなぜですか?](/docs/account?topic=account-accessing#accessing){: new_window} のトラブルシューティングのトピックを参照してください。
 
 ## BXNUI0004E
 **メッセージ**: Cloud Foundry へのコンタクトで問題が発生したため、'{0}' アプリは削除されませんでした。
@@ -78,7 +78,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0016E
 **メッセージ**: {{site.data.keyword.Bluemix_notm}} ページがロードされなかったため、アプリおよびサービスは取得されませんでした。
 
-この問題を修正する手順については、[ロードされないコンソール・ページがあるのはなぜですか?](/docs/account/ts_accessing.html#accessing){: new_window} を参照してください。
+この問題を修正する手順については、[ロードされないコンソール・ページがあるのはなぜですか?](/docs/account?topic=account-accessing#accessing){: new_window} を参照してください。
 
 ## BXNUI0017E
 **メッセージ**: Cloud Foundry へのコンタクトで問題が発生したため、サービス・インスタンスは取得されませんでした。
@@ -299,7 +299,7 @@ lastupdated: "2018-11-28"
 * Internet Explorer
 * Safari
 
-詳しくは、[前提条件](/docs/overview/prereqs.html#prereqs){: new_window}を参照してください。
+詳しくは、[前提条件](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}を参照してください。
 
 
 ## BXNUI0065E
@@ -453,12 +453,12 @@ lastupdated: "2018-11-28"
 
 アカウントは取り消されたか中断されたため、非アクティブです。
 
-この問題を修正する手順については、[アカウントが非アクティブである](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}のトラブルシューティングのトピックを参照してください。
+この問題を修正する手順については、[アカウントが非アクティブである](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}のトラブルシューティングのトピックを参照してください。
 
 ## BXNUI0097E
 **メッセージ**:  アプリを追加するには、その前に、少なくとも 1 つのスペースが組織と地域に関連付けられていなければなりません。
 
-コンソールのメニュー・バーで、**「管理」** &gt; **「アカウント」** &gt; **「Cloud Foundry の組織」 **をクリックして、**「作成」**をクリックします。 スペースが作成されたら、やり直してください。 この問題を修正する手順について詳しくは、[現在の組織にスペースが関連付けられていないのはなぜですか?](/docs/account/ts_accounts.html#ts_no_space){: new_window} を参照してください。
+コンソールのメニュー・バーで、**「管理」** &gt; **「アカウント」** &gt; **「Cloud Foundry の組織」 **をクリックして、**「作成」**をクリックします。 スペースが作成されたら、やり直してください。 この問題を修正する手順について詳しくは、[現在の組織にスペースが関連付けられていないのはなぜですか?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window} を参照してください。
 
 ## BXNUI0098E
 **メッセージ**: 現在、資格情報のリストを取得できません。
@@ -734,7 +734,7 @@ lastupdated: "2018-11-28"
 
 **メッセージ**: 組織のスペースは取得されませんでした。 ネットワーク接続問題が発生したか、現在の組織に関連付けられているスペースがないかのいずれかです。
 
-後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/bluemix/support/#status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 または、この問題を修正する手順について、[組織内でスペースを取得できない](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}のトラブルシューティングのトピックを参照してください。
+後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/bluemix/support/#status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 または、この問題を修正する手順について、[組織内でスペースを取得できない](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}のトラブルシューティングのトピックを参照してください。
 
 ## BXNUI0516E
 
@@ -989,7 +989,7 @@ lastupdated: "2018-11-28"
 
 リソースを作成するために Cloud Foundry に接続している時にエラーが発生しました。 Cloud Foundry メッセージ: "{0}。"
 
-この問題を修正する手順については、[組織のサービス限度を超えた](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}のトラブルシューティングのトピックを参照してください。
+この問題を修正する手順については、[組織のサービス限度を超えた](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}のトラブルシューティングのトピックを参照してください。
 
 ## BXNUI2033E
  **メッセージ**: {1} リソースは変更されませんでした。 リソースを変更するために Cloud Foundry に接続している時にエラーが発生しました。 Cloud Foundry メッセージ: "{0}。"
@@ -1288,7 +1288,7 @@ lastupdated: "2018-11-28"
 ## BXNUI2093E
 **メッセージ**: 中間証明書の数が許容される数を超えています。
 
-許容される証明書の数と、証明書の削除または置換の方法について詳しくは、[SSL 証明書のアップロード](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}のトピックを参照してください。
+許容される証明書の数と、証明書の削除または置換の方法について詳しくは、[SSL 証明書のアップロード](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}のトピックを参照してください。
 
 ## BXNUI2094E
 **メッセージ**: 試行された操作は接続エラーのため失敗しました。

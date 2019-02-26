@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -25,7 +25,7 @@ il problema.
 ## BXNUI0001E
 **Messaggio**: La pagina non è stata caricata perché {{site.data.keyword.Bluemix_notm}} non ha rilevato se esiste una sessione.
 
-Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Perché mi imbatto in pagine della console che non si caricano?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Perché mi imbatto in pagine della console che non si caricano?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0004E
 **Messaggio**: L'applicazione '{0}' non è stata eliminata perché si è verificato un problema di comunicazione con Cloud Foundry.
@@ -80,7 +80,7 @@ Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli st
 ## BXNUI0016E
 **Messaggio**: Le applicazioni e i servizi non sono stati recuperati perché una pagina di {{site.data.keyword.Bluemix_notm}} non è stata caricata.
 
-Per istruzioni relative alla correzione di questo problema, vedi [Perché mi imbatto in pagine della console che non si caricano?](/docs/account/ts_accessing.html#accessing){: new_window}.
+Per istruzioni relative alla correzione di questo problema, vedi [Perché mi imbatto in pagine della console che non si caricano?](/docs/account?topic=account-accessing#accessing){: new_window}.
 
 ## BXNUI0017E
 **Messaggio**: L'istanza del servizio non è stata recuperata perché si è verificato un problema di comunicazione con Cloud Foundry.
@@ -301,7 +301,7 @@ Sono supportati i seguenti browser. Accertati di utilizzare la versione più rec
 * Internet Explorer
 * Safari
 
-Per i dettagli, vedi [Prerequisiti](/docs/overview/prereqs.html#prereqs){: new_window}.
+Per i dettagli, vedi [Prerequisiti](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}.
 
 
 ## BXNUI0065E
@@ -455,12 +455,12 @@ Utilizza un nome diverso e riprova.
 
 Il tuo account non è attivo perché è stato annullato o sospeso.
 
-Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Account non attivo](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}.
+Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Account non attivo](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}.
 
 ## BXNUI0097E
 **Messaggio**: Prima di poter aggiungere un'applicazione, è necessario associare almeno uno spazio alla tua organizzazione e alla tua regione.
 
-Dalla barra dei menu della console, fai clic su **Gestisci** &gt; **Account** &gt; **Organizzazioni Cloud Foundry** e fai clic su **Crea**. Una volta creato lo spazio, prova di nuovo. Per ulteriori istruzioni per la correzione di questo problema, vedi [Perché non ci sono spazi associati alla mia attuale organizzazione?](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+Dalla barra dei menu della console, fai clic su **Gestisci** &gt; **Account** &gt; **Organizzazioni Cloud Foundry** e fai clic su **Crea**. Una volta creato lo spazio, prova di nuovo. Per ulteriori istruzioni per la correzione di questo problema, vedi [Perché non ci sono spazi associati alla mia attuale organizzazione?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Messaggio**: Non è possibile recuperare l'elenco di credenziali, al momento.
@@ -737,7 +737,7 @@ Prova a selezionare un'altra organizzazione o a creare uno spazio oppure richied
 
 **Messaggio**: Gli spazi nell'organizzazione non sono stati recuperati. Si è verificato un problema di rete oppure la tua organizzazione corrente non ha alcuno spazio associato.
 
-Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/bluemix/support/#status){: new_window} per controllare se un servizio o un componente ha qualche problema. Oppure, per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Impossibile richiamare gli spazi in un'organizzazione](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}.
+Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://developer.ibm.com/bluemix/support/#status){: new_window} per controllare se un servizio o un componente ha qualche problema. Oppure, per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Impossibile richiamare gli spazi in un'organizzazione](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
 ## BXNUI0516E
 
@@ -992,7 +992,7 @@ Rivolgersi all'amministratore di sistema per assistenza nella correzione del com
 
 Si è verificato un errore mentre Cloud Foundry stava venendo contattato per creare la risorsa. Messaggio di Cloud Foundry: "{0}."
 
-Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Limite dei servizi dell'organizzazione superato](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}.
+Per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Limite dei servizi dell'organizzazione superato](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}.
 
 ## BXNUI2033E
  **Messaggio**: La risorsa {1} non è stata modificata. Mentre Cloud Foundry veniva contattato per modificare la risorsa, si è verificato un errore. Messaggio di Cloud Foundry: "{0}."
@@ -1291,7 +1291,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 ## BXNUI2093E
 **Messaggio**: Il numero di certificati intermedi supera il numero consentito.
 
-Per i dettagli sul numero di certificati consentiti e su come eliminarli o sostituirli, vedi l'argomento [Caricamento di certificati SSL](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}.
+Per i dettagli sul numero di certificati consentiti e su come eliminarli o sostituirli, vedi l'argomento [Caricamento di certificati SSL](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}.
 
 ## BXNUI2094E
 **Messaggio**: Operazione non riuscita a causa di un errore di connessione.
