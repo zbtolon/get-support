@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-22"
 
 ---
 
@@ -20,20 +20,20 @@ lastupdated: "2018-11-28"
 # 呈報支援案例
 {: #escalation}
 
-使用呈報處理程序來顯現重要問題，或者如果您認為未適當地解決支援案例的話也可使用呈報處理程序。呈報案例時，{{site.data.keyword.Bluemix}} 支援團隊會檢閱支援案例中的資訊，然後為您提供適當的更新。
+{{site.data.keyword.Bluemix}} 客戶可以使用呈報處理程序來顯現重要問題，並且在認為未適當地解決其支援問題單時提出他們的顧慮。呈報案例之後，{{site.data.keyword.Bluemix_notm}} 支援團隊會檢閱支援案例中的資訊，然後以適當的更新作為回應。
 
  若要呈報案例，請完成下列步驟：
 
   1. 以電話或會談與 {{site.data.keyword.Bluemix_notm}} 支援中心聯絡：
-    * 電話號碼如下：866-403-7638。
+    * 電話號碼如下：+1-866-403-7638。
     * 從[支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://{DomainName}/unifiedsupport/supportcenter){: new_window} 使用會談。
   2. 提供您現有的案例號碼，並要求呈報案例。
   3. 提供呈報的理由及您問題的業務衝擊。
 
-## 案例嚴重性和回應時間 
+## 案例嚴重性和回應時間
 {: #support-case-severity}
 
-解決支援案例的快慢，取決於已指派的嚴重性。當您開立案例時，您會指派問題的嚴重性。 
+解決支援案例的快慢，取決於已指派的嚴重性。當您開立案例時，您會指派問題的嚴重性。
 
 下表列出支援問題、建議嚴重性層次及回應時間目標的一些常見範例。回應時間目標僅用來說明 IBM 目標，並不保證效能。
 
@@ -50,4 +50,3 @@ lastupdated: "2018-11-28"
 
 如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援方案，您才可以開立嚴重性 1-4 的支援案例。若要升級您的支援方案，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 聯絡。
 {:tip}
-
