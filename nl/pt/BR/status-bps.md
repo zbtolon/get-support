@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -24,7 +24,7 @@ Para manter-se informado e planejar adequadamente, use as melhores práticas a s
 {: #monbp-checmaintwin}
 
 Verifique se há janelas de manutenção futuras postadas na página Painel do console do {{site.data.keyword.Bluemix_notm}}, pelo menos uma vez a cada 24 horas, usando uma das opções a seguir:
-* Verifique o widget de manutenção Planejado no [Painel ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com){: new_window}. Clique em **Todos os eventos** para visualizar todas as manutenções planejadas.
+* Verifique o widget de manutenção Planejado no [Painel ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com){: new_window}. Clique em **Todos os eventos** para visualizar toda a manutenção planejada.
 * Navegue diretamente para a página [Status - Manutenção planejada ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=maintenance){: new_window}
 
 ## Verifique as janelas atualmente em manutenção ou um incidente em andamento
@@ -45,8 +45,9 @@ Para alternar locais, acesse seu painel e expanda o menu **LOCALIZAÇÃO**.
 Na maioria dos casos, o {{site.data.keyword.Bluemix_notm}} pode continuar sendo usado normalmente, mesmo durante a janela de manutenção. No entanto, as interrupções menores de um serviço nem sempre podem ser evitadas. Os aplicativos em execução geralmente permanecem disponíveis mesmo se as funções de gerenciamento do aplicativo do {{site.data.keyword.Bluemix_notm}}, como apps de início e de parada, estiverem temporariamente interrompidas. Para maximizar a disponibilidade de seus aplicativos em execução, execute pelo menos três instâncias de cada aplicativo.
 
 ## Assinando notificações por e-mail
+{: #monbp-subscribing}
 
-Se você for um proprietário da conta Lite, será possível selecionar se deseja receber notificações por e-mail sobre eventos não planejados da plataforma do {{site.data.keyword.Bluemix_notm}}, como indisponibilidades e eventos planejados, como manutenção. Além disso, se você tiver uma conta Pré-paga ou de Assinatura, será possível escolher se deseja receber notificações por e-mail da infraestrutura do {{site.data.keyword.Bluemix_notm}} sobre eventos não planejados, manutenção e anúncios. Para obter mais informações, consulte [Configurando preferências de e-mail](/docs/account/email.html).
+Se você for um proprietário da conta Lite, será possível selecionar se deseja receber notificações por e-mail sobre eventos não planejados da plataforma do {{site.data.keyword.Bluemix_notm}}, como indisponibilidades e eventos planejados, como manutenção. Além disso, se você tiver uma conta Pré-paga ou de Assinatura, será possível escolher se deseja receber notificações por e-mail da infraestrutura do {{site.data.keyword.Bluemix_notm}} sobre eventos não planejados, manutenção e anúncios. Para obter mais informações, consulte [Configurando preferências de e-mail](/docs/account?topic=account-account_setup#account_setup).
 
 
 

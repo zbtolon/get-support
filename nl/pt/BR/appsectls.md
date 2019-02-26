@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2018
+  years: 1994, 2019
 
-lastupdated: "2018-01-05"
+lastupdated: "2019-02-14"
 
 ---
 
@@ -40,19 +40,20 @@ Se você estiver usando qualquer um dos produtos de serviços que estão retiran
 confirme se as suas conexões não requerem o TLS 1.0 ou 1.1.
 
 ### Cloud Foundry no {{site.data.keyword.Bluemix_notm}}
+{: #cf}
 
 Para os aplicativos Cloud Foundry, deve-se confirmar que as conexões com o aplicativo de fora do
 {{site.data.keyword.Bluemix_notm}} não são afetadas. Além disso, confirme se as conexões do aplicativo com
 outro aplicativo Cloud Foundry no {{site.data.keyword.Bluemix_notm}} não são afetadas.
 
-Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](/docs/overview/prereqs.html#browsers) do {{site.data.keyword.Bluemix_notm}}.
+Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](/docs/overview?topic=overview-browsers-platform#browsers) do {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Conectando-se ao seu aplicativo Cloud Foundry
+{: #connect-cf}
+Todos os terminais de aplicativo do Cloud Foundry no domínio `*.app.domain.cloud` podem ser acessados por meio de um terminal alternativo que suporta apenas o TLS 1.2.
 
-Todos os terminais de aplicativo do Cloud Foundry no domínio `*.mybluemix.net` podem ser acessados por meio de um terminal alternativo que suporta apenas o TLS 1.2.
-
-Para usar o terminal alternativo, inclua `alt.` Após o subdomínio do seu aplicativo. Por exemplo, se o seu aplicativo estiver hospedado em `https://myapplication.mybluemix.net`, use `https://myapplication.alt.mybluemix.net`. Ou, para `https://myapplication.eu-gb.mybluemix.net` use `https://myapplication.alt.eu-gb.mybluemix.net`.
+Para usar o terminal alternativo, inclua `alt.` Após o subdomínio do seu aplicativo. Por exemplo, se o seu aplicativo estiver hospedado em `https://myapplication.app.domain.cloud`, use `https://myapplication.alt.app.domain.cloud`. Ou para `https://myapplication.eu-gb.app.domain.cloud`, use `https://myapplication.alt.eu-gb.app.domain.cloud`.
 
 Se você puder se conectar com êxito ao terminal alternativo, não será afetado.
 
@@ -60,8 +61,9 @@ Se você não puder se conectar com êxito, mude o cliente, as bibliotecas do cl
 cliente para ativar o TLS 1.2.
 
 #### Conectando entre aplicativos Cloud Foundry
+{: #connect2}
 
-Use o comando a seguir para configurar seu aplicativo Cloud Foundry para redirecionamento automaticamente para os terminais alternativos que estão disponíveis no domínio `*.mybluemix.net` ao se conectar a outros aplicativos:
+Use o comando a seguir para configurar o aplicativo Cloud Foundry para redirecionar automaticamente para os terminais alternativos disponíveis no domínio `*.app.domain.cloud` quando você se conectar a outros aplicativos:
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -79,6 +81,7 @@ foi afetado pela remoção do TLS 1.0 e 1.1.
 {: tip}
 
 ### Produtos e serviços Watson
+{: #watson-serv}
 
 Para produtos e serviços do Watson, faça as substituições a seguir para suas conexões:
   * Substitua ``gateway.watsonplatform.net` com `gateway-tls12.watsonplatform.net`
@@ -94,6 +97,7 @@ destinam-se somente a propósitos de teste e não estarão disponíveis após a 
 {: tip}
 
 ### Outros produtos ou serviços
+{: #other-serv}
 
 Para produtos ou serviços que não têm terminais alternativos somente do TLS 1.2 disponíveis, consulte qualquer documentação disponível de seu cliente. Para obter informações sobre como determinar quais versões do TLS são suportadas e qual versão você está usando, consulte as bibliotecas do cliente. 
 
@@ -110,6 +114,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 {: note}
 
 ### Produtos ou serviços disponíveis no catálogo do {{site.data.keyword.Bluemix_notm}}
+{: #available}
 
 #### Plataforma de nuvem
 
@@ -117,10 +122,12 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Infraestrutura do {{site.data.keyword.Bluemix_notm}} (`api.softlayer.com` e `api.service.softlayer.com`)
 
 #### APIs
+{: #apis}
 
 * API Connect
 
 #### Serviços de Aplicativos
+{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -151,6 +158,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Managed MS-SQL Database Server\*
 
 #### DevOps
+{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -165,6 +173,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Runbook Automation\*
 
 #### Finança
+{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -175,10 +184,12 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Simulated Instrument Analytics\*
 
 #### Functions
+{: #function}
 
 * Functions
 
 #### Integrar
+{: #integrate}
 
 * App Connect
 * Product Insights
@@ -186,10 +197,12 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * API Harmony\*
 
 #### Internet of Things
+{: #iot}
 
 * IoT para Eletroeletrônico
 
 #### Dispositivo móvel
+{: #mobile}
 
 * ID do app†
 * Mobile Analytics
@@ -198,11 +211,13 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * App Launch\*
 
 #### Segurança
+{: #security-app}
 
 * ID do app†
 * SSL Certificates†
 
 #### Watson
+{: #watson}
 
 * Conversa
 * Discovery
@@ -224,6 +239,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 ‡ Descontinuado, disponível somente para clientes existentes.
 
 ### Produtos ou serviços disponíveis por meio do mercado de profissionais IBM
+{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -250,6 +266,7 @@ Alguns produtos e serviços estão ativando terminais alternativos que continuam
 que são removidos dos terminais primários.
 
 ### Infraestrutura do {{site.data.keyword.Bluemix_notm}}
+{: #infrastructure}
 
 Quando o suporte para o TLS 1.0 e 1.1 for removido do `api.softlayer.com` e do `api.service.softlayer.com`, os terminais alternativos serão anunciados e estarão disponíveis por 30 dias.
 

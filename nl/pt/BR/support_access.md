@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -19,30 +19,57 @@ lastupdated: "2018-11-28"
 # Designando acesso de usuário para trabalhar com casos de suporte
 {: #access}
 
-Por padrão, os usuários em sua conta não têm acesso para criar, atualizar, procurar ou visualizar casos. Como o proprietário da conta, deve-se fornecer acesso aos usuários designando uma política de acesso do Identity and Access Management (IAM). Use o serviço de gerenciamento de conta do Centro de suporte para designar aos usuários acesso para trabalhar com casos de suporte.
+Por padrão, os usuários em sua conta não têm acesso para criar, atualizar, procurar ou visualizar casos. Como o proprietário da conta, deve-se fornecer acesso aos usuários designando uma política de acesso do Identity and Access Management (IAM). Use o serviço de gerenciamento de conta do Centro de suporte para designar aos usuários acesso para trabalhar com casos de suporte. 
 {:shortdesc}
 
-As políticas de acesso do Centro de suporte fornecem aos usuários acesso para trabalhar com casos de suporte. No entanto, essas políticas de acesso não fornecem acesso para que os usuários visualizem outros usuários na conta. Portanto, se um proprietário da conta tiver definido a [**Configuração de visibilidade da lista de usuários**](/docs/iam/userlist.html#userlistview) como **Visualização restrita**, os usuários que tiverem acesso para gerenciar casos poderão não estar aptos a acessarem os casos designados a outros usuários ou ao proprietário da conta. Para assegurar que os usuários possam visualizar todos os casos, deve-se fornecer acesso adicional também designando uma política de acesso do IAM ao serviço de gerenciamento de conta de gerenciamento de usuário com a função Visualizador designada. 
+Ao criar um caso, é possível fornecer a outros usuários acesso total a esse caso incluindo seu e-mail no campo **Incluir outra pessoa nesse caso**. Todos os usuários incluídos têm acesso para visualizar, editar e atualizar somente esse caso na conta. Eles também recebem notificações quando o caso é atualizado.
+{: tip}
 
-Para fornecer aos usuários específicos acesso total a certos casos na conta, em vez de acesso a todos os casos usando uma política de acesso do IAM, inclua-os no caso inserindo seus e-mails ao criar o caso. Ao incluir usuários em um caso que você cria, eles têm acesso para visualizar, editar e atualizar somente esse caso na conta. Eles também recebem notificações quando há atualizações para o caso.
+Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-predefined#predefined). Os grupos de acesso de permissão migrados incluem a política do IAM no serviço de gerenciamento de usuários com a função de visualizador designada.
 
-Para usuários de infraestrutura clássica que usavam permissões de infraestrutura clássica anteriormente para designar acesso ao caso de suporte, essas permissões agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam/infrastructureaccess.html#predefined). Os grupos de acesso de permissão migrados incluem a política do IAM no serviço de Gerenciamento de usuário com a função Visualizador designada.
+## Criando um grupo de acesso para trabalhar com casos
+{: #creating-access-group}
 
-Para designar a um usuário uma política de acesso do IAM em um serviço de gerenciamento de conta, como o serviço do Centro de suporte ou o serviço de Gerenciamento de usuário, conclua as etapas a seguir:
+Para aperfeiçoar o processo de designação de acesso, é possível aproveitar a designação de uma política para usuários por meio de grupos de acesso. Conclua as etapas a seguir para criar um grupo de acesso com acesso ao serviço do centro de suporte:
 
-1. Na barra de menus, clique em **Gerenciar** &gt; **Acessar (IAM)** e, em seguida, selecione **Usuários**.
-2. Selecione um usuário da lista.
-3. Clique em **Políticas de acesso**.
-4. Clique em **Designar acesso**.
-5. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
-6. Selecione um serviço na lista. 
-5. Selecione uma função para designar o acesso desejado.
+1. Na barra de menus, acesse **Gerenciar** &gt; **Acesso (IAM)**, selecione **Grupos de acesso** e clique em **Criar**. 
+2. Insira um nome e uma descrição do grupo de acesso e clique em **Criar**. 
+3. Clique em **Políticas de acesso** > **Designar acesso**.
+4. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
+5. Selecione **Centro de suporte**.
+6. Selecione a função **Visualizador**, **Editor** ou **Administrador**, dependendo do tipo de acesso que você deseja que esse grupo tenha e clique em **Designar**.
 
-Verifique a tabela a seguir para entender exatamente quais permissões estão incluídas em cada função.
+Se você deseja que seus usuários sejam capazes de visualizar todos os outros usuários na conta, também é possível incluir a função de visualizador de gerenciamento de usuários em seu grupo de acesso:
+
+1. Clique em **Políticas de acesso** > **Designar acesso**.
+2. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
+3. Selecione **Gerenciamento de usuários**.
+4. Selecione **Visualizador** e clique em **Designar**.
+
+A tabela a seguir lista as permissões que estão incluídas em cada função para trabalhar com casos.
 
 | Função | Ações | 
 |--------|---------------|
 |Visualizador  | Visualizar e procurar casos |
-|Administrador | Visualizar, procurar, criar e atualizar casos|
+|Aplicativos | Visualizar, procurar, criar e atualizar casos|
+|Administrador | Visualizar, procurar, criar e atualizar casos; gerenciar funções do centro de suporte para outros usuários|
 {: caption="Tabela 1. Funções e ações para o serviço do Centro de suporte" caption-side="top"}
 
+## Incluindo usuários em seu grupo de acesso de gerenciamento de caso
+{: #add-user-access-group} 
+
+Agora que o grupo de acesso foi criado, inclua usuários:
+
+1. Na guia **Usuários** para seu grupo de acesso, clique em **Incluir usuários**.
+2. Selecione o usuário que você deseja incluir no grupo e clique em **Incluir no grupo**.
+
+## Concedendo acesso de usuários individuais aos casos 
+
+O uso de grupos de acesso para designar os serviços de centro de suporte e de gerenciamento de usuários é a maneira mais eficiente para você designar acesso, mas também é possível designar as mesmas permissões a usuários individuais. 
+
+1. Clique em **Gerenciar** &gt; **Acesso (IAM)** e, em seguida, selecione **Usuários**. 
+2. Clique em **Políticas de acesso** > **Designar acesso**.
+3. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
+4. Selecione **Centro de suporte**.
+5. Selecione a função **Visualizador**, **Editor** ou **Administrador**, dependendo do tipo de acesso que você deseja que esse grupo tenha e clique em **Designar**.
+6. Se você deseja que um usuário seja capaz de visualizar todos os outros usuários na conta, também é possível designar a ele a função de visualizador de gerenciamento de usuários. 

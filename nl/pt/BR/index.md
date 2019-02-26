@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -34,7 +34,7 @@ lastupdated: "2018-01-09"
 O SLO atualizado para objetivos de tempo de resposta inicial do suporte premium foi efetivado em 1 de outubro de 2018. As atualizações são aplicáveis aos casos de suporte criados em ou após 1 de outubro de 2018. Os objetivos de tempo de resposta inicial do suporte premium anteriores a 1 de outubro de 2018 estão dentro de 1 hora para a severidade 1 e de 90 minutos para a severidade 2.
 {: note}
 
-Para obter mais informações sobre como a gravidade dos casos é designada, consulte [Gravidade do caso e tempos de resposta](/docs/get-support/quicktickresp.html#support-case-severity).
+Para obter mais informações sobre como a gravidade dos casos é designada, consulte [Gravidade do caso e tempos de resposta](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 {: tip} 
 
 ## Suporte premium

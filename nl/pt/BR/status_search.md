@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-13"
+lastupdated: "2019-01-30"
 
 ---
 
@@ -32,11 +32,12 @@ A lista a seguir inclui exemplos de opções de procura de URL:
 * Use identificadores de notificação exclusivos como parâmetro de procura para ir diretamente para os detalhes da notificação.  Por exemplo, `query=INC1000001` visa itens com o ID: `INC1000001`. Neste exemplo, `INC1000001` é o número do caso para uma notificação de manutenção.
 
 ### Filtros de consulta de URL:
+{: #url-query}
 
 | Parâmetro de consulta de URL | Descrição | Valores |
 | ----- | ----- | ----- | ----- |
 | `?type` | Um filtro que se aplica somente à guia Status. Use a consulta `?type` para filtrar a guia Status por incidentes ou manutenção. | `=incident`, `=maintenance` |
-| `?region` | Filtre a página por localização geográfica. | `=na`, `=eu`, `=sa`, `=ap` |
+| `?region` | Filtre a página por localização geográfica.  | `=na`, `=eu`, `=sa`, `=ap` |
 | `?component` | Filtre a página por componentes do {{site.data.keyword.Bluemix_notm}}. Por exemplo, é possível filtrar por um serviço no qual você está interessado. | Aplica-se à maioria dos IDs do catálogo global; por exemplo, `?component=iotf-service` filtrará a página e exibirá somente eventos que afetam a plataforma Internet of Things  |
 {: caption="Tabela 1. Filtros de consulta de URL" caption-side="top"}
 
