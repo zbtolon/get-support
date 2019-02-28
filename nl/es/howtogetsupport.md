@@ -78,7 +78,7 @@ En la Unión Europea (UE), se proporciona soporte 24 horas al día, 7 días a la
 Puede especificar que desea recibir soporte para su cuenta del equipo de soporte que se encuentra físicamente en Europa si se cumplen los criterios siguientes:
   * El usuario maestro o el propietario de la cuenta establece la opción Soporte en la UE para su cuenta
   * Los recursos están en el centro de datos europeo apropiado
-  * Selecciona el nivel del caso de **Soporte en la UE** al abrir el caso.
+  * Selecciona el nivel del caso de **Soporte en la UE** al abrir el caso
 
 Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojados en la región de Alemania pueden recibir soporte de un equipo que esté físicamente ubicado en Europa.  
 
