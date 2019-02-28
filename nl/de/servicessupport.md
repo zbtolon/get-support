@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -18,15 +18,15 @@ lastupdated: "2018-11-28"
 # Supportoptionen für Ihren Angebotstyp
 {: #support-different-services}
 
-Sie können das Support Center verwenden, um auf Ihre verfügbaren Supportoptionen zuzugreifen. Sie Supportoption, die Sie erhalten, unterscheidet sich je nach vorhandenem Servicetyp.
+Sie können das Support Center verwenden, um auf Ihre verfügbaren Supportoptionen zuzugreifen. Sie Supportoption, die Sie erhalten, unterscheidet sich je nach vorhandenem Servicetyp. 
 {:shortdesc}
 
-## {{site.data.keyword.IBM}} allgemein verfügbarer Service
+## {{site.data.keyword.IBM_notm}} allgemein verfügbarer Service
 {: #s-services-gaorcont}
 
-Für Services oder Container-Images, die von IBM bereitgestellt werden und allgemein verfügbar sind, wird Support für Probleme bereitgestellt, die sich als Fehler herausstellen.
+Für Services oder Container-Images, die von {{site.data.keyword.IBM}} bereitgestellt werden und allgemein verfügbar sind, wird für Probleme, die sich als Fehler herausstellen, Support zur Verfügung gestellt.
 
-Wenn die Ursachenanalyse feststellt, dass das Problem ein Fehler im allgemein verfügbaren IBM Service oder Container-Image ist, wird der Fall je nach Priorität, die Sie ihm zuordnen, behandelt. 
+Wenn die Ursachenanalyse feststellt, dass das Problem ein Fehler im allgemein verfügbaren IBM Service oder Container-Image ist, wird der Fall je nach Priorität, die Sie ihm zuordnen, behandelt.
 
 ## IBM Betaservice
 {: #s-services-betaorcont}

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2018
 
-lastupdated: "2018-11-10"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -12,6 +12,7 @@ lastupdated: "2018-11-10"
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # 撤销对 TLS 1.0 和 1.1 的支持
@@ -95,7 +96,8 @@ cf restage <application_name>
 
 某些产品或服务（例如，{{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry 和 {{site.data.keyword.Bluemix_notm}} 目录中的服务）可能会在多个位置中提供。将在当前受支持的所有位置中除去 TLS 1.0 和 1.1。
 
-**重要注意事项：**不包括 {{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，也不包括这些部署中托管的任何 {{site.data.keyword.Bluemix_notm}} 服务。如果部署仍支持 TLS 1.0 或 1.1，请与客户或支持代表一起确定何时除去这些支持对您来说比较合适。
+不包括 {{site.data.keyword.Bluemix_notm}} Private 或 {{site.data.keyword.Bluemix_notm}} Local System 部署，也不包括这些部署中托管的任何 {{site.data.keyword.Bluemix_notm}} 服务。如果部署仍支持 TLS 1.0 或 1.1，请与客户或支持代表一起确定何时除去这些支持对您来说比较合适。
+{: note}
 
 ### 通过 {{site.data.keyword.Bluemix_notm}} 目录提供的产品或服务
 
@@ -247,7 +249,7 @@ cf restage <application_name>
   * 将 `gateway.watsonplatform.net` 替换为 `gateway-tls10.wastonplatform.net`
   * 将 `stream.watsonplatform.net` 替换为 `stream-tls10.watsonplatform.net`
 
-从 `gateway.patsonplatform.net` 和 `stream.watsonplatform.net` 中除去对 TLS 1.0、1.1 和 1.2 的支持后，您可以继续使用 `gateway-tls10.watsonplatform.net` 和 `stream-tls10.watsonplatform.net` 来支持 TLS 的这些版本。
+从 `gateway.patsonplatform.net` 和 `stream.watsonplatform.net` 中除去 TLS 1.0 和 1.1 后，您可以继续使用 `gateway-tls10.watsonplatform.net` 和 `stream-tls10.watsonplatform.net` 来支持 TLS 的这些版本。
 
 ## 取得联系
 {: #tlssupport}

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2018-01-09"
 
 ---
 
@@ -34,7 +34,7 @@ Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyw
 Lo SLO aggiornato per gli obiettivi di tempo di risposta iniziale del supporto premium sono effettivi dal primo ottobre 2018. Gli aggiornamenti sono applicabili ai casi di supporto creati il primo ottobre 2018 o dopo tale data. Gli obiettivi di tempo di risposta iniziale del supporto premium precedenti al primo ottobre 2018 sono entro 1 ora per la severità 1 ed entro 90 minuti per la severità 2.
 {: note}
 
-Per ulteriori informazioni su come viene assegnata la severità dei casi, vedi [Severità dei casi e tempi di risposta](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
+Per ulteriori informazioni su come viene assegnata la severità dei casi, vedi [Severità dei casi e tempi di risposta](/docs/get-support/quicktickresp.html#support-case-severity).
 {: tip} 
 
 ## Supporto premium

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2018, 2019 
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -59,17 +59,17 @@ Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规�
 
 如果问题不是因为中断而引起的，并且您找不到特定问题的答案，那么可以通过提交支持案例来联系客户支持。 
 
-## 联系 {{site.data.keyword.Bluemix_dedicated_notm}} 或 {{site.data.keyword.Bluemix_local_notm}} 支持
+## 联系 {{site.data.keyword.Bluemix_dedicated_notm}} 或 {{site.data.keyword.Bluemix_local_notm}} 支持人员
 {: #contacting-bluemix-support-dedicated-local}
 
 如果您的帐户是 {{site.data.keyword.Bluemix_dedicated_notm}} 或 {{site.data.keyword.Bluemix_local_notm}}，那么支持由 {{site.data.keyword.Bluemix_notm}} 支持团队提供。但是，如果您没有 {{site.data.keyword.ibmid}}，那么可以通过几个不同的选项来获取支持。
 
-* 与支持人员联系，方法是使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} 帮助页面来开具新案例。在此表单中，您可以使用电子邮件地址或 {{site.data.keyword.ibmid}}。在“区域”字段中，选择 **{{site.data.keyword.Bluemix_dedicated_notm}}** 或 **{{site.data.keyword.Bluemix_local_notm}}** 选项。
+* 与支持人员联系，方法是使用 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} 帮助页面来打开新案例。在此表单中，您可以使用电子邮件地址或 {{site.data.keyword.ibmid}}。在“区域”字段中，选择 **{{site.data.keyword.Bluemix_dedicated_notm}}** 或 **{{site.data.keyword.Bluemix_local_notm}}** 选项。
 * 如果您有 {{site.data.keyword.ibmid}}并有权访问 {{site.data.keyword.Bluemix_notm}} Public 环境，请在菜单栏中单击**支持**。然后，在“获取支持”选项卡上单击**创建新案例**。针对您的问题选择主题区域，然后遵循提示来提交案例。
 * 如果没有 {{site.data.keyword.ibmid}}，那么可以联系您组织中拥有 IBM 标识的人员，也可以与 IBM 代表合作。
 
 根据您的请求，可以在 Dedicated 或 Local 环境中 {{site.data.keyword.Bluemix_notm}} 控制台的**支持**页面上显示您组织中可用作支持案例联系人的用户的列表。
-{:tip}
+  {:tip}
 
 ## 请求对欧盟中资源的支持
 {: #eusupported}
@@ -79,19 +79,19 @@ Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规�
 在满足以下条件时，可以指定希望实际身处欧洲的支持团队为您的帐户提供支持：
   * 您的主用户或帐户所有者为您的帐户设置了“欧盟支持”选项
   * 您的资源位于相应的欧洲数据中心
-  * 您开具案例时，选择了**欧盟支持**案例级别
+  * 您打开案例时，选择了**欧盟支持**案例级别
 
 对于 {{site.data.keyword.Bluemix_notm}} 平台，只有在德国区域托管的服务才能由实际位于欧洲的团队提供支持。  
 
-如果为帐户设置了**欧盟支持**选项，那么该设置会应用于未来针对欧盟区域中托管的任何服务或数据中心的问题而开具的所有案例。在设置此选项之前开具的所有案例均不受影响。如果设置了此选项，但添加了欧盟数据中心或德国区域之外的资源，那么这些资源的问题不一定会由欧洲的支持团队进行处理。
+如果为帐户设置了**欧盟支持**选项，那么该设置会应用于未来针对欧盟区域中托管的任何服务或数据中心的问题而打开的所有案例。在设置此选项之前打开的所有案例均不受影响。如果设置了此选项，但添加了欧盟数据中心或德国区域之外的资源，那么这些资源的问题不一定会由欧洲的支持团队进行处理。
 
-可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“帐单”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持设置](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)。
+可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“计费”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持设置](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)。
 
 ### 欧盟支持服务
 {: #eusupportedservices}
 
 设置**欧盟支持**选项后，还可以利用其他控件在欧盟地区支持和操作 {{site.data.keyword.Bluemix_notm}} 服务。可以使用过滤器在 {{site.data.keyword.Bluemix_notm}}“目录”中搜索具有支持套餐的平台服务。要查看平台服务的欧盟支持套餐，请完成以下步骤：
-  1. 打开 [{{site.data.keyword.Bluemix_notm}}“目录”![外部链接图标](../icons/launch-glyph.svg "外部链接图标")]({DomainName}/catalog/){: new_window}。
+  1. 打开 [{{site.data.keyword.Bluemix_notm}}“目录”![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://{DomainName}/catalog/){: new_window}。
   2. 单击**过滤器**。
   3. 从下拉列表中选择**欧盟支持**。设置“欧盟支持”过滤器后，就只能看到**基础架构**和**平台**类别中具有欧盟支持套餐的服务。
   4. 选择所需的服务。您可以查看该服务的欧盟支持区域和套餐。
@@ -108,10 +108,10 @@ Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规�
 ## 报告潜在安全漏洞
 {: #report-security-vulnerability}
 
-如果您发现潜在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，请通过开具支持案例进行报告。
+如果您发现潜在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，请通过打开支持案例进行报告。
 
 要报告潜在安全漏洞，请完成以下步骤：
-1. 开具严重性级别为 1 的案例，或开具您的支持所允许最高严重性级别的案例。有关如何开具案例的信息，请参阅[创建支持案例](/docs/get-support/opencase.html#open-case)。
+1. 打开严重性级别为 1 的案例，或打开您的支持所允许最高严重性级别的案例。有关如何打开案例的信息，请参阅[创建支持案例](/docs/get-support/opencase.html#open-case)。
 2. 在案例摘要中清楚地描述该案例是关于潜在安全漏洞的。
 3. 通过包含以下某项，提供潜在安全漏洞的详细信息：
     * 可以联系到您来讨论此问题的电话号码。

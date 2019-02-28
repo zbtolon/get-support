@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2019
+  years: 1994, 2018
 
-lastupdated: "2019-02-14"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -39,27 +39,25 @@ TLS バージョンのサポートを変更することによって、セキュ�
 TLS 1.0 または 1.1 のサポートが終了されるいずれかの製品またはサービスを使用している場合、接続が TLS 1.0 または 1.1 を必要としないことを確認する必要があります。
 
 ### {{site.data.keyword.Bluemix_notm}} 上の Cloud Foundry
-{: #cf}
 
 Cloud Foundry アプリケーションに関しては、{{site.data.keyword.Bluemix_notm}} 外部からアプリケーションへの接続は影響を受けないことを確認しておく必要があります。 また、アプリケーションから {{site.data.keyword.Bluemix_notm}} 上の別の Cloud Foundry アプリケーションへの接続が影響を受けないことも確認してください。
 
-Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](/docs/overview?topic=overview-browsers-platform#browsers)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
+Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](/docs/overview/prereqs.html#browsers)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
 {: tip}
 
 #### Cloud Foundry アプリケーションへの接続
-{: #connect-cf}
-`*.app.domain.cloud` ドメインのすべての Cloud Foundry アプリケーション・エンドポイントに、TLS 1.2 のみをサポートする代替エンドポイントからアクセスできます。
 
-代替エンドポイントを使用するには、アプリケーションのサブドメインの後に `alt.` を追加します。 例えば、アプリケーションが `https://myapplication.app.domain.cloud` でホストされている場合、`https://myapplication.alt.app.domain.cloud` を使用します。 また、`https://myapplication.eu-gb.app.domain.cloud` であれば、`https://myapplication.alt.eu-gb.app.domain.cloud` を使用します。
+`*.mybluemix.net` ドメインのすべての Cloud Foundry アプリケーション・エンドポイントに、TLS 1.2 のみをサポートする代替エンドポイントからアクセスできます。
+
+代替エンドポイントを使用するには、アプリケーションのサブドメインの後に `alt.` を追加します。 例えば、アプリケーションが `https://myapplication.mybluemix.net` でホストされている場合、`https://myapplication.alt.mybluemix.net` を使用します。 また、`https://myapplication.eu-gb.mybluemix.net` であれば、`https://myapplication.alt.eu-gb.mybluemix.net` を使用します。
 
 代替エンドポイントに正常に接続できる場合は、影響を受けません。
 
 正常に接続できない場合は、クライアント、クライアント・ライブラリー、またはクライアント構成を変更して、TLS 1.2 に対応できるようにする必要があります。
 
 #### Cloud Foundry アプリケーション間の接続
-{: #connect2}
 
-以下のコマンドを使用して、他のアプリケーションに接続するときに `*.app.domain.cloud` ドメイン上の使用可能な代替エンドポイントに自動的にリダイレクトするように Cloud Foundry アプリケーションを構成できます。
+以下のコマンドを使用して、他のアプリケーションに接続するときに `*.mybluemix.net` ドメイン上の使用可能な代替エンドポイントに自動的にリダイレクトするように Cloud Foundry アプリケーションを構成できます。
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -75,7 +73,6 @@ cf restage <application_name>
 {: tip}
 
 ### Watson 製品およびサービス
-{: #watson-serv}
 
 Watson 製品およびサービス用に、接続を以下のように置き換えてください。
   * `gateway.watsonplatform.net` を `gateway-tls12.watsonplatform.net` に置き換えます
@@ -89,7 +86,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 {: tip}
 
 ### その他の製品またはサービス
-{: #other-serv}
 
 使用可能な代替の TLS 1.2 専用エンドポイントを持たない製品またはサービスの場合、提供されているクライアントの資料を参照してください。 サポートされる TLS のバージョンおよび使用中のバージョンを判別する方法については、クライアント・ライブラリーを参照してください。 
 
@@ -104,7 +100,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 {: note}
 
 ### {{site.data.keyword.Bluemix_notm}} カタログから使用可能な製品またはサービス
-{: #available}
 
 #### クラウド・プラットフォーム
 
@@ -112,12 +107,10 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * {{site.data.keyword.Bluemix_notm}} インフラストラクチャー (`api.softlayer.com` および `api.service.softlayer.com`)
 
 #### API
-{: #apis}
 
 * API Connect
 
 #### アプリケーション・サービス
-{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -148,7 +141,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * Managed MS-SQL Database Server\*
 
 #### DevOps
-{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -163,7 +155,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * Runbook Automation\*
 
 #### 金融
-{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -174,12 +165,10 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * Simulated Instrument Analytics\*
 
 #### 機能
-{: #function}
 
 * 機能
 
 #### インテグレーション
-{: #integrate}
 
 * App Connect
 * Product Insights
@@ -187,12 +176,10 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * API Harmony\*
 
 #### IoT
-{: #iot}
 
 * 電機向け IoT
 
 #### モバイル
-{: #mobile}
 
 * App ID†
 * Mobile Analytics
@@ -201,13 +188,11 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 * App Launch\*
 
 #### セキュリティー
-{: #security-app}
 
 * App ID†
 * SSL Certificates†
 
 #### Watson
-{: #watson}
 
 * Conversation
 * Discovery
@@ -229,7 +214,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 ‡ 非推奨。既存のお客様のみが使用できます。
 
 ### IBM Marketplace から使用可能な製品またはサービス
-{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -255,7 +239,6 @@ Watson 製品およびサービス用に、接続を以下のように置き換�
 一部の製品とサービスは、1 次エンドポイントで TLS 1.0 および 1.1 が廃止された後もそれらを引き続きサポートする代替エンドポイントを使用可能にします。
 
 ### {{site.data.keyword.Bluemix_notm}} インフラストラクチャー
-{: #infrastructure}
 
 TLS 1.0 および 1.1 のサポートが `api.softlayer.com` および `api.service.softlayer.com` から削除されるときには、代替エンドポイントが告知され、30 日間使用可能になります。
 

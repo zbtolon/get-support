@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2019
+  years: 1994, 2018
 
-lastupdated: "2019-02-14"
+lastupdated: "2018-01-05"
 
 ---
 
@@ -39,27 +39,25 @@ La plupart des connexions vers les produits et services {{site.data.keyword.Blue
 Si vous utilisez l'un des produits ou services sur lequel cette prise en charge a été retirée, vous devez vérifier que vos connexions ne requièrent pas TLS 1.0 ou 1.1.
 
 ### Cloud Foundry sur {{site.data.keyword.Bluemix_notm}}
-{: #cf}
 
 Pour les applications Cloud Foundry, vous devez vérifier que les connexions de l'extérieur de {{site.data.keyword.Bluemix_notm}} vers votre application ne sont pas impactées. Vérifiez également que les connexions depuis votre application vers une autre application Cloud Foundry sur {{site.data.keyword.Bluemix_notm}} ne sont pas impactées.
 
-Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](/docs/overview?topic=overview-browsers-platform#browsers) pour {{site.data.keyword.Bluemix_notm}}.
+Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](/docs/overview/prereqs.html#browsers) pour {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connexion à votre application Cloud Foundry
-{: #connect-cf}
-Tous les noeuds finaux d'application Cloud Foundry sur le domaine `*.app.domain.cloud` sont accessibles via un noeud final alternatif ne prenant en charge que TLS 1.2.
 
-Pour utiliser le noeud final alternatif, ajoutez `alt.` après le sous-domaine de votre application. Par exemple, si votre application est hébergée à l'adresse `https://myapplication.app.domain.cloud`, utilisez `https://myapplication.alt.app.domain.cloud` ou pour `https://myapplication.eu-gb.app.domain.cloud`, utilisez `https://myapplication.alt.eu-gb.app.domain.cloud`.
+Tous les noeuds finaux d'application Cloud Foundry sur le domaine `*.mybluemix.net` sont accessibles via un noeud final alternatif ne prenant en charge que TLS 1.2.
+
+Pour utiliser le noeud final alternatif, ajoutez `alt.` après le sous-domaine de votre application. Par exemple, si votre application est hébergée à l'adresse `https://myapplication.mybluemix.net`, utilisez `https://myapplication.alt.mybluemix.net`. ou pour `https://myapplication.eu-gb.mybluemix.net`, utilisez `https://myapplication.alt.eu-gb.mybluemix.net`.
 
 Si vous parvenez à vous connecter au noeud final alternatif, vous n'êtes pas impacté.
 
 Si vous ne parvenez pas à vous connecter, vous devrez modifier votre client, les bibliothèques client ou la configuration client en activant TLS 1.2.
 
 #### Connexion entre applications Cloud Foundry
-{: #connect2}
 
-Utilisez la commande suivante afin de configurer votre application Cloud Foundry pour redirection automatique vers les noeuds finaux alternatifs disponibles sur le domaine `*.app.domain.cloud` lorsque vous vous connectez à d'autres applications :
+Utilisez la commande suivante afin de configurer votre application Cloud Foundry pour redirection automatique vers les noeuds finaux alternatifs disponibles sur le domaine `*.mybluemix.net` lorsque vous vous connectez à d'autres applications :
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -75,7 +73,6 @@ Pour utiliser les noeuds finaux alternatifs, votre client doit prendre en charge
 {: tip}
 
 ### Produits et services Watson
-{: #watson-serv}
 
 Pour les produits et services Watson, effectuez les remplacements suivants pour vos connexions :
   * Remplacez `gateway.watsonplatform.net` par `gateway-tls12.watsonplatform.net`
@@ -89,7 +86,6 @@ Aucun noeud final alternatif pour les produits et services Watson dans des empla
 {: tip}
 
 ### Autres produits ou services
-{: #other-serv}
 
 Pour les produits ou services qui ne disposent pas de noeuds finaux TLS 1.2 alternatifs, reportez-vous à la documentation disponible pour votre client. Pour plus d'informations sur l'identification des versions TLS prises en charge et de la version que vous utilisez, consultez les bibliothèques client. 
 
@@ -104,7 +100,6 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 {: note}
 
 ### Produits ou services disponibles depuis le catalogue {{site.data.keyword.Bluemix_notm}}
-{: #available}
 
 #### Plateforme cloud
 
@@ -112,12 +107,10 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * Infrastructure {{site.data.keyword.Bluemix_notm}} (`api.softlayer.com` et `api.service.softlayer.com`)
 
 #### API
-{: #apis}
 
 * API Connect
 
 #### Services d'application
-{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -148,7 +141,6 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * Managed MS-SQL Database Server\*
 
 #### DevOps
-{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -163,7 +155,6 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * Runbook Automation\*
 
 #### Finance
-{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -174,12 +165,10 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * Simulated Instrument Analytics\*
 
 #### Fonctions
-{: #function}
 
 * Fonctions
 
 #### Intégration
-{: #integrate}
 
 * App Connect
 * Product Insights
@@ -187,12 +176,10 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * API Harmony\*
 
 #### Internet of Things
-{: #iot}
 
 * IoT for Electronics
 
 #### Mobile
-{: #mobile}
 
 * App ID†
 * Mobile Analytics
@@ -201,13 +188,11 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 * App Launch\*
 
 #### Sécurité
-{: #security-app}
 
 * App ID†
 * SSL Certificates†
 
 #### Watson
-{: #watson}
 
 * Conversation
 * Discovery
@@ -229,7 +214,6 @@ Les déploiements d'{{site.data.keyword.Bluemix_notm}} Private, d'{{site.data.ke
 ‡ Déprécié, disponible uniquement pour les clients existants.
 
 ### Produits ou services disponibles depuis IBM Marketplace
-{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -255,7 +239,6 @@ Il se peut que votre produit ou service prenne déjà en charge TLS 1.2 ou que l
 Certains produits et services activent des noeuds finaux alternatifs qui continuent à prendre en charge TLS 1.0 et 1.1 une fois que ces derniers sont retirés des noeuds finaux principaux.
 
 ### Infrastructure {{site.data.keyword.Bluemix_notm}}
-{: #infrastructure}
 
 Lorsque la prise en charge de TLS 1.0 et 1.1 est retirée de `api.softlayer.com` et de `api.service.softlayer.com`, des noeuds finaux alternatifs sont annoncés et restent disponibles pendant 30 jours.
 

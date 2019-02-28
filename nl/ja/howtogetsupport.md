@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -28,7 +28,7 @@ lastupdated: "2019-01-29"
 
 {{site.data.keyword.Bluemix_notm}} コンソールのサポート・センターから、{{site.data.keyword.Bluemix_notm}} コミュニティーやスタック・オーバーフロー (技術的問題の場合) など、サポート・オプションにアクセスできます。
 
-サポート・センターを使用して、サポート・オプションにアクセスできます。 詳しくは、[サポート・センターの使用](/docs/get-support?topic=get-support-using-avatar#using-avatar)を参照してください。 使用可能なサポートのレベルと、サポート Case に割り当てることのできる重大度は、アカウントに選択したサポート・プランによって決まります。 詳しくは、[Case 重大度と応答時間](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)を参照してください。
+サポート・センターを使用して、サポート・オプションにアクセスできます。 詳しくは、[サポート・センターの使用](/docs/get-support/howtogetsupport.html#using-avatar)を参照してください。 使用可能なサポートのレベルと、サポート Case に割り当てることのできる重大度は、アカウントに選択したサポート・プランによって決まります。 詳しくは、[Case 重大度と応答時間](/docs/get-support/ticketweight.html#support-ticket-severity)を参照してください。
 
 ## {{site.data.keyword.Bluemix_notm}} サポートの満足度調査  
 {: #survey}
@@ -42,7 +42,7 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 
 サポート・センターの検索フィールドを使用して、{{site.data.keyword.Bluemix_notm}} 資料およびスタック・オーバーフロー・フォーラム全体から疑問点に対する回答を見つけることができます。 サポート・センターからサポート Case を管理することもできます。 サポート・センターの「フォーラム」セクションに、技術的質問向けのスタック・オーバーフロー・フォーラムへのリンクと、その他のすべての質問向けの developerWorks (IBM Developer Answers) フォーラムへのリンクの両方があります。  
 
-[サポート・プラン](/docs/get-support?topic=get-support-support-plans#support-plans)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
+[サポート・プラン](/docs/get-support/index.html)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
 
 サポート利用のための優先される方法はサポート・センターですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「ヘルプの利用」](http://www.ibm.biz/bluemixsupport){: new_window}ページを使用して Case を送信できます。
 
@@ -85,7 +85,7 @@ EU サポート対象オプションを選択したお客様を対象に、ヨ�
 
 アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべての Case に適用されます。 このオプションを設定する前にオープンした Case には影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
 
-{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」設定の有効化](/docs/account?topic=account-bill_eusupported#bill_eusupported)を参照してください。
+{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」設定の有効化](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)を参照してください。
 
 ### EU サポート対象のサービス
 {: #eusupportedservices}
@@ -111,7 +111,7 @@ EU サポート対象オプションを選択したお客様を対象に、ヨ�
 潜在的な {{site.data.keyword.Bluemix_notm}} セキュリティー脆弱性を見つけた場合、サポート Case をオープンして報告してください。
 
 潜在的なセキュリティー脆弱性を報告するには、以下の手順を実行します。
-1. 重大度 1  Case 、またはサポートが許可する最高の重大度レベルの Case をオープンします。 Case のオープン方法については、[サポート Case の作成](/docs/get-support?topic=get-support-open-case#open-case)を参照してください。
+1. 重大度 1  Case 、またはサポートが許可する最高の重大度レベルの Case をオープンします。 Case のオープン方法については、[サポート Case の作成](/docs/get-support/opencase.html#open-case)を参照してください。
 2. その Case が潜在的なセキュリティー脆弱性に関するものであることを、 Case のサマリーに明記します。
 3. 潜在的なセキュリティー脆弱性の詳細を記述し、以下のいずれかの項目を含めます。
     * その問題について意見を交わすためにアクセス可能な電話番号。

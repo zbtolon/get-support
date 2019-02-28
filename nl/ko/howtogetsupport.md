@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -28,7 +28,7 @@ lastupdated: "2019-01-29"
 
 {{site.data.keyword.Bluemix_notm}} 콘솔 지원 센터에서 기술적인 문제에 대해 {{site.data.keyword.Bluemix_notm}} 커뮤니티 또는 Stack Overflow와 같은 지원 옵션에 액세스할 수 있습니다.
 
-지원 센터를 사용하여 지원 옵션에 액세스할 수 있습니다. 자세한 정보는 [지원 센터 사용](/docs/get-support?topic=get-support-using-avatar#using-avatar)을 참조하십시오. 계정에 대해 선택한 지원 플랜은 사용 가능한 지원 레벨과 지원 케이스에 지정할 수 있는 심각도를 결정합니다. 자세한 정보는 [케이스 심각도 및 응답 시간](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)을 참조하십시오.
+지원 센터를 사용하여 지원 옵션에 액세스할 수 있습니다. 자세한 정보는 [지원 센터 사용](/docs/get-support/howtogetsupport.html#using-avatar)을 참조하십시오. 계정에 대해 선택한 지원 플랜은 사용 가능한 지원 레벨과 지원 케이스에 지정할 수 있는 심각도를 결정합니다. 자세한 정보는 [케이스 심각도 및 응답 시간](/docs/get-support/ticketweight.html#support-ticket-severity)을 참조하십시오.
 
 ## {{site.data.keyword.Bluemix_notm}} 지원에 대한 만족도 설문조사  
 {: #survey}
@@ -42,7 +42,7 @@ IBM은 주기적으로 {{site.data.keyword.Bluemix_notm}} 고객에게 설문조
 
 지원 센터 검색 필드를 사용하면 {{site.data.keyword.Bluemix_notm}} 문서 및 Stack Overflow 포럼에서 질문에 대한 응답을 찾을 수 있습니다. 또한 지원 센터에서 지원 케이스를 관리할 수도 있습니다. 지원 센터의 포럼 섹션 아래에서 Stack Overflow 포럼(기술 관련 질문의 경우) 및 developerWorks(IBM Developer Answers) 포럼(기타 모든 질문의 경우) 둘 다에 대한 링크를 찾을 수 있습니다.  
 
-기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support?topic=get-support-support-plans#support-plans)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
+기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support/index.html)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
 
 지원 센터는 지원을 받기 위한 선호되는 방법입니다. 하지만 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [도움 받기](http://www.ibm.biz/bluemixsupport){: new_window} 페이지를 사용하여 케이스를 제출할 수 있습니다.
 
@@ -84,7 +84,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 
 
 계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스 또는 데이터 센터 관련 문제에 대해 열리는 향후 모든 케이스에 적용됩니다. 이 옵션을 설정하기 전에 열린 케이스에는 영향이 없습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
 
-{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 설정 사용](/docs/account?topic=account-bill_eusupported#bill_eusupported)을 참조하십시오.
+{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 설정 사용](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)을 참조하십시오.
 
 ### EU 지원 서비스
 {: #eusupportedservices}
@@ -110,7 +110,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 
 잠재적 {{site.data.keyword.Bluemix_notm}} 보안 취약성을 발견하는 경우에는 지원 케이스를 열어 이를 보고하십시오.
 
 잠재적 보안 취약성을 보고하려면 다음 단계를 완료하십시오.
-1. 심각도 1 케이스 또는 지원에서 허용하는 최상위 심각도 레벨의 케이스를 여십시오. 케이스를 여는 방법에 대한 정보는 [지원 케이스 작성](/docs/get-support?topic=get-support-open-case#open-case)을 참조하십시오.
+1. 심각도 1 케이스 또는 지원에서 허용하는 최상위 심각도 레벨의 케이스를 여십시오. 케이스를 여는 방법에 대한 정보는 [지원 케이스 작성](/docs/get-support/opencase.html#open-case)을 참조하십시오.
 2. 케이스가 잠재적 보안 취약성에 대한 케이스임을 케이스 요약에 명시하십시오.
 3. 다음 항목 중 하나를 포함하여 잠재적 보안 취약성의 세부사항을 제공하십시오.
     * 해당 문제를 논의하기 위해 통화할 수 있는 전화번호.

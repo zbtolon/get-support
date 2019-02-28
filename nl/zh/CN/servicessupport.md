@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-01-09"
 
 ---
 
@@ -21,10 +21,10 @@ lastupdated: "2018-11-28"
 您可以使用支持中心来访问可用的支持选项。您收到的支持选项根据您所拥有的服务类型不同而有所不同。
 {:shortdesc}
 
-## {{site.data.keyword.IBM}} 一般可用服务
+## {{site.data.keyword.IBM_notm}} 一般可用服务
 {: #s-services-gaorcont}
 
-对于 IBM 提供的一般可用服务或容器映像，将针对确定为缺陷的问题提供支持。
+对于 {{site.data.keyword.IBM}} 提供的一般可用服务或容器映像，将针对确定为缺陷的问题提供支持。
 
 如果根本原因分析确定问题为 IBM 一般可用服务或容器映像中的缺陷，那么会根据您分配的严重性来处理案例。
 
