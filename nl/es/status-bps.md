@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -45,8 +45,9 @@ Para cambiar de ubicación, vaya al panel de control y expanda el menú **UBICAC
 En la mayoría de los casos, se puede seguir utilizando {{site.data.keyword.Bluemix_notm}} con normalidad, incluso durante los períodos de mantenimiento. Sin embargo, no siempre se pueden evitar las interrupciones menores del servicio. La ejecución de aplicaciones suele seguir disponible aunque se interrumpan temporalmente las funciones de gestión de aplicaciones de {{site.data.keyword.Bluemix_notm}}, como iniciar y detener apps. Para maximizar la disponibilidad de las aplicaciones en ejecución, ejecute al menos tres instancias de cada aplicación.
 
 ## Suscripción a notificaciones por correo electrónico
+{: #monbp-subscribing}
 
-Si es el propietario de una cuenta Lite, puede seleccionar si desea recibir notificaciones de correo electrónico sobre sucesos no planificados de la plataforma {{site.data.keyword.Bluemix_notm}}, como paradas, y sobre sucesos planificados, como los de mantenimiento. Además, si tiene una cuenta de Pago según uso o de Suscripción, puede elegir si desea recibir notificaciones por correo electrónico relacionados con la infraestructura de {{site.data.keyword.Bluemix_notm}} sobre sucesos no planificados, mantenimiento y anuncios. Para obtener más información, consulte [Establecimiento de preferencias de correo electrónico](/docs/account/email.html).
+Si es el propietario de una cuenta Lite, puede seleccionar si desea recibir notificaciones de correo electrónico sobre sucesos no planificados de la plataforma {{site.data.keyword.Bluemix_notm}}, como paradas, y sobre sucesos planificados, como los de mantenimiento. Además, si tiene una cuenta de Pago según uso o de Suscripción, puede elegir si desea recibir notificaciones por correo electrónico relacionados con la infraestructura de {{site.data.keyword.Bluemix_notm}} sobre sucesos no planificados, mantenimiento y anuncios. Para obtener más información, consulte [Establecimiento de preferencias de correo electrónico](/docs/account?topic=account-account_setup#account_setup).
 
 
 

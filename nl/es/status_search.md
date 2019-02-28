@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2018
+  years: 2018,2019
 
-lastupdated: "2018-11-13"
+lastupdated: "2019-01-30"
 
 ---
 
@@ -32,6 +32,7 @@ La lista siguiente incluye ejemplos de opciones de búsqueda de URL:
 * Utilice identificadores de notificación exclusivos como parámetro de búsqueda para ir directamente a los detalles de la notificación.  Por ejemplo, `query=INC1000001` tiene como destino los elementos con el ID: `INC1000001`. En este ejemplo, `INC1000001` es el número de caso correspondiente a una notificación de mantenimiento.
 
 ### Filtros de consultas de URL:
+{: #url-query}
 
 | Parámetro consulta URL | Descripción | Valores |
 | ----- | ----- | ----- | ----- |

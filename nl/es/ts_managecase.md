@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-18"
+lastupdated: "2019-02-19"
 
 ---
 
@@ -61,13 +61,28 @@ No puede ver todos los casos de la cuenta porque no tiene acceso para ver a todo
 Cuando intenta ver los casos de soporte asociados a la cuenta, no puede ver todos los casos abiertos. 
 {: tsSymptoms}
 
-El propietario de la cuenta ha establecido como restringido el [valor de visibilidad de la lista de usuarios](/docs/iam/userlist.html#userlistview). Cuando el valor está establecido en restringido, y no tiene una política de acceso adicional para ver los usuarios de la cuenta, no tiene el acceso necesario para ver todos los casos de la cuenta. Solo puede ver los usuarios que ha invitado a la cuenta, aquellos con los que comparte pertenencia a una organización de Cloud Foundry o los que están en su jerarquía de usuarios de la infraestructura clásica. 
+El propietario de la cuenta ha establecido como restringido el [valor de visibilidad de la lista de usuarios](/docs/iam?topic=iam-userlistview#userlistview). Cuando el valor está establecido en restringido, y no tiene una política de acceso adicional para ver los usuarios de la cuenta, no tiene el acceso necesario para ver todos los casos de la cuenta. Solo puede ver los usuarios que ha invitado a la cuenta, aquellos con los que comparte pertenencia a una organización de Cloud Foundry o los que están en su jerarquía de usuarios de la infraestructura clásica. 
 {: tsCauses}
 
 Debe tener asignada una política de IAM con al menos el rol de Visor sobre el servicio de gestión de cuentas de gestión de usuarios, además de la política de acceso al servicio de gestión de cuentas del Centro de soporte. Para ver el acceso actual, vaya a **Gestionar** &gt; **Acceso (IAM)** y seleccione su nombre en la página **Usuarios**. Pulse el separador **Políticas de acceso** y revise las políticas asignadas. 
 {: tsResolve}
 
 Para solucionar el problema, póngase en contacto con el proveedor de la cuenta y solicite el acceso adecuado. 
+
+## ¿Por qué no encuentro un caso que he creado previamente? 
+{: #ts_viewarchivedcase}
+
+No encuentra los casos que ha creado antes de la experiencia de plataforma mejorada de {{site.data.keyword.Bluemix_notm}}. 
+{:shortdesc}
+
+En el separador **Gestionar casos** del centro de soporte, no encuentra ningún caso creado antes del 2 de diciembre de 2018. 
+{: tsSymptoms}
+
+Los casos abiertos antes del 2 de diciembre de 2018 solo son visibles desde **Ver casos archivados**. 
+{: tsCauses}
+
+Para ver los casos, vaya a **Soporte**, seleccione **Gestionar casos** y pulse **Ver casos archivados**.
+{: tsResolve} 
 
 
 
