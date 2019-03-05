@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -45,8 +45,9 @@ lastupdated: "2018-11-14"
 在大部分情況下，即使是在維護時間範圍的期間內，{{site.data.keyword.Bluemix_notm}} 仍可繼續正常使用。不過，無法完全避免服務的輕微岔斷。即使暫時岔斷 {{site.data.keyword.Bluemix_notm}} 的應用程式管理功能（例如啟動及停止應用程式），執行中的應用程式通常仍可持續使用。為了盡量提高執行中應用程式的可用性，針對每一個應用程式請至少執行三個實例。
 
 ## 訂閱電子郵件通知
+{: #monbp-subscribing}
 
-如果您是「精簡」帳戶擁有者，可以選取是否要收到有關 {{site.data.keyword.Bluemix_notm}} 平台非計劃性事件（例如運作中斷）及計劃性事件（例如維護）的電子郵件通知。此外，如果您有「隨收隨付制」或「訂閱」帳戶，可以選擇是否要收到有關非計劃性事件、維護及公告的 {{site.data.keyword.Bluemix_notm}} 基礎架構電子郵件通知。如需相關資訊，請參閱[設定電子郵件喜好設定](/docs/account/email.html)。
+如果您是「精簡」帳戶擁有者，可以選取是否要收到有關 {{site.data.keyword.Bluemix_notm}} 平台非計劃性事件（例如運作中斷）及計劃性事件（例如維護）的電子郵件通知。此外，如果您有「隨收隨付制」或「訂閱」帳戶，可以選擇是否要收到有關非計劃性事件、維護及公告的 {{site.data.keyword.Bluemix_notm}} 基礎架構電子郵件通知。如需相關資訊，請參閱[設定電子郵件喜好設定](/docs/account?topic=account-account_setup#account_setup)。
 
 
 

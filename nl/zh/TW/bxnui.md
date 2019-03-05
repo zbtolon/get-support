@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0001E
 **訊息**：由於 {{site.data.keyword.Bluemix_notm}} 未偵測到階段作業是否存在，因此未載入頁面。
 
-如需修正此問題的指示，請參閱[為何我會遇到無法載入的主控台頁面？](/docs/account/ts_accessing.html#accessing){: new_window}疑難排解主題。
+如需修正此問題的指示，請參閱[為何我會遇到無法載入的主控台頁面？](/docs/account?topic=account-accessing#accessing){: new_window}疑難排解主題。
 
 ## BXNUI0004E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 應用程式。
@@ -78,7 +78,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0016E
 **訊息**：由於未載入 {{site.data.keyword.Bluemix_notm}} 頁面，因此未擷取應用程式及服務。
 
-如需修正此問題的指示，請參閱[為何我會遇到無法載入的主控台頁面？](/docs/account/ts_accessing.html#accessing){: new_window}。
+如需修正此問題的指示，請參閱[為何我會遇到無法載入的主控台頁面？](/docs/account?topic=account-accessing#accessing){: new_window}。
 
 ## BXNUI0017E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取服務實例。
@@ -168,7 +168,7 @@ lastupdated: "2018-11-28"
 請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0034E
-**訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未從 '{1}' 應用程式中移除 '{0}' 服務。
+**訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未從 '{1}' 應用程式移除 '{0}' 服務。
 
 請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -301,7 +301,7 @@ lastupdated: "2018-11-28"
 * Internet Explorer
 * Safari
 
-如需詳細資料，請參閱[必要條件](/docs/overview/prereqs.html#prereqs){: new_window}。
+如需詳細資料，請參閱[必要條件](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}。
 
 
 ## BXNUI0065E
@@ -455,12 +455,12 @@ lastupdated: "2018-11-28"
 
 由於您的帳戶已取消或已暫停，因此它處於非作用中狀態。
 
-如需修正此問題的指示，請參閱[帳戶處於非作用中](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}疑難排解主題。
+如需修正此問題的指示，請參閱[帳戶處於非作用中](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}疑難排解主題。
 
 ## BXNUI0097E
 **訊息**：必須至少有一個空間與您的組織和地區相關聯，您才能新增應用程式。
 
-從主控台功能表列，按一下**管理** &gt; **帳戶** &gt; **Cloud Foundry 組織**，然後按一下**建立**。建立空間後，請重試。如需修正此問題的相關指示，請參閱[為何沒有與我的現行組織相關聯的空間？](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+從主控台功能表列，按一下**管理** &gt; **帳戶** &gt; **Cloud Foundry 組織**，然後按一下**建立**。建立空間後，請重試。如需修正此問題的相關指示，請參閱[為何沒有與我的現行組織相關聯的空間？](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **訊息**：目前無法擷取認證清單。
@@ -471,7 +471,7 @@ lastupdated: "2018-11-28"
 
 **訊息**：未新增 '{0}' 認證。
 
-請嘗試使用不同名稱，或稍後再重試。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請嘗試使用不同的名稱，或稍後再重試。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0100E
 
@@ -548,7 +548,7 @@ lastupdated: "2018-11-28"
 
 **訊息**：由於您不是作用中帳戶的成員，因此您將會被登出。
 
-您的 {{site.data.keyword.Bluemix_notm}} 帳戶可能已到期或已遭取消，或者，可能您已遭到從組織中移除。
+您的 {{site.data.keyword.Bluemix_notm}} 帳戶可能已到期或已遭取消，或者，可能您已遭到從組織移除。
 請聯絡組織管理員。或者，如需說明及支援選項，請參閱「{{site.data.keyword.Bluemix_notm}} 文件」的「疑難排解」小節。
 
 ## BXNUI0126E
@@ -737,7 +737,7 @@ lastupdated: "2018-11-28"
 
 **訊息**：未擷取組織中的空間。發生網路連線問題，或您的現行組織沒有相關聯的空間。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。或者，如需修正此問題的指示，請參閱[無法擷取組織中的空間](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}疑難排解主題。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。或者，如需修正此問題的指示，請參閱[無法擷取組織中的空間](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}疑難排解主題。
 
 ## BXNUI0516E
 
@@ -992,7 +992,7 @@ lastupdated: "2018-11-28"
 
 聯絡 Cloud Foundry 以建立資源時發生錯誤。Cloud Foundry 訊息："{0}"。
 
-如需修正此問題的指示，請參閱[已超出組織的服務限制](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}疑難排解主題。
+如需修正此問題的指示，請參閱[已超出組織的服務限制](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}疑難排解主題。
 
 ## BXNUI2033E
  **訊息**：未修改 {1} 資源。聯絡 Cloud Foundry 以修改資源時發生錯誤。Cloud Foundry 訊息："{0}"。
@@ -1030,7 +1030,7 @@ lastupdated: "2018-11-28"
 請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2040E
-**訊息**：無法登錄入門範本 ID "{0}" 的 meta 資料。
+**訊息**：無法登錄入門範本 ID 為 "{0}" 的 meta 資料。
 
 請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -1234,7 +1234,7 @@ lastupdated: "2018-11-28"
 請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2082E
-**訊息**：由於發生問題：{0}，因此未讀取上傳憑證的內容。
+**訊息**：由於發生問題：{0}，因此未讀取所上傳憑證的內容。
 
 請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -1291,7 +1291,7 @@ lastupdated: "2018-11-28"
 ## BXNUI2093E
 **訊息**：中繼憑證數目超出容許的數目。
 
-如需容許的憑證數目及其刪除或取代方式的詳細資料，請參閱[上傳 SSL 憑證](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}主題。
+如需容許的憑證數目及其刪除或取代方式的詳細資料，請參閱[上傳 SSL 憑證](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}主題。
 
 ## BXNUI2094E
 **訊息**：由於發生連線錯誤，因此嘗試的作業失敗。

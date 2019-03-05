@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -28,7 +28,7 @@ lastupdated: "2019-01-09"
 
 您可以從 {{site.data.keyword.Bluemix_notm}} 主控台「支援中心」存取支援選項，例如 {{site.data.keyword.Bluemix_notm}} 社群或 Stack Overflow（適用於技術問題）。
 
-您可以使用「支援中心」來存取您的支援選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support/howtogetsupport.html#using-avatar)。您為帳戶所選取的支援方案，決定了可用的支援層次，以及可以指派給支援案例的嚴重性。如需相關資訊，請參閱[案例嚴重性和回應時間](/docs/get-support/ticketweight.html#support-ticket-severity)。
+您可以使用「支援中心」來存取您的支援選項。如需相關資訊，請參閱[使用支援中心](/docs/get-support?topic=get-support-using-avatar#using-avatar)。您為帳戶所選取的支援方案，決定了可用的支援層次，以及可以指派給支援案例的嚴重性。如需相關資訊，請參閱[案例嚴重性和回應時間](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)。
 
 ## {{site.data.keyword.Bluemix_notm}} 支援中心的滿意度意見調查  
 {: #survey}
@@ -42,7 +42,7 @@ IBM 會定期將意見調查傳送給 {{site.data.keyword.Bluemix_notm}} 客戶�
 
 您可以使用「支援中心」搜尋欄位，從 {{site.data.keyword.Bluemix_notm}} 文件及 Stack Overflow 討論區中尋找問題的答案。您也可以從「支援中心」管理支援案例。您可以在「支援中心」的「討論區」區段下尋找 Stack Overflow 討論區（適用於技術問題）及 developerWorks (IBM Developer Answers) 討論區（適用於所有其他問題）的鏈結。  
 
-如果您有基本、進階或超值[支援方案](/docs/get-support/index.html)，可以尋找撥入號碼及會談選項，以取得協助。
+如果您有基本、進階或超值[支援方案](/docs/get-support?topic=get-support-support-plans#support-plans)，可以尋找撥入號碼及會談選項，以取得協助。
 
 「支援中心」是取得支援的偏好方法，但是如果您無法登入 {{site.data.keyword.Bluemix_notm}}，則可以使用[取得協助](http://www.ibm.biz/bluemixsupport){: new_window}頁面來提交案例。
 
@@ -84,7 +84,7 @@ Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討
 
 若為您的帳戶設定**歐盟支援**選項，此選項將適用於您未來針對在歐盟地區管理之任何服務或資料中心問題開立的所有案例。您在設定此選項之前開立的任何案例都不會受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
 
-您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援設定](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)。
+您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援設定](/docs/account?topic=account-bill_eusupported#bill_eusupported)。
 
 ### 歐盟支援服務
 {: #eusupportedservices}
@@ -110,7 +110,7 @@ Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討
 如果您發現潛在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，請開立支援案例來提出報告。
 
 若要提報潛在的安全漏洞，請完成下列步驟：
-1. 開立嚴重性 1 的案例，或具有支援中心允許之最高嚴重性層次的案例。如需如何開立案例的相關資訊，請參閱[建立支援案例](/docs/get-support/opencase.html#open-case)。
+1. 開立嚴重性 1 的案例，或具有支援中心允許之最高嚴重性層次的案例。如需如何開立案例的相關資訊，請參閱[建立支援案例](/docs/get-support?topic=get-support-open-case#open-case)。
 2. 在案例摘要中，清楚說明案例是有關潛在的安全漏洞。
 3. 包括下列其中一個項目，以提供潛在安全漏洞的詳細資料：
     * 可以聯絡到您一起討論問題的電話號碼。

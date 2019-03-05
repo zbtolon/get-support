@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-11-14"
+lastupdated: "2019-02-18"
 
 ---
 
@@ -30,7 +30,7 @@ lastupdated: "2018-11-14"
 ## 检查当前维护时段或进行中事件
 {: #monbp-checcurmaninprog}
 
-如果您怀疑{{site.data.keyword.Bluemix_notm}}未按预期运行，请检查“状态”页面以获取当前维护时段或正在进行的事件。要报告尚未在“状态”页面上列出的事件，请通过单击菜单栏中的**支持**来开具支持案例。然后，在“获取支持”选项卡上单击**创建新案例**。
+如果您怀疑{{site.data.keyword.Bluemix_notm}}未按预期运行，请检查“状态”页面以获取当前维护时段或正在进行的事件。要报告尚未在“状态”页面上列出的事件，请通过单击菜单栏中的**支持**来打开支持案例。然后，在“获取支持”选项卡上单击**创建新案例**。
 
 ## 利用多个 {{site.data.keyword.Bluemix_notm}} 位置
 {: #monbp-multpreg}
@@ -45,8 +45,9 @@ lastupdated: "2018-11-14"
 在大多数情况下，即使在维护时段内，也可以正常继续使用 {{site.data.keyword.Bluemix_notm}}。但是，小的服务中断总是不可避免的。即使 {{site.data.keyword.Bluemix_notm}} 的应用程序管理功能（例如启动和停止应用程序）暂时中断，运行中应用程序通常也会一直可用。要最大限度地提高运行中应用程序的可用性，每个应用程序应至少运行三个实例。
 
 ## 预订电子邮件通知
+{: #monbp-subscribing}
 
-如果您是轻量帐户所有者，那么可以选择是否接收有关 {{site.data.keyword.Bluemix_notm}} 平台计划外事件（如中断）和计划事件（如维护）的电子邮件通知。此外，如果您有现买现付或预订帐户，那么可以选择是否接收有关计划外事件、维护和公告的 {{site.data.keyword.Bluemix_notm}} 基础架构电子邮件通知。有关更多信息，请参阅[设置电子邮件首选项](/docs/account/email.html)。
+如果您是轻量帐户所有者，那么可以选择是否接收有关 {{site.data.keyword.Bluemix_notm}} 平台计划外事件（如中断）和计划事件（如维护）的电子邮件通知。此外，如果您有现收现付或预订帐户，那么可以选择是否接收有关计划外事件、维护和公告的 {{site.data.keyword.Bluemix_notm}} 基础架构电子邮件通知。有关更多信息，请参阅[设置电子邮件首选项](/docs/account?topic=account-account_setup#account_setup)。
 
 
 

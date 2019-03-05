@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018
+  years: 2015, 2019
 
-lastupdated: "2018-11-28"
+lastupdated: "2019-02-01"
 
 ---
 
@@ -23,7 +23,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0001E
 **消息**：未装入页面，因为 {{site.data.keyword.Bluemix_notm}} 未检测到会话是否存在。
 
-有关解决此问题的指示信息，请参阅[为什么我遇到了无法装入的控制台页面？](/docs/account/ts_accessing.html#accessing){: new_window}故障诊断主题。
+有关解决此问题的指示信息，请参阅[为什么我遇到了无法装入的控制台页面？](/docs/account?topic=account-accessing#accessing){: new_window}故障诊断主题。
 
 ## BXNUI0004E
 **消息**：未删除“{0}”应用程序，因为联系 Cloud Foundry 时发生问题。
@@ -78,7 +78,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0016E
 **消息**：未检索到应用程序和服务，因为未装入某个 {{site.data.keyword.Bluemix_notm}} 页面。
 
-有关解决此问题的指示信息，请参阅[为什么我遇到了无法装入的控制台页面？](/docs/account/ts_accessing.html#accessing){: new_window}
+有关解决此问题的指示信息，请参阅[为什么我遇到了无法装入的控制台页面？](/docs/account?topic=account-accessing#accessing){: new_window}
 
 ## BXNUI0017E
 **消息**：未检索到服务实例，因为联系 Cloud Foundry 时发生问题。
@@ -299,7 +299,7 @@ lastupdated: "2018-11-28"
 * Internet Explorer
 * Safari
 
-有关详细信息，请参阅[先决条件](/docs/overview/prereqs.html#prereqs){: new_window}。
+有关详细信息，请参阅[先决条件](/docs/overview?topic=overview-prereqs-platform#prereqs){: new_window}。
 
 
 ## BXNUI0065E
@@ -453,12 +453,12 @@ lastupdated: "2018-11-28"
 
 您的帐户处于不活动状态，因为它已被取消或暂挂。
 
-有关解决此问题的指示信息，请参阅[帐户不活动](https://www.{DomainName}/docs/troubleshoot/ts_accounts.html#ts_accnt_inactive){: new_window}故障诊断主题。
+有关解决此问题的指示信息，请参阅[帐户不活动](/docs/account?topic=account-managingaccounts#managingaccounts){: new_window}故障诊断主题。
 
 ## BXNUI0097E
 **消息**：必须至少有一个空间与您的组织和区域相关联，才能添加应用程序。
 
-在控制台菜单栏中，单击**管理** &gt; **帐户** &gt; **Cloud Foundry 组织**，然后单击**创建**。创建空间后，请重试。有关解决此问题的更多指示信息，请参阅[为什么没有与我当前组织关联的空间？](/docs/account/ts_accounts.html#ts_no_space){: new_window}
+在控制台菜单栏中，单击**管理** &gt; **帐户** &gt; **Cloud Foundry 组织**，然后单击**创建**。创建空间后，请重试。有关解决此问题的更多指示信息，请参阅[为什么没有与我当前组织关联的空间？](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **消息**：此时无法检索凭证列表。
@@ -546,7 +546,7 @@ lastupdated: "2018-11-28"
 
 **消息**：您将被注销，因为您不是活动帐户的成员。
 
-您的 {{site.data.keyword.Bluemix_notm}} 帐户可能已到期或已取消，或者已将您从组织中除去。请联系组织管理员。或者，要获取帮助和支持选项，请参阅“{{site.data.keyword.Bluemix_notm}} 文档”的“故障诊断”部分。
+您的 {{site.data.keyword.Bluemix_notm}} 帐户可能已到期或已取消，或者已将您从组织中除去。请联系组织管理者。或者，要获取帮助和支持选项，请参阅“{{site.data.keyword.Bluemix_notm}} 文档”的“故障诊断”部分。
 
 ## BXNUI0126E
 
@@ -664,7 +664,7 @@ lastupdated: "2018-11-28"
 
 您的用户角色在此空间中没有所需的权限，或者您不是空间的成员。
 
-如果您是空间的成员，那么必须具有开发者用户角色才能创建容器实例。您可向您的组织管理员请求此角色。如果您不是此空间的成员，那么可以请求将您添加到该空间。
+如果您是空间的成员，那么必须具有开发者用户角色才能创建容器实例。您可向您的组织管理者请求此角色。如果您不是此空间的成员，那么可以请求将您添加到该空间。
 
 ## BXNUI0503E
 **消息**：未创建容器，因为发生了内部错误。
@@ -694,7 +694,7 @@ lastupdated: "2018-11-28"
 ## BXNUI0508E
 **消息**：未创建容器组，因为您的用户角色在此空间中没有所需的权限。
 
-要创建容器组，必须具有开发者角色。请向您的组织管理员请求此角色。
+要创建容器组，必须具有开发者角色。请向您的组织管理者请求此角色。
 
 ## BXNUI0509E
 **消息**：未创建容器组，因为发生了内部错误。
@@ -728,13 +728,13 @@ lastupdated: "2018-11-28"
 
 **消息**：您不是 `orgName` 组织中任何空间的开发者。
 
-请尝试选择其他组织或创建空间，或向组织管理员请求开发者角色。
+请尝试选择其他组织或创建空间，或向组织管理者请求开发者角色。
 
 ## BXNUI0515E
 
 **消息**：未检索到组织中的空间。发生了网络连接问题，或者当前组织没有与其相关联的空间。
 
-请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/bluemix/support/#status){: new_window}，检查服务或组件是否存在问题。或者，有关解决此问题的指示信息，请参阅[未检索到组织中的空间](https://www.{DomainName}/docs/apps/ts_apps.html#ts_retrieve_space){: new_window}故障诊断主题。
+请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/bluemix/support/#status){: new_window}，检查服务或组件是否存在问题。或者，有关解决此问题的指示信息，请参阅[未检索到组织中的空间](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}故障诊断主题。
 
 ## BXNUI0516E
 
@@ -778,7 +778,7 @@ lastupdated: "2018-11-28"
 
 **消息**：您无法创建该资源，因为您不是 `orgName` 组织中 `spaceName` 空间的开发者。
 
-请尝试选择其他空间或组织，或者创建空间，或向组织管理员请求开发者角色。
+请尝试选择其他空间或组织，或者创建空间，或向组织管理者请求开发者角色。
 
 ## BXNUI0523E
 
@@ -796,7 +796,7 @@ lastupdated: "2018-11-28"
 
 **消息**：尝试创建注册表失败，因为您无权访问组织 `orgName` 的注册表名称空间。必须有开发者用户角色才能创建注册表。
 
-请向组织管理员请求其他角色。
+请向组织管理者请求其他角色。
 
 ## BXNUI0526E
 
@@ -989,7 +989,7 @@ lastupdated: "2018-11-28"
 
 联系 Cloud Foundry 来创建资源时，发生了错误。Cloud Foundry 消息：“{0}”。
 
-有关解决此问题的指示信息，请参阅[超过组织的服务限制](https://www.{DomainName}/docs/apps/ts_apps.html#ts_servicelimit){: new_window}故障诊断主题。
+有关解决此问题的指示信息，请参阅[超过组织的服务限制](/docs/apps/tutorials?topic=creating-apps-managingapps#ts_servicelimit){: new_window}故障诊断主题。
 
 ## BXNUI2033E
  **消息**：未修改 {1} 资源。正在联系 Cloud Foundry 来修改资源时，发生了错误。Cloud Foundry 消息：“{0}”。
@@ -1184,7 +1184,7 @@ lastupdated: "2018-11-28"
 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2071E
-**消息**：只有管理员才能修改证书。
+**消息**：只有管理者才能修改证书。
 
 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -1288,7 +1288,7 @@ lastupdated: "2018-11-28"
 ## BXNUI2093E
 **消息**：中间证书数超过允许的数量。
 
-有关允许的证书数以及如何删除或更换证书的详细信息，请参阅[上传 SSL 证书](https://www.{DomainName}/docs/apps/secapps.html#ssl_certificate){: new_window}主题。
+有关允许的证书数以及如何删除或更换证书的详细信息，请参阅[上传 SSL 证书](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}主题。
 
 ## BXNUI2094E
 **消息**：尝试的操作失败，因为发生了连接错误。
@@ -1296,7 +1296,7 @@ lastupdated: "2018-11-28"
 请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/bluemix/support/#status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2099E
-**消息**：{{site.data.keyword.Bluemix_notm}} 服务记帐发出了意外异常，消息为：“{0}”
+**消息**：{{site.data.keyword.Bluemix_notm}} 服务计费发出了意外异常，消息为：“{0}”
 
 转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -1311,7 +1311,7 @@ lastupdated: "2018-11-28"
 转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2102E
-**消息**：{{site.data.keyword.Bluemix_notm}} 服务记帐消息：“{0}”
+**消息**：{{site.data.keyword.Bluemix_notm}} 服务计费消息：“{0}”
 
 转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
@@ -1336,11 +1336,11 @@ lastupdated: "2018-11-28"
 转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2109E
-**消息**：未创建或更新服务代理程序，因为没有在组织中为您的用户标识（“{0}”）分配组织管理员角色。
+**消息**：未创建或更新服务代理程序，因为没有在组织中为您的用户标识（“{0}”）分配组织管理者角色。
 
-您必须是组织“{1}”中的组织管理员（如 JSON 输入文件中为 owningOrganization 所指定），才能创建或更新此服务代理程序。  
+您必须是组织“{1}”中的组织管理者（如 JSON 输入文件中为 owningOrganization 所指定），才能创建或更新此服务代理程序。  
 
-验证输入的所属组织是否正确，或者向帐户所有者或组织管理员请求该角色。
+验证输入的所属组织是否正确，或者向帐户所有者或组织管理者请求该角色。
 
 ## BXNUI2111E
 

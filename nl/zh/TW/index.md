@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -35,7 +35,7 @@ lastupdated: "2018-01-09"
 超值支援起始回應時間目標的更新 SLO 自 2018 年 10 月 1 日起生效。更新適用於在 2018 年 10 月 1 日當日或之後建立的支援案例。2018 年 10 月 1 日之前的超值支援起始回應時間目標，針對嚴重性 1 為 1 小時之內，嚴重性 2 為 90 分鐘之內。
 {: note}
 
-如需如何指派案例嚴重性的相關資訊，請參閱[案例嚴重性和回應時間](/docs/get-support/quicktickresp.html#support-case-severity)。
+如需如何指派案例嚴重性的相關資訊，請參閱[案例嚴重性和回應時間](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)。
 {: tip} 
 
 ## 超值支援

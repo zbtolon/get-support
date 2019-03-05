@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -35,7 +35,7 @@ lastupdated: "2018-01-09"
 高端支持初始响应时间目标的已更新 SLO 于 2018 年 10 月 1 日生效。更新适用于在 2018 年 10 月 1 日或之后创建的支持案例。2018 年 10 月 1 日之前的高端支持初始响应时间目标针对严重性 1 为 1 小时内，针对严重性 2 为 90 分钟内。
 {: note}
 
-有关如何分配案例严重性的更多信息，请参阅[案例严重性和响应时间](/docs/get-support/quicktickresp.html#support-case-severity)。
+有关如何分配案例严重性的更多信息，请参阅[案例严重性和响应时间](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)。
 {: tip} 
 
 ## 高端支持
