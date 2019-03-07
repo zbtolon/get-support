@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-30"
 
+keywords: status page, status query
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}

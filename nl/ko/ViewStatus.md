@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-09"
 
+keywords: cloud status, view cloud status
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}

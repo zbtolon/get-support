@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-18"
 
+keywords: upcoming maintenance, stay up-to-date, monitor status
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -24,7 +28,7 @@ lastupdated: "2019-02-18"
 {: #monbp-checmaintwin}
 
 다음 옵션 중 하나를 사용하여 최소한 24시간마다 한 번씩 {{site.data.keyword.Bluemix_notm}} 콘솔 대시보드 페이지에 게시된 예정된 유지보수 기간을 확인하십시오.
-* [대시보드 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com){: new_window}에서 계획된 유지보수 위젯을 확인하십시오. 계획된 모든 유지보수를 보려면 **모든 이벤트**를 클릭하십시오. 
+* [대시보드 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com){: new_window}에서 계획된 유지보수 위젯을 확인하십시오. 계획된 모든 유지보수를 보려면 **모든 이벤트**를 클릭하십시오.
 * [상태 - 계획된 유지보수 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/status?selected=maintenance){: new_window} 페이지로 직접 이동하십시오.
 
 ## 진행 중인 인시던트 또는 현재 유지보수 기간 확인

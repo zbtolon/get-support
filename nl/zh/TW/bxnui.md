@@ -4,7 +4,11 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-01"
+lastupdated: "2019-02-28"
+
+keywords: error messages, errors, platform errors, message ID
+
+subcollection: get-support
 
 ---
 
@@ -28,52 +32,52 @@ lastupdated: "2019-02-01"
 ## BXNUI0004E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0005E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未建立 '{0}' 應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0006E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未停止 '{0}' 應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0008E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 應用程式詳細資料。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0009E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取應用程式入門範本。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0010E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{1}' 應用程式的 '{0}' 入門範本。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0011E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 入門範本。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0013E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未建立 '{0}' 服務實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0014E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 服務的設定。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0015E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取服務供應項目。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0016E
 **訊息**：由於未載入 {{site.data.keyword.Bluemix_notm}} 頁面，因此未擷取應用程式及服務。
@@ -83,104 +87,104 @@ lastupdated: "2019-02-01"
 ## BXNUI0017E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取服務實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0018E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 應用程式的實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0019E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取您應用程式的實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0020E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 應用程式的設定。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0021E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 應用程式的環境變數。
 
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0022E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 應用程式的路徑。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0023E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 服務實例的設定。
 
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0024E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 應用程式的快速入門。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0025E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 服務的快速入門。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0026E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未建立 '{0}' 空間。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0027E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 空間。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0028E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未建立 '{0}' 組織。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0029E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 組織。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0030E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此 '{0}' 路徑未對映至 '{1}' 應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0031E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未取消 '{0}' 路徑與 '{1}' 應用程式的對映。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0032E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未儲存 '{0}' 組織或空間的資訊。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0033E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未將 '{0}' 服務新增至 '{1}' 應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0034E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未從 '{1}' 應用程式移除 '{0}' 服務。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0035E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 服務實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0036E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除 '{0}' 應用程式或服務的服務連結。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0037E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除已連結至 '{0}' 應用程式的服務實例。
@@ -190,7 +194,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0038E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除與 '{0}' 應用程式相關聯的路徑。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0039E
 **訊息**：必須刪除 '{0}' 網域的路徑關聯。
@@ -200,89 +204,89 @@ lastupdated: "2019-02-01"
 ## BXNUI0040E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取服務連結。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0044E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未從伺服器擷取資訊。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0045E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未使用 '{1}' 實例來擷取 '{0}' 應用程式的檔案或日誌。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0046E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取您的組織。
 
 您將登出 {{site.data.keyword.Bluemix_notm}}。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
 
 ## BXNUI0048E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 組織的空間。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0049E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取組織的網域。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0050E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取組織的摘要。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0052E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 組織的使用者。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0053E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未更新 '{0}' 空間的使用者。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0054E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取使用者 '{0}'。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0055E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 空間的母項組織使用者。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0056E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 組織的使用者。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0057E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 空間的使用者。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0058E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未建立網域。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0059E
 **訊息**：由於聯絡 IBM DataPower Gateway 時發生問題，因此未刪除網域。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0060E
 **訊息**：由於聯絡 IBM DataPower Gateway 時發生問題，因此未上傳 '{0}' 網域的憑證。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0061E
 **訊息**：由於聯絡企業支援系統時發生問題，因此未將使用者 '{0}' 新增至帳戶。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0062E
 **訊息**：您的階段作業已到期，必須重新登入。
@@ -307,7 +311,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0065E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 的 VCAP_SERVICES 環境變數。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0066E
 **訊息**：由於新增運行環境時，已在 `cf` push 指令上使用 `-b` 選項明確地設定應用程式的建置套件值，因此無法刪除運行環境。
@@ -317,22 +321,22 @@ lastupdated: "2019-02-01"
 ## BXNUI0067E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取方案的資料。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0070E
 **訊息**：由於聯絡 IBM DataPower Gateway 時發生問題，因此未擷取 '{0}' 網域的憑證。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0071E
 **訊息**：由於聯絡 IBM DataPower Gateway 時發生問題，因此未刪除 '{0}' 網域的憑證。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0072E
 **訊息**：由於聯絡 IBM DataPower Gateway 時發生問題，因此未取代 '{0}' 網域的憑證。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0073E
 **訊息**：無法擷取所上傳憑證的相關資訊。
@@ -372,7 +376,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0082E
 **訊息**：{{site.data.keyword.Bluemix_notm}} 目前無法載入您的通知喜好設定。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0083E
 **訊息**：無法儲存您的通知喜好設定。
@@ -384,61 +388,61 @@ lastupdated: "2019-02-01"
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0086E
 **訊息**：未啟動 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0087E
 **訊息**：未停止 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0088E
 **訊息**：未重新啟動 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0089E
 **訊息**：無法暫停 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0090E
 **訊息**：無法取消暫停 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0091E
 **訊息**：未刪除 '{0}' 容器。
 
 容器可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0092E
 **訊息**：由於連接至 VM 資源時發生問題，因此未刪除 '{0}' VM 群組。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0093E
 **訊息**：未刪除 '{0}' 容器群組。
 
 容器群組可能會暫時無法運作。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0094E
 **訊息**：無法設定登錄名稱。
@@ -465,7 +469,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0098E
 **訊息**：目前無法擷取認證清單。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0099E
 
@@ -490,7 +494,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0111E
 **訊息**：目前無法聯絡登入伺服器。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
 
 ## BXNUI0112E
 **訊息**：無法更新方案。
@@ -512,37 +516,37 @@ lastupdated: "2019-02-01"
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未啟動 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0120E
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未停止 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0121E
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未重新啟動 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0122E
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未暫停 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0123E
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未繼續 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0124E
 
 **訊息**：由於連接至 VM 資源時發生問題，因此未刪除 '{0}' VM。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0125E
 
@@ -567,19 +571,19 @@ lastupdated: "2019-02-01"
 
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取您的組織。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0129E
 **訊息**：由於聯絡企業支援系統時發生問題，因此未擷取帳戶資訊。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0130E
 **訊息**：由於聯絡企業支援系統時發生問題，因此未擷取帳戶資訊。
 
 您將登出 {{site.data.keyword.Bluemix_notm}}。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0131E
 **訊息**：由於在登錄程序期間發生錯誤，因此未登錄您的電子郵件位址。
@@ -589,13 +593,13 @@ lastupdated: "2019-02-01"
 ## BXNUI0132E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取__名稱__資訊。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0133E
 
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取服務連結。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0200E
 **訊息**：由於發生內部錯誤，因此未擷取應用程式的路徑。
@@ -620,32 +624,32 @@ lastupdated: "2019-02-01"
 ## BXNUI0300E
 **訊息**：無法擷取用量資訊。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0301E
 **訊息**：擷取用量資訊時，無法擷取組織。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0305E
 **訊息**：無法顯示用量資訊。
 
-如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0306E
 **訊息**：無法擷取協力廠商服務資訊。
 
-如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0307E
 **訊息**：目前無法套用促銷代碼。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0400E
 **訊息**：無法顯示國家/地區清單。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0402E
 **訊息**：目前無法取消您的帳戶。
@@ -655,7 +659,7 @@ lastupdated: "2019-02-01"
 ## BXNUI0500E
 **訊息**：由於發生錯誤，因此未提交您的專用實例保留要求。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0501E
 **訊息**：該容器名稱已在使用中。
@@ -725,7 +729,7 @@ lastupdated: "2019-02-01"
 
 **訊息**：由於聯絡 IBM Containers 時發生問題，因此未擷取容器。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0514E
 
@@ -737,7 +741,7 @@ lastupdated: "2019-02-01"
 
 **訊息**：未擷取組織中的空間。發生網路連線問題，或您的現行組織沒有相關聯的空間。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。或者，如需修正此問題的指示，請參閱[無法擷取組織中的空間](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}疑難排解主題。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。或者，如需修正此問題的指示，請參閱[無法擷取組織中的空間](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}疑難排解主題。
 
 ## BXNUI0516E
 
@@ -787,7 +791,7 @@ lastupdated: "2019-02-01"
 
 **訊息**：由於聯絡 SoftLayer 時發生問題，因此未擷取標準基礎架構資源。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0524E
 
@@ -817,7 +821,7 @@ lastupdated: "2019-02-01"
 
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此無法將 {0} 服務新增至您的應用程式。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0700E
 
@@ -1084,7 +1088,7 @@ lastupdated: "2019-02-01"
 ## BXNUI2050E
 **訊息**："{0}" 組織不存在。
 
-請確定已正確指定組織。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請確定已正確指定組織。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2051E
 **訊息**：建立服務時，無法建立圖示。
@@ -1266,7 +1270,7 @@ lastupdated: "2019-02-01"
 ## BXNUI2088E
 **訊息**：由於遺漏 CSRF 記號或 CSRF 記號無效，因此您所要求的動作未完成。
 
-請登出、重新登入，然後再試一次。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請登出、重新登入，然後再試一次。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2089E
 **訊息**：嘗試在 URL "{0}" 登錄範本期間，發生錯誤。錯誤："{1}"。 
@@ -1296,7 +1300,7 @@ lastupdated: "2019-02-01"
 ## BXNUI2094E
 **訊息**：由於發生連線錯誤，因此嘗試的作業失敗。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2099E
 **訊息**：{{site.data.keyword.Bluemix_notm}} 服務計費已發出非預期的異常狀況及此訊息："{0}"
@@ -1364,32 +1368,32 @@ lastupdated: "2019-02-01"
 ## BXNUI3000E
 **訊息**：啟動容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3001E
 **訊息**：停止容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3002E
 **訊息**：重新啟動容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3003E
 **訊息**：暫停容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3004E
 **訊息**：取消暫停容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3005E
 **訊息**：刪除容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3006E
 **訊息**：啟動容器實例的作業發生連線錯誤。
@@ -1459,32 +1463,32 @@ lastupdated: "2019-02-01"
 ## BXNUI3050E
 **訊息**：啟動虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3051E
 **訊息**：停止虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3052E
 **訊息**：繼續虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3053E
 **訊息**：暫停虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3054E
 **訊息**：重新啟動虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3055E
 **訊息**：刪除虛擬伺服器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3056E
 **訊息**：啟動虛擬伺服器實例的作業發生連線錯誤。

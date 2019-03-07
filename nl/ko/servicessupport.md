@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-09"
 
+keywords: service support, type of service
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -24,7 +28,7 @@ lastupdated: "2019-01-09"
 ## {{site.data.keyword.IBM_notm}} 일반 공개 서비스
 {: #s-services-gaorcont}
 
-{{site.data.keyword.IBM}}에서 제공하고 일반적으로 사용 가능한 서비스 또는 컨테이너 이미지의 경우에는 결함으로 판별된 문제점에 대한 지원이 제공됩니다. 
+{{site.data.keyword.IBM}}에서 제공하고 일반적으로 사용 가능한 서비스 또는 컨테이너 이미지의 경우에는 결함으로 판별된 문제점에 대한 지원이 제공됩니다.
 
 근본 원인 분석을 통해 문제가 IBM의 일반 공개 서비스 또는 컨테이너 이미지의 결함이라고 판별되면 케이스가 지정된 심각도에 따라 처리됩니다.
 

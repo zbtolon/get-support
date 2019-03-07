@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-22"
 
+keywords: escalate, support case, case, ticket
+
+subcollection: get-support
+
 ---
 
 
@@ -20,7 +24,7 @@ lastupdated: "2019-01-22"
 # Escalation dei casi di supporto
 {: #escalation}
 
-I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} riesamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati.
+I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} riesamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati. 
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 
@@ -48,5 +52,5 @@ La seguente tabella elenca alcuni esempi comuni di problemi di supporto, di live
 Lo SLO aggiornato per gli obiettivi di tempo di risposta iniziale del supporto premium sono effettivi dal primo ottobre 2018. Gli aggiornamenti sono applicabili ai casi di supporto creati il primo ottobre 2018 o dopo tale data. Gli obiettivi di tempo di risposta iniziale del supporto premium precedenti al primo ottobre 2018 sono entro 1 ora per la severità 1 ed entro 90 minuti per la severità 2.
 {: note}
 
-Se la tua domanda di supporto richiede una risposta più immediata, valuta la possibilità di eseguire l'upgrade al piano di supporto premium o avanzato in modo che tu possa aprire casi di supporto con severità da 1 a 4. Per eseguire l'upgrade del piano di supporto, contatta il tuo [rappresentante delle vendite IBM ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Se la tua domanda di supporto richiede una risposta più immediata, valuta la possibilità di eseguire l'aggiornamento al piano di supporto premium o avanzato in modo che tu possa aprire casi di supporto con severità da 1 a 4. Per aggiornare il piano di supporto, contatta il tuo [rappresentante delle vendite IBM ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
 {:tip}
