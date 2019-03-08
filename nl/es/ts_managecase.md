@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-19"
 
+keywords: help managing cases, resolve issues managing cases, trouble working with cases
+
+subcollection: get-support
+
 ---
 
 

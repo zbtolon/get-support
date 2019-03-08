@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-19"
 
+keywords: help managing cases, resolve issues managing cases, trouble working with cases
+
+subcollection: get-support
+
 ---
 
 
@@ -28,7 +32,7 @@ Vous pouvez rencontrer des problèmes lors de la création et de la gestion des 
 ## Pourquoi ne puis-je pas créer ou modifier des cas de support ? 
 {: #ts_service_broker}
 
-Vous ne pouvez pas créer ou éditer un cas de support {{site.data.keyword.Bluemix_notm}} et un message d'erreur indiquant que vous ne disposez pas de l'accès approprié s'affiche.
+Vous ne pouvez pas créer ou éditer un cas de support {{site.data.keyword.Bluemix_notm}} et un message d'erreur indiquant que vous ne disposez pas de l'accès approprié s'affiche. 
 {:shortdesc}
 
 Lorsque vous tentez de créer un cas, le message d'erreur suivant s'affiche :   
@@ -72,13 +76,13 @@ Pour résoudre le problème, contactez le propriétaire du compte pour demander 
 ## Pourquoi ne puis-je pas trouver un cas que j'ai créé précédemment ? 
 {: #ts_viewarchivedcase}
 
-Les cas créés avant l'amélioration de la plateforme {{site.data.keyword.Bluemix_notm}} ne sont pas accessibles.
+Les cas créés avant l'amélioration de la plateforme {{site.data.keyword.Bluemix_notm}} ne sont pas accessibles. 
 {:shortdesc}
 
-Dans l'onglet **Gérer les cas** du centre de support, vous ne pouvez pas accéder aux cas créés avant le 2 décembre 2018.
+Dans l'onglet **Gérer les cas** du centre de support, vous ne pouvez pas accéder aux cas créés avant le 2 décembre 2018. 
 {: tsSymptoms}
 
-Les cas ouverts avant le 2 décembre 2018 sont visibles uniquement en sélectionnant **Afficher les cas archivés**.
+Les cas ouverts avant le 2 décembre 2018 sont visibles uniquement en sélectionnant **Afficher les cas archivés**. 
 {: tsCauses}
 
 Pour afficher vos cas, accédez à **Support**, sélectionnez **Gérer les cas** puis cliquez sur **Afficher les cas archivés**.

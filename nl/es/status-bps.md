@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-18"
 
+keywords: upcoming maintenance, stay up-to-date, monitor status
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}

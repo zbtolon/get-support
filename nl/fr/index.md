@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-29"
 
+keywords: support plans, free technical support
+
+subcollection: get-support
+
 ---
 
 

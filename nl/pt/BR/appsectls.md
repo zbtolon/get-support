@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-14"
 
+keywords: TLS, TLS support
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
