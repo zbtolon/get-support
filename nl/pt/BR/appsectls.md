@@ -167,7 +167,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Auto-Scaling
 * Alert Notification
 * Availability Monitoring
-* Entrega contínua
+* Continuous Delivery
 * Liberação contínua
 * DevOps Insights
 * Gerenciamento de eventos

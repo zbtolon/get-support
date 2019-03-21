@@ -24,7 +24,7 @@ subcollection: get-support
 # Escalation dei casi di supporto
 {: #escalation}
 
-I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} riesamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati. 
+I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} riesamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati.
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 

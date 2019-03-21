@@ -1531,7 +1531,7 @@ Es posible que se haya suprimido.
 Compruébelo y vuelva a intentarlo.  Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3064E
-**Mensaje**: Se ha producido un error y ahora la instancia de servidor se encuentra en un estado de conflicto.
+**Mensaje**: Se ha producido un error y ahora la instancia de servidor virtual se encuentra en un estado de conflicto.
 
 Vuelva a intentarlo más tarde. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
