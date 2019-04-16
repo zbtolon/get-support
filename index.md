@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,10 +20,10 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# Support plans
+# Basic, advanced, and premium support plans
 {: #support-plans}
 
-You're provided free technical support through the {{site.data.keyword.Bluemix}} community and Stack Overflow, which you can access from the Support Center. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center. Choose your support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs.
+You're provided free technical support through the {{site.data.keyword.Bluemix}} community and Stack Overflow, which you can access from the Support Center. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center. Choose a basic, advanced, or premium support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs.
 {:shortdesc}
 
 |  | Basic Support | Advanced Support | Premium Support |
