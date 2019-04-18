@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ By default, users in your account don't have access to create, update, search, o
 When you create a case, you can give other users full access to that case by adding their email on the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
 {: tip}
 
-For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-predefined#predefined). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
+For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-infrapermission#predefined). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 
 ## Creating an access group for working with cases
 {: #creating-access-group}
