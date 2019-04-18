@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ By default, users in an account don't have access to create, update, search, or 
 
 All users can open any type of support case.
 
-By default, users in an account don't have access to create, update, search, or view cases. You must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Platform management roles](/docs/iam?topic=iam-platformroles#platformroles)
+By default, users in an account don't have access to create, update, search, or view cases. You must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Platform management roles](/docs/iam?topic=iam-userroles#platformroles)
 {:tip}
 
 Complete the following steps to create a support case from the Support Center: 
