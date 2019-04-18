@@ -219,7 +219,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 
 You will be logged out of{{site.data.keyword.Bluemix_notm}} .
 
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](hhttps://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0048E
 **Message**: Spaces for the '{0}' organization weren't retrieved because a problem occurred contacting Cloud Foundry.
@@ -462,7 +462,7 @@ For instructions to fix this problem, see the [Account is inactive](/docs/accoun
 ## BXNUI0097E
 **Message**: Before you can add an app, at least one space must be associated with your organization and region.
 
-From the console menu bar, click **Manage** &gt; **Account** &gt; **Cloud Foundry Orgs**, and then click **Create**. When the space is created, try again. For more instructions to fix this problem, see [Why are no spaces associated with my current org?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
+From the console menu bar, click **Manage** &gt; **Account** &gt; **Cloud Foundry Orgs**, and then click **Create**. When the space is created, try again. For more instructions to fix this problem, see [Why are no spaces associated with my current org?](/docs/account?topic=account-managingaccounts#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Message**: The list of credentials can't be retrieved at the moment.
@@ -1292,7 +1292,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 ## BXNUI2093E
 **Message**: The number of intermediate certificates exceeds the number allowed.
 
-For details about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window} topic.
+For details about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window} topic.
 
 ## BXNUI2094E
 **Message**: The attempted operation failed because of a connection error.
@@ -1390,7 +1390,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 ## BXNUI3005E
 **Message**: The operation to delete the container instance timed out.
 
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](hhttps://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3006E
 **Message**: The operation to start the container instance encountered a connection error.
