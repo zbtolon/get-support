@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ The following table lists some common examples of support issues, suggested seve
 The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
 {: note}
 
-If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support cases. To upgrade your support plan, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support cases. To upgrade your support plan, contact your [IBM sales representative ![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window}.
 {:tip}
