@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-22"
 
-keywords: escalate, support case, case, ticket
-
-subcollection: get-support
-
 ---
 
 
