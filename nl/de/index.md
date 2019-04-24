@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,19 +20,19 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# Supportpläne
+# Basic, Advanced und Premium Support-Pläne
 {: #support-plans}
 
-Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword.Bluemix}}-Community und Stack Overflow, auf die Sie über das Support Center zugreifen können. Die ausgewählte Unterstützungsstufe bestimmt die Priorität, die Sie Supportfällen zuweisen können, sowie die Ebene des Zugriffs auf die im Support Center verfügbaren Tools. Wählen Sie Ihren Supportplan aus, um Ihre {{site.data.keyword.Bluemix}}-Supporterfahrung an Ihre Geschäftsanforderungen anzupassen.
+Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword.Bluemix}}-Community und Stack Overflow, auf die Sie über das Support Center zugreifen können. Die ausgewählte Unterstützungsstufe bestimmt die Priorität, die Sie Supportfällen zuweisen können, sowie die Ebene des Zugriffs auf die im Support Center verfügbaren Tools. Wählen Sie einen Basic, Advanced oder Premium Support-Plan aus, um die {{site.data.keyword.Bluemix}} Support-Schnittstelle Ihren Geschäftsanforderungen entsprechend anzupassen.
 {:shortdesc}
 
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
 | Beschreibung |	Grundlegende Geschäftsabsicherung im Rahmen Ihres nutzungsabhängigen Kontos oder Ihres Abonnementkontos in {{site.data.keyword.Bluemix_notm}} | Priorisierte Fallbearbeitung und Unterstützung, die auf Ihre Geschäftsanforderungen abgestimmt sind | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
 | Verfügbarkeit | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle und Telefon | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
-| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als eine Stunde <br/> Priorität 2: Weniger als zwei Stunden <br/> Priorität 3: Weniger als vier Stunden <br/> Priorität 4: Weniger als 8 Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als zwei Stunden <br/> Priorität 4: Weniger als vier Stunden |
+| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als 1 Stunde <br/> Priorität 2: Weniger als zwei Stunden <br/> Priorität 3: Weniger als vier Stunden <br/> Priorität 4: Weniger als acht Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als zwei Stunden <br/> Priorität 4: Weniger als vier Stunden |
 | Fallpriorität | Nicht zutreffend | Einstufung nach Fallpriorität verfügbar | Einstufung nach Fallpriorität verfügbar |
-| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Zugriff auf Experten <br/> <br/> Einladung zu Cloud Insights |
+| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Kontakt zu Experten <br/> <br/> Einladung zu Cloud Insights |
 {:caption="Tabelle 1. Supportpläne" caption-side="top"}
 
 Die SLO-Aktualisierung für die angestrebte Erstreaktionszeit im Rahmen des Premium Supports ist ab 01. Oktober 2018 gültig. Die Aktualisierungen beziehen sich auf Supportfälle, die am oder nach dem 01. Oktober 2018 erstellt wurden. Die angestrebte Erstreaktionszeit im Rahmen des Premium Supports vor dem 01. Oktober 2018 beträgt 1 Stunde für Priorität 1 und 90 Minuten für Priorität 2.

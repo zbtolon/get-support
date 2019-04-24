@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,20 +20,19 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# 支援方案
+# 基本、進階及超值支援方案
 {: #support-plans}
 
-免費的技術支援可透過 {{site.data.keyword.Bluemix}} 社群及 Stack Overflow 取得，您可以從支援中心進行存取。您選取的支援層次會決定可以指派給支援案例的嚴重性，以及您對於支援中心所提供工具的存取層次。選擇您的支援方案，以針對您的業務需要自訂 {{site.data.keyword.Bluemix}} 支援體驗。
+免費的技術支援可透過 {{site.data.keyword.Bluemix}} 社群及 Stack Overflow 取得，您可以從支援中心進行存取。您選取的支援層次會決定可以指派給支援案例的嚴重性，以及您對於支援中心所提供工具的存取層次。選擇基本、進階或超值支援方案，以針對您的業務需要自訂 {{site.data.keyword.Bluemix}} 支援體驗。
 {:shortdesc}
 
 |  |基本支援|進階支援|超值支援|
 |-------------|-------------|-------------|-------------|
-|說明
-|	{{site.data.keyword.Bluemix_notm}} 隨收隨付制或訂閱帳戶所包含的基本商業保護。|優先案例處理，以及符合您業務需要的支援體驗|符合您業務成果的客戶參與，以加快價值創造時間|
+|說明|	{{site.data.keyword.Bluemix_notm}} 隨收隨付制或訂閱帳戶所包含的基本商業保護。|優先案例處理，以及符合您業務需要的支援體驗|符合您業務成果的客戶參與，以加快價值創造時間|
 |可用性|能透過案例及電話與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|
-|起始回應時間目標|不適用|嚴重性 1：少於一小時<br/> 嚴重性 2：少於二小時<br/> 嚴重性 3：少於四小時<br/> 嚴重性 4：少於八小時|嚴重性 1：少於 15 分鐘<br/> 嚴重性 2：少於 1 小時<br/> 嚴重性 3：少於二小時<br/> 嚴重性 4：少於四小時|
+|起始回應時間目標|不適用|嚴重性 1：少於一小時 <br/> 嚴重性 2：少於兩小時 <br/> 嚴重性 3：少於四小時 <br/> 嚴重性 4：少於八小時|嚴重性 1：少於 15 分鐘 <br/> 嚴重性 2：少於 1 小時 <br/> 嚴重性 3：少於兩小時 <br/> 嚴重性 4：少於四小時|
 |案例嚴重性|不適用|有案例嚴重性分級可用|有案例嚴重性分級可用|
-|其他支援|不適用|不適用|指派技術客戶經理<br/> <br/> 每季業務檢閱<br/><br/> 能與專家聯繫<br/> <br/> 邀請加入 Cloud Insights |
+|其他支援|不適用|不適用|已指派技術客戶經理 <br/> <br/> 每季業務檢閱 <br/><br/> 聯繫專家 <br/> <br/> 受邀使用 Cloud Insights |
 {:caption="表 1. 支援方案" caption-side="top"}
 
 超值支援起始回應時間目標的更新 SLO 自 2018 年 10 月 1 日起生效。更新適用於在 2018 年 10 月 1 日當日或之後建立的支援案例。2018 年 10 月 1 日之前的超值支援起始回應時間目標，針對嚴重性 1 為 1 小時之內，嚴重性 2 為 90 分鐘之內。

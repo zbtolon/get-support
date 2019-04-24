@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,19 +20,19 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# 지원 플랜
+# 기본, 고급 및 프리미엄 지원 플랜
 {: #support-plans}
 
-지원 센터에서 액세스할 수 있는 {{site.data.keyword.Bluemix}} 커뮤니티 및 Stack Overflow를 통해 무료 기술 지원이 제공됩니다. 선택된 지원 레벨은 지원 케이스에 지정 가능한 심각도와 지원 센터에서 사용 가능한 도구에 대한 액세스 레벨을 결정합니다. 비즈니스 요구사항에 적합하도록 {{site.data.keyword.Bluemix}} 지원 경험을 사용자 정의할 수 있는 지원 플랜을 선택하십시오.
+지원 센터에서 액세스할 수 있는 {{site.data.keyword.Bluemix}} 커뮤니티 및 Stack Overflow를 통해 무료 기술 지원이 제공됩니다. 선택된 지원 레벨은 지원 케이스에 지정 가능한 심각도와 지원 센터에서 사용 가능한 도구에 대한 액세스 레벨을 결정합니다. 기본, 고급 또는 프리미엄 지원 플랜을 선택하여 자신의 비즈니스 요구사항에 맞게 {{site.data.keyword.Bluemix}} 지원 경험을 사용자 정의하십시오.
 {:shortdesc}
 
 |  |기본 지원 |고급 지원 |프리미엄 지원 |
 |-------------|-------------|-------------|-------------|
 |설명 |	{{site.data.keyword.Bluemix_notm}} 종량과금제 또는 구독 계정에 포함된 기본 비즈니스 보호 |케이스 우선 처리 및 비즈니스 요구사항에 따른 지원 경험 |가치 창출 시간을 가속화하기 위한, 비즈니스 결과에 따른 클라이언트 응대 |
 |가용성 | 케이스 및 전화를 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |
-|초기 응답 시간 목표 |해당사항 없음 |심각도 1: 1시간 미만 <br/> 심각도 2: 2시간 미만 <br/> 심각도 3: 4시간 미만 <br/> 심각도 4: 8시간 미만 |심각도 1: 15분 미만 <br/> 심각도 2: 1시간 미만 <br/> 심각도 3: 2시간 미만 <br/> 심각도 4: 4시간 미만 |
+|초기 응답 시간 목표 |해당사항 없음 | 심각도 1: 한 시간 내 <br/> 심각도 2: 두 시간 내 <br/> 심각도 3: 네 시간 내 <br/> 심각도 4: 여덟 시간 내 | 심각도 1: 15분 내 <br/> 심각도 2: 한 시간 내 <br/> 심각도 3: 두 시간 내 <br/> 심각도 4: 네 시간 내 |
 |케이스 심각도 |해당사항 없음 |케이스 심각도 순위 사용 가능 |케이스 심각도 순위 사용 가능 |
-|추가 지원 |해당사항 없음 |해당사항 없음 |기술 영업 담당자가 지정됨 <br/> <br/> 분기별 비즈니스 검토 <br/><br/> 전문가에 액세스 <br/> <br/> Cloud Insights에 초대 |
+|추가 지원 |해당사항 없음 |해당사항 없음 | 기술 영업 담당자가 지정됨 <br/> <br/> 분기별 비즈니스 검토 <br/><br/> 전문가 문의 가능 <br/> <br/> Cloud Insights 초대 |
 {:caption="표 1. 지원 플랜" caption-side="top"}
 
 프리미엄 지원 초기 응답 시간 목표에 대한 업데이트된 SLO는 2018년 10월 1일부터 유효합니다. 업데이트는 2018년 10월 1일 또는 그 이후에 작성된 지원 케이스에 적용될 수 있습니다. 2018년 10월 1일 이전의 프리미엄 지원 초기 응답 시간 목표는 심각도 1의 경우 1시간 이내이며 심각도 2의 경우 90분 이내입니다.

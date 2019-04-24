@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,10 +20,10 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# Piani di supporto
+# Piani di supporto di base, avanzato e premium
 {: #support-plans}
 
-Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyword.Bluemix}} e Stack Overflow, a cui puoi accedere dal Centro di supporto. Il livello di supporto che selezioni determina la severità che puoi assegnare ai casi di supporto e il tuo livello di accesso agli strumenti disponibili nel Centro di supporto. Scegli il tuo piano di supporto per personalizzare la tua esperienza di supporto {{site.data.keyword.Bluemix}} per le tue necessità di business.
+Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyword.Bluemix}} e Stack Overflow, a cui puoi accedere dal Centro di supporto. Il livello di supporto che selezioni determina la severità che puoi assegnare ai casi di supporto e il tuo livello di accesso agli strumenti disponibili nel Centro di supporto. Scegli un piano di supporto di base, avanzato o premium per personalizzare la tua esperienza di supporto {{site.data.keyword.Bluemix}} per le tue esigenze di business.
 {:shortdesc}
 
 |  | Supporto di base | Supporto avanzato | Supporto premium |

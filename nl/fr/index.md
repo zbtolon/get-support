@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-16"
 
-keywords: support plans, free technical support
+keywords: basic support, advanced support, premium support, support plans, free technical support 
 
 subcollection: get-support
 
@@ -20,17 +20,17 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# Plans de support
+# Plans de support de base, avancés et premium
 {: #support-plans}
 
-Vous bénéficiez d'un support technique gratuit via la communauté {{site.data.keyword.Bluemix}} et le forum Stack Overflow, auquel vous pouvez accéder depuis le centre de support. Le niveau de support auquel vous souscrivez détermine la gravité que vous pouvez affecter aux cas de support, ainsi que votre niveau d'accès aux outils disponibles dans le centre de support. Choisissez votre plan de support pour personnaliser votre expérience de support {{site.data.keyword.Bluemix}} en fonction de vos besoins métier.
+Vous bénéficiez d'un support technique gratuit via la communauté {{site.data.keyword.Bluemix}} et le forum Stack Overflow, auquel vous pouvez accéder depuis le centre de support. Le niveau de support auquel vous souscrivez détermine la gravité que vous pouvez affecter aux cas de support, ainsi que votre niveau d'accès aux outils disponibles dans le centre de support. Choisissez un plan de support de base, avancé ou premium pour personnaliser votre expérience de support {{site.data.keyword.Bluemix}} en fonction de vos besoins métier.
 {:shortdesc}
 
 |  | Support de base | Support avancé | Support Premium |
 |-------------|-------------|-------------|-------------|
 | Description |	La protection métier de base incluse avec votre compte {{site.data.keyword.Bluemix_notm}} de type Paiement à la carte ou Abonnement | Traitement prioritaire des cas et support aligné avec vos besoins métier | Mandat client aligné avec votre résultat métier pour accélérer votre retour sur investissement |
 | Disponibilité | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas et le téléphone. | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. |
-| Objectifs de temps de réponse initiaux | Non applicable | Gravité 1 : moins d'une heure <br/> Gravité 2 : moins de deux heures <br/> Gravité 3 : moins de quatre heures <br/> Gravité 4 : moins de huit heures | Gravité 1 : moins de 15 minutes <br/> Gravité 2 : moins d'1 heure <br/> Gravité 3 : moins de deux heures <br/> Gravité 4 : moins de quatre heures |
+| Objectifs de temps de réponse initiaux | Non applicable | Gravité 1 : moins d'une heure <br/> Gravité 2 : moins de deux heures <br/> Gravité 3 : moins de quatre heures <br/> Gravité 4 : moins de huit heures | Gravité 1 : moins de 15 minutes <br/> Gravité 2 : moins d'une heure <br/> Gravité 3 : moins de deux heures <br/> Gravité : moins de quatre heures |
 | Gravité des cas | Non applicable | Classement de gravité cas disponible | Classement de gravité cas disponible |
 | Support supplémentaire | Non applicable | Non applicable | Chargé de compte technique affecté <br/> <br/> Revues métier trimestrielles <br/><br/> Accès aux spécialistes <br/> <br/> Invitation à Cloud Insights |
 {:caption="Tableau 1. Plans de support" caption-side="top"}
