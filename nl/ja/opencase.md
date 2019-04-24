@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-01-29"
 
+keywords: create case, manage case, open case, start case, ticket
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -68,6 +72,6 @@ Case の作成時には、ファイルを添付するオプションがあり、
   3. リストから Case を選択して、コメントを追加したり、Case を更新したりします。
   4. クローズ済みや解決済みの Case は、あらゆる状況の Case を取り出すフィルター・オプションを使用して検出できます。 
 
-クラシック・インフラストラクチャー・ユーザーで、以前の Case のリストが表示されない場合は、**「アーカイブされた Case の表示」**にアクセスしてください。
+クラシック・インフラストラクチャー・ユーザーで、以前の Case のリストが表示されない場合は、**「アーカイブされた Case の表示」**にアクセスしてください。 
 {: tip}
 

@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-14"
 
+keywords: TLS, TLS support
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -50,7 +54,7 @@ Alle Verbindungen zu Cloud Foundry, bei denen TLS verwendet wird, sind mögliche
 {: #connect-cf}
 Auf alle Cloud Foundry-Anwendungsendpunkte in der Domäne `*.app.domain.cloud` kann über einen alternativen Endpunkt zugegriffen werden, der ausschließlich TLS 1.2 unterstützt.
 
-Wenn der alternative Endpunkt verwendet werden soll, stellen Sie der Unterdomäne Ihrer Anwendung die Zeichenfolge `alt.` nach. Wenn Ihre Anwendung beispielsweise unter `https://myapplication.app.domain.cloud` gehostet wird, verwenden Sie `https://myapplication.alt.app.domain.cloud`. Oder verwenden Sie `https://myapplication.alt.eu-gb.app.domain.cloud` für `https://myapplication.eu-gb.app.domain.cloud`. 
+Wenn der alternative Endpunkt verwendet werden soll, stellen Sie der Unterdomäne Ihrer Anwendung die Zeichenfolge `alt.` nach. Wenn Ihre Anwendung beispielsweise unter `https://myapplication.app.domain.cloud` gehostet wird, verwenden Sie `https://myapplication.alt.app.domain.cloud`. Oder verwenden Sie `https://myapplication.alt.eu-gb.app.domain.cloud` für `https://myapplication.eu-gb.app.domain.cloud`.
 
 Wenn Sie die Verbindung zu dem alternativen Endpunkt erfolgreich herstellen können, ergeben sich durch die Einstellung der Unterstützung keine Beeinträchtigungen für Sie.
 

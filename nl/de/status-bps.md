@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-18"
 
+keywords: upcoming maintenance, stay up-to-date, monitor status
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -24,7 +28,7 @@ Verwenden Sie die folgenden bewährten Verfahren für die Überwachung des Statu
 {: #monbp-checmaintwin}
 
 Prüfen Sie mindestens einmal alle 24 Stunden, ob Wartungszeiten bevorstehen, die auf der Dashboardseite der {{site.data.keyword.Bluemix_notm}}-Konsole veröffentlicht werden; verwenden Sie hierfür eine der folgenden Optionen:
-* Überprüfen Sie das Widget 'Geplante Instandhaltung' im [Dashboard ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com){: new_window}. Klicken Sie auf **Alle Ereignisse**, um alle geplanten Wartungsarbeiten anzuzeigen. 
+* Überprüfen Sie das Widget 'Geplante Instandhaltung' im [Dashboard ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com){: new_window}. Klicken Sie auf **Alle Ereignisse**, um alle geplanten Wartungsarbeiten anzuzeigen.
 * Navigieren Sie direkt zu der Seite [Status - Geplante Instandhaltung ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/status?selected=maintenance){: new_window}.
 
 ## Prüfen, ob derzeit Wartungszeiten existieren oder ob es einen Vorfall gibt

@@ -4,7 +4,11 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-01"
+lastupdated: "2019-02-28"
+
+keywords: error messages, errors, platform errors, message ID
+
+subcollection: get-support
 
 ---
 
@@ -28,52 +32,52 @@ Para obtener instrucciones para solucionar este problema, consulte el apartado [
 ## BXNUI0004E
 **Mensaje**: La app '{0}' no se ha suprimido porque se ha producido un problema a establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0005E
 **Mensaje**: La app '{0}' no se ha creado porque se ha producido un problema a establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0006E
 **Mensaje**: La app '{0}' no se ha detenido porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0008E
 **Mensaje**: No se han recuperado detalles de la app '{0}' porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0009E
 **Mensaje**: Los iniciadores de aplicación no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0010E
 **Mensaje**: El iniciador de '{0}' de la app '{1}' no se ha recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0011E
 **Mensaje**: No se ha recuperado el iniciador '{0}' porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0013E
 **Mensaje**: La instancia de servicio '{0}' no se ha creado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0014E
 **Mensaje**: Los valores para el servicio '{0}' no se han actualizado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0015E
 **Mensaje**: Las ofertas de servicios no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0016E
 **Mensaje**: Las apps y servicios no se han recuperado porque no se ha cargado una página de {{site.data.keyword.Bluemix_notm}}.
@@ -83,102 +87,102 @@ Para obtener instrucciones para solucionar este problema, consulte el apartado [
 ## BXNUI0017E
 **Mensaje**: No se ha recuperado la instancia de servicio porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0018E
 **Mensaje**: Las instancias de la app '{0}' no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0019E
 **Mensaje**: No se han recuperado las instancias para la app porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0020E
 **Mensaje**: Los valores de la app '{0}' no se han actualizado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0021E
 **Mensaje**: Las variables de entorno de la app '{0}' no se han actualizado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0022E
 **Mensaje**: Las rutas de la app '{0}' no se han actualizado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [[Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [[Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0023E
 **Mensaje**: Los valores de la instancia de servicio '{0}' no se han actualizado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0024E
 **Mensaje**: El inicio rápido de la app '{0}' no se ha recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0025E
 **Mensaje**: El inicio rápido del servicio '{0}' no se ha recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0026E
 **Mensaje**: El espacio '{0}' no se ha creado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0027E
 **Mensaje**: El espacio '{0}' no se ha suprimido porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0028E
 **Mensaje**: La organización '{0}' no se ha creado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0029E
 **Mensaje**: La organización '{0}' no se ha suprimido porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0030E
 **Mensaje**: La ruta '{0}' no se ha correlacionado con la app '{1}' porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0031E
 **Mensaje**: La ruta '{0}' no se ha descorrelacionado de la app '{1}' porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0032E
 **Mensaje**: La información para la organización o espacio '{0}' no se ha guardado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0033E
 **Mensaje**: El servicio '{0}' no se ha añadido a la app '{1}' porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0034E
 **Mensaje**: El servicio '{0}' no se ha eliminado de la app '{1}' porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0035E
 **Mensaje**: La instancia de servicio '{0}' no se ha suprimido porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0036E
 **Mensaje**: Los enlaces de servicio para la app o servicio '{0}' no se han suprimido porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0037E
 **Mensaje**: Las instancias de servicio que se han enlazado a la app '{0}' no se han suprimido porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
@@ -188,7 +192,7 @@ Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página
 ## BXNUI0038E
 **Mensaje**: Las rutas asociadas a la app '{0}' no se han suprimido porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0039E
 **Mensaje**: Las asociaciones de ruta para el dominio '{0}' se deben suprimir.
@@ -198,89 +202,89 @@ En la página Visión general de la app, pulse el desplegable **Rutas y dominios
 ## BXNUI0040E
 **Mensaje**: Los enlaces de servicios no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0044E
 **Mensaje**: No se ha recuperado la información desde el servidor porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0045E
 **Mensaje**: Los archivos o registros para la aplicación '{0}' no se han recuperado usando la instancia de '{1}' porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0046E
 **Mensaje**: Las organizaciones no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
 Se cerrará su sesión de {{site.data.keyword.Bluemix_notm}}.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
 
 ## BXNUI0048E
 **Mensaje**: Los espacios para la organización '{0}' no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0049E
 **Mensaje**: Los dominios de la organización no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0050E
 **Mensaje**: No se ha recuperado el resumen de la organización porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0052E
 **Mensaje**: Los usuarios de la organización '{0}' no se han actualizado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0053E
 **Mensaje**: Los usuarios del espacio '{0}' no se han actualizado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0054E
 **Mensaje**: El usuario '{0}' no se ha recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0055E
 **Mensaje**: Los usuarios de la organización padre del espacio '{0}' no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0056E
 **Mensaje**: Los usuarios de la organización '{0}' no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0057E
 **Mensaje**: Los usuarios del espacio '{0}' no se han recuperado porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0058E
 **Mensaje**: No se ha creado un dominio porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0059E
 **Mensaje**: No se ha suprimido un dominio porque se ha producido un problema al ponerse en contacto con IBM DataPower Gateway.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0060E
 **Mensaje**: No se ha cargado un certificado para el dominio '{0}' porque se ha producido un problema al ponerse en contacto con IBM DataPower Gateway.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0061E
 **Mensaje**: No se ha añadido el usuario, '{0}', a la cuenta porque se ha producido un problema al ponerse en contacto con el sistema de soporte de la empresa.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0062E
 **Mensaje**: Su sesión ha caducado y debe volver a iniciar la sesión.
@@ -305,7 +309,7 @@ Para obtener detalles, consulte los [Requisitos previos](/docs/overview?topic=ov
 ## BXNUI0065E
 **Mensaje**: La variable de entorno VCAP_SERVICES para '{0}' no se ha recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0066E
 **Mensaje**: No se puede suprimir el tiempo de ejecución porque cuando se ha añadido el tiempo de ejecución, se ha establecido explícitamente el valor de paquete de compilación para la aplicación utilizando la opción `-b` en el mandato push `cf`.
@@ -315,22 +319,22 @@ Vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo]
 ## BXNUI0067E
 **Mensaje**: No se han recuperado los datos para los planes porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0070E
 **Mensaje**: El certificado para el dominio '{0}' no se ha recuperado porque se ha producido un problema al ponerse en contacto con IBM DataPower Gateway.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0071E
 **Mensaje**: El certificado para el dominio '{0}' no se ha suprimido porque se ha producido un problema al ponerse en contacto con IBM DataPower Gateway.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0072E
 **Mensaje**: El certificado para el dominio '{0}' no se ha sustituido porque se ha producido un problema al ponerse en contacto con IBM DataPower Gateway.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0073E
 **Mensaje**: No se ha podido recuperar la información sobre los certificados cargados.
@@ -370,7 +374,7 @@ Suprima un certificado o actualice la cuenta.
 ## BXNUI0082E
 **Mensaje**: {{site.data.keyword.Bluemix_notm}} no puede cargar las preferencias de notificación en este momento.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0083E
 **Mensaje**: No se han podido guardar las preferencias de notificación.
@@ -382,61 +386,61 @@ Vuelva a intentarlo más tarde. Si el problema continúa, vaya a [Soporte de {{s
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0086E
 **Mensaje**: El contenedor '{0}' no se ha iniciado.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0087E
 **Mensaje**: El contenedor '{0}' no se ha detenido.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0088E
 **Mensaje**: El contenedor '{0}' no se ha reiniciado.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0089E
 **Mensaje**: El contenedor '{0}' no se puede poner en pausa.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0090E
 **Mensaje**: El contenedor '{0}' no se puede reactivar de la pausa.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0091E
 **Mensaje**: El contenedor '{0}' no se ha suprimido.
 
 Es posible que el contenedor esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0092E
 **Mensaje**: El grupo de VM '{0}' no se ha suprimido, porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0093E
 **Mensaje**: El grupo de contenedores '{0}' no se ha suprimido.
 
 Es posible que el grupo de contenedores esté temporalmente fuera de servicio.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0094E
 **Mensaje**: El nombre del registro no se ha podido establecer.
@@ -463,7 +467,7 @@ En la barra de menús, pulse **Gestionar** &gt; **Cuenta** &gt; **Organizaciones
 ## BXNUI0098E
 **Mensaje**: No se ha podido recuperar la lista de credenciales en este momento.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0099E
 
@@ -488,7 +492,7 @@ Cambie la configuración del navegador para que se permitan ventanas emergentes.
 ## BXNUI0111E
 **Mensaje**: No se puede contactar con el servidor de inicio de sesión en este momento.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](http://ibm.biz/bluemixsupport){: new_window}.
 
 ## BXNUI0112E
 **Mensaje**: No se ha podido actualizar el plan.
@@ -510,37 +514,37 @@ Intente volver a revocar el acceso. Si el problema continúa, vaya a [Soporte de
 
 **Mensaje**: La VM '{0}' no se ha iniciado porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0120E
 
 **Mensaje**: La VM '{0}' no se ha detenido porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0121E
 
 **Mensaje**: La VM '{0}' no se ha reiniciado porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0122E
 
 **Mensaje**: La VM '{0}' no se ha suspendido porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0123E
 
 **Mensaje**: La VM '{0}' no se ha reanudado se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0124E
 
 **Mensaje**: La VM '{0}' no se ha suprimido, porque se ha producido un problema al conectarse a los recursos de VM.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0125E
 
@@ -564,19 +568,19 @@ Renueve la página más tarde para verificar que se ha suprimido el contenedor.
 
 **Mensaje**: Las organizaciones no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0129E
 **Mensaje**: No se ha podido recuperar la información de cuenta debido a un problema al ponerse en contacto con el sistema de soporte de empresa.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0130E
 **Mensaje**: No se ha podido recuperar la información de cuenta debido a un problema al ponerse en contacto con el sistema de soporte de empresa.
 
 Se cerrará su sesión de {{site.data.keyword.Bluemix_notm}}.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0131E
 **Mensaje**: Su dirección de correo electrónico no se ha registrado porque se ha producido un error durante el proceso de registro.
@@ -586,13 +590,13 @@ Para solucionar este problema, vaya a [Soporte de {{site.data.keyword.Bluemix_no
 ## BXNUI0132E
 **Mensaje**: No se ha recuperado la información __name__ porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0133E
 
 **Mensaje**: Los enlaces de servicios no se han recuperado porque se ha producido un problema al ponerse en contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0200E
 **Mensaje**: Las rutas para la app no se han recuperado debido a un error interno.
@@ -617,32 +621,32 @@ Vuelva a intentarlo más tarde. Si el problema continúa, vaya a [Soporte de {{s
 ## BXNUI0300E
 **Mensaje**: No se ha podido recuperar la información sobre uso.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0301E
 **Mensaje**: Mientras que se recuperaba la información de uso, las organizaciones no se han podido recuperar.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0305E
 **Mensaje**: No se ha podido visualizar la información sobre uso.
 
-Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0306E
 **Mensaje**: No se ha podido recuperar la información sobre servicios de terceros.
 
-Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0307E
 **Mensaje**: En estos momentos no se pueden aplicar códigos promocionales.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0400E
 **Mensaje**: No se ha podido mostrar la lista de países.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0402E
 **Mensaje**: No se puede cancelar la cuenta en este momento.
@@ -652,7 +656,7 @@ Inténtelo más tarde o vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![
 ## BXNUI0500E
 **Mensaje**: La solicitud para reservar una instancia dedicada no se ha enviado debido a un error.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0501E
 **Mensaje**: Este nombre de contenedor ya se está utilizando.
@@ -722,7 +726,7 @@ Para ajustar las cuotas, vaya a **Gestionar organizaciones**, pulse el separador
 
 **Mensaje**: Los contenedores no se han recuperado porque se ha producido un problema al ponerse en contacto con IBM Containers.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0514E
 
@@ -734,7 +738,7 @@ Intente seleccionar otra organización o crear un espacio, o bien solicite el ro
 
 **Mensaje**: Los espacios de la organización no se han recuperado. Se ha producido un problema de conexión a la red, o su organización actual no tiene un espacio asociado con ella.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. O bien, para obtener instrucciones para solucionar este problema, consulte el tema de resolución de problemas [No se pueden recuperar espacios en la organización](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. O bien, para obtener instrucciones para solucionar este problema, consulte el tema de resolución de problemas [No se pueden recuperar espacios en la organización](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
 ## BXNUI0516E
 
@@ -784,7 +788,7 @@ Intente seleccionar otro espacio y organización o crear un espacio, o bien soli
 
 **Mensaje**: Los recursos de la infraestructura clásica no se han recuperado porque se ha producido un problema al establecer contacto con SoftLayer.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0524E
 
@@ -814,7 +818,7 @@ Pruebe una distinta.
 
 **Mensaje**: No se ha podido añadir el servicio {0} a la aplicación porque se ha producido un problema al establecer contacto con Cloud Foundry.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0700E
 
@@ -1082,7 +1086,7 @@ Suprima las instancias e inténtelo de nuevo.
 ## BXNUI2050E
 **Mensaje**: La organización "{0}" no existe.
 
-Asegúrese de que la organización esté correctamente especificada. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Asegúrese de que la organización esté correctamente especificada. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2051E
 **Mensaje**: Aunque se ha creado el servicio, no se ha podido crear un icono.
@@ -1264,7 +1268,7 @@ Vuelva a intentarlo con un nombre más corto.
 ## BXNUI2088E
 **Mensaje**: La acción que ha solicitado no se ha completado porque falta la señal de CSRF o no es válida.
 
-Cierre la sesión, inicie la sesión de nuevo y vuélvalo a intentar. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Cierre la sesión, inicie la sesión de nuevo y vuélvalo a intentar. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2089E
 **Mensaje**: Se ha producido un error durante un intento de registrar una plantilla en el URL "{0}". Error: "{1}". 
@@ -1294,7 +1298,7 @@ Para obtener detalles sobre el número de certificados permitidos y cómo suprim
 ## BXNUI2094E
 **Mensaje**: La operación que se ha intentado ha fallado debido a un error de conexión.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2099E
 **Mensaje**: La facturación del servicio {{site.data.keyword.Bluemix_notm}} ha emitido una excepción inesperada con este mensaje: "{0}"
@@ -1362,32 +1366,32 @@ Vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo]
 ## BXNUI3000E
 **Mensaje**: La operación para iniciar la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3001E
 **Mensaje**: La operación para detener la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3002E
 **Mensaje**: La operación para reiniciar la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3003E
 **Mensaje**: La operación para pausar la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3004E
 **Mensaje**: La operación para cancelar la pausa de la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3005E
 **Mensaje**: La operación para suprimir la instancia del contenedor ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3006E
 **Mensaje**: La operación para iniciar la instancia del contenedor ha encontrado un error.
@@ -1457,32 +1461,32 @@ Vuelva a intentarlo más tarde. Si el problema continúa, vaya a [Soporte de {{s
 ## BXNUI3050E
 **Mensaje**: La operación para iniciar la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3051E
 **Mensaje**: La operación para detener la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3052E
 **Mensaje**: La operación para reanudar la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3053E
 **Mensaje**: La operación para suspender la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3054E
 **Mensaje**: La operación para rearrancar la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3055E
 **Mensaje**: La operación para suprimir la instancia del servidor virtual ha superado el tiempo de espera.
 
-Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Vuelva a intentarlo más tarde. Si vuelve a ver este mensaje, vaya a la [página de estado de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status?selected=status){: new_window} para comprobar si el servicio o el componente tiene algún problema. Si el problema continúa, vaya a [Soporte de {{site.data.keyword.Bluemix_notm}} ![Icono de enlace externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3056E
 **Mensaje**: La operación para iniciar la instancia del servidor virtual ha encontrado un error.

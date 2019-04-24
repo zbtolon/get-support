@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-19"
 
+keywords: help managing cases, resolve issues managing cases, trouble working with cases
+
+subcollection: get-support
+
 ---
 
 
@@ -73,13 +77,13 @@ Um das Problem zu beheben, setzen Sie sich mit dem Kontoeigner in Verbindung, um
 ## Warum kann ich einen Fall, den ich zuvor erstellt habe, nicht finden? 
 {: #ts_viewarchivedcase}
 
-Sie können Ihre Fälle, die Sie vor dem erweiterten {{site.data.keyword.Bluemix_notm}}-Plattformerlebnis erstellt haben, nicht finden.
+Sie können Ihre Fälle, die Sie vor dem erweiterten {{site.data.keyword.Bluemix_notm}}-Plattformerlebnis erstellt haben, nicht finden. 
 {:shortdesc}
 
-Sie haben im Support Center die Registerkarte **Fälle verwalten** aufgerufen. Dort werden keine Fälle angezeigt, die Sie vor dem 2. Dezember 2018 erstellt haben.
+Sie haben im Support Center die Registerkarte **Fälle verwalten** aufgerufen. Dort werden keine Fälle angezeigt, die Sie vor dem 2. Dezember 2018 erstellt haben. 
 {: tsSymptoms}
 
-Fälle, die vor dem 2. Dezember 2018 angelegt (d. h. geöffnet) wurden, sind nur über die Anzeigeoption **Archivierte Fälle anzeigen** sichtbar.
+Fälle, die vor dem 2. Dezember 2018 angelegt (d. h. geöffnet) wurden, sind nur über die Anzeigeoption **Archivierte Fälle anzeigen** sichtbar. 
 {: tsCauses}
 
 Rufen Sie zum Anzeigen Ihrer Fälle **Support** auf, wählen Sie die Option **Fälle verwalten** aus und klicken Sie auf **Archivierte Fälle anzeigen**.

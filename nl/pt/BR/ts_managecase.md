@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-19"
 
+keywords: help managing cases, resolve issues managing cases, trouble working with cases
+
+subcollection: get-support
+
 ---
 
 
@@ -28,7 +32,7 @@ lastupdated: "2019-02-19"
 ## Por que não posso criar ou editar casos de suporte? 
 {: #ts_service_broker}
 
-Não é possível criar ou editar um caso de suporte do {{site.data.keyword.Bluemix_notm}}, e é exibida uma mensagem de erro informando que você não tem o acesso apropriado.
+Não é possível criar ou editar um caso de suporte do {{site.data.keyword.Bluemix_notm}}, e é exibida uma mensagem de erro informando que você não tem o acesso apropriado. 
 {:shortdesc}
 
 Quando você tenta criar um caso, a mensagem de erro a seguir é exibida:   
@@ -73,13 +77,13 @@ Para resolver o problema, entre em contato com o proprietário da conta para sol
 ## Por que não consigo localizar um caso que criei anteriormente? 
 {: #ts_viewarchivedcase}
 
-Não é possível localizar os casos criados antes da experiência de plataforma aprimorada do {{site.data.keyword.Bluemix_notm}}.
+Não é possível localizar os casos criados antes da experiência de plataforma aprimorada do {{site.data.keyword.Bluemix_notm}}. 
 {:shortdesc}
 
-Depois de acessar a guia **Gerenciar casos** no Centro de suporte, não é possível localizar nenhum caso criado antes de 2 de dezembro de 2018.
+Depois de acessar a guia **Gerenciar casos** no Centro de suporte, não é possível localizar nenhum caso criado antes de 2 de dezembro de 2018. 
 {: tsSymptoms}
 
-Os casos abertos antes de 2 de dezembro de 2018 são visíveis apenas em **Visualizar casos arquivados**.
+Os casos abertos antes de 2 de dezembro de 2018 são visíveis apenas em **Visualizar casos arquivados**. 
 {: tsCauses}
 
 Para visualizar seus casos, acesse **Suporte**, selecione **Gerenciar casos** e clique em **Visualizar casos arquivados**.

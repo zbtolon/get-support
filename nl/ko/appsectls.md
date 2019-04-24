@@ -6,6 +6,10 @@ copyright:
 
 lastupdated: "2019-02-14"
 
+keywords: TLS, TLS support
+
+subcollection: get-support
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -48,9 +52,9 @@ TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 �
 
 #### Cloud Foundry 애플리케이션에 연결
 {: #connect-cf}
-`*.app.domain.cloud` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트는 TLS 1.2만을 지원하는 대체 엔드포인트를 통해 액세스할 수 있습니다. 
+`*.app.domain.cloud` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트는 TLS 1.2만을 지원하는 대체 엔드포인트를 통해 액세스할 수 있습니다.
 
-대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 뒤에 `alt.`을 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.app.domain.cloud`에서 호스팅되는 경우에는 `https://myapplication.alt.app.domain.cloud`를 사용하십시오. `https://myapplication.eu-gb.app.domain.cloud`의 경우에는 `https://myapplication.alt.eu-gb.app.domain.cloud`를 사용하십시오. 
+대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 뒤에 `alt.`을 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.app.domain.cloud`에서 호스팅되는 경우에는 `https://myapplication.alt.app.domain.cloud`를 사용하십시오. `https://myapplication.eu-gb.app.domain.cloud`의 경우에는 `https://myapplication.alt.eu-gb.app.domain.cloud`를 사용하십시오.
 
 대체 엔드포인트에 연결할 수 있는 경우에는 영향을 받지 않습니다.
 
@@ -59,7 +63,7 @@ TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 �
 #### Cloud Foundry 애플리케이션 간 연결
 {: #connect2}
 
-다른 애플리케이션에 연결할 때 `*.app.domain.cloud` 도메인에서 사용 가능한 대체 엔드포인트로 자동으로 경로 재지정하도록 Cloud Foundry 애플리케이션을 구성하려면 다음 명령을 사용하십시오. 
+다른 애플리케이션에 연결할 때 `*.app.domain.cloud` 도메인에서 사용 가능한 대체 엔드포인트로 자동으로 경로 재지정하도록 Cloud Foundry 애플리케이션을 구성하려면 다음 명령을 사용하십시오.
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
