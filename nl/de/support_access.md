@@ -56,7 +56,7 @@ Die folgende Tabelle enthält eine Auflistung der Berechtigungen, die in den ein
 |--------|---------------|
 |Anzeigeberechtigter  | Fälle anzeigen und durchsuchen |
 |Bearbeiter | Fälle anzeigen, durchsuchen, erstellen und aktualisieren|
-|Administrator | Fälle anzeigen, durchsuchen, erstellen und aktualisieren; Support Center-Rollen für andere Benutzer verwalten |
+|Administrator | Fälle anzeigen, durchsuchen, erstellen und aktualisieren; Support Center-Rollen für andere Benutzer verwalten|
 {: caption="Tabelle 1. Rollen und Aktionen für den Support Center-Service" caption-side="top"}
 
 ## Benutzer zur Zugriffsgruppe für das Fallmanagement hinzufügen

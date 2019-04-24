@@ -927,7 +927,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2019E
-**Messaggio**: I metadati di modello specificavano un tipo di gestione del controllo origine sconosciuto "{0}".
+**Messaggio**: I metadati di template specificavano un tipo di gestione del controllo origine sconosciuto "{0}".
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -1029,7 +1029,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2039E
-**Messaggio**: L'ID starter "{0}" non è stato copiato perché il repository Git associato al modello di contenitore tipo non è accessibile.
+**Messaggio**: L'ID starter "{0}" non è stato copiato perché il repository Git associato al template di contenitore tipo non è accessibile.
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -1049,7 +1049,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 Contatta il [[Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2043E
-**Messaggio**: L'URL di metadati di modello {0} non è valido. Errore: "{1}". 
+**Messaggio**: L'URL di metadati di template {0} non è valido. Errore: "{1}". 
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -1159,9 +1159,9 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2065E
-**Messaggio**: L'ID modello non è valido perché contiene HTML.
+**Messaggio**: L'ID template non è valido perché contiene HTML.
 
-l'ID modello non può includere le tag HTML `<` e `>`.
+l'ID template non può includere le tag HTML `<` e `>`.
 
 Rimuovi tali tag e riprova.
 
@@ -1273,12 +1273,12 @@ Riprova con un nome più breve.
 Disconnettiti, esegui nuovamente l'accesso e riprova. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/status?selected=status){: new_window} per controllare se un servizio o un componente ha qualche problema. Se il problema persiste, contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2089E
-**Messaggio**: Si è verificato un errore durante un tentativo di registrare un modello all'URL "{0}". Errore: "{1}". 
+**Messaggio**: Si è verificato un errore durante un tentativo di registrare un template all'URL "{0}". Errore: "{1}". 
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2090E
-**Messaggio**: Il tentativo di registrare un modello al seguente URL non è riuscito: "{0}". I contenuti del modello non sono formati correttamente. Errore: "{1}"
+**Messaggio**: Il tentativo di registrare un template al seguente URL non è riuscito: "{0}". I contenuti del template non sono formati correttamente. Errore: "{1}"
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
