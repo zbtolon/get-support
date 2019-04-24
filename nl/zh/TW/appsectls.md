@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2018
+  years: 1994, 2019
 
-lastupdated: "2018-01-05"
+lastupdated: "2019-02-14"
 
 ---
 
@@ -39,25 +39,27 @@ IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS
 如果您使用任何即將撤銷 TLS 1.0 或 1.1 支援的產品或服務，則必須確認您的連線不需要 TLS 1.0 或 1.1。
 
 ### {{site.data.keyword.Bluemix_notm}} 上的 Cloud Foundry
+{: #cf}
 
 對於 Cloud Foundry 應用程式，您必須確認從 {{site.data.keyword.Bluemix_notm}} 外連接至您應用程式的連線不受影響。同時，也請確認從您應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上另一個 Cloud Foundry 應用程式的連線不受影響。
 
-所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。所有現代瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](/docs/overview/prereqs.html#browsers)的瀏覽器。
+所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。所有現代瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](/docs/overview?topic=overview-browsers-platform#browsers)的瀏覽器。
 {: tip}
 
 #### 連接至 Cloud Foundry 應用程式
+{: #connect-cf}
+`*.app.domain.cloud` 網域上的所有 Cloud Foundry 應用程式端點，都可以透過只支援 TLS 1.2 的替代端點進行存取。
 
-`*.mybluemix.net` 網域上的所有 Cloud Foundry 應用程式端點，都可以透過只支援 TLS 1.2 的替代端點進行存取。
-
-若要使用替代端點，請在應用程式的子網域之後新增 `alt.`。例如，如果您的應用程式是在 `https://myapplication.mybluemix.net` 進行管理，則請使用 `https://myapplication.alt.mybluemix.net`。或者，針對 `https://myapplication.eu-gb.mybluemix.net`，請使用 `https://myapplication.alt.eu-gb.mybluemix.net`。
+若要使用替代端點，請在應用程式的子網域之後新增 `alt.`。比方說，如果您的應用程式是在 `https://myapplication.app.domain.cloud` 進行管理，則請使用 `https://myapplication.alt.app.domain.cloud`。或者，如果是 `https://myapplication.eu-gb.app.domain.cloud`，請使用 `https://myapplication.alt.eu-gb.app.domain.cloud`。
 
 如果您可以順利連接至替代端點，則不受影響。
 
 如果您無法順利連接，則必須變更用戶端、用戶端程式庫或用戶端配置，以啟用 TLS 1.2。
 
 #### Cloud Foundry 應用程式之間的連線
+{: #connect2}
 
-使用下列指令，將 Cloud Foundry 應用程式配置為在連接至其他應用程式時，自動重新導向至 `*.mybluemix.net` 網域上可用的替代端點：
+使用下列指令，將 Cloud Foundry 應用程式配置為在連接至其他應用程式時，自動重新導向至 `*.app.domain.cloud` 網域上可用的替代端點：
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -73,6 +75,7 @@ cf restage <application_name>
 {: tip}
 
 ### Watson 產品及服務
+{: #watson-serv}
 
 若為 Watson 產品和服務，請對您的連線進行下列取代：
   * 將 `gateway.watsonplatform.net` 取代為 `gateway-tls12.watsonplatform.net`
@@ -86,6 +89,7 @@ cf restage <application_name>
 {: tip}
 
 ### 其他產品或服務
+{: #other-serv}
 
 針對沒有僅限 TLS 1.2 替代端點可用的產品或服務，請參閱用戶端的任何可用文件。如需如何判定所支援 TLS 版本以及您所使用版本的相關資訊，請參閱用戶端程式庫。 
 
@@ -100,6 +104,7 @@ cf restage <application_name>
 {: note}
 
 ### 可從 {{site.data.keyword.Bluemix_notm}} 型錄取得的產品或服務
+{: #available}
 
 #### 雲端平台
 
@@ -107,10 +112,12 @@ cf restage <application_name>
 * {{site.data.keyword.Bluemix_notm}} 基礎架構（`api.softlayer.com` 及 `api.service.softlayer.com`）
 
 #### API
+{: #apis}
 
 * API Connect
 
 #### 應用程式服務
+{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -141,6 +148,7 @@ cf restage <application_name>
 * Managed MS-SQL Database Server\*
 
 #### DevOps
+{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -155,6 +163,7 @@ cf restage <application_name>
 * Runbook Automation\*
 
 #### 金融
+{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -164,11 +173,13 @@ cf restage <application_name>
 * Simulated Historical Instrument Analytics\*
 * Simulated Instrument Analytics\*
 
-#### 功能
+#### 函數
+{: #function}
 
 * 函數
 
 #### 整合
+{: #integrate}
 
 * App Connect
 * Product Insights
@@ -176,10 +187,12 @@ cf restage <application_name>
 * API Harmony\*
 
 #### 物聯網
+{: #iot}
 
 * IoT for Electronics
 
 #### 行動
+{: #mobile}
 
 * App ID†
 * Mobile Analytics
@@ -188,11 +201,13 @@ cf restage <application_name>
 * App Launch\*
 
 #### 安全
+{: #security-app}
 
 * App ID†
 * SSL Certificates†
 
 #### Watson
+{: #watson}
 
 * Conversation
 * Discovery
@@ -214,6 +229,7 @@ cf restage <application_name>
 ‡ 已淘汰，只有現有客戶才能使用。
 
 ### 可透過 IBM Marketplace 取得的產品或服務
+{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -239,6 +255,7 @@ cf restage <application_name>
 部分產品及服務會啟用替代端點，以在從主要端點移除 TLS 1.0 及 1.1 之後繼續支援 TLS 1.0 及 1.1。
 
 ### {{site.data.keyword.Bluemix_notm}} 基礎架構
+{: #infrastructure}
 
 從 `api.softlayer.com` 及 `api.service.softlayer.com` 移除 TLS 1.0 及 1.1 支援後，將會公告替代端點並提供使用 30 天。
 

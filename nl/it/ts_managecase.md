@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-02-19"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases
-
-subcollection: get-support
-
 ---
 
 
@@ -32,7 +28,7 @@ Potresti riscontrare dei problemi con la creazione e la gestione dei casi di sup
 ## Perché non posso creare o modificare i casi di supporto? 
 {: #ts_service_broker}
 
-Non puoi creare o modificare un caso di supporto {{site.data.keyword.Bluemix_notm}} e viene visualizzato un messaggio di errore che indica che non disponi dell'accesso appropriato. 
+Non puoi creare o modificare un caso di supporto {{site.data.keyword.Bluemix_notm}} e viene visualizzato un messaggio di errore che indica che non disponi dell'accesso appropriato.
 {:shortdesc}
 
 Quando tenti di creare un caso, viene visualizzato il seguente messaggio di errore:   
@@ -77,13 +73,13 @@ Per risolvere il problema, contatta il proprietario dell'account per richiedere 
 ## Perché non riesco a trovare un caso che ho creato in precedenza? 
 {: #ts_viewarchivedcase}
 
-Non riesci a trovare i tuoi casi che hai creato prima dell'esperienza della piattaforma {{site.data.keyword.Bluemix_notm}} migliorata. 
+Non riesci a trovare i tuoi casi che hai creato prima dell'esperienza della piattaforma {{site.data.keyword.Bluemix_notm}} migliorata.
 {:shortdesc}
 
-Dopo essere andato alla scheda **Gestisci casi** nel Centro di supporto, non riesci a trovare alcun caso che hai creato prima del 2 dicembre 2018. 
+Dopo essere andato alla scheda **Gestisci casi** nel Centro di supporto, non riesci a trovare alcun caso che hai creato prima del 2 dicembre 2018.
 {: tsSymptoms}
 
-I casi aperti prima del 2 dicembre 2018 sono visibili solo da **Visualizza casi archiviati**. 
+I casi aperti prima del 2 dicembre 2018 sono visibili solo da **Visualizza casi archiviati**.
 {: tsCauses}
 
 Per visualizzare i tuoi casi, vai a **Supporto**, seleziona **Gestisci casi** e fai clic su **Visualizza casi archiviati**.

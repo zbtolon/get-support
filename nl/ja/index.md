@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -34,7 +34,7 @@ lastupdated: "2018-01-09"
 更新された SLO のプレミアム・サポートの初回応答時間の目標は、2018 年 10 月 1 より有効です。更新は、2018 年 10 月 1 日以降に作成されたサポート Case に適用されます。2018 年 10 月 1 日より前のプレミアム・サポートの初回応答時間の目標は、重大度 1 では 1 時間以内、重大度 2 では 90 分以内です。
 {: note}
 
-Case 重大度がどのように割り当てられるのかについて詳しくは、[Case 重大度と応答時間](/docs/get-support/quicktickresp.html#support-case-severity)を参照してください。
+Case 重大度がどのように割り当てられるのかについて詳しくは、[Case 重大度と応答時間](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)を参照してください。
 {: tip} 
 
 ## プレミアム・サポート

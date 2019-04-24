@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: access to cases, get access for cases, assign cases
-
-subcollection: get-support
-
 ---
 
 
@@ -76,4 +72,4 @@ L'utilisation de groupes d'accès pour l'affectation de services de gestion d'ut
 3. Sélectionnez **Affecter l'accès aux services de gestion des comptes**.
 4. Sélectionnez **Centre de support**.
 5. Sélectionnez le rôle **Afficheur**, **Editeur** ou **Administrateur** en fonction du type d'accès que vous souhaitez accorder à ce groupe puis cliquez sur **Affecter**.
-6. Si vous souhaitez qu'un utilisateur puisse afficher tous les autres utilisateurs du compte, vous pouvez également lui affecter le rôle d'afficheur de gestion d'utilisateur. 
+6. Si vous souhaitez qu'un utilisateur puisse afficher tous les autres utilisateurs du compte, vous pouvez également lui affecter le rôle d'afficheur de gestion d'utilisateur.  

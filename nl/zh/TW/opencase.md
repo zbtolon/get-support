@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: create case, manage case, open case, start case, ticket
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}

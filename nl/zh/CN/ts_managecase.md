@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-02-19"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases
-
-subcollection: get-support
-
 ---
 
 
@@ -62,7 +58,7 @@ subcollection: get-support
 您无法查看帐户中的所有案例，因为您无权查看帐户中的所有用户。
 {:shortdesc}
 
-尝试查看与帐户关联的支持案例时，看不到所有提交的案例。
+尝试查看与帐户关联的支持案例时，看不到所有打开的案例。
 {: tsSymptoms}
 
 帐户所有者将[用户列表可视性设置](/docs/iam?topic=iam-userlistview#userlistview)设为受限。如果该设置设为受限，并且您没有额外的访问策略来查看帐户中的用户，那么您没有查看帐户中所有案例的必需访问权。您只能查看您邀请到帐户中的用户、与之共享 Cloud Foundry 组织成员资格的用户，或者位于您的经典基础架构用户层次结构中的用户。

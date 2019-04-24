@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-30"
 
-keywords: data centers, data center support, dal01 pod, wdc01 pod 
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}

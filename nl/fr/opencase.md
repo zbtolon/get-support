@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: create case, manage case, open case, start case, ticket
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}
@@ -72,6 +68,6 @@ Pour examiner et gérer vos cas de support, procédez comme suit :
   3. Sélectionnez un cas dans la liste pour ajouter des commentaires ou mettre à jour un cas.
   4. Les cas fermés ou résolus sont disponibles en utilisant l'option de filtrage permettant d'extraire les cas, quel que soit leur statut. 
 
-Si vous êtes un utilisateur d'infrastructure classique et que vous ne voyez pas de liste d'un cas précédent, sélectionnez **Afficher les cas archivés**. 
+Si vous êtes un utilisateur d'infrastructure classique et que vous ne voyez pas de liste d'un cas précédent, sélectionnez **Afficher les cas archivés**.
 {: tip}
 

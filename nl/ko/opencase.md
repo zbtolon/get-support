@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: create case, manage case, open case, start case, ticket
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}
@@ -53,7 +49,7 @@ subcollection: get-support
 
 케이스를 작성하는 경우 파일을 첨부하는 옵션이 있으며 특정 파일 유형만 지원됩니다. 
 
-다음 파일 유형이 지원됩니다. 
+다음 파일 유형이 지원됩니다.  
 
 ```
 7z, ace, ams, arm, asp, bash, history, bkp, big, bmp, bz2, ca, ca-bundle, ca-crt, cabundle, cap, cer, cert, cfg, cnf, crt, csr, csv, dat, dbs, debug, dib, dmesg, dmp, doc, docx, dotx, dump, email, eml, emz, env, eps, error, evt, evtx, fragment, gif, gz, gz_aa, gz_ab, gz_ac, har, hosts, htaccess, html, iaf, ics, id, img, info, jpb, jpe, jpeg, jpg, key, lic, log, logsm lon02, lst, lzh, mai, md5, mib, mjpg, msg, mso, odp, ods, odt, oft, openssh, out, ovf, ovpn, p7b, p7s, pages, pcap, pcf, pcx, pdb, pem, pfx, pic, pix, png, ppk, ppt, pptx, psd, psp, pspimage, pub_key, rar, raw, rdp, req, rpt, rtf, sjc03-raid-2, sjc03-raid-log-1, snag, sql, ssh, stats, sth, svg, sxc, tar, targz, tbz2, tcpdump, text, tgz, tgz-aa, tgz-ab, tgz-ac, tgz-ad, tgz-ae, tgz-af, tgz-ag, tgz-ah, tgz-ai, tgz-aj, tgz-ak, tgz-ak, tgz-al, tgz-al, tgz-am, tif, tiff, tip, trace, tsv, txt, ufo, vcf, vdx, vsdx, webarchive, wml, wps, wpz, wrf, wri, xcf, xlog, xlr, xls, xis, xism, xisx, xit, xml, xpm, xps, xslic, xz, yaml, zip, zipaa, zipx, zone
@@ -70,8 +66,8 @@ subcollection: get-support
   1. 콘솔 메뉴 표시줄에서 **지원**을 클릭하십시오.
   2. 오픈 케이스의 목록을 보려면 **케이스 관리**를 선택하십시오.
   3. 목록에서 케이스를 선택하여 주석을 추가하거나 케이스를 업데이트하십시오.
-  4. 닫히거나 해결된 케이스는 모든 상태의 케이스를 검색하는 필터 옵션을 사용하여 찾을 수 있습니다. 
+  4. 닫히거나 해결된 케이스는 모든 상태의 케이스를 검색하는 필터 옵션을 사용하여 찾을 수 있습니다.  
 
-이전 케이스 목록이 표시되지 않는 클래식 인프라 사용자는 **아카이브된 케이스 보기**로 이동하십시오. 
+이전 케이스 목록이 표시되지 않는 클래식 인프라 사용자는 **아카이브된 케이스 보기**로 이동하십시오.
 {: tip}
 

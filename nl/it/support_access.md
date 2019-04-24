@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: access to cases, get access for cases, assign cases
-
-subcollection: get-support
-
 ---
 
 

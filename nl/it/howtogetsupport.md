@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -28,7 +28,7 @@ A tutti i clienti di {{site.data.keyword.Bluemix}} viene fornito supporto tecnic
 
 Puoi accedere alle opzioni di supporto, come ad esempio alla community {{site.data.keyword.Bluemix_notm}} o a Stack Overflow per i problemi tecnici, dal Centro di supporto della console {{site.data.keyword.Bluemix_notm}}.
 
-Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto. Per ulteriori informazioni, vedi [Utilizzo del Centro di supporto](/docs/get-support/howtogetsupport.html#using-avatar). Il piano di supporto che hai selezionato per il tuo account determina il livello di supporto disponibile e la severità che puoi assegnare ai casi di supporto. Per ulteriori informazioni, vedi [Severità dei casi e tempo di risposta](/docs/get-support/ticketweight.html#support-ticket-severity).
+Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto. Per ulteriori informazioni, vedi [Utilizzo del Centro di supporto](/docs/get-support?topic=get-support-using-avatar#using-avatar). Il piano di supporto che hai selezionato per il tuo account determina il livello di supporto disponibile e la severità che puoi assegnare ai casi di supporto. Per ulteriori informazioni, vedi [Severità dei casi e tempo di risposta](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 
 ## Sondaggio sulla soddisfazione per il supporto {{site.data.keyword.Bluemix_notm}}  
 {: #survey}
@@ -42,7 +42,7 @@ Per accedere al Centro di supporto, esegui l'accesso alla console {{site.data.ke
 
 Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte alle tue domande attraverso la documentazione {{site.data.keyword.Bluemix_notm}} e il forum Stack Overflow. Dal Centro di supporto, puoi anche gestire i casi di supporto. Puoi trovare link al forum Stack Overflow, per domande tecniche, e al forum developerWorks (IBM Developer Answers), per tutte le altre domande, sotto la sezione Forum del Centro di supporto.  
 
-Se hai un [piano di supporto](/docs/get-support/index.html) di base, avanzato o premium, puoi trovare i numeri da chiamare e un'opzione di chat per ottenere assistenza.
+Se hai un [piano di supporto](/docs/get-support?topic=get-support-support-plans#support-plans) di base, avanzato o premium, puoi trovare i numeri da chiamare e un'opzione di chat per ottenere assistenza.
 
 Il Centro di supporto è il metodo preferito per ottenere supporto, ma se non riesci ad accedere a {{site.data.keyword.Bluemix_notm}}, puoi utilizzare la pagina [Richiedi assistenza](http://www.ibm.biz/bluemixsupport){: new_window} per inviare un caso.
 
@@ -85,7 +85,7 @@ Per la piattaforma {{site.data.keyword.Bluemix_notm}}, solo i servizi ospitati n
 
 L'impostazione dell'opzione **Supportato UE** per il tuo account si applica a tutti i casi futuri che apri per problemi su qualsiasi servizio o data center ospitato nella regione UE. I casi che hai aperto prima di impostare questa opzione non sono interessati. Se imposti questa opzione e aggiungi delle risorse al di fuori di un data center UE o della regione Germania, i problemi relativi a tali risorse non sono necessariamente gestiti da un team di supporto in Europa.
 
-Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fatturazione della console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Abilitazione delle impostazioni Supportato UE](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
+Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fatturazione della console {{site.data.keyword.Bluemix_notm}}. Per ulteriori informazioni, vedi [Abilitazione delle impostazioni Supportato UE](/docs/account?topic=account-bill_eusupported#bill_eusupported).
 
 ### Servizi supportati dall'UE
 {: #eusupportedservices}
@@ -111,7 +111,7 @@ Tutti i piani, tranne i piani Lite, per le seguenti categorie di servizi di infr
 Se noti una potenziale vulnerabilità di sicurezza per {{site.data.keyword.Bluemix_notm}}, segnalala aprendo un caso di supporto.
 
 Per notificare una vulnerabilità di sicurezza potenziale, completa la seguente procedura:
-1. Apri un caso di severità 1 o un caso con il più alto livello di severità consentito dal tuo supporto. Per informazioni su come aprire un caso, vedi [Creazione dei casi di supporto](/docs/get-support/opencase.html#open-case).
+1. Apri un caso di severità 1 o un caso con il più alto livello di severità consentito dal tuo supporto. Per informazioni su come aprire un caso, vedi [Creazione dei casi di supporto](/docs/get-support?topic=get-support-open-case#open-case).
 2. Nel riepilogo del caso, descrivi chiaramente che il caso riguarda una potenziale vulnerabilità di sicurezza.
 3. Fornisci i dettagli della vulnerabilità di sicurezza potenziale includendo una delle seguenti voci:
     * Un numero di telefono in cui puoi essere raggiunto per discutere del problema.

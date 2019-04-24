@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2018
+  years: 1994, 2019
 
-lastupdated: "2018-01-05"
+lastupdated: "2019-02-14"
 
 ---
 
@@ -39,25 +39,27 @@ La maggior parte delle connessioni effettuate ai prodotti o ai servizi {{site.da
 Se utilizzi uno dei prodotti o servizi che ritirano il supporto per TLS 1.0 o 1.1, devi confermare che le tue connessioni non richiedono TLS 1.0 o 1.1.
 
 ### Cloud Foundry su {{site.data.keyword.Bluemix_notm}}
+{: #cf}
 
 Per le applicazioni Cloud Foundry, devi confermare che le connessioni alla tua applicazione dall'esterno di {{site.data.keyword.Bluemix_notm}} non siano interessate. Conferma inoltre che le connessioni dalla tua applicazione a un'altra applicazione Cloud Foundry su {{site.data.keyword.Bluemix_notm}} non siano interessate.
 
-Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](/docs/overview/prereqs.html#browsers) di {{site.data.keyword.Bluemix_notm}}.
+Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](/docs/overview?topic=overview-browsers-platform#browsers) di {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connessione alla tua applicazione Cloud Foundry
+{: #connect-cf}
+Tutti gli endpoint dell'applicazione Cloud Foundry sul dominio `*.app.domain.cloud` sono accessibili tramite un endpoint alternativo che supporta solo TLS 1.2.
 
-Tutti gli endpoint dell'applicazione Cloud Foundry sul dominio `*.mybluemix.net` sono accessibili tramite un endpoint alternativo che supporta solo TLS 1.2.
-
-Per utilizzare l'endpoint alternativo, aggiungi `alt.` dopo il dominio secondario della tua applicazione. Ad esempio, se la tua applicazione è ospitata su `https://myapplication.mybluemix.net`, utilizza `https://myapplication.alt.mybluemix.net`. Oppure, per `https://myapplication.eu-gb.mybluemix.net`, utilizza `https://myapplication.alt.eu-gb.mybluemix.net`.
+Per utilizzare l'endpoint alternativo, aggiungi `alt.` dopo il dominio secondario della tua applicazione. Ad esempio, se la tua applicazione è ospitata su `https://myapplication.app.domain.cloud`, utilizza `https://myapplication.alt.app.domain.cloud`. Oppure, per `https://myapplication.eu-gb.app.domain.cloud`, utilizza `https://myapplication.alt.eu-gb.app.domain.cloud`.
 
 Se puoi connetterti correttamente all'endpoint alternativo, non subisci alcun impatto.
 
 Se non puoi connetterti correttamente, devi modificare il tuo client, le librerie client o la configurazione del client per abilitare TLS 1.2.
 
 #### Connessione tra le applicazioni Cloud Foundry
+{: #connect2}
 
-Utilizza il seguente comando per configurare la tua applicazione Cloud Foundry per il reindirizzamento automatico agli endpoint alternativi disponibili sul dominio `*.mybluemix.net` quando ti connetti ad altre applicazioni:
+Utilizza il seguente comando per configurare la tua applicazione Cloud Foundry per il reindirizzamento automatico agli endpoint alternativi disponibili sul dominio `*.app.domain.cloud` quando ti connetti ad altre applicazioni:
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -73,6 +75,7 @@ Per utilizzare gli endpoint alternativi, il tuo client deve supportare l'estensi
 {: tip}
 
 ### Prodotti e servizi Watson
+{: #watson-serv}
 
 Per i prodotti e i servizi Watson, effettua le seguenti sostituzioni alle tue connessioni:
   * Sostituisci `gateway.watsonplatform.net` con `gateway-tls12.watsonplatform.net`
@@ -86,6 +89,7 @@ Gli endpoint alternativi per prodotti e servizi Watson in ubicazioni diverse da 
 {: tip}
 
 ### Altri prodotti e servizi
+{: #other-serv}
 
 Per prodotti o servizi che non dispongono di endpoint alternativi solo per TLS 1.2, fai riferimento a qualsiasi documentazione disponibile per il tuo client. Per informazioni su come determinare quali versioni di TLS sono supportate e quale versione stai utilizzando, fai riferimento alle librerie client. 
 
@@ -100,6 +104,7 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 {: note}
 
 ### Prodotti o servizi disponibili dal catalogo {{site.data.keyword.Bluemix_notm}}
+{: #available}
 
 #### Piattaforma cloud
 
@@ -107,10 +112,12 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * Infrastruttura {{site.data.keyword.Bluemix_notm}} (`api.softlayer.com` e `api.service.softlayer.com`)
 
 #### API
+{: #apis}
 
 * API Connect
 
 #### Servizi dell'applicazione
+{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -141,6 +148,7 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * Managed MS-SQL Database Server\*
 
 #### DevOps
+{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -155,6 +163,7 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * Runbook Automation\*
 
 #### Elemento finanziario
+{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -165,10 +174,12 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * Simulated Instrument Analytics\*
 
 #### Functions
+{: #function}
 
 * Functions
 
 #### Integra
+{: #integrate}
 
 * App Connect
 * Product Insights
@@ -176,10 +187,12 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * API Harmony\*
 
 #### Internet delle cose
+{: #iot}
 
 * IoT for Electronics
 
 #### Mobile
+{: #mobile}
 
 * App ID†
 * Mobile Analytics
@@ -188,11 +201,13 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 * App Launch\*
 
 #### Sicurezza
+{: #security-app}
 
 * App ID†
 * SSL Certificates†
 
 #### Watson
+{: #watson}
 
 * Conversation
 * Discovery
@@ -214,6 +229,7 @@ Le distribuzioni di {{site.data.keyword.Bluemix_notm}} Private o del sistema {{s
 ‡ Obsoleto, disponibile solo per i clienti esistenti.
 
 ### Prodotti o servizi disponibili in IBM Marketplace
+{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -239,6 +255,7 @@ Il tuo prodotto o servizio potrebbe già supportare solo TLS 1.2 o potrebbe non 
 Alcuni prodotti e servizi stanno abilitando endpoint alternativi che continuano a supportare TLS 1.0 e 1.1 dopo che sono stati rimossi dagli endpoint primari.
 
 ### Infrastruttura {{site.data.keyword.Bluemix_notm}}
+{: #infrastructure}
 
 Quando il supporto per TLS 1.0 e 1.1 viene rimosso da `api.softlayer.com` e `api.service.softlayer.com`, vengono annunciati gli endpoint alternativi che saranno disponibili per 30 giorni.
 

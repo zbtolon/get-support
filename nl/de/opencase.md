@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-29"
 
-keywords: create case, manage case, open case, start case, ticket
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}
@@ -72,6 +68,6 @@ Führen Sie die folgenden Schritte aus, um Ihre Supportfälle anzuzeigen und zu 
   3. Wählen Sie einen Fall aus der Liste aus, um Kommentare hinzuzufügen oder einen Fall zu aktualisieren.
   4. Abgeschlossene oder gelöste Fälle können gesucht werden, indem Sie Fälle mit beliebigem Status unter Verwendung der Filteroption abrufen. 
 
-Wenn Sie ein Benutzer der klassischen Infrastruktur sind und ein vorheriger Fall nicht in der Auflistung aufgeführt wird, verwenden Sie die Option **Archivierte Fälle anzeigen**. 
+Wenn Sie ein Benutzer der klassischen Infrastruktur sind und ein vorheriger Fall nicht in der Auflistung aufgeführt wird, verwenden Sie die Option **Archivierte Fälle anzeigen**.
 {: tip}
 

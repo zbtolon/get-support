@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-02-19"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases
-
-subcollection: get-support
-
 ---
 
 
@@ -32,7 +28,7 @@ subcollection: get-support
 ## 지원 케이스를 작성하거나 편집할 수 없는 이유 
 {: #ts_service_broker}
 
-{{site.data.keyword.Bluemix_notm}} 지원 케이스를 작성하거나 편집할 수 없으며, 적절한 액세스 권한이 없다는 오류 메시지가 표시됩니다. 
+{{site.data.keyword.Bluemix_notm}} 지원 케이스를 작성하거나 편집할 수 없으며, 적절한 액세스 권한이 없다는 오류 메시지가 표시됩니다.
 {:shortdesc}
 
 케이스를 작성하려고 할 때 다음 오류 메시지가 표시됩니다.   
@@ -77,13 +73,13 @@ subcollection: get-support
 ## 이전에 작성한 케이스를 찾을 수 없는 이유는 무엇입니까? 
 {: #ts_viewarchivedcase}
 
-{{site.data.keyword.Bluemix_notm}} 플랫폼 경험이 개선되기 전에 작성한 케이스는 찾을 수 없습니다. 
+{{site.data.keyword.Bluemix_notm}} 플랫폼 경험이 개선되기 전에 작성한 케이스는 찾을 수 없습니다.
 {:shortdesc}
 
-지원 센터의 **케이스 관리** 탭으로 이동한 후 2018년 12월 2일 전에 작성한 케이스를 찾을 수 없습니다. 
+지원 센터의 **케이스 관리** 탭으로 이동한 후 2018년 12월 2일 전에 작성한 케이스를 찾을 수 없습니다.
 {: tsSymptoms}
 
-2018년 12월 2일 전에 열린 케이스는 **아카이브된 케이스 보기**에서만 볼 수 있습니다. 
+2018년 12월 2일 전에 열린 케이스는 **아카이브된 케이스 보기**에서만 볼 수 있습니다.
 {: tsCauses}
 
 케이스를 보려면 **지원**으로 이동하여 **케이스 관리**를 선택한 후 **아카이브된 케이스 보기**를 클릭하십시오.

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2018-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -34,7 +34,7 @@ Se proporciona soporte técnico gratuito a través de la comunidad de {{site.dat
 SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte premium, efectivos el 1 de octubre de 2018. Las actualizaciones son aplicables a casos de soporte que se crean durante o después del 1 de octubre de 2018. Los objetivos de tiempo de respuesta inicial del soporte premium antes del 1 de octubre de 2018 serán de 1 hora de plazo para gravedad 1 y 90 minutos de plazo para gravedad 2.
 {: note}
 
-Para obtener más información sobre cómo se asigna el nivel de gravedad a los casos, consulte [Gravedad del caso y tiempos de respuesta](/docs/get-support/quicktickresp.html#support-case-severity).
+Para obtener más información sobre cómo se asigna el nivel de gravedad a los casos, consulte [Gravedad del caso y tiempos de respuesta](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 {: tip} 
 
 ## Soporte premium

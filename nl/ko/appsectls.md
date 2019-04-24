@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 1994, 2018
+  years: 1994, 2019
 
-lastupdated: "2018-01-05"
+lastupdated: "2019-02-14"
 
 ---
 
@@ -39,25 +39,27 @@ TLS 버전 지원 변경은 안전하며, 보안 및 데이터 개인정보 보�
 TLS 1.0 또는 1.1에 대한 지원을 중단하는 제품 또는 서비스를 사용하고 있는 경우에는 연결에 TLS 1.0 또는 1.1이 필요하지 않은지 확인해야 합니다.
 
 ### {{site.data.keyword.Bluemix_notm}}의 Cloud Foundry
+{: #cf}
 
 Cloud Foundry 애플리케이션의 경우에는 {{site.data.keyword.Bluemix_notm}} 외부에서 사용자 애플리케이션으로의 연결이 영향을 받지 않는지 확인해야 합니다. 사용자의 애플리케이션에서 {{site.data.keyword.Bluemix_notm}}에 있는 다른 Cloud Foundry 애플리케이션으로의 연결 또한 영향을 받지 않는지 확인하십시오.
 
-TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 모든 연결 포함)은 잠재적으로 영향을 받습니다. {{site.data.keyword.Bluemix_notm}} [전제조건](/docs/overview/prereqs.html#browsers)인 브라우저를 포함한 모든 최신 브라우저는 TLS 1.2를 지원합니다.
+TLS를 사용하는 Cloud Foundry에 대한 모든 연결(웹 브라우저의 모든 연결 포함)은 잠재적으로 영향을 받습니다. {{site.data.keyword.Bluemix_notm}} [전제조건](/docs/overview?topic=overview-browsers-platform#browsers)인 브라우저를 포함한 모든 최신 브라우저는 TLS 1.2를 지원합니다.
 {: tip}
 
 #### Cloud Foundry 애플리케이션에 연결
+{: #connect-cf}
+`*.app.domain.cloud` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트는 TLS 1.2만을 지원하는 대체 엔드포인트를 통해 액세스할 수 있습니다. 
 
-`*.mybluemix.net` 도메인의 모든 Cloud Foundry 애플리케이션 엔드포인트는 TLS 1.2만을 지원하는 대체 엔드포인트를 통해 액세스할 수 있습니다.
-
-대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 뒤에 `alt.`을 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.mybluemix.net`에서 호스팅되는 경우에는 `https://myapplication.alt.mybluemix.net`을 사용하십시오. 또는 `https://myapplication.eu-gb.mybluemix.net`의 경우에는 `https://myapplication.alt.eu-gb.mybluemix.net`을 사용하십시오.
+대체 엔드포인트를 사용하려면 애플리케이션의 하위 도메인 뒤에 `alt.`을 추가하십시오. 예를 들어, 애플리케이션이 `https://myapplication.app.domain.cloud`에서 호스팅되는 경우에는 `https://myapplication.alt.app.domain.cloud`를 사용하십시오. `https://myapplication.eu-gb.app.domain.cloud`의 경우에는 `https://myapplication.alt.eu-gb.app.domain.cloud`를 사용하십시오. 
 
 대체 엔드포인트에 연결할 수 있는 경우에는 영향을 받지 않습니다.
 
 연결할 수 없는 경우에는 TLS 1.2를 사용하도록 클라이언트, 클라이언트 라이브러리 또는 클라이언트 구성을 변경해야 합니다.
 
 #### Cloud Foundry 애플리케이션 간 연결
+{: #connect2}
 
-다른 애플리케이션에 연결할 때 `*.mybluemix.net` 도메인에서 사용 가능한 대체 엔드포인트로 자동으로 경로 재지정하도록 Cloud Foundry 애플리케이션을 구성하려면 다음 명령을 사용하십시오.
+다른 애플리케이션에 연결할 때 `*.app.domain.cloud` 도메인에서 사용 가능한 대체 엔드포인트로 자동으로 경로 재지정하도록 Cloud Foundry 애플리케이션을 구성하려면 다음 명령을 사용하십시오. 
 ```
 cf set-env <application_name> BLUEMIX_TLS10_DISABLED true
 ```
@@ -73,6 +75,7 @@ cf restage <application_name>
 {: tip}
 
 ### Watson 제품 및 서비스
+{: #watson-serv}
 
 Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체하십시오.
   * `gateway.watsonplatform.net`을 `gateway-tls12.watsonplatform.net`으로 대체
@@ -86,6 +89,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 {: tip}
 
 ### 기타 제품 또는 서비스
+{: #other-serv}
 
 사용 가능한 대체 TLS 1.2 전용 엔드포인트가 없는 제품 또는 서비스의 경우 클라이언트에 사용 가능한 문서를 참조하십시오. 지원되는 TLS 버전 및 사용 중인 버전을 판별하는 방법에 대한 정보는 클라이언트 라이브러리를 참조하십시오. 
 
@@ -100,6 +104,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 {: note}
 
 ### {{site.data.keyword.Bluemix_notm}} 카탈로그에서 사용 가능한 제품 또는 서비스
+{: #available}
 
 #### 클라우드 플랫폼
 
@@ -107,10 +112,12 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * {{site.data.keyword.Bluemix_notm}} 인프라(`api.softlayer.com` 및 `api.service.softlayer.com`)
 
 #### API
+{: #apis}
 
 * API Connect
 
 #### 애플리케이션 서비스
+{: #app-serv}
 
 * Business Rules
 * Message Hub
@@ -141,6 +148,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * Managed MS-SQL Database Server\*
 
 #### DevOps
+{: #devop}
 
 * Auto-Scaling
 * Alert Notification
@@ -155,6 +163,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * Runbook Automation\*
 
 #### 금융
+{: #finance}
 
 * Historical Instrument Analytics\*
 * Instrument Analytics\*
@@ -165,10 +174,12 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * Simulated Instrument Analytics\*
 
 #### Functions
+{: #function}
 
 * Functions
 
 #### 통합
+{: #integrate}
 
 * App Connect
 * Product Insights
@@ -176,10 +187,12 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * API Harmony\*
 
 #### Internet of Things
+{: #iot}
 
 * IoT for Electronics
 
 #### 모바일
+{: #mobile}
 
 * App ID†
 * Mobile Analytics
@@ -188,11 +201,13 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 * App Launch\*
 
 #### 보안
+{: #security-app}
 
 * App ID†
 * SSL Certificates†
 
 #### Watson
+{: #watson}
 
 * Conversation
 * Discovery
@@ -214,6 +229,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 ‡ 더 이상 사용되지 않으며, 기존 고객만 사용할 수 있습니다.
 
 ### IBM Marketplace를 통해 사용 가능한 제품 또는 서비스
+{: #marketplace}
 
 * Forms Experience Builder on Cloud
 * IoT for Insurance
@@ -239,6 +255,7 @@ Watson 제품 및 서비스의 경우에는 연결에서 다음 항목을 대체
 일부 제품 및 서비스는 TLS 1.0 및 1.1이 기본 엔드포인트에서 제거된 후에도 계속 이들을 지원하는 대체 엔드포인트를 사용으로 설정합니다.
 
 ### {{site.data.keyword.Bluemix_notm}} 인프라
+{: #infrastructure}
 
 TLS 1.0 및 1.1에 대한 지원이 `api.softlayer.com` 및 `api.service.softlayer.com`에서 제거되면 대체 엔드포인트가 발표되며 30일 동안 사용 가능합니다.
 
@@ -249,7 +266,7 @@ TLS 1.0 및 1.1에 대한 지원이 `api.softlayer.com` 및 `api.service.softlay
   * `gateway.watsonplatform.net`을 `gateway-tls10.wastonplatform.net`으로 대체
   * `stream.watsonplatform.net`을 `stream-tls10.watsonplatform.net`으로 대체
 
-TLS 1.0 및 1.1 버전이 `gateway.watsonplatform.net` 및 `stream.watsonplatform.net`에서 제거된 후에도 계속해서 `gateway-tls10.watsonplatform.net` 및 `stream-tls10.watsonplatform.net`을 사용하여 이러한 TLS 버전을 지원할 수 있습니다. 
+TLS 1.0 및 1.1 버전이 `gateway.watsonplatform.net` 및 `stream.watsonplatform.net`에서 제거된 후에도 계속해서 `gateway-tls10.watsonplatform.net` 및 `stream-tls10.watsonplatform.net`을 사용하여 이러한 TLS 버전을 지원할 수 있습니다.
 
 ## 문의하기
 {: #tlssupport}

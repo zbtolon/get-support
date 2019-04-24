@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-02-19"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases
-
-subcollection: get-support
-
 ---
 
 
@@ -73,16 +69,16 @@ Case を作成しようとすると、以下のエラー・メッセージが表
 
 この問題を解決するには、アカウント所有者に連絡して適切なアクセス権限を要求してください。 
 
-## 以前作成した Case が見つかりません。なぜですか? 
+## 以前作成した Case が見つかりません。なぜですか?  
 {: #ts_viewarchivedcase}
 
-拡張された {{site.data.keyword.Bluemix_notm}} プラットフォーム・エクスペリエンスの前に作成した Case は見つかりません。 
+拡張された {{site.data.keyword.Bluemix_notm}} プラットフォーム・エクスペリエンスの前に作成した Case は見つかりません。
 {:shortdesc}
 
-サポート・センターの**「Case の管理」**タブに移動した後は、2018 年 12 月 2 日より前に作成した Case は見つかりません。 
+サポート・センターの**「Case の管理」**タブに移動した後は、2018 年 12 月 2 日より前に作成した Case は見つかりません。
 {: tsSymptoms}
 
-2018 年 12 月 2 日より前にオープンされた Case を表示できるのは、**「アーカイブされた Case の表示」**からのみになります。 
+2018 年 12 月 2 日より前にオープンされた Case を表示できるのは、**「アーカイブされた Case の表示」**からのみになります。
 {: tsCauses}
 
 Case を表示するには、**「サポート」**に移動し、**「Case の管理」**を選択して、**「アーカイブされた Case の表示」**をクリックします。

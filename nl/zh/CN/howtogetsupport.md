@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-01-29"
 
 ---
 
@@ -29,7 +29,7 @@ lastupdated: "2019-01-09"
 
 对于技术问题，您可以通过 {{site.data.keyword.Bluemix_notm}} 控制台支持中心来访问支持选项，例如 {{site.data.keyword.Bluemix_notm}} 社区或 Stack Overflow。
 
-您可以使用支持中心来访问支持选项。有关更多信息，请参阅[使用支持中心](/docs/get-support/howtogetsupport.html#using-avatar)。您为帐户选择的支持套餐将决定您可获得的支持级别，以及可为支持案例分配的严重性级别。有关更多信息，请参阅[案例严重性和响应时间](/docs/get-support/ticketweight.html#support-ticket-severity)。
+您可以使用支持中心来访问支持选项。有关更多信息，请参阅[使用支持中心](/docs/get-support?topic=get-support-using-avatar#using-avatar)。您为帐户选择的支持套餐将决定您可获得的支持级别，以及可为支持案例分配的严重性级别。有关更多信息，请参阅[案例严重性和响应时间](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)。
 
 ## 对 {{site.data.keyword.Bluemix_notm}} 支持的满意度调查  
 {: #survey}
@@ -43,7 +43,7 @@ IBM 会定期向 {{site.data.keyword.Bluemix_notm}} 客户发送调查，以获�
 
 可以使用支持中心的搜索字段，在 {{site.data.keyword.Bluemix_notm}} 文档和 Stack Overflow 论坛中查找问题的答案。还可以通过支持中心管理支持案例。您可以在支持中心的“论坛”部分下找到 Stack Overflow 论坛（有关技术问题）和 developerWorks (IBM Developer Answers) 论坛（有关其他所有问题）的链接。  
 
-如果您拥有基本、高级或高端[支持套餐](/docs/get-support/index.html)，那么可以找到相关电话号码和交谈选项来获取帮助。
+如果您拥有基本、高级或高端[支持套餐](/docs/get-support?topic=get-support-support-plans#support-plans)，那么可以找到相关电话号码和交谈选项来获取帮助。
 
 支持中心是获取支持的首选方法，但如果您无法登录到 {{site.data.keyword.Bluemix_notm}}，那么可以使用[获取帮助](http://www.ibm.biz/bluemixsupport){: new_window}页面来提交案例。
 
@@ -85,7 +85,7 @@ Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规�
 
 如果为帐户设置了**欧盟支持**选项，那么该设置会应用于未来针对欧盟区域中托管的任何服务或数据中心的问题而打开的所有案例。在设置此选项之前打开的所有案例均不受影响。如果设置了此选项，但添加了欧盟数据中心或德国区域之外的资源，那么这些资源的问题不一定会由欧洲的支持团队进行处理。
 
-可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“计费”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持设置](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted)。
+可以在 {{site.data.keyword.Bluemix_notm}} 控制台的“计费”窗口中为帐户设置**欧盟支持**选项。有关更多信息，请参阅[启用欧盟支持设置](/docs/account?topic=account-bill_eusupported#bill_eusupported)。
 
 ### 欧盟支持服务
 {: #eusupportedservices}
@@ -111,7 +111,7 @@ Stack Overflow（有关技术问题）和 IBM Developer Answers（有关常规�
 如果您发现潜在的 {{site.data.keyword.Bluemix_notm}} 安全漏洞，请通过打开支持案例进行报告。
 
 要报告潜在安全漏洞，请完成以下步骤：
-1. 打开严重性级别为 1 的案例，或打开您的支持所允许最高严重性级别的案例。有关如何打开案例的信息，请参阅[创建支持案例](/docs/get-support/opencase.html#open-case)。
+1. 打开严重性级别为 1 的案例，或打开您的支持所允许最高严重性级别的案例。有关如何打开案例的信息，请参阅[创建支持案例](/docs/get-support?topic=get-support-open-case#open-case)。
 2. 在案例摘要中清楚地描述该案例是关于潜在安全漏洞的。
 3. 通过包含以下某项，提供潜在安全漏洞的详细信息：
     * 可以联系到您来讨论此问题的电话号码。
