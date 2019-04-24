@@ -2,13 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
-
-keywords: support plans, free technical support
-
-subcollection: get-support
+lastupdated: "2018-01-09"
 
 ---
 
@@ -38,7 +34,7 @@ Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword
 Die SLO-Aktualisierung für die angestrebte Erstreaktionszeit im Rahmen des Premium Supports ist ab 01. Oktober 2018 gültig. Die Aktualisierungen beziehen sich auf Supportfälle, die am oder nach dem 01. Oktober 2018 erstellt wurden. Die angestrebte Erstreaktionszeit im Rahmen des Premium Supports vor dem 01. Oktober 2018 beträgt 1 Stunde für Priorität 1 und 90 Minuten für Priorität 2.
 {: note}
 
-Weitere Informationen dazu, wie die Priorität von Supportfällen zugewiesen wird, finden Sie unter [Fallpriorität und Antwortzeiten](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
+Weitere Informationen dazu, wie die Priorität von Supportfällen zugewiesen wird, finden Sie unter [Fallpriorität und Antwortzeiten](/docs/get-support/quicktickresp.html#support-case-severity).
 {: tip} 
 
 ## Premium Support

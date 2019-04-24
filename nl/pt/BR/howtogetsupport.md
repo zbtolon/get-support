@@ -2,13 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
-
-keywords: support case, support page, help
-
-subcollection: get-support
+lastupdated: "2019-01-09"
 
 ---
 
@@ -35,7 +31,7 @@ ou o Estouro de Pilha para problemas técnicos, no Centro de Suporte do console 
 {{site.data.keyword.Bluemix_notm}}.
 
 É possível usar o Centro de suporte para acessar suas opções de suporte. Para obter mais informações, consulte
-[Usando o Centro de Suporte](/docs/get-support?topic=get-support-using-avatar#using-avatar). O plano de suporte selecionado para sua conta determina o nível de suporte disponível e a severidade que pode ser designada para casos de suporte. Para obter mais informações, consulte [Gravidade de caso e tempo de resposta](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
+[Usando o Centro de Suporte](/docs/get-support/howtogetsupport.html#using-avatar). O plano de suporte selecionado para sua conta determina o nível de suporte disponível e a severidade que pode ser designada para casos de suporte. Para obter mais informações, consulte [Gravidade de caso e tempo de resposta](/docs/get-support/ticketweight.html#support-ticket-severity).
 
 ## Pesquisas de opinião de satisfação para o suporte do {{site.data.keyword.Bluemix_notm}}  
 {: #survey}
@@ -49,7 +45,7 @@ Para acessar o Centro de suporte, efetue login no console do {{site.data.keyword
 
 É possível usar o campo de procura do Centro de suporte para localizar respostas para suas perguntas na documentação do {{site.data.keyword.Bluemix_notm}} e fórum do Stack Overflow. Também é possível gerenciar casos de suporte por meio do Centro de suporte. É possível localizar links para o fórum do Stack Overflow para questões técnicas e o fórum do developerWorks (IBM Developer Answers) para todas as outras perguntas na seção Fóruns do Centro de suporte.  
 
-Se você tiver um [plano de suporte](/docs/get-support?topic=get-support-support-plans#support-plans) básico, avançado ou premium, será possível localizar os números de chamada e uma opção de bate-papo para obter ajuda.
+Se você tiver um [plano de suporte](/docs/get-support/index.html) básico, avançado ou premium, será possível localizar os números de chamada e uma opção de bate-papo para obter ajuda.
 
 O Centro de suporte é o método preferencial para obter suporte, mas se não for possível efetuar login no {{site.data.keyword.Bluemix_notm}}, será possível usar a página [Obter ajuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar um caso.
 
@@ -101,7 +97,7 @@ na Europa.
 
 A configuração da opção **Suportado pela União Europeia** de sua conta se aplica a todos os futuros casos abertos para problemas em qualquer serviço ou data center hospedado na região da União Europeia. Os casos abertos antes de configurar essa opção não são afetados. Se você configurar essa opção e incluir recursos fora de um data center da UE ou da região da Alemanha, os problemas para esses recursos não serão manipulados necessariamente por uma equipe de suporte na Europa.
 
-É possível configurar a opção **Suportado pela UE** para sua conta na janela Faturamento do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, consulte [Ativando as configurações de Suportado pela União Europeia](/docs/account?topic=account-bill_eusupported#bill_eusupported).
+É possível configurar a opção **Suportado pela UE** para sua conta na janela Faturamento do console do {{site.data.keyword.Bluemix_notm}}. Para obter mais informações, consulte [Ativando as configurações de Suportado pela União Europeia](/docs/account/eu_hipaa_supported.html#eu-hipaa-supoorted).
 
 ### Serviços suportados pela UE
 {: #eusupportedservices}
@@ -127,7 +123,7 @@ Todos os planos, exceto planos Lite, para as categorias a seguir de serviços de
 Se você vir uma vulnerabilidade de segurança em potencial do {{site.data.keyword.Bluemix_notm}}, relate isso abrindo um caso de suporte.
 
 Para relatar uma potencial vulnerabilidade de segurança, conclua as etapas a seguir:
-1. Abra um caso de gravidade 1 ou um caso do nível de severidade mais alto que seu suporte permitir. Para obter informações sobre como abrir um caso, consulte [Criando casos de suporte](/docs/get-support?topic=get-support-open-case#open-case).
+1. Abra um caso de gravidade 1 ou um caso do nível de severidade mais alto que seu suporte permitir. Para obter informações sobre como abrir um caso, consulte [Criando casos de suporte](/docs/get-support/opencase.html#open-case).
 2. Descreva claramente no resumo do caso que se trata de uma potencial vulnerabilidade de segurança.
 3. Forneça detalhes da potencial vulnerabilidade de segurança, incluindo um dos itens a seguir:
     * Um número de telefone no qual é possível contatá-lo para discutir o assunto.

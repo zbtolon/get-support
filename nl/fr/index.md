@@ -2,13 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
-
-keywords: support plans, free technical support
-
-subcollection: get-support
+lastupdated: "2018-01-09"
 
 ---
 
@@ -38,7 +34,7 @@ Vous bénéficiez d'un support technique gratuit via la communauté {{site.data.
 Objectif du niveau de service mis à jour pour les objectifs de temps de réponse initiaux du support premium en vigueur le 1er octobre 2018. Les mises à jour sont applicables aux cas de support qui sont créés le 1 octobre 2018 ou après. Les objectifs de temps de réponse initiaux du support premium antérieurs au 1er octobre 2018 correspondent à 1 heure pour le niveau de gravité 1 et à 90 minutes pour le niveau de gravité 2.
 {: note}
 
-Pour plus d'informations sur l'attribution de la gravité des cas, voir [Gravité du cas et temps de réponse](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
+Pour plus d'informations sur l'attribution de la gravité des cas, voir [Gravité du cas et temps de réponse](/docs/get-support/quicktickresp.html#support-case-severity).
 {: tip} 
 
 ## Support Premium

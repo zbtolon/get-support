@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-09"
 
-keywords: service support, type of service
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}
@@ -28,7 +24,7 @@ Puoi utilizzare il Centro di supporto per accedere alle tue opzioni di supporto 
 ## Servizio generalmente disponibile {{site.data.keyword.IBM_notm}}
 {: #s-services-gaorcont}
 
-Per i servizi o le immagini contenitore forniti da {{site.data.keyword.IBM}} e generalmente disponibili, il supporto viene fornito per i problemi che si stabilisce siano un difetto.
+Per i servizi o le immagini contenitore forniti da {{site.data.keyword.IBM}} che sono generalmente disponibili, il supporto viene fornito per i problemi considerati come un difetto.
 
 Se l'analisi della causa principale stabilisce che il problema è un difetto nel servizio o nell'immagine contenitore generalmente disponibile IBM, il caso viene affrontato in base alla severità che hai assegnato.
 

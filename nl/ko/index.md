@@ -2,13 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-29"
-
-keywords: support plans, free technical support
-
-subcollection: get-support
+lastupdated: "2018-01-09"
 
 ---
 
@@ -38,7 +34,7 @@ subcollection: get-support
 프리미엄 지원 초기 응답 시간 목표에 대한 업데이트된 SLO는 2018년 10월 1일부터 유효합니다. 업데이트는 2018년 10월 1일 또는 그 이후에 작성된 지원 케이스에 적용될 수 있습니다. 2018년 10월 1일 이전의 프리미엄 지원 초기 응답 시간 목표는 심각도 1의 경우 1시간 이내이며 심각도 2의 경우 90분 이내입니다.
 {: note}
 
-케이스의 심각도를 지정하는 방법에 대한 자세한 정보는 [케이스 심각도 및 응답 시간](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)을 참조하십시오.
+케이스의 심각도를 지정하는 방법에 대한 자세한 정보는 [케이스 심각도 및 응답 시간](/docs/get-support/quicktickresp.html#support-case-severity)을 참조하십시오.
 {: tip} 
 
 ## 프리미엄 지원

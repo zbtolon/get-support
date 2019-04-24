@@ -6,10 +6,6 @@ copyright:
 
 lastupdated: "2019-01-09"
 
-keywords: service support, type of service
-
-subcollection: get-support
-
 ---
 
 {:shortdesc: .shortdesc}

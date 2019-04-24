@@ -2,13 +2,9 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2018
 
 lastupdated: "2019-01-09"
-
-keywords: cloud status, view cloud status
-
-subcollection: get-support
 
 ---
 
