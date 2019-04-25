@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ Standardmäßig haben Benutzer in einem Konto keinen Zugriff zum Erstellen, Aktu
 
 Alle Benutzer können einen beliebigen Supportfalltyp öffnen.
 
-Standardmäßig haben Benutzer in einem Konto keinen Zugriff zum Erstellen, Aktualisieren, Suchen oder Anzeigen von Fällen. Sie müssen Benutzern erst Zugriff gewähren, indem Sie eine IAM-Zugriffsrichtlinie (IAM, Identitäts- und Zugriffsmanagement) zuweisen. Weitere Informationen finden Sie unter [Plattformmanagementrollen](/docs/iam?topic=iam-platformroles#platformroles)
+Standardmäßig haben Benutzer in einem Konto keinen Zugriff zum Erstellen, Aktualisieren, Suchen oder Anzeigen von Fällen. Sie müssen Benutzern erst Zugriff gewähren, indem Sie eine IAM-Zugriffsrichtlinie (IAM, Identitäts- und Zugriffsmanagement) zuweisen. Weitere Informationen finden Sie unter [Plattformmanagementrollen](/docs/iam?topic=iam-userroles#platformroles)
 {:tip}
 
 Führen Sie die folgenden Schritte aus, um einen Supportfall im Support Center zu erstellen: 

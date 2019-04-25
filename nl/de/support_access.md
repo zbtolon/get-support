@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ Standardmäßig haben Benutzer in Ihrem Konto keinen Zugriff zum Erstellen, Aktu
 Wenn Sie einen Fall erstellen, können Sie anderen Benutzern den uneingeschränkten Zugriff auf bestimmte Fälle im Konto gewähren, indem Sie deren E-Mail-Adresse im Feld **Andere Person zu diesem Fall hinzufügen** ... angeben. Alle hinzugefügten Benutzer erhalten Zugriff zum Anzeigen, Bearbeiten und Aktualisieren für genau diesen Fall im Konto. Sie erhalten außerdem Benachrichtigungen, wenn der Fall aktualisiert wird.
 {: tip}
 
-Für Benutzer der klassischen Infrastruktur stehen die Berechtigungen für die Zuweisung von Zugriff auf Supportfälle nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam?topic=iam-predefined#predefined) zur Verfügung. Die Zugriffsgruppen für migrierte Berechtigungen umfassen die IAM-Richtlinie für den Benutzerverwaltungsservice mit der zugeordneten Rolle als Anzeigeberechtigter (viewer).
+Für Benutzer der klassischen Infrastruktur stehen die Berechtigungen für die Zuweisung von Zugriff auf Supportfälle nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam?topic=iam-infrapermission#predefined) zur Verfügung. Die Zugriffsgruppen für migrierte Berechtigungen umfassen die IAM-Richtlinie für den Benutzerverwaltungsservice mit der zugeordneten Rolle als Anzeigeberechtigter (viewer).
 
 ## Zugriffsgruppe für das Arbeiten mit Fällen erstellen
 {: #creating-access-group}
@@ -50,7 +50,7 @@ Wenn Ihre Benutzer in der Lage sein sollen, alle übrigen Benutzer im Konto anzu
 3. Wählen Sie **Benutzermanagement** aus.
 4. Wählen Sie **Anzeigeberechtigter** aus und klicken Sie auf **Zuweisen**.
 
-Die folgende Tabelle enthält eine Auflistung der Berechtigungen, die in den einzelnen Rollen für das Arbeiten moit Fällen enthalten sind.
+Die folgende Tabelle enthält eine Auflistung der Berechtigungen, die in den einzelnen Rollen für das Arbeiten mit Fällen enthalten sind.
 
 | Rolle | Aktion | 
 |--------|---------------|
