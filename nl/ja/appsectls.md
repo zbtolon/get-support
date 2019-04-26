@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -47,7 +47,7 @@ TLS 1.0 または 1.1 のサポートが終了されるいずれかの製品ま�
 
 Cloud Foundry アプリケーションに関しては、{{site.data.keyword.Bluemix_notm}} 外部からアプリケーションへの接続は影響を受けないことを確認しておく必要があります。 また、アプリケーションから {{site.data.keyword.Bluemix_notm}} 上の別の Cloud Foundry アプリケーションへの接続が影響を受けないことも確認してください。
 
-Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](/docs/overview?topic=overview-browsers-platform#browsers)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
+Web ブラウザーから行われる接続を含め、Cloud Foundry への TLS を使用するすべての接続は影響を受ける可能性があります。 {{site.data.keyword.Bluemix_notm}} [前提条件](/docs/overview?topic=overview-prereqs-platform#prereqs-platform)のブラウザーを含め、最新のブラウザーはすべて TLS 1.2 をサポートしています。
 {: tip}
 
 #### Cloud Foundry アプリケーションへの接続

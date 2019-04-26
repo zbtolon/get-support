@@ -44,7 +44,7 @@ IBM は、ベータ版と分類されるサービスまたはコンテナーの�
 
 IBM は試験的と分類されるサービスまたはコンテナーのイメージをリリースし、お客様はそれらを試してみることができます。 使用可能な試験的サービス、ボイラープレート、およびランタイムをすべて表示するには、{{site.data.keyword.Bluemix_notm}} コンソールにログインします。 次に、**「カタログ」**をクリックし、カタログの最後までスクロールし、**「{{site.data.keyword.Bluemix_notm}} Experimental Services」**をクリックします。 これらのサービスは、不安定だったり、前のバージョンと非互換であるような変更が頻繁に行われたり、十分な通知期間を設けずに中断されたりすることがあります。 これらのサービスを実稼働環境で使用することは推奨されません。
 
-試験的サービスの技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については [Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。 問題が試験的サービスの欠陥である場合、IBM は修正を提供する必要はありません。
+試験的サービスの技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} を通して、その他の問題については [Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。 問題が試験的サービスの欠陥である場合、IBM は修正を提供する必要はありません。
 
 ## サード・パーティー・サービス
 {: #s-services-3p}
@@ -58,4 +58,4 @@ IBM は試験的と分類されるサービスまたはコンテナーのイメ�
 
 オープン・ソースまたはコミュニティーのサービスは、IBM 外部のオープン・ソース・コミュニティーによって提供されます。
 
-根本原因分析で、問題はオープン・ソースまたはコミュニティーのサービスの欠陥であると判定された場合、IBM は修正を提供する必要はありません。 IBM は Case をクローズし、支援を求める先としてコミュニティーまたはフォーラムを紹介します。 技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} を通して、その他の問題については[Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。
+根本原因分析で、問題はオープン・ソースまたはコミュニティーのサービスの欠陥であると判定された場合、IBM は修正を提供する必要はありません。 IBM は Case をクローズし、支援を求める先としてコミュニティーまたはフォーラムを紹介します。 技術的な問題については[スタック・オーバーフロー ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} を通して、その他の問題については[Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} を通して、コミュニティーの支援を受けることができます。

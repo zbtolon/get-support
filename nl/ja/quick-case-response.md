@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ subcollection: get-support
 更新された SLO のプレミアム・サポートの初回応答時間の目標は、2018 年 10 月 1 より有効です。更新は、2018 年 10 月 1 日以降に作成されたサポート Case に適用されます。2018 年 10 月 1 日より前のプレミアム・サポートの初回応答時間の目標は、重大度 1 では 1 時間以内、重大度 2 では 90 分以内です。
 {: note}
 
-サポートへの問い合わせに直ちに回答が必要であれば、重大度 1 から 4 のサポート Case をオープンできるように「プレミアム」または「アドバンスト」のサポート・プランにアップグレードすることを検討してください。 サポート・プランをアップグレードするには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} にお問い合わせください。
+サポートへの問い合わせに直ちに回答が必要であれば、重大度 1 から 4 のサポート Case をオープンできるように「プレミアム」または「アドバンスト」のサポート・プランにアップグレードすることを検討してください。 サポート・プランをアップグレードするには、[IBM 営業担当員 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window} にお問い合わせください。
 {:tip}

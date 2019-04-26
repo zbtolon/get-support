@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ subcollection: get-support
 
 すべてのユーザーが任意のタイプのサポート Case をオープンできます。
 
-デフォルトでは、アカウント内のユーザーは、Case を作成、更新、検索、表示するためのアクセス権限はいずれも持っていません。 Identity and Access Management (IAM) アクセス・ポリシーを割り当てることによって、ユーザーにアクセス権限を提供する必要があります。 詳しくは、[プラットフォーム管理の役割](/docs/iam?topic=iam-platformroles#platformroles)を参照してください。
+デフォルトでは、アカウント内のユーザーは、Case を作成、更新、検索、表示するためのアクセス権限はいずれも持っていません。 Identity and Access Management (IAM) アクセス・ポリシーを割り当てることによって、ユーザーにアクセス権限を提供する必要があります。 詳しくは、[プラットフォーム管理の役割](/docs/iam?topic=iam-userroles#platformroles)を参照してください。
 {:tip}
 
 サポート・センターからサポート Case を作成するには、以下のステップを実行します。 

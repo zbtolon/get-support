@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
-keywords: support case, support page, help
+keywords: support, support case, premium support, advanced support, basic support, support page, help
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # サポートの利用
 {: #getting-customer-support}
 
-{{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因を判別し、解決策を特定するためにヘルプを利用するには、いくつかのオプションがあります。 ログインしている場合は、[サポート・ページ](https://{DomainName}/unifiedsupport/supportcenter)に直接アクセスして、一般的な FAQ を確認したり、サポート Case をオープンしたり、コミュニティー・コンテンツを検索したりできます。
+{{site.data.keyword.Bluemix}} で問題が発生した場合、問題の原因を判別し、解決策を特定するためにヘルプを利用するには、いくつかのオプションがあります。 ログインしている場合は、[サポート・センター](https://{DomainName}/unifiedsupport/supportcenter)に直接アクセスして、一般的な FAQ を確認したり、サポート Case をオープンしたり、コミュニティー・コンテンツを検索したりできます。
 {:shortdesc}
 
 ## お客様サポート・プロセスの仕組み
@@ -48,15 +48,15 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 
 [サポート・プラン](/docs/get-support?topic=get-support-support-plans#support-plans)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
 
-サポート利用のための優先される方法はサポート・センターですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「ヘルプの利用」](http://www.ibm.biz/bluemixsupport){: new_window}ページを使用して Case を送信できます。
+サポート・センターの利用は、サポートを受ける上で望ましい方法ですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「新規サポート Case」](https://{DomainName}/unifiedsupport/cases/add) ページを利用して Case を送信できます。
 
 ### 質問する
 {: #asking-a-question}
 
 技術的な質問のためのスタック・オーバーフロー・フォーラムと、一般的質問のための IBM Developer Answers フォーラムのどちらも、{{site.data.keyword.Bluemix_notm}} の質問に対するさまざまな検索可能な答えを提供します。 既存の答えが見つからない場合は、新規に質問します。 スタック・オーバーフローと IBM Developer Answers には、サポート・センターからアクセスするか、または以下のリンクを使用します。
 
-  * {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} にアクセスしてください。
-  * {{site.data.keyword.Bluemix_notm}} オファリングおよび開始手順に関する一般的な質問をするには、[IBM Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} にアクセスしてください。
+  * {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} にアクセスしてください。
+  * {{site.data.keyword.Bluemix_notm}} オファリングおよび開始手順に関する一般的な質問をするには、[IBM Developer Answers ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} にアクセスしてください。
 
 {{site.data.keyword.Bluemix_notm}} の開発チームとサポート・チームは、スタック・オーバーフローと IBM Developer Answers をアクティブにモニターし、**ibm-cloud** のタグが付いた質問をフォローしています。 いずれかのフォーラムで質問を作成する際は、その質問が
 {{site.data.keyword.Bluemix_notm}} の開発チームとサポート・チームによって確実に読まれるように **ibm-cloud** タグを質問に追加してください。
@@ -64,7 +64,7 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 特定の問題の答えが見つからず、その問題が障害に起因しない場合は、サポート Case をオープンしてお客様サポートに問い合わせることができます。 
 
 ## {{site.data.keyword.Bluemix_dedicated_notm}} または {{site.data.keyword.Bluemix_local_notm}} のサポートへのお問い合わせ
-{: #contacting-bluemix-support-dedicated-local}
+{: #contacting-ibmcloud-support-dedicated-local}
 
 アカウントが {{site.data.keyword.Bluemix_dedicated_notm}} または {{site.data.keyword.Bluemix_local_notm}} の場合、サポートは {{site.data.keyword.Bluemix_notm}} サポート・チームによって提供されます。 ただし、{{site.data.keyword.ibmid}} を持っていない場合は、サポートを取得するためのいくつかの異なるオプションがあります。
 
@@ -89,7 +89,7 @@ EU サポート対象オプションを選択したお客様を対象に、ヨ�
 
 アカウントの**「EU サポート対象 (EU Supported)」**オプションを設定すると、EU 地域でホストされるサービスまたはデータ・センターに関する問題に対して今後オープンするすべての Case に適用されます。 このオプションを設定する前にオープンした Case には影響しません。 このオプションを設定してから、EU データ・センターまたはドイツ地域の外部のリソースを追加した場合、それらのリソースに関する問題は、必ずしもヨーロッパのサポート・チームによって対応されるとは限りません。
 
-{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」設定の有効化](/docs/account?topic=account-bill_eusupported#bill_eusupported)を参照してください。
+{{site.data.keyword.Bluemix_notm}} コンソールの「請求処理」ウィンドウから、アカウントに**「EU サポート対象 (EU Supported)」**オプションを設定できます。 詳しくは、[「EU サポート対象」設定の有効化](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported)を参照してください。
 
 ### EU サポート対象のサービス
 {: #eusupportedservices}

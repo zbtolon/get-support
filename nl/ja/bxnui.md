@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-28"
+lastupdated: "2019-04-18"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -187,7 +187,7 @@ subcollection: get-support
 ## BXNUI0037E
 **メッセージ**: Cloud Foundry へのコンタクトで問題が発生したため、'{0}' アプリにバインドされたサービス・インスタンスは削除されませんでした。
 
-後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://developer.ibm.com/bluemix/support/#status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
+後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI0038E
 **メッセージ**: Cloud Foundry へのコンタクトで問題が発生したため、'{0}' アプリと関連付けられている経路は削除されませんでした。
@@ -219,7 +219,7 @@ subcollection: get-support
 
 {{site.data.keyword.Bluemix_notm}} からログアウトされます。
 
-後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](hhttps://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixsupport){: new_window}にアクセスしてください。
+後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI0048E
 **メッセージ**: Cloud Foundry へのコンタクトで問題が発生したため、'{0}' 組織のスペースは取得されませんでした。
@@ -462,7 +462,7 @@ subcollection: get-support
 ## BXNUI0097E
 **メッセージ**:  アプリを追加するには、その前に、少なくとも 1 つのスペースが組織と地域に関連付けられていなければなりません。
 
-コンソールのメニュー・バーで、**「管理」** &gt; **「アカウント」** &gt; **「Cloud Foundry の組織」 **をクリックして、**「作成」**をクリックします。 スペースが作成されたら、やり直してください。 この問題を修正する手順について詳しくは、[現在の組織にスペースが関連付けられていないのはなぜですか?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window} を参照してください。
+コンソールのメニュー・バーで、**「管理」** &gt; **「アカウント」** &gt; **「Cloud Foundry の組織」 **をクリックして、**「作成」**をクリックします。 スペースが作成されたら、やり直してください。 この問題を修正する手順について詳しくは、[現在の組織にスペースが関連付けられていないのはなぜですか?](/docs/account?topic=account-managingaccounts#ts_no_space){: new_window} を参照してください。
 
 ## BXNUI0098E
 **メッセージ**: 現在、資格情報のリストを取得できません。
@@ -492,8 +492,7 @@ subcollection: get-support
 ## BXNUI0111E
 **メッセージ**: 現在、ログイン・サーバーに接続できません。
 
-後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixsupport){: new_window}にアクセスしてください。
-
+後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 ## BXNUI0112E
 **メッセージ**: プランを更新できませんでした。
 
@@ -1095,12 +1094,12 @@ subcollection: get-support
 ## BXNUI2052E
 **メッセージ**: ログインの試行は失敗しました。
 
-[{{site.data.keyword.Bluemix_notm}} サポート![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixsupport){: new_window}にアクセスしてください。
+[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI2053E
 **メッセージ**: アクセス・トークン要求をエンコードできなかったため、ログインの試行は失敗しました。
 
-[{{site.data.keyword.Bluemix_notm}} サポート![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixsupport){: new_window}にアクセスしてください。
+[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI2054E
 **メッセージ**: {{site.data.keyword.Bluemix_notm}} には有効範囲 {0} の許可が必要です。
@@ -1252,7 +1251,7 @@ subcollection: get-support
 ## BXNUI2085E
 **メッセージ**: 料金コスト計算を解析できません。
 
-[{{site.data.keyword.Bluemix_notm}} サポート![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://ibm.biz/bluemixsupport){: new_window}にアクセスしてください。
+[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI2086E
 **メッセージ**: アップロードされた証明書を取得しようとしているときに、組織が見つかりませんでした。
@@ -1292,7 +1291,7 @@ subcollection: get-support
 ## BXNUI2093E
 **メッセージ**: 中間証明書の数が許容される数を超えています。
 
-許容される証明書の数と、証明書の削除または置換の方法について詳しくは、[SSL 証明書のアップロード](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}のトピックを参照してください。
+許容される証明書の数と、証明書の削除または置換の方法について詳しくは、[SSL 証明書のアップロード](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window}のトピックを参照してください。
 
 ## BXNUI2094E
 **メッセージ**: 試行された操作は接続エラーのため失敗しました。
@@ -1390,7 +1389,7 @@ subcollection: get-support
 ## BXNUI3005E
 **メッセージ**: コンテナー・インスタンスを削除する操作がタイムアウトになりました。
 
-後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](hhttps://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
+後で再試行してください。 このメッセージが再び表示された場合は、[{{site.data.keyword.Bluemix_notm}} ステータス・ページ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=status){: new_window}にアクセスして、サービスまたはコンポーネントに問題があるかを確認してください。 問題が続く場合は、[{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI3006E
 **メッセージ**: コンテナー・インスタンスを開始する操作で接続エラーが発生しました。
