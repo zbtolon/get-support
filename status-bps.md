@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -51,7 +51,7 @@ In most cases, {{site.data.keyword.Bluemix_notm}} can continue to be used normal
 ## Subscribing to email notifications
 {: #monbp-subscribing}
 
-If you're a Lite account owner, you can select whether to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform unplanned events, such as outages, and planned events, such as maintenance. Additionally, if you have a Pay-As-You-Go or Subscription account, you can choose whether to receive {{site.data.keyword.Bluemix_notm}} infrastructure email notifications about unplanned events, maintenance, and announcements. For more information, see [Setting email preferences](/docs/account?topic=account-account_setup#account_setup).
+If you're a Lite account owner, you can select whether to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform unplanned events, such as outages, and planned events, such as maintenance. Additionally, if you have a Pay-As-You-Go or Subscription account, you can choose whether to receive {{site.data.keyword.Bluemix_notm}} infrastructure email notifications about unplanned events, maintenance, and announcements. For more information, see [Setting email preferences](/docs/account?topic=account-email-prefs).
 
 
 
