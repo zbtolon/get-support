@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
-keywords: support case, support page, help
+keywords: support, support case, premium support, advanced support, basic support, support page, help
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # 지원 받기
 {: #getting-customer-support}
 
-{{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다. 로그인되면 [지원 페이지](https://{DomainName}/unifiedsupport/supportcenter)로 직접 이동하여 공통 FAQ를 검토하거나 지원 케이스를 열거나 커뮤니티 컨텐츠를 검색할 수 있습니다.
+{{site.data.keyword.Bluemix}}에 문제점이 발생한 경우 문제점의 원인을 판별하고 솔루션을 찾는 데 도움을 받을 수 있는 여러 옵션이 있습니다. 로그인되면 [지원 센터](https://{DomainName}/unifiedsupport/supportcenter)로 직접 이동하여 공통 FAQ를 검토하거나 지원 케이스를 열거나 커뮤니티 컨텐츠를 검색할 수 있습니다.
 {:shortdesc}
 
 ## 고객 지원 프로세스의 작동 방식
@@ -48,22 +48,22 @@ IBM은 주기적으로 {{site.data.keyword.Bluemix_notm}} 고객에게 설문조
 
 기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support?topic=get-support-support-plans#support-plans)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
 
-지원 센터는 지원을 받기 위한 선호되는 방법입니다. 하지만 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [도움 받기](http://www.ibm.biz/bluemixsupport){: new_window} 페이지를 사용하여 케이스를 제출할 수 있습니다.
+지원 센터는 지원을 받기 위한 선호되는 방법입니다. 하지만 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [새 지원 케이스](https://{DomainName}/unifiedsupport/cases/add) 페이지를 사용하여 케이스를 제출할 수 있습니다.
 
 ### 질문하기
 {: #asking-a-question}
 
 Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 포럼(일반 질문의 경우)은 둘 다 사용자의 {{site.data.keyword.Bluemix_notm}} 질문에 대한 매우 다양하고 검색 가능한 답변을 제공합니다. 기존 답변을 찾을 수 없는 경우 새로운 질문을 하십시오. 지원 센터에서 Stack Overflow 및 IBM Developer Answers에 액세스하거나 다음 링크를 사용할 수 있습니다.
 
-  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 플랫폼과 서비스를 사용한 앱 개발에 대해 기술적인 질문을 하십시오.
-  * [IBM Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대한 일반적인 질문을 할 수 있습니다.
+  * [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 플랫폼과 서비스를 사용한 앱 개발에 대해 기술적인 질문을 하십시오.
+  * [IBM Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}로 이동하여 {{site.data.keyword.Bluemix_notm}} 오퍼링 및 시작하기 지시사항에 대한 일반적인 질문을 할 수 있습니다.
 
 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀은 Stack Overflow 및 IBM Developer Answers를 적극적으로 모니터하며 **ibm-cloud** 태그가 지정된 질문을 추적합니다. 두 포럼 중 하나에서 질문을 작성하는 경우 {{site.data.keyword.Bluemix_notm}} 개발 및 지원 팀이 볼 수 있도록 질문에 **ibm-cloud** 태그를 추가하십시오.
 
 가동 중단으로 인한 문제점이 아니며 특정 문제점에 대한 해답을 찾을 수 없는 경우 지원 케이스를 열어서 고객 지원 부서에 문의할 수 있습니다. 
 
 ## {{site.data.keyword.Bluemix_dedicated_notm}} 또는 {{site.data.keyword.Bluemix_local_notm}}에 대한 지원 문의
-{: #contacting-bluemix-support-dedicated-local}
+{: #contacting-ibmcloud-support-dedicated-local}
 
 계정이 {{site.data.keyword.Bluemix_dedicated_notm}} 또는 {{site.data.keyword.Bluemix_local_notm}}인 경우, {{site.data.keyword.Bluemix_notm}} 지원 팀에서 지원을 제공합니다. 그러나 {{site.data.keyword.ibmid}}가 없으면 일부 다른 옵션으로 지원을 받을 수 있습니다.
 
@@ -88,7 +88,7 @@ Stack Overflow 포럼(기술 관련 질문의 경우) 및 IBM Developer Answers 
 
 계정에 대한 **EU 지원** 옵션 설정은 EU 지역에서 호스팅되는 서비스 또는 데이터 센터 관련 문제에 대해 열리는 향후 모든 케이스에 적용됩니다. 이 옵션을 설정하기 전에 열린 케이스에는 영향이 없습니다. 이 옵션을 설정하고 독일 지역 또는 EU 데이터 센터 외부에 리소스를 추가하는 경우에는 이 리소스에 대한 문제가 유럽의 지원 팀에서 처리되지 않을 수도 있습니다.
 
-{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 설정 사용](/docs/account?topic=account-bill_eusupported#bill_eusupported)을 참조하십시오.
+{{site.data.keyword.Bluemix_notm}} 콘솔의 청구 창에서 사용자 계정에 대한 **EU 지원** 옵션을 설정할 수 있습니다. 자세한 정보는 [EU 지원 설정 사용](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported)을 참조하십시오.
 
 ### EU 지원 서비스
 {: #eusupportedservices}

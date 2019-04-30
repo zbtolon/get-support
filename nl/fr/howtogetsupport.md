@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
-keywords: support case, support page, help
+keywords: support, support case, premium support, advanced support, basic support, support page, help
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Support
 {: #getting-customer-support}
 
-Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour déterminer la cause du problème et trouver une solution. Si vous êtes connecté, vous pouvez accéder directement à la [page de Support](https://{DomainName}/unifiedsupport/supportcenter) pour consulter les FAQ courantes, ouvrir un cas de support ou effectuer une recherche dans le contenu de la communauté.
+Si vous rencontrez des problèmes avec {{site.data.keyword.Bluemix}}, vous disposez de différentes options pour déterminer la cause du problème et trouver une solution. Si vous êtes connecté, vous pouvez accéder directement au [Centre de support](https://{DomainName}/unifiedsupport/supportcenter) pour consulter les foires aux questions courantes, ouvrir un cas de support ou effectuer une recherche dans le contenu de la communauté.
 {:shortdesc}
 
 ## Fonctionnement du processus de support client
@@ -48,22 +48,22 @@ Vous pouvez utiliser la zone de recherche du centre de support pour trouver des 
 
 Si vous avez un [plan de support](/docs/get-support?topic=get-support-support-plans#support-plans) de base, avancé ou premium, vous trouverez des numéros d'appel entrant et une option de dialogue en ligne pour obtenir de l'aide.
 
-Bien que le centre de support soit généralement la méthode privilégiée si vous avez besoin d'assistance, si vous ne parvenez pas à vous connecter à {{site.data.keyword.Bluemix_notm}}, vous pouvez utiliser la page [Obtenir de l'aide](http://www.ibm.biz/bluemixsupport){: new_window} pour soumettre un cas.
+Bien que le centre de support soit généralement la méthode privilégiée si vous avez besoin d'assistance, si vous ne parvenez pas à vous connecter à {{site.data.keyword.Bluemix_notm}}, vous pouvez utiliser la page [Nouveau cas de support](https://{DomainName}/unifiedsupport/cases/add) pour soumettre un cas.
 
 ### Poser une question
 {: #asking-a-question}
 
 Les forums Stack Overflow (dédié aux questions d'ordre technique) et IBM Developer Answers (dédié aux questions d'ordre général) fournissent tous deux un ensemble étendu de réponses à vos questions {{site.data.keyword.Bluemix_notm}} dans lequel vous pouvez effectuer des recherches. Si vous ne trouvez pas de réponse, posez une nouvelle question. Vous pouvez accéder à Stack Overflow et à IBM Developer Answers depuis le centre de support, ou utiliser les liens suivants :
 
-  * Accédez à [Stack Overflow ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} pour toute question technique relative au développement d'applications avec la plateforme et les services {{site.data.keyword.Bluemix_notm}}.
-  * Accédez à [IBM Developer Answers ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} pour toute question d'ordre général relative à l'offre {{site.data.keyword.Bluemix_notm}} et pour obtenir des instructions de mise en route.
+  * Accédez à [Stack Overflow ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} pour toute question technique relative au développement d'applications avec la plateforme et les services {{site.data.keyword.Bluemix_notm}}.
+  * Accédez à [IBM Developer Answers ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} pour toute question d'ordre général relative à l'offre {{site.data.keyword.Bluemix_notm}} et pour obtenir des instructions de mise en route.
 
 Les équipes de développement et de support {{site.data.keyword.Bluemix_notm}} surveillent activement les forums Stack Overflow et IBM Developer Answers et suivent les questions portant l'étiquette **ibm-cloud**. Lorsque vous créez une question sur ces forums, ajoutez l'étiquette **ibm-cloud** à votre question pour vous assurer que celle-ci sera lue par les équipes de développement et de support {{site.data.keyword.Bluemix_notm}}.
 
 Si le problème n'est pas dû à une indisponibilité et si vous ne parvenez pas à trouver de réponse à votre problème spécifique, vous pouvez contacter le support client en ouvrant un cas de support. 
 
 ## Contacter le support pour {{site.data.keyword.Bluemix_dedicated_notm}} ou {{site.data.keyword.Bluemix_local_notm}}
-{: #contacting-bluemix-support-dedicated-local}
+{: #contacting-ibmcloud-support-dedicated-local}
 
 Dans le cas d'un compte {{site.data.keyword.Bluemix_dedicated_notm}} ou {{site.data.keyword.Bluemix_local_notm}}, le support est assuré par l'équipe de support {{site.data.keyword.Bluemix_notm}}. Toutefois, si vous n'avez pas d'ID {{site.data.keyword.ibmid}}, vous pouvez obtenir de l'aide de plusieurs façons.
 
@@ -89,7 +89,7 @@ Pour la plateforme {{site.data.keyword.Bluemix_notm}}, seuls les services héber
 
 La définition de l'option **Support dans l'Union européenne** pour votre compte s'applique à tous les cas futurs que vous ouvrez pour des problèmes survenant sur tout service ou centre de données hébergé dans la région UE. Les cas ouverts avant la définition de cette option ne sont pas concernés. Si vous définissez cette option et que vous ajoutez des ressources en dehors d'un centre de données de l'Union européenne ou de la région Allemagne, les problèmes rencontrés sur ces ressources ne sont pas nécessairement gérés par une équipe de support en Europe.
 
-Vous pouvez définir l'option **Support dans l'Union européenne** pour votre compte depuis la fenêtre Facturation de la console {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Activation du paramètre Support dans l'Union européenne](/docs/account?topic=account-bill_eusupported#bill_eusupported).
+Vous pouvez définir l'option **Support dans l'Union européenne** pour votre compte depuis la fenêtre Facturation de la console {{site.data.keyword.Bluemix_notm}}. Pour plus d'informations, voir [Activation du paramètre Support dans l'Union européenne](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported).
 
 ### Services Support dans l'Union européenne
 {: #eusupportedservices}

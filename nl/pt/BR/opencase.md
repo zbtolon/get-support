@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ Por padrão, os usuários de uma conta não têm acesso para criar, atualizar, p
 
 Todos os usuários podem abrir qualquer tipo de caso de suporte.
 
-Por padrão, os usuários de uma conta não têm acesso para criar, atualizar, procurar ou visualizar casos. Deve-se fornecer acesso aos usuários designando uma política de acesso do Identity and Access Management (IAM). Para obter mais informações, consulte [Funções de gerenciamento da plataforma](/docs/iam?topic=iam-platformroles#platformroles)
+Por padrão, os usuários de uma conta não têm acesso para criar, atualizar, procurar ou visualizar casos. Deve-se fornecer acesso aos usuários designando uma política de acesso do Identity and Access Management (IAM). Para obter mais informações, consulte [Funções de gerenciamento da plataforma](/docs/iam?topic=iam-userroles#platformroles)
 {:tip}
 
 Conclua as etapas a seguir para criar um caso de suporte por meio do Centro de suporte: 

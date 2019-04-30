@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ subcollection: get-support
 高端支持初始响应时间目标的已更新 SLO 于 2018 年 10 月 1 日生效。更新适用于在 2018 年 10 月 1 日或之后创建的支持案例。2018 年 10 月 1 日之前的高端支持初始响应时间目标针对严重性 1 为 1 小时内，针对严重性 2 为 90 分钟内。
 {: note}
 
-如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持套餐，以便可以打开严重性为 1 到 4 的支持案例。要升级支持套餐，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}。
+如果您的支持查询需要更即时的响应，请考虑升级到高端或高级支持套餐，以便可以打开严重性为 1 到 4 的支持案例。要升级支持套餐，请联系 [IBM 销售代表 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window}。
 {:tip}

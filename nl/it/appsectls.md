@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -47,7 +47,7 @@ Se utilizzi uno dei prodotti o servizi che ritirano il supporto per TLS 1.0 o 1.
 
 Per le applicazioni Cloud Foundry, devi confermare che le connessioni alla tua applicazione dall'esterno di {{site.data.keyword.Bluemix_notm}} non siano interessate. Conferma inoltre che le connessioni dalla tua applicazione a un'altra applicazione Cloud Foundry su {{site.data.keyword.Bluemix_notm}} non siano interessate.
 
-Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](/docs/overview?topic=overview-browsers-platform#browsers) di {{site.data.keyword.Bluemix_notm}}.
+Tutte le connessioni a Cloud Foundry che utilizzano TLS sono potenzialmente interessate, incluse le connessioni effettuate dai browser web. Tutti i browser moderni supportano TLS 1.2, inclusi i browser che sono [Prerequisiti](/docs/overview?topic=overview-prereqs-platform#prereqs-platform) di {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connessione alla tua applicazione Cloud Foundry

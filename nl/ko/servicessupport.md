@@ -44,7 +44,7 @@ IBM은 베타 릴리스로 분류되는 서비스 또는 컨테이너 이미지�
 
 IBM은 고객이 사용해 볼 수 있는 시범 서비스로 분류되는 서비스 또는 컨테이너 이미지를 릴리스합니다. 모든 사용 가능한 시범 서비스, 표준 유형 및 런타임을 보려면 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하십시오. 그 후 **카탈로그**를 클릭하고 카탈로그의 끝으로 스크롤하여 **{{site.data.keyword.Bluemix_notm}} 시범 서비스**를 클릭하십시오. 이러한 서비스는 불안정하거나 이전 버전과 호환되지 않은 방식으로 자주 변경될 수 있으며 갑자기 중단될 수도 있습니다. 프로덕션 환경에서는 이러한 서비스 사용이 권장되지 않습니다.
 
-시범 서비스의 기술적 문제에 대해서는 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}를 통해, 기타 문제에 대해서는 [Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}를 통해 커뮤니티의 도움을 받을 수 있습니다. 문제점이 시범 서비스의 결함인 경우 IBM이 수정사항을 제공할 의무는 없습니다.
+시범 서비스의 기술적 문제에 대해서는 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window}를 통해, 기타 문제에 대해서는 [Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}를 통해 커뮤니티의 도움을 받을 수 있습니다. 문제점이 시범 서비스의 결함인 경우 IBM이 수정사항을 제공할 의무는 없습니다.
 
 ## 서드파티 서비스
 {: #s-services-3p}
@@ -58,4 +58,4 @@ IBM은 고객이 사용해 볼 수 있는 시범 서비스로 분류되는 서�
 
 오픈 소스 또는 커뮤니티 서비스는 IBM 외부의 오픈 소스 커뮤니티에서 제공합니다.
 
-근본 원인 분석을 통해 문제가 오픈 소스 또는 커뮤니티 서비스의 결함으로 판별되는 경우 IBM은 수정사항을 제공하지 않아도 됩니다. IBM은 케이스를 닫고 고객이 커뮤니티 또는 포럼에서 도움을 받도록 안내합니다. 기술적 문제에 대해서는 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}를 통해, 기타 문제에 대해서는 [Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}를 통해 커뮤니티의 도움을 받을 수 있습니다.
+근본 원인 분석을 통해 문제가 오픈 소스 또는 커뮤니티 서비스의 결함으로 판별되는 경우 IBM은 수정사항을 제공하지 않아도 됩니다. IBM은 케이스를 닫고 고객이 커뮤니티 또는 포럼에서 도움을 받도록 안내합니다. 기술적 문제에 대해서는 [Stack Overflow ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window}를 통해, 기타 문제에 대해서는 [Developer Answers ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}를 통해 커뮤니티의 도움을 받을 수 있습니다.

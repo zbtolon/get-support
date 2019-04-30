@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ subcollection: get-support
 超值支援起始回應時間目標的更新 SLO 自 2018 年 10 月 1 日起生效。更新適用於在 2018 年 10 月 1 日當日或之後建立的支援案例。2018 年 10 月 1 日之前的超值支援起始回應時間目標，針對嚴重性 1 為 1 小時之內，嚴重性 2 為 90 分鐘之內。
 {: note}
 
-如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援方案，您才可以開立嚴重性 1-4 的支援案例。若要升級您的支援方案，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window} 聯絡。
+如果您的支援查詢需要更立即的回應，請考慮升級至超值或進階支援方案，您才可以開立嚴重性 1-4 的支援案例。若要升級您的支援方案，請與 [IBM 業務代表 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window} 聯絡。
 {:tip}

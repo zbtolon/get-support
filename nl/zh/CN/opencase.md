@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ subcollection: get-support
 
 所有用户都可以打开任何类型的支持案例。
 
-缺省情况下，帐户中的用户无权创建、更新、搜索或查看案例。您必须通过分配 Identity and Access Management (IAM) 访问策略来向用户提供访问权。有关更多信息，请参阅[平台管理角色](/docs/iam?topic=iam-platformroles#platformroles)。
+缺省情况下，帐户中的用户无权创建、更新、搜索或查看案例。您必须通过分配 Identity and Access Management (IAM) 访问策略来向用户提供访问权。有关更多信息，请参阅[平台管理角色](/docs/iam?topic=iam-userroles#platformroles)。
 {:tip}
 
 要从支持中心创建支持案例，请完成下列步骤： 

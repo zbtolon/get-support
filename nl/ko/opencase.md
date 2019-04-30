@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ subcollection: get-support
 
 모든 사용자가 지원 케이스의 유형을 열 수 있습니다.
 
-기본적으로 계정의 사용자에게 케이스를 작성하거나 업데이트하거나 검색하거나 보는 데 필요한 액세스가 없습니다. Identity and Access Management(IAM) 액세스 정책을 지정하여 사용자 액세스를 제공해야 합니다. 자세한 정보는 [플랫폼 관리 역할](/docs/iam?topic=iam-platformroles#platformroles)을 참조하십시오.
+기본적으로 계정의 사용자에게 케이스를 작성하거나 업데이트하거나 검색하거나 보는 데 필요한 액세스가 없습니다. Identity and Access Management(IAM) 액세스 정책을 지정하여 사용자 액세스를 제공해야 합니다. 자세한 정보는 [플랫폼 관리 역할](/docs/iam?topic=iam-userroles#platformroles)을 참조하십시오.
 {:tip}
 
 다음 단계를 완료하여 지원 센터에서 지원 케이스를 작성하십시오. 

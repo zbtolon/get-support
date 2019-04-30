@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ Par défaut, les utilisateurs de votre compte n'ont pas accès à la création, 
 Lorsque vous créez un cas, vous pouvez accorder à d'autres utilisateurs l'accès complet à ce dernier en ajoutant leur adresse électronique dans la zone **Ajouter une autre personne à ce cas**. Tout utilisateur ajouté peut afficher, éditer et mettre à jour uniquement ce cas dans le compte. Il reçoit également des notifications lors de la mise à jour du cas.
 {: tip}
 
-Pour les utilisateurs d'infrastructure classique, les droits d'affectation de l'accès au cas de support sont désormais disponibles dans les [groupes d'accès migrés des droits d'infrastructure classique](/docs/iam?topic=iam-predefined#predefined). Les groupes d'accès migrés des droits incluent la règle IAM sur le service Gestion des utilisateurs avec le rôle Afficheur attribué.
+Pour les utilisateurs d'infrastructure classique, les droits d'affectation de l'accès au cas de support sont désormais disponibles dans les [groupes d'accès migrés des droits d'infrastructure classique](/docs/iam?topic=iam-infrapermission#predefined). Les groupes d'accès migrés des droits incluent la règle IAM sur le service Gestion des utilisateurs avec le rôle Afficheur attribué.
 
 ## Création d'un groupe d'accès pour l'utilisation de cas
 {: #creating-access-group}

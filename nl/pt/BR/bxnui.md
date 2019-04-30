@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-28"
+lastupdated: "2019-04-18"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -189,7 +189,7 @@ Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{si
 ## BXNUI0037E
 **Mensagem**: as instâncias de serviço que foram ligadas ao app '{0}' não foram excluídas, pois ocorreu um problema ao contatar o Cloud Foundry.
 
-Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://developer.ibm.com/bluemix/support/#status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0038E
 **Mensagem**: as rotas associadas ao app '{0}' não foram excluídas, pois ocorreu um problema ao contatar o Cloud Foundry.
@@ -222,7 +222,7 @@ Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{si
 
 Você efetuará logout do {{site.data.keyword.Bluemix_notm}}.
 
-Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](hhttps://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0048E
 **Mensagem**: os espaços para a organização '{0}' não foram recuperados, pois ocorreu um problema ao contatar o Cloud Foundry.
@@ -465,7 +465,7 @@ Para obter instruções para corrigir esse problema, consulte o tópico de resol
 ## BXNUI0097E
 **Mensagem**: para que seja possível incluir um app, pelo menos um espaço deve estar associado à sua organização ou região.
 
-Na barra de menus do console, clique em **Gerenciar** &gt; **Conta** &gt; **Organizações do Cloud Foundry** e, em seguida, clique em **Criar**. Quando o espaço tiver sido criado, tente novamente. Para obter mais instruções para corrigir esse problema, consulte [Por que não há espaços associados à minha organização atual?](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
+Na barra de menus do console, clique em **Gerenciar** &gt; **Conta** &gt; **Organizações do Cloud Foundry** e, em seguida, clique em **Criar**. Quando o espaço tiver sido criado, tente novamente. Para obter mais instruções para corrigir esse problema, consulte [Por que não há espaços associados à minha organização atual?](/docs/account?topic=account-managingaccounts#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **Mensagem**: a lista de credenciais não pode ser recuperada no momento.
@@ -495,8 +495,7 @@ Mude as configurações do navegador para permitir janelas pop-up.
 ## BXNUI0111E
 **Mensagem**: o servidor de login não pode ser contatado no momento.
 
-Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixsupport){: new_window}.
-
+Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 ## BXNUI0112E
 **Mensagem**: o plano não pôde ser atualizado.
 
@@ -1099,12 +1098,12 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 ## BXNUI2052E
 **Mensagem**: a tentativa de login falhou.
 
-Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2053E
 **Mensagem**: a tentativa de login falhou porque a solicitação do token de acesso não pôde ser codificada.
 
-Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2054E
 **Mensagem**: o {{site.data.keyword.Bluemix_notm}} requer autorização com escopo {0}.
@@ -1256,7 +1255,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 ## BXNUI2085E
 **Mensagem**: o cálculo de custo de precificação não pode ser analisado.
 
-Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](http://ibm.biz/bluemixsupport){: new_window}.
+Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2086E
 **Mensagem**: Durante uma tentativa de recuperar certificados transferidos por upload, a organização não pôde ser localizada.
@@ -1264,7 +1263,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2087E
-**Mensagem**: o nome do app é muito longo. Esse nome do app é limitado a {0} caracteres. 
+**Mensagem**: o nome do app é muito longo. Esse nome do app é limitado a {0} caracteres.
 
 Tente novamente com um nome mais curto.
 
@@ -1296,7 +1295,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 ## BXNUI2093E
 **Mensagem**: o número de certificados intermediários excede o número permitido.
 
-Para obter detalhes sobre o número de certificados permitidos e como excluir ou substituí-los, consulte o tópico [Fazendo upload de certificados SSL](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}.
+Para obter detalhes sobre o número de certificados permitidos e como excluir ou substituí-los, consulte o tópico [Fazendo upload de certificados SSL](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window}.
 
 ## BXNUI2094E
 **Mensagem**: falha na tentativa da operação devido a um erro de conexão.
@@ -1394,7 +1393,7 @@ Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{si
 ## BXNUI3005E
 **Mensagem**: a operação para excluir a instância de contêiner atingiu o tempo limite.
 
-Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](hhttps://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Se o problema continuar, acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI3006E
 **Mensagem**: a operação para iniciar a instância de contêiner encontrou um erro de conexão.

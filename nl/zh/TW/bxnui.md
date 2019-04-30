@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-28"
+lastupdated: "2019-04-18"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -189,7 +189,7 @@ subcollection: get-support
 ## BXNUI0037E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除已連結至 '{0}' 應用程式的服務實例。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/bluemix/support/#status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0038E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未刪除與 '{0}' 應用程式相關聯的路徑。
@@ -221,7 +221,7 @@ subcollection: get-support
 
 您將登出 {{site.data.keyword.Bluemix_notm}}。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0048E
 **訊息**：由於聯絡 Cloud Foundry 時發生問題，因此未擷取 '{0}' 組織的空間。
@@ -464,7 +464,7 @@ subcollection: get-support
 ## BXNUI0097E
 **訊息**：必須至少有一個空間與您的組織和地區相關聯，您才能新增應用程式。
 
-從主控台功能表列，按一下**管理** &gt; **帳戶** &gt; **Cloud Foundry 組織**，然後按一下**建立**。建立空間後，請重試。如需修正此問題的相關指示，請參閱[為何沒有與我的現行組織相關聯的空間？](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
+從主控台功能表列，按一下**管理** &gt; **帳戶** &gt; **Cloud Foundry 組織**，然後按一下**建立**。建立空間後，請重試。如需修正此問題的相關指示，請參閱[為何沒有與我的現行組織相關聯的空間？](/docs/account?topic=account-managingaccounts#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **訊息**：目前無法擷取認證清單。
@@ -494,8 +494,7 @@ subcollection: get-support
 ## BXNUI0111E
 **訊息**：目前無法聯絡登入伺服器。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
-
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 ## BXNUI0112E
 **訊息**：無法更新方案。
 
@@ -1098,12 +1097,12 @@ subcollection: get-support
 ## BXNUI2052E
 **訊息**：登入嘗試失敗。
 
-請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2053E
 **訊息**：由於無法編碼存取記號要求，因此登入嘗試失敗。
 
-請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2054E
 **訊息**：{{site.data.keyword.Bluemix_notm}} 需要範圍為 {0} 的授權。
@@ -1255,7 +1254,7 @@ subcollection: get-support
 ## BXNUI2085E
 **訊息**：無法剖析定價成本計算。
 
-請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://ibm.biz/bluemixsupport){: new_window}。
+請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2086E
 **訊息**：嘗試擷取所上傳憑證期間，找不到組織。
@@ -1295,7 +1294,7 @@ subcollection: get-support
 ## BXNUI2093E
 **訊息**：中繼憑證數目超出容許的數目。
 
-如需容許的憑證數目及其刪除或取代方式的詳細資料，請參閱[上傳 SSL 憑證](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}主題。
+如需容許的憑證數目及其刪除或取代方式的詳細資料，請參閱[上傳 SSL 憑證](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window}主題。
 
 ## BXNUI2094E
 **訊息**：由於發生連線錯誤，因此嘗試的作業失敗。
@@ -1393,7 +1392,7 @@ subcollection: get-support
 ## BXNUI3005E
 **訊息**：刪除容器實例的作業已逾時。
 
-請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+請稍後再重試。如果再次看到此訊息，請前往 [{{site.data.keyword.Bluemix_notm}} 狀態頁面 ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://cloud.ibm.com/status?selected=status){: new_window}，以檢查服務或元件是否有問題。如果問題持續發生，請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3006E
 **訊息**：啟動容器實例的作業發生連線錯誤。

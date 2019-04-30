@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ Per impostazione predefinita, gli utenti nel tuo account non hanno accesso per c
 Quando crei un caso, puoi dare ad altri utenti un accesso completo a tale caso aggiungendo la loro email nel campo **Aggiungi un'altra persona a questo caso**. Gli utenti aggiunti hanno un accesso per visualizzare, modificare e aggiornare solo tale caso nell'account. Ricevono anche delle notifiche quando il caso viene aggiornato.
 {: tip}
 
-Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-predefined#predefined). I gruppi di accesso di autorizzazione migrati includono la politica IAM sul servizio di gestione utenti con assegnato il ruolo visualizzatore.
+Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-infrapermission#predefined). I gruppi di accesso di autorizzazione migrati includono la politica IAM sul servizio di gestione utenti con assegnato il ruolo visualizzatore.
 
 ## Creazione di un gruppo di accesso per la gestione dei casi
 {: #creating-access-group}

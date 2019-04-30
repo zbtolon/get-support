@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
-keywords: support case, support page, help
+keywords: support, support case, premium support, advanced support, basic support, support page, help
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # 取得支援
 {: #getting-customer-support}
 
-如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個選項可以取得關於判斷問題原因與尋找解決方案的協助。如果您已登入，則可以直接移至[支援頁面](https://{DomainName}/unifiedsupport/supportcenter)以檢閱一般常見問題 (FAQ)、開立支援案例或搜尋社群內容。
+如果您遇到 {{site.data.keyword.Bluemix}} 問題，則有數個選項可以取得關於判斷問題原因與尋找解決方案的協助。如果您已登入，則可以直接移至[支援中心](https://{DomainName}/unifiedsupport/supportcenter)以檢閱一般常見問題 (FAQ)、開立支援案例或搜尋社群內容。
 {:shortdesc}
 
 ## 客戶支援中心處理程序的運作方式
@@ -48,22 +48,22 @@ IBM 會定期將意見調查傳送給 {{site.data.keyword.Bluemix_notm}} 客戶�
 
 如果您有基本、進階或超值[支援方案](/docs/get-support?topic=get-support-support-plans#support-plans)，可以尋找撥入號碼及會談選項，以取得協助。
 
-「支援中心」是取得支援的偏好方法，但是如果您無法登入 {{site.data.keyword.Bluemix_notm}}，則可以使用[取得協助](http://www.ibm.biz/bluemixsupport){: new_window}頁面來提交案例。
+「支援中心」是取得支援的偏好方法，但是如果您無法登入 {{site.data.keyword.Bluemix_notm}}，則可以使用[新建支援案例](https://{DomainName}/unifiedsupport/cases/add)頁面來提交案例。
 
 ### 提問
 {: #asking-a-question}
 
 Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討論區（適用於一般問題）都有提供 {{site.data.keyword.Bluemix_notm}} 問題的各種可搜尋答案。如果您找不到現有答案，請提出新的問題。您可以從「支援中心」存取 Stack Overflow 及 IBM Developer Answers，或使用下列鏈結：
 
-  * 前往 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window}，以提出有關使用 {{site.data.keyword.Bluemix_notm}} 平台和服務來開發應用程式的技術問題。
-  * 前往 [IBM Developer Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window}，以提出有關 {{site.data.keyword.Bluemix_notm}} 供應項目以及開始使用之指示的一般問題。
+  * 前往 [Stack Overflow ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window}，以提出有關使用 {{site.data.keyword.Bluemix_notm}} 平台和服務來開發應用程式的技術問題。
+  * 前往 [IBM Developer Answers ![外部鏈結圖示](../icons/launch-glyph.svg "外部鏈結圖示")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}，以提出有關 {{site.data.keyword.Bluemix_notm}} 供應項目以及開始使用之指示的一般問題。
 
 {{site.data.keyword.Bluemix_notm}} 開發與支援團隊會主動監視 Stack Overflow 及 IBM Developer Answers，並且會追蹤標記 **ibm-cloud** 的問題。當您在任一討論區建立問題時，請對您的問題新增 **ibm-cloud** 標籤，以確保 {{site.data.keyword.Bluemix_notm}} 開發與支援團隊可以看到此問題。
 
 如果問題不是運作中斷所造成，而且您找不到特定問題的答案，則可以開立支援案例，與客戶支援中心聯絡。 
 
 ## 聯絡 {{site.data.keyword.Bluemix_dedicated_notm}} 或 {{site.data.keyword.Bluemix_local_notm}} 支援中心
-{: #contacting-bluemix-support-dedicated-local}
+{: #contacting-ibmcloud-support-dedicated-local}
 
 如果您的帳戶是 {{site.data.keyword.Bluemix_dedicated_notm}} 或 {{site.data.keyword.Bluemix_local_notm}}，則會由 {{site.data.keyword.Bluemix_notm}} 支援團隊提供支援。不過，如果您沒有 {{site.data.keyword.ibmid}}，則有幾個不同的選項可取得支援。
 
@@ -88,7 +88,7 @@ Stack Overflow 討論區（適用於技術問題）及 IBM Developer Answers 討
 
 若為您的帳戶設定**歐盟支援**選項，此選項將適用於您未來針對在歐盟地區管理之任何服務或資料中心問題開立的所有案例。您在設定此選項之前開立的任何案例都不會受影響。如果您設定此選項，而且在歐盟資料中心或德國地區以外新增資源，則這些資源的問題不一定是由歐洲的支援團隊所處理。
 
-您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援設定](/docs/account?topic=account-bill_eusupported#bill_eusupported)。
+您可以從 {{site.data.keyword.Bluemix_notm}} 主控台的「計費」視窗中，設定帳戶的**歐盟支援**選項。如需相關資訊，請參閱[啟用歐盟支援設定](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported)。
 
 ### 歐盟支援服務
 {: #eusupportedservices}

@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -47,7 +47,7 @@ Si vous utilisez l'un des produits ou services sur lequel cette prise en charge 
 
 Pour les applications Cloud Foundry, vous devez vérifier que les connexions de l'extérieur de {{site.data.keyword.Bluemix_notm}} vers votre application ne sont pas impactées. Vérifiez également que les connexions depuis votre application vers une autre application Cloud Foundry sur {{site.data.keyword.Bluemix_notm}} ne sont pas impactées.
 
-Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](/docs/overview?topic=overview-browsers-platform#browsers) pour {{site.data.keyword.Bluemix_notm}}.
+Toutes les connexions à Cloud Foundry qui utilisent TLS sont potentiellement impactées, incluant les connexions effectuées depuis des navigateurs Web. Tous les navigateurs récents prennent en charge TLS 1.2, notamment ceux figurant dans les [Prérequis](/docs/overview?topic=overview-prereqs-platform#prereqs-platform) pour {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Connexion à votre application Cloud Foundry

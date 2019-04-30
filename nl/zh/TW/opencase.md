@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ subcollection: get-support
 
 所有使用者都可以開立任何類型的支援案例。
 
-依預設，帳戶中的使用者無權建立、更新、搜尋或檢視案例。您必須指派 Identity and Access Management (IAM) 存取原則來提供使用者存取權。如需相關資訊，請參閱[平台管理角色](/docs/iam?topic=iam-platformroles#platformroles)。
+依預設，帳戶中的使用者無權建立、更新、搜尋或檢視案例。您必須指派 Identity and Access Management (IAM) 存取原則來提供使用者存取權。如需相關資訊，請參閱[平台管理角色](/docs/iam?topic=iam-userroles#platformroles)。
 {:tip}
 
 請完成下列步驟，從「支援中心」建立支援案例： 

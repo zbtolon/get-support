@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ Le tableau suivant répertorie divers exemples de problèmes soumis au support, 
 Objectif du niveau de service mis à jour pour les objectifs de temps de réponse initiaux du support premium en vigueur le 1er octobre 2018. Les mises à jour sont applicables aux cas de support qui sont créés le 1 octobre 2018 ou après. Les objectifs de temps de réponse initiaux du support premium antérieurs au 1er octobre 2018 correspondent à 1 heure pour le niveau de gravité 1 et à 90 minutes pour le niveau de gravité 2.
 {: note}
 
-Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le plan de support Avancé ou Premium afin de pouvoir ouvrir des cas de support de service de gravité 1 à 4. Pour mettre à niveau votre plan de support, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Si votre demande de support nécessite une réponse plus rapide, vous devriez envisager une mise à niveau vers le plan de support Avancé ou Premium afin de pouvoir ouvrir des cas de support de service de gravité 1 à 4. Pour mettre à niveau votre plan de support, contactez votre [ingénieur commercial IBM![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window}.
 {:tip}

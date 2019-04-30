@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ subcollection: get-support
 프리미엄 지원 초기 응답 시간 목표에 대한 업데이트된 SLO는 2018년 10월 1일부터 유효합니다. 업데이트는 2018년 10월 1일 또는 그 이후에 작성된 지원 케이스에 적용될 수 있습니다. 2018년 10월 1일 이전의 프리미엄 지원 초기 응답 시간 목표는 심각도 1의 경우 1시간 이내이며 심각도 2의 경우 90분 이내입니다.
 {: note}
 
-지원 조회에서 보다 즉각적인 응답이 필요한 경우에는 심각도 1 - 4 지원 케이스를 열 수 있도록 프리미엄 또는 고급 지원 플랜으로 업그레이드를 고려하십시오. 지원 플랜을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}에게 문의하십시오.
+지원 조회에서 보다 즉각적인 응답이 필요한 경우에는 심각도 1 - 4 지원 케이스를 열 수 있도록 프리미엄 또는 고급 지원 플랜으로 업그레이드를 고려하십시오. 지원 플랜을 업그레이드하려면 [IBM 영업 담당자 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window}에게 문의하십시오.
 {:tip}

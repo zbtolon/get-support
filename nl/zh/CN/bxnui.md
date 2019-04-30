@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-28"
+lastupdated: "2019-04-18"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -187,7 +187,7 @@ subcollection: get-support
 ## BXNUI0037E
 **消息**：未删除绑定到“{0}”应用程序的服务实例，因为联系 Cloud Foundry 时发生问题。
 
-请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://developer.ibm.com/bluemix/support/#status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0038E
 **消息**：未删除与“{0}”应用程序关联的路径，因为联系 Cloud Foundry 时发生问题。
@@ -219,7 +219,7 @@ subcollection: get-support
 
 将使您从 {{site.data.keyword.Bluemix_notm}} 注销。
 
-请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/bluemixsupport){: new_window}。
+请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI0048E
 **消息**：未检索到“{0}”组织的空间，因为联系 Cloud Foundry 时发生问题。
@@ -462,7 +462,7 @@ subcollection: get-support
 ## BXNUI0097E
 **消息**：必须至少有一个空间与您的组织和区域相关联，才能添加应用程序。
 
-在控制台菜单栏中，单击**管理** &gt; **帐户** &gt; **Cloud Foundry 组织**，然后单击**创建**。创建空间后，请重试。有关解决此问题的更多指示信息，请参阅[为什么没有与我当前组织关联的空间？](/docs/account?topic=account-ts_no_space#ts_no_space){: new_window}
+在控制台菜单栏中，单击**管理** &gt; **帐户** &gt; **Cloud Foundry 组织**，然后单击**创建**。创建空间后，请重试。有关解决此问题的更多指示信息，请参阅[为什么没有与我当前组织关联的空间？](/docs/account?topic=account-managingaccounts#ts_no_space){: new_window}
 
 ## BXNUI0098E
 **消息**：此时无法检索凭证列表。
@@ -492,8 +492,7 @@ subcollection: get-support
 ## BXNUI0111E
 **消息**：此时无法联系登录服务器。
 
-请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/bluemixsupport){: new_window}。
-
+请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 ## BXNUI0112E
 **消息**：无法更新套餐。
 
@@ -1095,12 +1094,12 @@ subcollection: get-support
 ## BXNUI2052E
 **消息**：登录尝试失败。
 
-请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/bluemixsupport){: new_window}。
+转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2053E
 **消息**：登录尝试失败，因为无法对访问令牌请求进行编码。
 
-请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/bluemixsupport){: new_window}。
+转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2054E
 **消息**：{{site.data.keyword.Bluemix_notm}} 需要作用域为 {0} 的权限。
@@ -1252,7 +1251,7 @@ subcollection: get-support
 ## BXNUI2085E
 **消息**：无法解析定价成本计算。
 
-请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](http://ibm.biz/bluemixsupport){: new_window}。
+转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2086E
 **消息**：尝试检索已上传证书期间，找不到组织。
@@ -1292,7 +1291,7 @@ subcollection: get-support
 ## BXNUI2093E
 **消息**：中间证书数超过允许的数量。
 
-有关允许的证书数以及如何删除或更换证书的详细信息，请参阅[上传 SSL 证书](/docs/apps?topic=creating-apps-ssl_certificate#ssl_certificate){: new_window}主题。
+有关允许的证书数以及如何删除或更换证书的详细信息，请参阅[上传 SSL 证书](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window}主题。
 
 ## BXNUI2094E
 **消息**：尝试的操作失败，因为发生了连接错误。
@@ -1390,7 +1389,7 @@ subcollection: get-support
 ## BXNUI3005E
 **消息**：删除容器实例的操作已超时。
 
-请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](hhttps://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
+请稍后重试。如果再次看到此消息，请转至 [{{site.data.keyword.Bluemix_notm}} 状态页面 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status?selected=status){: new_window}，检查服务或组件是否存在问题。如果此问题继续存在，请转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI3006E
 **消息**：启动容器实例的操作遇到连接错误。

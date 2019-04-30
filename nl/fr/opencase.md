@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ Par défaut, les utilisateurs d'un compte n'ont pas accès à la création, la m
 
 Tous les utilisateurs peuvent ouvrir n'importe quel type de cas de support.
 
-Par défaut, les utilisateurs d'un compte n'ont pas accès à la création, la mise à jour, la recherche ou la consultation de cas. Vous devez fournir aux utilisateurs un accès en attribuant une règle d'accès IAM (Identity and Access Management). Pour plus d'informations, voir [Rôles de gestion de plateforme](/docs/iam?topic=iam-platformroles#platformroles).
+Par défaut, les utilisateurs d'un compte n'ont pas accès à la création, la mise à jour, la recherche ou la consultation de cas. Vous devez fournir aux utilisateurs un accès en attribuant une règle d'accès IAM (Identity and Access Management). Pour plus d'informations, voir [Rôles de gestion de plateforme](/docs/iam?topic=iam-userroles#platformroles).
 {:tip}
 
 Effectuez les étapes suivantes pour créer un cas de support à partir du Centre de support : 

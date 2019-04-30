@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -47,7 +47,7 @@ IBM 在 2018 年 3 月 1 日撤銷許多雲端產品及服務的 TLS 1.0 和 TLS
 
 對於 Cloud Foundry 應用程式，您必須確認從 {{site.data.keyword.Bluemix_notm}} 外連接至您應用程式的連線不受影響。同時，也請確認從您應用程式連接至 {{site.data.keyword.Bluemix_notm}} 上另一個 Cloud Foundry 應用程式的連線不受影響。
 
-所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。所有現代瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](/docs/overview?topic=overview-browsers-platform#browsers)的瀏覽器。
+所有使用 TLS 的 Cloud Foundry 連線都可能受到影響，包括任何從 Web 瀏覽器建立的連線。所有現代瀏覽器都支援 TLS 1.2，包括作為 {{site.data.keyword.Bluemix_notm}} [必要條件](/docs/overview?topic=overview-prereqs-platform#prereqs-platform)的瀏覽器。
 {: tip}
 
 #### 連接至 Cloud Foundry 應用程式

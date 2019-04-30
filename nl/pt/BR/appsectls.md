@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -50,7 +50,7 @@ Para os aplicativos Cloud Foundry, deve-se confirmar que as conexões com o apli
 {{site.data.keyword.Bluemix_notm}} não são afetadas. Além disso, confirme se as conexões do aplicativo com
 outro aplicativo Cloud Foundry no {{site.data.keyword.Bluemix_notm}} não são afetadas.
 
-Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo aqueles que são [Pré-requisitos](/docs/overview?topic=overview-browsers-platform#browsers) do {{site.data.keyword.Bluemix_notm}}.
+Todas as conexões com o Cloud Foundry que usam o TLS são potencialmente afetadas, incluindo quaisquer conexões feitas de navegadores da web. Todos os navegadores modernos suportam o TLS 1.2, incluindo navegadores que são [Pré-requisitos](/docs/overview?topic=overview-prereqs-platform#prereqs-platform) do {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Conectando-se ao seu aplicativo Cloud Foundry
@@ -154,11 +154,11 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Data Catalog
 * Conexão de dados
 * Data Refinary
-* Otimização de Decisão
+* Decision Optimization
 * Gráfico
 * Informix
 * Lift
-* Dados da empresa de clima
+* Weather Company Data
 * Managed MS-SQL Database Server\*
 
 #### DevOps
@@ -170,7 +170,7 @@ As implementações do {{site.data.keyword.Bluemix_notm}} Private ou do {{site.d
 * Continuous Delivery
 * Liberação contínua
 * DevOps Insights
-* Gerenciamento de eventos
+* Event Management
 * Globalization Pipeline
 * Automated Accessibility Tester\*
 * Digital Content Checker\*

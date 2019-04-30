@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ Por padrão, os usuários em sua conta não têm acesso para criar, atualizar, p
 Ao criar um caso, é possível fornecer a outros usuários acesso total a esse caso incluindo seu e-mail no campo **Incluir outra pessoa nesse caso**. Todos os usuários incluídos têm acesso para visualizar, editar e atualizar somente esse caso na conta. Eles também recebem notificações quando o caso é atualizado.
 {: tip}
 
-Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-predefined#predefined). Os grupos de acesso de permissão migrados incluem a política do IAM no serviço de gerenciamento de usuários com a função de visualizador designada.
+Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-infrapermission#predefined). Os grupos de acesso de permissão migrados incluem a política do IAM no serviço de gerenciamento de usuários com a função de visualizador designada.
 
 ## Criando um grupo de acesso para trabalhar com casos
 {: #creating-access-group}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ subcollection: get-support
 케이스를 작성할 때는 다른 사용자의 이메일을 **이 케이스에 다른 사람 추가** 필드에 추가하여 해당 사용자에게 해당 케이스에 대한 전체 액세스 권한을 부여할 수 있습니다. 추가된 사용자는 계정의 해당 케이스에 대해서만 보고, 편집하고 업데이트할 수 있는 액세스 권한을 갖습니다. 또한 이들은 해당 케이스가 업데이트된 경우 알림을 수신합니다.
 {: tip}
 
-클래식 인프라 사용자의 경우, 지원 케이스 액세스 권한을 지정할 권한은 이제 [마이그레이션된 클래식 인프라 권한 액세스 그룹](/docs/iam?topic=iam-predefined#predefined)에서 사용할 수 있습니다. 마이그레이션된 권한 액세스 그룹은 뷰어 역할이 지정된 사용자 관리 서비스에 대한 IAM 정책을 포함합니다.
+클래식 인프라 사용자의 경우, 지원 케이스 액세스 권한을 지정할 권한은 이제 [마이그레이션된 클래식 인프라 권한 액세스 그룹](/docs/iam?topic=iam-infrapermission#predefined)에서 사용할 수 있습니다. 마이그레이션된 권한 액세스 그룹은 뷰어 역할이 지정된 사용자 관리 서비스에 대한 IAM 정책을 포함합니다.
 
 ## 케이스에 대해 작업하기 위한 액세스 그룹 작성
 {: #creating-access-group}
