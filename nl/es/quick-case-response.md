@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-22"
+lastupdated: "2019-04-18"
 
 keywords: escalate, support case, case, ticket
 
@@ -52,5 +52,5 @@ La siguiente tabla lista algunos ejemplos comunes de los problemas de soporte, n
 SLO actualizado para los objetivos de tiempo de respuesta inicial de soporte premium, efectivos el 1 de octubre de 2018. Las actualizaciones son aplicables a casos de soporte que se crean durante o después del 1 de octubre de 2018. Los objetivos de tiempo de respuesta inicial del soporte premium antes del 1 de octubre de 2018 serán de 1 hora de plazo para gravedad 1 y 90 minutos de plazo para gravedad 2.
 {: note}
 
-Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al plan de soporte estándar o avanzado para poder abrir casos de soporte de gravedad 1-4. Para actualizar su plan de soporte, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/cloud-computing/bluemix/contact-us){: new_window}.
+Si su consulta de soporte requiere una respuesta inmediata, considere la posibilidad de actualizar al plan de soporte estándar o avanzado para poder abrir casos de soporte de gravedad 1-4. Para actualizar su plan de soporte, póngase en contacto con el [representante de ventas de IBM ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen){: new_window}.
 {:tip}

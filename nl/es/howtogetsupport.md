@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
-keywords: support case, support page, help
+keywords: support, support case, premium support, advanced support, basic support, support page, help
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Obtención de soporte
 {: #getting-customer-support}
 
-Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución. Si ha iniciado una sesión, puede ir directamente a la [página Soporte](https://{DomainName}/unifiedsupport/supportcenter) para revisar las preguntas frecuentes comunes, abrir un caso de soporte o buscar contenido de la comunidad.
+Si tiene problemas con {{site.data.keyword.Bluemix}}, tiene varias opciones para obtener ayuda para determinar la causa del problema y encontrar una solución. Si ha iniciado una sesión, puede ir directamente al [Centro de soporte](https://{DomainName}/unifiedsupport/supportcenter) para revisar las preguntas frecuentes comunes, abrir un caso de soporte o buscar contenido de la comunidad.
 {:shortdesc}
 
 ## Funcionamiento del proceso del servicio de atención al cliente
@@ -48,22 +48,22 @@ Puede utilizar el campo de búsqueda del Centro de soporte para encontrar respue
 
 Si tiene un [plan de soporte](/docs/get-support?topic=get-support-support-plans#support-plans) básico, avanzado o premium, podrá encontrar números de teléfono y una opción de chat para obtener ayuda.
 
-El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Obtener ayuda](http://www.ibm.biz/bluemixsupport){: new_window} para enviar un caso.
+El Centro de soporte es el método recomendado para obtener soporte, pero si no puede iniciar la sesión en {{site.data.keyword.Bluemix_notm}}, puede utilizar la página [Nuevo caso de soporte](https://{DomainName}/unifiedsupport/cases/add) para enviar un caso.
 
 ### Cómo formular una pregunta
 {: #asking-a-question}
 
 Tanto el foro de Stack Overflow, para preguntas técnicas como el foro de IBM Developer Answers, para preguntas generales, proporcionan una amplia variedad de respuestas en las que se pueden realizar búsquedas para las preguntas de {{site.data.keyword.Bluemix_notm}}. Si no encuentra una respuesta existente, haga una nueva pregunta. Puede acceder a Stack Overflow y a IBM Developer Answers desde el Centro de soporte, o utilizando los enlaces siguientes:
 
-  * Vaya a [Stack Overflow ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} para realizar preguntas técnicas sobre el desarrollo de apps con la plataforma y los servicios de {{site.data.keyword.Bluemix_notm}}.
-  * Vaya a [IBM Developer Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} para realizar preguntas generales sobre la oferta de {{site.data.keyword.Bluemix_notm}} y sobre las instrucciones sobre cómo empezar.
+  * Vaya a [Stack Overflow ![icono de enlace externo](../icons/launch-glyph.svg "icono de enlace externo")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} para realizar preguntas técnicas sobre el desarrollo de apps con la plataforma y los servicios de {{site.data.keyword.Bluemix_notm}}.
+  * Vaya a [IBM Developer Answers ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} para realizar preguntas generales sobre la oferta de {{site.data.keyword.Bluemix_notm}} y sobre las instrucciones sobre cómo empezar.
 
 Los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}} supervisan activamente Stack Overflow e IBM Developer Answers y realizan un seguimiento de las preguntas que tienen la etiqueta **ibm-cloud**. Cuando cree una pregunta en cualquiera de los foros, añada la etiqueta **ibm-cloud** a su pregunta para asegurarse de que la vean los equipos de desarrollo y soporte de {{site.data.keyword.Bluemix_notm}}.
 
 Si el problema no es debido a una parada y si no encuentra una respuesta para su problema específico, puede ponerse en contacto con el servicio de atención al cliente abriendo un caso de soporte. 
 
 ## Cómo ponerse en contacto con el servicio de soporte para {{site.data.keyword.Bluemix_dedicated_notm}} o {{site.data.keyword.Bluemix_local_notm}}
-{: #contacting-bluemix-support-dedicated-local}
+{: #contacting-ibmcloud-support-dedicated-local}
 
 Si su cuenta es {{site.data.keyword.Bluemix_dedicated_notm}} o {{site.data.keyword.Bluemix_local_notm}}, el servicio de soporte lo proporciona el equipo de soporte de {{site.data.keyword.Bluemix_notm}}. Sin embargo, si no tiene un {{site.data.keyword.ibmid}}, diversas opciones para obtener soporte.
 
@@ -88,7 +88,7 @@ Para la plataforma {{site.data.keyword.Bluemix_notm}}, solo los servicios alojad
 
 Al establecer la opción **Soporte en la UE** para su cuenta, esta se aplica a todos los casos de soporte futuros que abra para problemas de cualquier servicio o centro de datos que esté alojado en la región de la UE. Los casos que haya abierto antes de establecer esta opción no se ven afectados. Si establece esta opción y añade recursos fuera de un centro de datos de la UE o de la región de Alemania, los problemas para dichos recursos no serán gestionados necesariamente por un equipo de soporte en Europa.
 
-Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de valores de Soporte en la UE](/docs/account?topic=account-bill_eusupported#bill_eusupported).
+Puede establecer la opción **Soporte en la UE** para su cuenta desde la ventana Facturación de la consola de {{site.data.keyword.Bluemix_notm}}. Para obtener más información, consulte [Habilitación de valores de Soporte en la UE](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported).
 
 ### Servicios con soporte en la UE
 {: #eusupportedservices}

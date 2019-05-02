@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -29,7 +29,7 @@ De forma predeterminada, los usuarios de una cuenta no tienen acceso para crear,
 Cuando crea un caso, puede dar a otros usuarios acceso total a dicho caso añadiendo su correo electrónico en el campo **Añadir otra persona a este caso**. Los usuarios que añada tendrán acceso para ver, editar y actualizar solo ese caso en la cuenta. Además, recibirán notificaciones cuando se actualice el caso.
 {: tip}
 
-Para los usuarios de la infraestructura clásica, los permisos para asignar acceso a casos de soporte están ahora disponibles en [grupos de acceso de permisos migrados de la infraestructura clásica](/docs/iam?topic=iam-predefined#predefined). Los grupos de acceso de permisos migrados incluyen la política de IAM sobre el servicio de gestión de usuarios con el rol de visor asignado.
+Para los usuarios de la infraestructura clásica, los permisos para asignar acceso a casos de soporte están ahora disponibles en [grupos de acceso de permisos migrados de la infraestructura clásica](/docs/iam?topic=iam-infrapermission#predefined). Los grupos de acceso de permisos migrados incluyen la política de IAM sobre el servicio de gestión de usuarios con el rol de visor asignado.
 
 ## Creación de un grupo de acceso para trabajar con casos
 {: #creating-access-group}

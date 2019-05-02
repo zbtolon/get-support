@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-29"
+lastupdated: "2019-04-18"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -32,7 +32,7 @@ De forma predeterminada, los usuarios de una cuenta no tienen acceso para crear,
 
 Todos los usuarios pueden abrir cualquier tipo de caso de soporte.
 
-De forma predeterminada, los usuarios de una cuenta no tienen acceso para crear, actualizar, buscar o ver casos. Debe proporcionar a los usuarios acceso mediante la asignación de una política de acceso de Identity and Access Management (IAM). Para obtener más información, consulte [Roles de gestión de la plataforma](/docs/iam?topic=iam-platformroles#platformroles).
+De forma predeterminada, los usuarios de una cuenta no tienen acceso para crear, actualizar, buscar o ver casos. Debe proporcionar a los usuarios acceso mediante la asignación de una política de acceso de Identity and Access Management (IAM). Para obtener más información, consulte [Roles de gestión de la plataforma](/docs/iam?topic=iam-userroles#platformroles).
 {:tip}
 
 Siga los pasos siguientes para crear un caso de soporte desde el Centro de soporte: 

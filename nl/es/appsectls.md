@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-02-14"
+lastupdated: "2019-04-18"
 
 keywords: TLS, TLS support
 
@@ -47,7 +47,7 @@ Si utiliza cualquiera de los productos o servicios en los que se va a retirar el
 
 Para las aplicaciones de Cloud Foundry, debe confirmar que sus conexiones a la aplicación desde fuera de {{site.data.keyword.Bluemix_notm}} no se verán afectadas. Confirme también que las conexiones desde la aplicación a otra aplicación de Cloud Foundry en {{site.data.keyword.Bluemix_notm}} no se verán afectadas.
 
-Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, incluidas las conexiones realizadas desde los navegadores web. Todos los navegadores modernos admiten TLS 1.2, incluidos los navegadores que son [Requisitos previos](/docs/overview?topic=overview-browsers-platform#browsers) de {{site.data.keyword.Bluemix_notm}}.
+Todas las conexiones a Cloud Foundry que utilicen TLS se pueden ver afectadas, incluidas las conexiones realizadas desde los navegadores web. Todos los navegadores modernos admiten TLS 1.2, incluidos los navegadores que son [Requisitos previos](/docs/overview?topic=overview-prereqs-platform#prereqs-platform) de {{site.data.keyword.Bluemix_notm}}.
 {: tip}
 
 #### Conexión a la aplicación de Cloud Foundry
