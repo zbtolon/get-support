@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -51,7 +51,7 @@ subcollection: get-support
 ## 预订电子邮件通知
 {: #monbp-subscribing}
 
-如果您是轻量帐户所有者，那么可以选择是否接收有关 {{site.data.keyword.Bluemix_notm}} 平台计划外事件（如中断）和计划事件（如维护）的电子邮件通知。此外，如果您有现收现付或预订帐户，那么可以选择是否接收有关计划外事件、维护和公告的 {{site.data.keyword.Bluemix_notm}} 基础架构电子邮件通知。有关更多信息，请参阅[设置电子邮件首选项](/docs/account?topic=account-account_setup#account_setup)。
+如果您是轻量帐户所有者，那么可以选择是否接收有关 {{site.data.keyword.Bluemix_notm}} 平台计划外事件（如中断）和计划事件（如维护）的电子邮件通知。此外，如果您有现收现付或预订帐户，那么可以选择是否接收有关计划外事件、维护和公告的 {{site.data.keyword.Bluemix_notm}} 基础架构电子邮件通知。有关更多信息，请参阅[设置电子邮件首选项](/docs/account?topic=account-email-prefs)。
 
 
 
