@@ -28,11 +28,11 @@ Obtención de soporte
 
     {: .navgroup id="help"}
     ts_managecase.md
-
+    faq.md
+    
     {: .topicgroup}
     Problemas conocidos
         datacenter-migration.md
-        appsectls.md
 
     [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)

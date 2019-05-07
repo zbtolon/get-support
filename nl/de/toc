@@ -2,7 +2,7 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="get-support" audience="platform" href="/docs/customer-portal?topic=customer-portal-getting-started#getting-started" path="get-support"}
-Unterstützung erhalten
+Unterstützung anfordern
 
     {: .navgroup id="learn"}
     index.md
@@ -28,11 +28,11 @@ Unterstützung erhalten
 
     {: .navgroup id="help"}
     ts_managecase.md
-
+    faq.md
+    
     {: .topicgroup}
     Bekannte Probleme
         datacenter-migration.md
-        appsectls.md
 
     [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)

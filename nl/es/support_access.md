@@ -65,7 +65,7 @@ En la tabla siguiente, se indican los permisos incluidos en cada rol para trabaj
 Ahora que ya ha creado el grupo de acceso, añada usuarios:
 
 1. En el separador **Usuarios** del grupo de acceso, pulse **Añadir usuarios**.
-2. Seleccione el usuario que desea añadir al grupo y pulse **Añadir al grupo**.
+2. Seleccione el usuario que desea añadir al grupo y pulse **Añadir a grupo**.
 
 ## Cómo otorgar acceso a los casos a usuarios individuales 
 

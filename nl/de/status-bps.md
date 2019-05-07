@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -51,7 +51,7 @@ In den meisten Fällen kann {{site.data.keyword.Bluemix_notm}} normal weiterverw
 ## E-Mail-Benachrichtigung abonnieren
 {: #monbp-subscribing}
 
-Wenn Sie ein Lite-Kontoeigner sind, können Sie auswählen, ob Sie E-Mail-Benachrichtigungen über ungeplante Ereignisse auf der {{site.data.keyword.Bluemix_notm}}-Plattform wie beispielsweise Ausfälle und geplante Ereignisse wie beispielsweise Wartungen erhalten möchten. Wenn Sie über ein Konto mit nutzungsabhängiger Zahlung oder ein Abonnementkonto verfügen, können Sie außerdem auswählen, ob Sie E-Mail-Benachrichtigungen über ungeplante Ereignisse, Wartungen und Ankündigungen für die {{site.data.keyword.Bluemix_notm}}-Infrastruktur erhalten möchten. Weitere Informationen finden Sie in [E-Mail-Vorgaben festlegen](/docs/account?topic=account-account_setup#account_setup).
+Wenn Sie ein Lite-Kontoeigner sind, können Sie auswählen, ob Sie E-Mail-Benachrichtigungen über ungeplante Ereignisse auf der {{site.data.keyword.Bluemix_notm}}-Plattform wie beispielsweise Ausfälle und geplante Ereignisse wie beispielsweise Wartungen erhalten möchten. Wenn Sie über ein Konto mit nutzungsabhängiger Zahlung oder ein Abonnementkonto verfügen, können Sie außerdem auswählen, ob Sie E-Mail-Benachrichtigungen über ungeplante Ereignisse, Wartungen und Ankündigungen für die {{site.data.keyword.Bluemix_notm}}-Infrastruktur erhalten möchten. Weitere Informationen finden Sie in [E-Mail-Vorgaben festlegen](/docs/account?topic=account-email-prefs).
 
 
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -51,7 +51,7 @@ Na maioria dos casos, o {{site.data.keyword.Bluemix_notm}} pode continuar sendo 
 ## Assinando notificações por e-mail
 {: #monbp-subscribing}
 
-Se você for um proprietário da conta Lite, será possível selecionar se deseja receber notificações por e-mail sobre eventos não planejados da plataforma do {{site.data.keyword.Bluemix_notm}}, como indisponibilidades e eventos planejados, como manutenção. Além disso, se você tiver uma conta Pré-paga ou de Assinatura, será possível escolher se deseja receber notificações por e-mail da infraestrutura do {{site.data.keyword.Bluemix_notm}} sobre eventos não planejados, manutenção e anúncios. Para obter mais informações, consulte [Configurando preferências de e-mail](/docs/account?topic=account-account_setup#account_setup).
+Se você for um proprietário da conta Lite, será possível selecionar se deseja receber notificações por e-mail sobre eventos não planejados da plataforma do {{site.data.keyword.Bluemix_notm}}, como indisponibilidades e eventos planejados, como manutenção. Além disso, se você tiver uma conta Pré-paga ou de Assinatura, será possível escolher se deseja receber notificações por e-mail da infraestrutura do {{site.data.keyword.Bluemix_notm}} sobre eventos não planejados, manutenção e anúncios. Para obter mais informações, consulte [Configurando preferências de e-mail](/docs/account?topic=account-email-prefs).
 
 
 
