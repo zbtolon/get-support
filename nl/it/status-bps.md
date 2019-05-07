@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -56,7 +56,7 @@ tre istanze di ciascuna applicazione.
 ## Sottoscrizione alle notifiche email
 {: #monbp-subscribing}
 
-Se sei il proprietario di un account Lite, puoi scegliere se ricevere notifiche email sugli eventi non pianificati della piattaforma {{site.data.keyword.Bluemix_notm}}, come le interruzioni, e sugli eventi pianificati, come la manutenzione. Inoltre, se hai un account Pagamento a consumo o Sottoscrizione, puoi scegliere se ricevere notifiche email dell'infrastruttura {{site.data.keyword.Bluemix_notm}} sugli eventi non pianificati, la manutenzione e gli annunci. Per ulteriori informazioni, vedi [Impostazione delle preferenze email](/docs/account?topic=account-account_setup#account_setup).
+Se sei il proprietario di un account Lite, puoi scegliere se ricevere notifiche email sugli eventi non pianificati della piattaforma {{site.data.keyword.Bluemix_notm}}, come le interruzioni, e sugli eventi pianificati, come la manutenzione. Inoltre, se hai un account Pagamento a consumo o Sottoscrizione, puoi scegliere se ricevere notifiche email dell'infrastruttura {{site.data.keyword.Bluemix_notm}} sugli eventi non pianificati, la manutenzione e gli annunci. Per ulteriori informazioni, vedi [Impostazione delle preferenze email](/docs/account?topic=account-email-prefs).
 
 
 
