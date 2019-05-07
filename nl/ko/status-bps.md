@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -51,7 +51,7 @@ subcollection: get-support
 ## 이메일 알림 구독
 {: #monbp-subscribing}
 
-Lite 계정 소유자인 경우 {{site.data.keyword.Bluemix_notm}} 플랫폼의 계획되지 않은 이벤트(예: 정전)와 계획된 이벤트(예: 유지보수)에 대한 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 또는 종량과금제 또는 구독 계정이 있는 경우 계획되지 않은 이벤트, 유지보수 및 공지사항에 대한 {{site.data.keyword.Bluemix_notm}} 인프라 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 자세한 정보는 [이메일 환경 설정](/docs/account?topic=account-account_setup#account_setup)을 참조하십시오.
+Lite 계정 소유자인 경우 {{site.data.keyword.Bluemix_notm}} 플랫폼의 계획되지 않은 이벤트(예: 정전)와 계획된 이벤트(예: 유지보수)에 대한 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 또는 종량과금제 또는 구독 계정이 있는 경우 계획되지 않은 이벤트, 유지보수 및 공지사항에 대한 {{site.data.keyword.Bluemix_notm}} 인프라 이메일 알림을 수신할지 여부를 선택할 수 있습니다. 자세한 정보는 [이메일 환경 설정](/docs/account?topic=account-email-prefs)을 참조하십시오.
 
 
 
