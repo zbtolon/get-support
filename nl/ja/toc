@@ -28,11 +28,11 @@
 
     {: .navgroup id="help"}
     ts_managecase.md
-
+    faq.md
+    
     {: .topicgroup}
     既知の問題
         datacenter-migration.md
-        appsectls.md
 
     [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)

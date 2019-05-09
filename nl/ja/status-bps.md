@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-02-18"
+lastupdated: "2019-04-29"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -46,13 +46,12 @@ subcollection: get-support
 ## 小規模の中断に備える
 {: #monbp-prepmininter}
 
-ほとんどの場合、メンテナンス時間帯の間でも {{site.data.keyword.Bluemix_notm}} の通常使用を継続できます。 しかし、サービスの小規模の中断を回避できない場合もあります。 {{site.data.keyword.Bluemix_notm}} のアプリケーション管理機能
-(アプリの開始や停止など) が一時的に中断されても、稼働中のアプリケーションは通常、利用可能な状態を維持します。 稼働中のアプリケーションの可用性を最大にするために、アプリケーションごとに少なくとも 3 つのインスタンスを実行してください。
+ほとんどの場合、メンテナンス時間帯の間でも {{site.data.keyword.Bluemix_notm}} の通常使用を継続できます。 しかし、サービスの小規模の中断を回避できない場合もあります。 {{site.data.keyword.Bluemix_notm}} のアプリケーション管理機能(アプリの開始や停止など) が一時的に中断されても、稼働中のアプリケーションは通常、利用可能な状態を維持します。 稼働中のアプリケーションの可用性を最大にするために、アプリケーションごとに少なくとも 3 つのインスタンスを実行してください。
 
 ## E メール通知のサブスクライブ
 {: #monbp-subscribing}
 
-ライト・アカウント所有者の場合、{{site.data.keyword.Bluemix_notm}} プラットフォームの計画外イベント (停止など) および計画されたイベント (保守など) に関する E メール通知を受信するかどうかを選択できます。 さらに、従量課金 (PAYG) アカウントまたはサブスクリプション・アカウントを使用している場合は、計画外イベント、保守、発表に関する {{site.data.keyword.Bluemix_notm}} インフラストラクチャーの E メール通知を受信するかどうかを選択できます。 詳しくは、[E メール・プリファレンスの設定](/docs/account?topic=account-account_setup#account_setup)を参照してください。
+ライト・アカウント所有者の場合、{{site.data.keyword.Bluemix_notm}} プラットフォームの計画外イベント (停止など) および計画されたイベント (保守など) に関する E メール通知を受信するかどうかを選択できます。 さらに、従量課金 (PAYG) アカウントまたはサブスクリプション・アカウントを使用している場合は、計画外イベント、保守、発表に関する {{site.data.keyword.Bluemix_notm}} インフラストラクチャーの E メール通知を受信するかどうかを選択できます。 詳しくは、[E メール・プリファレンスの設定](/docs/account?topic=account-email-prefs)を参照してください。
 
 
 
