@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-04-16"
+lastupdated: "2019-05-13"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -35,7 +35,7 @@ You're provided free technical support through the {{site.data.keyword.Bluemix}}
 | Additional support | Not applicable | Not applicable | Technical Account Manager assigned <br/> <br/> Quarterly business reviews <br/><br/> Access to experts <br/> <br/> Invitation to Cloud Insights |
 {:caption="Table 1. Support plans" caption-side="top"}
 
-The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives prior to 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
+The updated SLO for premium support initial response time objectives effective 2018 Oct 1. The updates are applicable to support cases that are created on or after 2018 Oct 1. The premium support initial response time objectives before 2018 Oct 1 are within 1 hour for severity 1 and within 90 minutes for severity 2.
 {: note}
 
 For more information about how the severity of cases is assigned, see [Case severity and response times](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).

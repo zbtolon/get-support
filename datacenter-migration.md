@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -32,7 +32,7 @@ IBM is withdrawing support for the following data centers in the United States:
 
 To continue bringing you the best service, hardware, and connectivity, we continually evaluate all of our sites to ensure that they meet networking, electrical, and other infrastructure standards. Even though these sites are adequate, they no longer meet our ongoing standards.
 
-## Do I have to be completely migrated by the date listed?
+## Do I have to be fully migrated by the date listed?
 {: #data-list}
 
 Yes. To ensure that you have no interruption in service, we're trying to allow as much lead time as possible to make the transition near seamless for you. We communicated this site movement in May 2018.
@@ -50,7 +50,7 @@ Yes, you can choose any US IBM site that meets your location needs.
 ## How do I select which data center to deploy to?
 {: #deploy-data}
 
-IBM has more than 60 data centers in locations around the world. View the data center map on our global data centers page  to see which data centers you can deploy in. 
+IBM has more than 60 data centers in locations around the world. View the data center map on our global data centers page to see which data centers you can deploy in. 
 
 The following factors might influence which data center you select:
 * Proximity to the users of the systems
@@ -80,7 +80,7 @@ Most operating systems provide tools that you can use to understand the utilizat
 ## How do I compare old and new processors?
 {: #old-new}
 
-To compare the specifications of old and new Intel processors, go to [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). If you know the processor type, you can navigate through the menus. Alternatively, you can use the search option to locate the specifications of the two processors. Newer processors tend to have more processor cores and typically run at slower clock speeds than older variants. If you have a workload that is processor-bound (its performance is limited by the speed of the processor), we advise choosing a processor with fewer cores and a higher clock speed.  If you run many workloads that aren't particularly constrained by processor speed, choosing a processor with more cores and a similar, or slower, clock speed might be a better course of action.
+To compare the specifications of old and new Intel processors, go to [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). If you know the processor type, you can navigate through the menus. Alternatively, you can use the search option to locate the specifications of the two processors. Newer processors tend to have more processor cores and typically run at slower clock speeds than older variants. If you have a workload that is processor-bound (its performance is limited by the speed of the processor), we advise choosing a processor with fewer cores and a higher clock speed.  If you run many workloads that aren't constrained by processor speed, choosing a processor with more cores and a similar, or slower, clock speed might be a better course of action.
 
 ## How do I choose my new operating system?
 {: #operating-system}
@@ -102,7 +102,7 @@ You receive a current bandwidth package that is most closely related to the pack
 After you establish connectivity between the old and new servers, you should consider how you move data between them.  Assuming that you have sufficient storage in the new server to accommodate the volume of data, a direct server-to-server copy is the simplest way to achieve this.  There are many tools available that you can use.  
 
 * scp is a good choice to securely copy a file from source to destination.  It performs a plain linear copy. 
-* If you need to copy a large number of files, rsync over ssh is much faster than scp. rsync also copies directory structures and preserves file permissions.
+* If you need to copy multiple files, rsync over ssh is much faster than scp. rsync also copies directory structures and preserves file permissions.
 
 In general, you should only copy applications and application data between systems. Copying older versions of operating system files to a newer version can cause problems.
 
@@ -116,7 +116,7 @@ Most likely your networking needs to change to work with the new servers and sit
 ## What do I do if I don’t have the skills to migrate?
 {: #migrate-skills}
 
-Application migration can be a complex undertaking. Not the least of these are the skills that are required to do this. If code changes are required to the application, make sure that you have the required programming skills. This is particularly the case with older systems where skills might be in short supply or there's a lack of documentation or knowledge about the system itself. If there's significant effort and the system is particularly critical to the business, consider investing in paid services or other migration services to help you.
+Application migration can be a complex undertaking. Not the least of these are the skills that are required to do this. If code changes are required to the application, make sure that you have the required programming skills. This is the case with older systems where skills might be in short supply or there's a lack of documentation or knowledge about the system itself. If there's significant effort and the system is critical to the business, consider investing in paid services or other migration services to help you.
 
 ## How do I get general help with the migration?
 {: #gen-migration}

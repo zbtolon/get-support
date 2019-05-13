@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ The following list includes examples of URL search options:
 | ----- | ----- | ----- | ----- |
 | `?type` | A filter that applies only to the Status tab. Use the `?type` query to filter the Status tab by incidents or maintenance. | `=incident`, `=maintenance` |
 | `?region` | Filter the page by geographic location.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | Filter the page by {{site.data.keyword.Bluemix_notm}} components. For example, you might filter by a service you are interested in. | Applies to most global catalog IDs; for example, `?component=iotf-service` will filter the page and only display events that affect Internet of Things Platform  |
+| `?component` | Filter the page by {{site.data.keyword.Bluemix_notm}} components. For example, you might filter by a service you are interested in. | Applies to most global catalog IDs; for example, `?component=iotf-service` filters the page and display events that affect Internet of Things Platform  |
 {: caption="Table 1. URL query filters" caption-side="top"}
 
 You can always use the **Filter by** filters, and then copy or bookmark the URL query that is generated. The filters are displayed in your URL and can help you build future queries.

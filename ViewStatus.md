@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -28,7 +28,7 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
 
 * Click **Status** to view the current status of resources in all {{site.data.keyword.Bluemix_notm}} locations. 
 
-  You can view A list of events, in chronological order, for maintenance and incidents. You can search across all notifications, or filter by type, geographic locations, and individual resources. You can also view planned maintenance windows for which prior notice is provided and unplanned incidents or outages, which are posted as soon as the {{site.data.keyword.Bluemix_notm}} team becomes aware of them. Incident notifications are regularly updated until they're resolved.
+  You can view a list of events, in chronological order, for maintenance and incidents. You can search across all notifications, or filter by type, geographic locations, and individual resources. You can also view planned maintenance windows for which prior notice is provided and unplanned incidents or outages, which are posted as soon as the {{site.data.keyword.Bluemix_notm}} team becomes aware of them. Incident notifications are regularly updated until they're resolved.
 
 * Click **Planned maintenance** to view a list of scheduled upcoming maintenance. 
 
@@ -50,7 +50,7 @@ For more information about the type of email notifications you can receive based
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
 
-You receive alerts of any notifications by subscribing to the RSS feed for the Status page. This approach provides a way for you to get updates without having to regularly consult the Status page.
+You receive alerts of any notifications by subscribing to the RSS feed for the Status page. This approach provides a way for you to get updates without having to regularly go to the Status page.
 
 To subscribe, follow these steps:
 

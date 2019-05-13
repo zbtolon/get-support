@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -44,7 +44,7 @@ IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers t
 
 To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console, and click **Support** from the menu bar.  
 
-You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support cases from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
+You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}}documentation and Stack Overflow forum. You can also manage support cases from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
 
 If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find call-in numbers and a chat option to get help.
 

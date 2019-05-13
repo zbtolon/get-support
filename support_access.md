@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -41,7 +41,7 @@ To streamline the access assignment process, you can take advantage of assigning
 3. Click **Access policies** > **Assign access**.
 4. Select **Assign access to account management services**.
 5. Select **Support Center**.
-6. Select the **Viewer**, **Editor** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
+6. Select the **Viewer**, **Editor**, or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
 
 If you want your users to be able to view all other users in the account, you can also add the user management viewer role to your access group:
 
@@ -62,7 +62,7 @@ The following table lists the permissions that are included in each role for wor
 ## Adding users to your case management access group
 {: #add-user-access-group} 
 
-Now that you have the access group created, add users:
+Now that you have the access group that is created, add users:
 
 1. From the **Users** tab for your access group, click **Add users**.
 2. Select the user that you want to add to the group and click **Add to group**.
@@ -75,5 +75,5 @@ Using access groups to assign the support center and user management services is
 2. Click **Access policies** > **Assign access**.
 3. Select **Assign access to account management services**.
 4. Select **Support Center**.
-5. Select the **Viewer**, **Editor** or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
+5. Select the **Viewer**, **Editor**, or **Administrator** role depending on the type of access that you want this group to have, and click **Assign**.
 6. If you want a user to be able to view all other users in the account, you can also assign them the user management viewer role. 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -60,13 +60,13 @@ If you're the account owner or an administrator of the Support Center, complete 
 ## Why can't I view all cases in the account?
 {: #ts_viewcasedetails}
 
-You can't view all of the cases in the account, because you don't have access to view all users in the account. 
+You can't view all of the cases in the account because you don't have access to view all users in the account. 
 {:shortdesc}
 
 When you try to view the support cases that are associated with the account, you can't see all open cases. 
 {: tsSymptoms}
 
-The account owner set the [user list visibility setting](/docs/iam?topic=iam-userlistview#userlistview) to restricted. When the setting is set to restricted, and you don't have an additional access policy for viewing users in the account, you don't have the required access to view all cases in the account. You can view only the users that you invited to the account, share a Cloud Foundry org membership with, or users who are in your classic infrastructure user hierarchy. 
+The account owner set the [user list visibility setting](/docs/iam?topic=iam-userlistview#userlistview) to restricted. When the setting is set as restricted, and you don't have an additional access policy for viewing users in the account, you don't have the required access to view all cases in the account. You can view only the users that you invited to the account, share a Cloud Foundry org membership with, or users who are in your classic infrastructure user hierarchy. 
 {: tsCauses}
 
 You must be assigned an IAM policy with at least the Viewer role on the User management account management service in addition to your Support Center account management service access policy. To view your current access, go to **Manage** &gt; **Access (IAM)**, and select your name from the **Users** page. Click the **Access policies** tab, and review your assigned policies. 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -578,7 +578,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 ## BXNUI0130E
 **Message**: The account information wasn't retrieved because of a problem contacting the business support system.
 
-You'll be logged out of {{site.data.keyword.Bluemix_notm}} .
+You'll be logged out of {{site.data.keyword.Bluemix_notm}}.
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -736,7 +736,7 @@ Try to select another org or create a space, or request the developer role from 
 
 ## BXNUI0515E
 
-**Message**: The spaces in the org weren't retrieved. Either a network connection problem occurred, or your current organization does not have a space associated with it.
+**Message**: The spaces in the org weren't retrieved. Either a network connection problem occurred, or your current organization does not have a space that is associated with it.
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. Or, for instructions to fix this problem, see the [Can't retrieve spaces in the org](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window} troubleshooting topic.
 
@@ -949,7 +949,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2024E
-**Message**: Self registration for users isn't enabled.
+**Message**: Self-Registration for users isn't enabled.
 
 Contact the account owner.
 
@@ -1195,7 +1195,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 ## BXNUI2072E
 **Message**: The certificate wasn't uploaded.
 
-The domain name, {0}, that is specified in the certificate does not match your custom domain name.
+The domain name, {0} that is specified in the certificate does not match your custom domain name.
 
 Correct the domain name in the certificate and try again.
 
@@ -1205,7 +1205,7 @@ Correct the domain name in the certificate and try again.
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
-**Message**: The private key isn't supported. An unencrypted RSA key is expected.
+**Message**: The private key isn't supported. An decrypted RSA key is expected.
 
 ## BXNUI2075E
 **Message**: The public key isn't supported. Supported algorithms include: RSA.
@@ -1225,7 +1225,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2080E
-**Message**: The operation timed out while certificates and keys were being modified.
+**Message**: The operation that is timed out while certificates and keys were being modified.
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
