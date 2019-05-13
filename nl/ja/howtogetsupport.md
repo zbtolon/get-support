@@ -69,7 +69,7 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 アカウントが {{site.data.keyword.Bluemix_dedicated_notm}} または {{site.data.keyword.Bluemix_local_notm}} の場合、サポートは {{site.data.keyword.Bluemix_notm}} サポート・チームによって提供されます。 ただし、{{site.data.keyword.ibmid}} を持っていない場合は、サポートを取得するためのいくつかの異なるオプションがあります。
 
 * [{{site.data.keyword.Bluemix_notm}} サポート ![「外部リンク」アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} のヘルプ・ページを使用して新しい Case をオープンすることで、サポートに連絡します。 このフォームには、E メール・アドレスまたはご使用の {{site.data.keyword.ibmid}} を使用できます。 「地域」フィールドでは、**「{{site.data.keyword.Bluemix_dedicated_notm}}」**オプションまたは **「{{site.data.keyword.Bluemix_local_notm}}」**オプションを選択します。
-* {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックします。 次に、「サポートの利用」タブで**「新規 Case の作成 (Create new case)」**をクリックします。 問題に合ったトピック領域を選択し、プロンプトに従って Case を送信します。
+* {{site.data.keyword.ibmid}} をお持ちで、{{site.data.keyword.Bluemix_notm}} Public 環境にアクセスできる場合は、メニュー・バーで**「サポート」**をクリックします。 次に、「サポートの利用」タブで**「新規 Case の作成 (Create new case)」**をクリックします。 問題に合ったトピックを選択し、プロンプトに従って Case を送信します。
 * {{site.data.keyword.ibmid}} をお持ちではない場合は、それを持つ組織内のユーザーに連絡するか、IBM 担当員にご連絡ください。
 
 ご要望に応じて、サポート Case の連絡先としての役割を果たすことができる組織内のユーザーのリストを、ご使用の Dedicated 環境または Private 環境で {{site.data.keyword.Bluemix_notm}} コンソールの**「サポート」**ページに表示できます。
