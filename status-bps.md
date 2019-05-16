@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Best practices for monitoring status
 {: #best-practices}
 
-To stay informed and plan accordingly, use the following best practices for monitoring the status of {{site.data.keyword.Bluemix}}.
+To create a plan and stay informed, use the following best practices for monitoring the status of {{site.data.keyword.Bluemix}}.
 {: shortdesc}
 
 ## Check for upcoming maintenance windows

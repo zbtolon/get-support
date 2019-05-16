@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: cloud status, view cloud status
 
@@ -26,7 +26,7 @@ The Status page is the central place to find unplanned incidents, planned mainte
 
 You can find the Status page by logging in to the {{site.data.keyword.Bluemix_notm}} console. Click **Support** from the menu bar, and then click **View cloud status** from the Support Center. Or, you can access the page directly at [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status){: new_window}.
 
-* Click **Status** to view the current status of resources in all {{site.data.keyword.Bluemix_notm}} locations. 
+* Click **Status** to view the status of resources in all {{site.data.keyword.Bluemix_notm}} locations. 
 
   You can view a list of events, in chronological order, for maintenance and incidents. You can search across all notifications, or filter by type, geographic locations, and individual resources. You can also view planned maintenance windows for which prior notice is provided and unplanned incidents or outages, which are posted as soon as the {{site.data.keyword.Bluemix_notm}} team becomes aware of them. Incident notifications are regularly updated until they're resolved.
 

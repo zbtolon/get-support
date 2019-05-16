@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ You might encounter problems with creating and managing {{site.data.keyword.Blue
 ## Why can't I create or edit support cases? 
 {: #ts_service_broker}
 
-You can't create or edit an {{site.data.keyword.Bluemix_notm}} support case, and an error message stating that you don't have the appropriate access is displayed. 
+You can't create or edit an {{site.data.keyword.Bluemix_notm}} support case, and you receive an error message that you don't have the appropriate access. 
 {:shortdesc}
 
 When you try to create a case the following error message is displayed:   
@@ -44,7 +44,7 @@ General problems with accessing and managing support cases might be caused by
 not having the Identity and Access Management (IAM) access policy for the Support Center account management service. You must be assigned the editor or administrator role on the support center account management service to create cases. 
 {: tsCauses}
 
-To resolve the issue, the account owner, an administrator on the support center service or the administrator on all account management services can assign an IAM policy on support center to manage cases. 
+To resolve the issue, the account owner, an administrator on the support center service, or the administrator on all account management services can assign an IAM policy on support center to manage cases. 
 {: tsResolve}
 
 If you're the account owner or an administrator of the Support Center, complete the following steps to create an access policy for working with support cases:
@@ -80,10 +80,10 @@ To resolve the issue, contact the account owner to request the appropriate acces
 You can't find your cases that you created before the enhanced {{site.data.keyword.Bluemix_notm}} platform experience. 
 {:shortdesc}
 
-After going to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 Dec 2. 
+After going to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 December 2. 
 {: tsSymptoms}
 
-Cases that were opened before 2018 Dec 2 are visible only from the **View archived cases**. 
+Cases that were opened before 2018 December 2 are visible only from the **View archived cases**. 
 {: tsCauses}
 
 To view your cases, go to **Support**, select **Manage cases**, and click **View archived cases**.
