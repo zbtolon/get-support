@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-04-22"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,9 +38,9 @@ Vous pouvez vérifier les maintenances prévues dans la page de tableau de bord 
 {: #escalate_support}
 {: faq}
 
-En tant que client IBM Cloud, vous pouvez transférer à un niveau supérieur des cas de support de manière à faire ressortir des problèmes critiques lorsqu'un cas n'est pas traité de manière appropriée. Lorsqu'un cas est transféré, l'équipe de support IBM Cloud examine les informations et vous fournit les mises à jour appropriées. 
+En tant que client IBM Cloud, vous pouvez transférer à un niveau supérieur des cas de support de manière à faire ressortir des problèmes critiques. Lorsqu'un cas est transféré à un niveau supérieur, l'équipe de support IBM Cloud examine les informations et vous fournit des mises à jour.  
 
-Pour faire remonter un cas, procédez comme suit : 
+Pour transférer un cas à un niveau supérieur, procédez comme suit : 
 1. Contactez le support IBM Cloud par téléphone ou via une discussion en ligne :
     * Par téléphone, composez le numéro suivant : +1-866-403-7638.
     * Par discussion en ligne sur le [Centre de support![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.

@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-04-22"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ Puoi verificare la manutenzione in programma utilizzando la pagina Dashboard del
 {: #escalate_support}
 {: faq}
 
-In quanto cliente IBM Cloud, puoi effettuare l'escalation di casi di supporto per porre in rilievo problemi critici se non ci si sta occupando di un caso in modo appropriato. Quando viene effettuata l'escalation di un caso, il team di supporto IBM Cloud esamina le informazioni e risponde con gli aggiornamenti appropriati. 
+In quanto cliente IBM Cloud, puoi effettuare l'escalation di casi di supporto per porre in rilievo problemi critici. Quando viene effettuata l'escalation di un caso, il team di supporto IBM Cloud esamina le informazioni e risponde con gli aggiornamenti. 
 
 Per effettuare l'escalation di un caso, completa la seguente procedura: 
 1. Contatta il supporto IBM Cloud telefonicamente o via chat:

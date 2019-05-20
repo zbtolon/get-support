@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -80,7 +80,7 @@ La plupart des systèmes d'exploitation fournissent des outils que vous pouvez u
 ## Comment comparer anciens et nouveaux processeurs ?
 {: #old-new}
 
-Pour comparer les spécifications des anciens et nouveaux processeurs Intel, accédez à [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe"). Si vous connaissez le type de processeur, vous pouvez naviguer dans les menus. Sinon, vous pouvez utiliser l'option de recherche pour identifier les spécifications des deux processeurs. Les processeurs les plus récents ont tendance à comporter plus de coeurs et à opérer à une cadence d'horloge plus faible que les variantes plus anciennes. Si votre charge de travail est tributaire du processeur (ses performances sont limitées par la vitesse du processeur), nous vous recommandons de choisir un processeur avec moins de coeurs et une vitesse supérieure.  Si vous exécutez plusieurs charges de travail qui ne sont pas particulièrement limitées par la vitesse du processeur, la sélection d'un processeur avec plus de coeurs et une cadence d'horloge identique, ou plus faible, peut constituer une meilleure solution.
+Pour comparer les spécifications des anciens et nouveaux processeurs Intel, accédez à [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe"). Si vous connaissez le type de processeur, vous pouvez naviguer dans les menus. Sinon, vous pouvez utiliser l'option de recherche pour identifier les spécifications des deux processeurs. Les processeurs les plus récents ont tendance à comporter plus de coeurs et à opérer à une cadence d'horloge plus faible que les variantes plus anciennes. Si votre charge de travail est tributaire du processeur (ses performances sont limitées par la vitesse du processeur), nous vous recommandons de choisir un processeur avec moins de coeurs et une vitesse supérieure.  Si vous exécutez plusieurs charges de travail qui ne sont pas limitées par la vitesse du processeur, la sélection d'un processeur avec plus de coeurs et une cadence d'horloge identique, ou plus faible, peut constituer une meilleure solution.
 
 ## Comment sélectionner mon nouveau système d'exploitation ?
 {: #operating-system}
@@ -102,7 +102,7 @@ Vous recevez un package de bande passante actuel étroitement associé à celui 
 Une fois établie la connectivité entre l'ancien et le nouveau serveur, vous devez prendre en compte la manière dont vous transférez des données entre eux.  En supposant que vous disposez d'un stockage suffisant sur le nouveau serveur pour gérer le volume de données, une copie directe serveur à serveur est la méthode la plus simple pour ce faire.  Il existe de nombreux outils disponibles que vous pouvez utiliser.  
 
 * scp est un choix idoine pour copier en sécurité un fichier de la source à la destination.  Il effectue une copie linéaire ordinaire. 
-* Si vous avez besoin de copier un grand nombre de fichiers, la resynchronisation sous ssh est bien plus rapide que sous scp. rsync copie également les structures de répertoires et préserve les autorisations d'accès aux fichiers.
+* Si vous avez besoin de copier plusieurs fichiers, la resynchronisation sous ssh est bien plus rapide que sous scp. rsync copie également les structures de répertoires et préserve les autorisations d'accès aux fichiers.
 
 En général, vous de devriez copier que des applications et des données d'application entre les systèmes. La copie d'anciennes versions des fichiers de systèmes d'exploitation vers une nouvelle version peut provoquer des problèmes.
 
@@ -116,7 +116,7 @@ Votre réseau doit probablement être modifié pour opérer avec les nouveaux se
 ## Que dois-je faire si je n'ai pas les compétences nécessaires pour migrer ?
 {: #migrate-skills}
 
-La migration d'application peut être une tâche complexe. Ajoutez à ceci les compétences requises pour l'opération. Si des modifications du code de l'application sont requises, vérifiez que vous disposez des compétences de programmation nécessaires. C'est notamment le cas pour les systèmes plus anciens où les compétences se font rares ou qui peuvent être caractérisés par une absence de la documentation ou de connaissance du système lui-même. Si des efforts conséquents sont requis et que le système est particulièrement crucial pour l'activité, envisagez d'investir dans des services payants ou dans d'autres services de migration pour vous épauler.
+La migration d'application peut être une tâche complexe. Ajoutez à ceci les compétences requises pour l'opération. Si des modifications du code de l'application sont requises, vérifiez que vous disposez des compétences de programmation nécessaires. C'est le cas pour les systèmes plus anciens où les compétences se font rares ou qui peuvent être caractérisés par une absence de la documentation ou de connaissance du système lui-même. Si des efforts conséquents sont requis et que le système est crucial pour l'activité, envisagez d'investir dans des services payants ou dans d'autres services de migration pour vous épauler.
 
 ## Comment obtenir une aide générale pour la migration ?
 {: #gen-migration}

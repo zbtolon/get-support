@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ La liste suivante comprend des exemples d'options de recherche d'URL :
 | ----- | ----- | ----- | ----- |
 | `?type` | Filtre qui s'applique uniquement à l'onglet Statut. Utilisez la requête `?type` pour filtrer l'onglet Statut par incident ou par maintenance. | `=incident`, `=maintenance` |
 | `?region` | Filtrer la page par emplacement géographique.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | Filtrer la page par composants {{site.data.keyword.Bluemix_notm}}. Par exemple, vous pouvez filtrer selon le service qui vous intéresse. | S'applique à la plupart des ID de catalogue globaux ; par exemple, `?component=iotf-service` filtre la page et affiche uniquement les événements qui affectent Internet of Things Platform  |
+| `?component` | Filtrer la page par composants {{site.data.keyword.Bluemix_notm}}. Par exemple, vous pouvez filtrer selon le service qui vous intéresse. | S'applique à la plupart des ID de catalogue globaux ; par exemple, `?component=iotf-service` filtre la page et affiche les événements qui affectent Internet of Things Platform  |
 {: caption="Tableau 1. Filtres de requête d'URL" caption-side="top"}
 
 Vous pouvez toujours utiliser les filtres **Filtrer par**, puis copier ou marquer la requête URL générée. Les filtres sont affichés dans votre URL et peuvent vous aider à créer des requêtes ultérieures.

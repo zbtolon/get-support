@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -1204,7 +1204,7 @@ subcollection: get-support
 转至 [{{site.data.keyword.Bluemix_notm}} 支持 ![外部链接图标](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2074E
-**消息**：不支持专用密钥。应该使用未加密的 RSA 密钥。
+**消息**：不支持专用密钥。应该使用解密的 RSA 密钥。
 
 ## BXNUI2075E
 **消息**：不支持公用密钥。支持的算法包括：RSA。

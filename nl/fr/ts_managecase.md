@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -59,7 +59,7 @@ Si vous êtes le propriétaire du compte ou un administrateur du Centre de suppo
 ## Pourquoi ne puis-je pas voir tous les cas du compte ?
 {: #ts_viewcasedetails}
 
-Vous ne pouvez pas afficher tous les cas du compte, car vous n'avez pas accès à tous les utilisateurs du compte. 
+Vous ne pouvez pas afficher tous les cas du compte car vous n'avez pas accès à tous les utilisateurs du compte.
 {:shortdesc}
 
 Lorsque vous tentez d'afficher les cas de support associés au compte, vous ne pouvez pas voir tous les cas ouverts. 

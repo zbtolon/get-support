@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -50,7 +50,7 @@ subcollection: get-support
 ## 预订 RSS 订阅源
 {: #subscribing-rss-feed}
 
-通过预订“状态”页面的 RSS 订阅源来接收任何通知提醒。通过此方法，您可以获取更新，而不必定期查看“状态”页面。
+通过预订“状态”页面的 RSS 订阅源来接收任何通知提醒。通过此方法，您可以获取更新，而不必定期转至“状态”页面。
 
 要进行预订，请执行以下步骤：
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -41,7 +41,7 @@ Pour rationaliser le processus d'affectation d'accès, vous pouvez tirer parti d
 3. Cliquez sur **Règles d'accès** > **Affecter un accès**.
 4. Sélectionnez **Affecter l'accès aux services de gestion des comptes**.
 5. Sélectionnez **Centre de support**.
-6. Sélectionnez le rôle **Afficheur**, **Editeur** ou **Administrateur** en fonction du type d'accès que vous souhaitez accorder à ce groupe puis cliquez sur **Affecter**.
+6. Sélectionnez le rôle **Afficheur**, **Editeur** ou **Administrateur** en fonction du type d'accès que vous souhaitez accorder à ce groupe, puis cliquez sur **Affecter**.
 
 Si vous souhaitez que vos utilisateurs puissent afficher tous les autres utilisateurs du compte, vous pouvez également ajouter le rôle d'afficheur de gestion d'utilisateur à votre groupe d'accès :
 
@@ -75,5 +75,5 @@ L'utilisation de groupes d'accès pour l'affectation de services de gestion d'ut
 2. Cliquez sur **Règles d'accès** > **Affecter un accès**.
 3. Sélectionnez **Affecter l'accès aux services de gestion des comptes**.
 4. Sélectionnez **Centre de support**.
-5. Sélectionnez le rôle **Afficheur**, **Editeur** ou **Administrateur** en fonction du type d'accès que vous souhaitez accorder à ce groupe puis cliquez sur **Affecter**.
+5. Sélectionnez le rôle **Afficheur**, **Editeur** ou **Administrateur** en fonction du type d'accès que vous souhaitez accorder à ce groupe, puis cliquez sur **Affecter**.
 6. Si vous souhaitez qu'un utilisateur puisse afficher tous les autres utilisateurs du compte, vous pouvez également lui affecter le rôle d'afficheur de gestion d'utilisateur. 

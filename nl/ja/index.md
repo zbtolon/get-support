@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-04-16"
+lastupdated: "2019-05-13"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -35,7 +35,7 @@ subcollection: get-support
 | 追加サポート | 適用外 | 適用外 | テクニカル・アカウント・マネージャー割り当て <br/> <br/> 毎四半期のビジネス・レビュー <br/><br/> 専門家へのアクセス <br/> <br/> Cloud Insights への招待 |
 {:caption="表 1. サポート・プラン" caption-side="top"}
 
-更新された SLO のプレミアム・サポートの初回応答時間の目標は、2018 年 10 月 1 より有効です。更新は、2018 年 10 月 1 日以降に作成されたサポート Case に適用されます。2018 年 10 月 1 日より前のプレミアム・サポートの初回応答時間の目標は、重大度 1 では 1 時間以内、重大度 2 では 90 分以内です。
+更新された SLO のプレミアム・サポートの初回応答時間の目標は、2018 年 10 月 1 日より有効です。更新は、2018 年 10 月 1 日以降に作成されたサポート Case に適用されます。2018 年 10 月 1 日より前のプレミアム・サポートの初回応答時間の目標は、重大度 1 では 1 時間以内、重大度 2 では 90 分以内です。
 {: note}
 
 Case 重大度がどのように割り当てられるのかについて詳しくは、[Case 重大度と応答時間](/docs/get-support?topic=get-support-support-case-severity#support-case-severity)を参照してください。

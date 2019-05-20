@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -239,7 +239,7 @@ Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli st
 Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/status?selected=status){: new_window} per controllare se un servizio o un componente ha qualche problema. Se il problema persiste, contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0052E
-**Messaggio**: Gli utenti per l'organizzaizone '{0}' non sono stati aggiornati perché si è verificato un problema di comunicazione con Cloud Foundry.
+**Messaggio**: Gli utenti per l'organizzazione '{0}' non sono stati aggiornati perché si è verificato un problema di comunicazione con Cloud Foundry.
 
 Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/status?selected=status){: new_window} per controllare se un servizio o un componente ha qualche problema. Se il problema persiste, contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -738,7 +738,7 @@ Prova a selezionare un'altra organizzazione o a creare uno spazio oppure richied
 
 ## BXNUI0515E
 
-**Messaggio**: Gli spazi nell'organizzazione non sono stati recuperati. Si è verificato un problema di rete oppure la tua organizzazione corrente non ha alcuno spazio associato.
+**Messaggio**: Gli spazi nell'organizzazione non sono stati recuperati. Si è verificato un problema con la connessione di rete o la tua organizzazione corrente non ha uno spazio associato ad essa.
 
 Riprova più tardi. Se vedi di nuovo questo messaggio, vai alla [pagina sugli stati di {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://cloud.ibm.com/status?selected=status){: new_window} per controllare se un servizio o un componente ha qualche problema. Oppure, per istruzioni relative alla correzione di questo problema, vedi l'argomento per la risoluzione dei problemi [Impossibile richiamare gli spazi in un'organizzazione](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
@@ -1197,7 +1197,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 ## BXNUI2072E
 **Messaggio**: Il certificato non è stato caricato.
 
-Il nome dominio {0} specificato nel certificato non corrisponde al nome del tuo dominio personalizzato.
+Il nome dominio {0} specificato nel certificato non corrisponde al nome del tuo dominio personalizzato. 
 
 Correggi il nome dominio nel certificato e riprova.
 
@@ -1207,7 +1207,7 @@ Correggi il nome dominio nel certificato e riprova.
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
-**Messaggio**: La chiave privata non è supportata. È prevista una chiave RSA non crittografata.
+**Messaggio**: La chiave privata non è supportata. È prevista una chiave RSA decrittografata.
 
 ## BXNUI2075E
 **Messaggio**: La chiave pubblica non è supportata. Gli algoritmi supportati includono: RSA.
@@ -1227,7 +1227,7 @@ Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](.
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2080E
-**Messaggio**: L'operazione è andata in timeout mentre stavano venendo modificati i certificati e le chiavi.
+**Messaggio**: L'operazione che è andata in timeout mentre stavano venendo modificati i certificati e le chiavi.
 
 Contatta il [Supporto {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 

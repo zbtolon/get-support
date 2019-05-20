@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ subcollection: get-support
 | ----- | ----- | ----- | ----- |
 | `?type` |僅適用於「狀態」標籤的過濾器。請使用 `?type` 查詢，依突發事件或維護來過濾「狀態」標籤。| `=incident`、`=maintenance` |
 | `?region` |依地理位置過濾頁面。| `=na`、`=eu`、`=sa`、`=ap` |
-| `?component` |依 {{site.data.keyword.Bluemix_notm}} 元件過濾頁面。例如，您可能依您感興趣的服務來進行過濾。|適用於大部分全球型錄 ID；例如，`?component=iotf-service` 將會過濾頁面，且只會顯示影響 Internet of Things Platform 的事件|
+| `?component` |依 {{site.data.keyword.Bluemix_notm}} 元件過濾頁面。例如，您可能依您感興趣的服務來進行過濾。|適用於大部分全球型錄 ID；例如，`?component=iotf-service` 會過濾頁面，並顯示影響 Internet of Things Platform 的事件 |
 {: caption="表 1. URL 查詢過濾器" caption-side="top"}
 
 您隨時都可以使用**過濾依據**過濾器，然後將產生的 URL 查詢複製或設為書籤。過濾器會顯示在 URL 中，並且可協助您建置未來的查詢。

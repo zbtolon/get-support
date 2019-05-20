@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -41,7 +41,7 @@ Per semplificare il processo di assegnazione dell'accesso, puoi avvalerti dell'a
 3. Fai clic su **Politiche di accesso** > **Assegna accesso**.
 4. Seleziona **Assegna l'accesso ai servizi di gestione account**.
 5. Seleziona **Centro di supporto**.
-6. Seleziona il ruolo **Visualizzatore**, **Editor** o **Amministratore**, a seconda del tipo di accesso che desideri abbia questo gruppo, e fai clic su **Assegna**.
+6. Seleziona il ruolo **Visualizzatore**, **Editor** o **Amministratore** a seconda del tipo di accesso che vuoi abbia questo gruppo e fai clic su **Assegna**.
 
 Se desideri che i tuoi utenti possano visualizzare tutti gli altri utenti nell'account, puoi anche aggiungere il ruolo visualizzatore di gestione utenti al tuo gruppo di accesso:
 
@@ -62,7 +62,7 @@ La seguente tabella elenca le autorizzazioni incluse in ciascun ruolo per la ges
 ## Aggiunta di utenti al tuo gruppo di accesso di gestione dei casi
 {: #add-user-access-group} 
 
-Ora che hai creato il gruppo di accesso, aggiungi gli utenti:
+Ora che hai creato il gruppo di accesso, aggiungi gli utenti: 
 
 1. Dalla scheda **Utenti** per il tuo gruppo di accesso, fai clic su **Aggiungi utenti**.
 2. Seleziona l'utente che desideri aggiungere al gruppo e fai clic su **Aggiungi al gruppo**.
@@ -75,5 +75,5 @@ Utilizzare i gruppi di accesso per assegnare i servizi di gestione utenti e del 
 2. Fai clic su **Politiche di accesso** > **Assegna accesso**.
 3. Seleziona **Assegna l'accesso ai servizi di gestione account**.
 4. Seleziona **Centro di supporto**.
-5. Seleziona il ruolo **Visualizzatore**, **Editor** o **Amministratore**, a seconda del tipo di accesso che desideri abbia questo gruppo, e fai clic su **Assegna**.
+5. Seleziona il ruolo **Visualizzatore**, **Editor** o **Amministratore** a seconda del tipo di accesso che vuoi abbia questo gruppo e fai clic su **Assegna**.
 6. Se desideri che un utente possa visualizzare tutti gli altri utenti nell'account, puoi anche assegnargli il ruolo visualizzatore di gestione utenti. 

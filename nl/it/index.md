@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-04-16"
+lastupdated: "2019-05-13"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -20,16 +20,16 @@ subcollection: get-support
 {:note: .note}
 {:new_window: target="_blank"}
 
-# Piani di supporto di base, avanzato e premium
+# Piani di supporto di base, avanzati e premium 
 {: #support-plans}
 
-Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyword.Bluemix}} e Stack Overflow, a cui puoi accedere dal Centro di supporto. Il livello di supporto che selezioni determina la severità che puoi assegnare ai casi di supporto e il tuo livello di accesso agli strumenti disponibili nel Centro di supporto. Scegli un piano di supporto di base, avanzato o premium per personalizzare la tua esperienza di supporto {{site.data.keyword.Bluemix}} per le tue esigenze di business.
+Ti viene fornito supporto tecnico gratuito tramite la community {{site.data.keyword.Bluemix}} e Stack Overflow, a cui puoi accedere dal Centro di supporto. Il livello di supporto che selezioni determina la severità che puoi assegnare ai casi di supporto e il tuo livello di accesso agli strumenti disponibili nel Centro di supporto. Scegli un piano di supporto di base, avanzato o premium per personalizzare la tua esperienza di supporto {{site.data.keyword.Bluemix}} per i tuoi bisogni di business.
 {:shortdesc}
 
 |  | Supporto di base | Supporto avanzato | Supporto premium |
 |-------------|-------------|-------------|-------------|
 | Descrizione |	Protezione aziendale di base inclusa con il tuo account Sottoscrizione o Pagamento a consumo {{site.data.keyword.Bluemix_notm}} | Gestione dei casi prioritaria ed esperienza di supporto allineata alle tue esigenze di business | Coinvolgimento del cliente allineato con i risultati aziendali per accelerare il time-to-value |
-| Disponibilità | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi e telefono | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. |
+| Disponibilità | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi e telefono. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. | Accesso 24 ore su 24 e 7 giorni su 7 al team di supporto tecnico {{site.data.keyword.Bluemix_notm}} con casi, telefono e chat. |
 | Obiettivi tempo di risposta iniziali | Non applicabile | Severità 1: meno di un'ora <br/> Severità 2: meno di due ore <br/> Severità 3: meno di quattro ore <br/> Severità 4: meno di otto ore | Severità 1: meno di 15 minuti <br/> Severità 2: meno di 1 ora <br/> Severità 3: meno di due ore <br/> Severità 4: meno di quattro ore |
 | Severità caso | Non applicabile | Classificazione della severità del caso disponibile | Classificazione della severità del caso disponibile |
 | Supporto aggiuntivo | Non applicabile | Non applicabile | Account manager tecnico assegnato <br/> <br/> Relazioni di business trimestrali <br/><br/> Accesso ad esperti <br/> <br/> Invito a Cloud Insights |

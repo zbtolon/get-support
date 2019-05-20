@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -51,7 +51,7 @@ subcollection: get-support
 ## 訂閱 RSS 資訊來源
 {: #subscribing-rss-feed}
 
-您會透過訂閱「狀態」頁面的 RSS 資訊來源，來收到任何通知的警示。這種方式讓您不需要定期查閱「狀態」頁面即可取得更新。
+您會透過訂閱「狀態」頁面的 RSS 資訊來源，來收到任何通知的警示。這種方式讓您不需要定期移至「狀態」頁面即可取得更新。
 
 若要訂閱，請遵循下列步驟：
 

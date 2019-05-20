@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -1207,7 +1207,7 @@ subcollection: get-support
 請前往 [{{site.data.keyword.Bluemix_notm}} 支援中心 ![外部鏈結圖示](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}。
 
 ## BXNUI2074E
-**訊息**：不支援私密金鑰。預期要有未加密的 RSA 金鑰。
+**訊息**：不支援私密金鑰。預期要有解密的 RSA 金鑰。
 
 ## BXNUI2075E
 **訊息**：不支援公開金鑰。支援的演算法包括：RSA。

@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ subcollection: get-support
 | ----- | ----- | ----- | ----- |
 | `?type` | 「状況」タブにのみ適用されるフィルター。 インシデントまたは保守によって「状況」タブをフィルタリングするには、`? type` 照会を使用します。 | `=incident`、`=maintenance` |
 | `?region` | 地理的位置でページをフィルタリングします。  | `=na`、`=eu`、`=sa`、`=ap` |
-| `?component` | {{site.data.keyword.Bluemix_notm}} コンポーネントでページをフィルタリングします。 例えば、関心のあるサービスでフィルタリングできます。 | ほとんどのグローバル・カタログ ID に適用されます。例えば、`?component=iotf-service` は、ページをフィルタリングして、IoT プラットフォームに影響を与えるイベントのみを表示します。  |
+| `?component` | {{site.data.keyword.Bluemix_notm}} コンポーネントでページをフィルタリングします。 例えば、関心のあるサービスでフィルタリングできます。 | ほとんどのグローバル・カタログ ID に適用されます。例えば、`?component=iotf-service` は、ページをフィルタリングして、IoT プラットフォームに影響を与えるイベントを表示します。 |
 {: caption="表 1. URL 照会フィルター" caption-side="top"}
 
 **「フィルター基準 (Filter by)」**フィルターはいつでも使用でき、生成された URL 照会をコピーしたりブックマークしたりできます。 フィルターは URL に表示され、今後の照会の作成に役立ちます。

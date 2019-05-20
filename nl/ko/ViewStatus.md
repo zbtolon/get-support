@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -50,7 +50,7 @@ subcollection: get-support
 ## RSS 피드 구독
 {: #subscribing-rss-feed}
 
-상태 페이지에 대한 RSS 피드를 구독하여 알림 경보를 받습니다. 이 접근 방법은 상태 페이지를 정기적으로 살펴보지 않고도 업데이트를 받을 수 있는 방법을 제공합니다.
+상태 페이지에 대한 RSS 피드를 구독하여 알림 경보를 받습니다. 이 접근 방법은 정기적으로 상태 페이지로 이동하지 않고도 업데이트를 받을 수 있는 방법을 제공합니다. 
 
 구독하려면 다음 단계를 따르십시오.
 

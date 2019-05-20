@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -43,7 +43,7 @@ subcollection: get-support
 | ----- | ----- | ----- | ----- |
 | `?type` |仅适用于“状态”选项卡的过滤器。使用 `?type` 查询可按事件或维护过滤“状态”选项卡。| `=incident`、`=maintenance` |
 | `?region` |按地理位置过滤页面。| `=na`、`=eu`、`=sa`、`=ap` |
-| `?component` |按 {{site.data.keyword.Bluemix_notm}} 组件过滤页面。例如，您可以按感兴趣的服务进行过滤。|适用于大多数全局目录标识；例如，`?component=iotf-service` 将过滤页面，仅显示影响物联网平台的事件|
+| `?component` |按 {{site.data.keyword.Bluemix_notm}} 组件过滤页面。例如，您可以按感兴趣的服务进行过滤。| 适用于大多数全局目录标识；例如，`?component=iotf-service` 过滤页面后会显示影响物联网平台的事件|
 {: caption="表 1. URL 查询过滤器" caption-side="top"}
 
 您始终可以使用**过滤条件**过滤器，然后复制生成的 URL 查询或将其设为书签。这些过滤器将显示在 URL 中，并且可帮助您构建未来查询。

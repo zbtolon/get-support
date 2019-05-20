@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ subcollection: get-support
 | ----- | ----- | ----- | ----- |
 | `?type` | 상태 탭에만 적용되는 필터. 인시던트 또는 유지보수를 기준으로 상태 탭을 필터링하려면 `?type` 조회를 사용하십시오. | `=incident`, `=maintenance` |
 | `?region` | 지리적 위치를 기준으로 페이지를 필터링하십시오.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | {{site.data.keyword.Bluemix_notm}} 컴포넌트를 기준으로 페이지를 필터링하십시오. 예를 들어, 관심 있는 서비스를 기준으로 필터링할 수 있습니다. | 대부분의 글로벌 카탈로그 ID에 적용됩니다. 예를 들어, `?component=iotf-service`는 페이지를 필터링하고 IoT(Internet of Things) 플랫폼에 영향을 주는 이벤트만 표시합니다.  |
+| `?component` | {{site.data.keyword.Bluemix_notm}} 컴포넌트를 기준으로 페이지를 필터링하십시오. 예를 들어, 관심 있는 서비스를 기준으로 필터링할 수 있습니다. | 대부분의 글로벌 카탈로그 ID에 적용됩니다. 예를 들어, `?component=iotf-service`는 페이지를 필터링하고 IoT(Internet of Things) 플랫폼에 영향을 주는 이벤트를 표시합니다. |
 {: caption="표 1. URL 조회 필터" caption-side="top"}
 
 항상 **필터링 기준** 필터를 사용한 다음 생성된 URL 조회를 복사하거나 책갈피로 표시할 수 있습니다. 필터는 URL에 표시되며 향후 조회를 빌드하는 데 도움이 될 수 있습니다.

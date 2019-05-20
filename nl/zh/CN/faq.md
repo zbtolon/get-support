@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-04-22"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ subcollection: get-support
 {: #escalate_support}
 {: faq}
 
-如果您是 IBM Cloud 客户，那么可以在问题未得到妥善处理时，通过上报支持案例来报告严重问题。上报后，IBM Cloud 支持团队会查看案例信息，并以适当的更新进行回复。 
+如果您是 IBM Cloud 客户，那么可以上报支持案例来报告严重问题。上报案例后，IBM Cloud 支持团队会复查这些信息并使用更新来做出响应。 
 
 要上报支持案例，请完成以下步骤： 
 1. 通过电话或交谈，与 IBM Cloud 支持人员联系：

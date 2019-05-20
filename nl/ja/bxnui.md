@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -1194,7 +1194,7 @@ subcollection: get-support
 ## BXNUI2072E
 **メッセージ**: 証明書はアップロードされませんでした。
 
-証明書で指定されたドメイン・ネーム {0} は、カスタム・ドメイン・ネームと一致しません。
+証明書に指定されているドメイン・ネーム {0} が、カスタム・ドメイン・ネームと一致しません。
 
 証明書内のドメイン・ネームを修正し、再試行してください。
 
@@ -1204,7 +1204,7 @@ subcollection: get-support
 [{{site.data.keyword.Bluemix_notm}} サポート ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window} にアクセスしてください。
 
 ## BXNUI2074E
-**メッセージ**: 秘密鍵はサポートされていません。 非暗号化 RSA 鍵が予期されています。
+**メッセージ**: 秘密鍵はサポートされていません。 復号化 RSA 鍵が必要です。
 
 ## BXNUI2075E
 **メッセージ**: 公開鍵はサポートされていません。 サポートされるアルゴリズム: RSA。

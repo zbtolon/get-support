@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-04-22"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ subcollection: get-support
 {: #escalate_support}
 {: faq}
 
-身為 IBM Cloud 客戶，如果案例未適當地被處理，您可以呈報支援案例，以突顯重要的問題。呈報案例之後，IBM Cloud 支援團隊會檢閱資訊，然後以適當的更新作為回應。 
+身為 IBM Cloud 客戶，您可以呈報支援案例，以突顯重要的問題。呈報案例之後，IBM Cloud 支援團隊會檢閱資訊，然後以更新作為回應。 
 
 若要呈報支援案例，請完成下列步驟： 
 1. 以電話或會談與 IBM Cloud 支援中心聯絡：

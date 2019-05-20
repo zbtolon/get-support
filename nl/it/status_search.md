@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ Il seguente elenco include esempi di opzioni di ricerca URL:
 | ----- | ----- | ----- | ----- |
 | `?type` | Un filtro che si applica solo alla scheda Stato. Utilizza la query `?type` per filtrare la pagina Stato per incidenti o manutenzione. | `=incident`, `=maintenance` |
 | `?region` | Filtra la pagina per ubicazione geografica.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | Filtra la pagina per componenti {{site.data.keyword.Bluemix_notm}}. Ad esempio, puoi filtrare in base al servizio a cui sei interessato. | Si applica alla maggior parte degli ID di catalogo globale; ad esempio, `?component=iotf-service` filtrerà la pagina e mostrerà solo gli eventi che interessano la piattaforma Internet of Things  |
+| `?component` | Filtra la pagina per componenti {{site.data.keyword.Bluemix_notm}}. Ad esempio, puoi filtrare in base al servizio a cui sei interessato. |Si applica alla maggior parte degli ID di catalogo globale; ad esempio, `?component=iotf-service` filtra la pagina e mostra gli eventi che interessano la piattaforma Internet of Things |
 {: caption="Tabella 1. Filtri di query URL" caption-side="top"}
 
 Puoi sempre utilizzare i filtri **Filtra per** e quindi copiare o aggiungere ai preferiti la query URL che viene generata. I filtri sono visualizzati nel tuo URL e possono aiutarti a creare query future.

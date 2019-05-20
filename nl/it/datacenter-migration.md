@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -32,7 +32,7 @@ IBM sta ritirando il supporto per i seguenti data center negli Stati Uniti:
 
 Per continuare a offrirti il servizio, l'hardware e la connettività migliori, valutiamo continuamente tutti i nostri siti per garantire che soddisfino gli standard di rete, elettrici e di infrastruttura. Pur essendo adeguati, questi siti non soddisfano più i nostri standard attuali.
 
-## Devo aver eseguito completamente la migrazione entro la data elencata?
+## Devo eseguire la migrazione completa entro la data elencata?
 {: #data-list}
 
 Sì. Per garantire che tu non subisca alcuna interruzione nel servizio, stiamo tentando di consentire quanto più tempo di esecuzione possibile per fare in modo che la transizione avvenga praticamente senza soluzione di continuità. Abbiamo comunicato questo movimento del sito nel maggio 2018.
@@ -80,7 +80,7 @@ La maggior parte dei sistemi operativi fornisce strumenti di cui puoi fare uso p
 ## Come confronto i vecchi processori con quelli nuovi?
 {: #old-new}
 
-Per confrontare le specifiche di processori Intel vecchi e nuovi, vai a [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno"). Se conosci il tipo di processore, puoi spostarti nei menu. In alternativa, puoi utilizzare l'opzione di ricerca per individuare le specifiche dei due processori. I processori più recenti tendono ad avere più core di processore e di norma vengono eseguiti a velocità di clock più lente rispetto alle varianti meno recenti. Se hai un carico di lavoro associato al processore (le sue prestazioni sono limitate dalla velocità del processore), consigliamo di scegliere un processore con un numero inferiore di core e una velocità di clock maggiore.  Se esegui molti carichi di lavoro che non sono particolarmente vincolati dalla velocità del processore, scegliere un processore con più core e una velocità di clock simile o inferiore potrebbe essere una scelta migliore.
+Per confrontare le specifiche di processori Intel vecchi e nuovi, vai a [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno"). Se conosci il tipo di processore, puoi spostarti nei menu. In alternativa, puoi utilizzare l'opzione di ricerca per individuare le specifiche dei due processori. I processori più recenti tendono ad avere più core di processore e di norma vengono eseguiti a velocità di clock più lente rispetto alle varianti meno recenti. Se hai un carico di lavoro associato al processore (le sue prestazioni sono limitate dalla velocità del processore), consigliamo di scegliere un processore con un numero inferiore di core e una velocità di clock maggiore.  Se esegui molti carichi di lavoro che non vincolati dalla velocità del processore, scegliere un processore con più core e una velocità di clock simile o inferiore potrebbe essere una scelta migliore.
 
 ## Come scelgo il mio nuovo sistema operativo?
 {: #operating-system}
@@ -102,7 +102,7 @@ Ricevi un pacchetto di larghezza di banda attuale che è correlato al massimo al
 Dopo aver stabilito la connettività tra il server vecchio e quello nuovo, devi considerare come spostare i dati tra di essi.  Presumendo che disponi di archiviazione a sufficienza nel nuovo server per contenere il volume di dati, una copia diretta da server a server è il modo più semplice per ottenere questo risultato.  Ci sono molti strumenti disponibili che puoi utilizzare.  
 
 * scp è una buona scelta per copiare in modo sicuro un file da un'origine a una destinazione.  Esegue una semplice copia lineare. 
-* Se devi copiare un gran numero di file, rsync su ssh è molto più rapido di scp; rsync copia anche le strutture di directory e conserva le autorizzazioni file.
+* Se devi copiare più file, rsync su ssh è molto più rapido di scp; rsync copia anche le strutture di directory e conserva le autorizzazioni file. 
 
 In generale, devi copiare solo le applicazioni e i dati applicativi tra i sistemi. La copia di versioni meno recenti di file del sistema operativo a una versione più recente può causare dei problemi.
 
@@ -116,7 +116,7 @@ Molto probabilmente la tua rete deve essere modificata per funzionare con i nuov
 ## Cosa devo fare se non ho le competenze per eseguire la migrazione?
 {: #migrate-skills}
 
-La migrazione di applicazioni può essere un compito complesso. Un fattore non secondario sono le competenze necessarie per eseguire tale operazione. Se sono necessarie modifiche al codice dell'applicazione, assicurati di avere le competenze di programmazione richieste. Ciò vale in particolare per i sistemi operativi più vecchi in cui le competenze potrebbero essere scarse o c'è carenza di documentazione o conoscenza del sistema stesso. Se c'è uno sforzo significativo e il sistema è particolarmente critico per il business, considera di investire in servizi a pagamento o altri servizi di migrazione per farti aiutare.
+La migrazione di applicazioni può essere un compito complesso. Un fattore non secondario sono le competenze necessarie per eseguire tale operazione. Se sono necessarie modifiche al codice dell'applicazione, assicurati di avere le competenze di programmazione richieste. Questo è il caso di sistemi meno recenti, dove le competenze potrebbero essere limitate o dove c'è una carenza di documentazione o conoscenza relative al sistema stesso. Se lo sforzo attuato è significativo e il sistema è importante per la tua attività aziendale, considera di investire in servizi a pagamento o altri servizi di migrazione per farti aiutare. 
 
 ## Come ottengo un aiuto generico con la migrazione?
 {: #gen-migration}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -60,13 +60,13 @@ subcollection: get-support
 ## 계정의 모든 케이스를 볼 수 없는 이유
 {: #ts_viewcasedetails}
 
-계정의 모든 사용자를 볼 수 있는 액세스가 없으므로 계정의 모든 케이스를 볼 수 없습니다. 
+계정의 모든 사용자를 볼 수 있는 액세스 권한이 없으므로 계정의 모든 케이스를 볼 수 없습니다.
 {:shortdesc}
 
 계정과 연관된 지원 케이스를 보려는 경우 모든 오픈 케이스를 볼 수는 없습니다. 
 {: tsSymptoms}
 
-계정 소유자가 [사용자 목록 가시성 설정](/docs/iam?topic=iam-userlistview#userlistview)을 제한됨으로 설정했습니다. 설정을 제한됨으로 설정했고 계정의 사용자를 보기 위한 추가 액세스 정책이 없는 경우 계정의 모든 케이스를 보는 데 필요한 액세스가 없습니다. 계정으로 초대한 사용자, Cloud Foundry 조직 멤버십을 공유할 사용자 또는 클래식 인프라 사용자 계층에 있는 사용자만 볼 수 있습니다. 
+계정 소유자가 [사용자 목록 가시성 설정](/docs/iam?topic=iam-userlistview#userlistview)을 제한됨으로 설정했습니다. 설정이 제한됨으로 설정되어 있고 계정의 사용자를 보기 위한 추가 액세스 정책이 없는 경우 계정의 모든 케이스를 보는 데 필요한 액세스 권한이 없습니다. 계정으로 초대한 사용자, Cloud Foundry 조직 멤버십을 공유할 사용자 또는 클래식 인프라 사용자 계층에 있는 사용자만 볼 수 있습니다. 
 {: tsCauses}
 
 지원 센터 계정 관리 서비스 액세스 정책 외에 사용자 관리 계정 관리 서비스에 대한 뷰어 이상의 역할을 포함한 IAM 정책이 지정되어야 합니다. 현재 액세스를 보려면 **관리** &gt; **액세스(IAM)**로 이동하고 **사용자** 페이지에서 이름을 선택하십시오. **액세스 정책** 탭을 클릭하고 지정된 정책을 검토하십시오. 

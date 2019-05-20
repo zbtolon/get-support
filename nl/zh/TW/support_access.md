@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -62,7 +62,7 @@ subcollection: get-support
 ## 將使用者新增至案例管理存取群組
 {: #add-user-access-group} 
 
-既然您已建立存取群組，現在就可以新增使用者：
+既然您有已建立的存取群組，就可以新增使用者：
 
 1. 從存取群組的 **使用者**標籤中，按一下**新增使用者**。
 2. 選取您要新增至群組的使用者，然後按一下**新增至群組**。

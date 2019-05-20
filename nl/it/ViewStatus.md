@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -34,7 +34,7 @@ Puoi trovare la pagina Stato accedendo alla console {{site.data.keyword.Bluemix_
 
   Fai clic su una manutenzione pianificata per visualizzare ulteriori dettagli, come orari di inizio e fine e una descrizione dell'impatto. Puoi filtrare l'elenco selezionando ubicazioni e componenti specifici o utilizzando ricerche per parole chiave.
 
-* Fai clic su **Bollettini di sicurezza** per visualizzare un elenco di bollettini sulla sicurezza che potrebbero interessare vari servizi, infrastrutture o la piattaforma {{site.data.keyword.Bluemix_notm}}.
+* Fai clic su **Bollettini di sicurezza** per visualizzare un elenco di bollettini sulla sicurezza che potrebbero interessare vari servizi, infrastrutture o la piattaforma {{site.data.keyword.Bluemix_notm}}. 
 
   Puoi filtrare l'elenco selezionando ubicazioni e componenti specifici o utilizzando ricerche per parole chiave.
 
@@ -50,14 +50,14 @@ Per ulteriori informazioni sul tipo di notifiche email che puoi ricevere in base
 ## Sottoscrizione a un feed RSS
 {: #subscribing-rss-feed}
 
-Ricevi gli avvisi di eventuali notifiche sottoscrivendo il feed RSS per la pagina Stato. In questo modo puoi ottenere gli aggiornamenti senza dover consultare regolarmente la pagina Stato.
+Ricevi gli avvisi di tutte le notifiche eseguendo la sottoscrizione al feed RSS per la pagina Stato. In questo modo puoi ottenere gli aggiornamenti senza dover andare regolarmente alla pagina Stato. 
 
 Per eseguire la sottoscrizione, completa la seguente procedura:
 
-1. Accedi ai tuoi lettori RSS preferiti. Molti browser hanno a disposizione funzionalità o estensioni RSS integrate. Sono disponibili anche diverse offerte di lettori RSS di terze parti. 
+1. Accedi ai tuoi lettori RSS preferiti. Molti browser hanno a disposizione funzionalità o estensioni RSS integrate. Sono disponibili anche diverse offerte di lettori RSS di terze parti.  
 2. Utilizza il tuo lettore per sottoscrivere il feed con uno dei seguenti
 metodi:
-    * Trascina l'icona RSS ![RSS-24px](../icons/RSS-24px.svg) nel tuo lettore RSS.
+    * Trascina l'icona RSS ![RSS-24px](../icons/RSS-24px.svg) nel tuo lettore RSS. 
     * Fai clic con il tasto destro del mouse sull'icona RSS, seleziona **Copia indirizzo link** e incolla l'URL
 nel tuo lettore RSS.
 

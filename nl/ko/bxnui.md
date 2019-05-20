@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -735,7 +735,7 @@ subcollection: get-support
 
 ## BXNUI0515E
 
-**메시지**: 조직의 영역이 검색되지 않았습니다. 네트워크 연결 문제점이 발생했거나 현재 조직에 이와 연관된 영역이 없습니다.
+**메시지**: 조직의 영역이 검색되지 않았습니다. 네트워크 연결 문제점이 발생했거나 현재 조직에 이와 연관된 영역이 없습니다. 
 
 나중에 다시 시도하십시오. 이 메시지가 다시 표시되면 [{{site.data.keyword.Bluemix_notm}} 상태 페이지 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/status?selected=status){: new_window}로 이동하여 서비스 또는 컴포넌트에 문제가 있는지 여부를 확인하십시오. 또는, 이 문제점을 수정하기 위한 지시사항은 [조직에서 영역을 검색할 수 없음](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window} 문제점 해결 주제를 참조하십시오.
 
@@ -948,7 +948,7 @@ subcollection: get-support
 [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}으로 이동하십시오.
 
 ## BXNUI2024E
-**메시지**: 사용자에 대한 셀프 등록을 사용할 수 없습니다.
+**메시지**: 사용자에 대한 셀프 등록을 사용할 수 없습니다. 
 
 계정 소유자에게 문의하십시오.
 
@@ -1194,7 +1194,7 @@ subcollection: get-support
 ## BXNUI2072E
 **메시지**: 인증서가 업로드되지 않았습니다.
 
-인증서에서 지정된 도메인 이름, {0}이(가) 사용자의 사용자 정의 도메인 이름과 일치하지 않습니다.
+인증서에 지정된 도메인 이름 {0}이(가) 사용자의 사용자 정의 도메인 이름과 일치하지 않습니다. 
 
 인증서에서 도메인 이름을 정정하고 다시 시도하십시오.
 
@@ -1204,7 +1204,7 @@ subcollection: get-support
 [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}으로 이동하십시오.
 
 ## BXNUI2074E
-**메시지**: 개인 키가 지원되지 않습니다. 암호화되지 않은 RSA 키가 예상됩니다.
+**메시지**: 개인 키가 지원되지 않습니다. 암호화되지 않은 RSA 키가 필요합니다. 
 
 ## BXNUI2075E
 **메시지**: 공개 키가 지원되지 않습니다. 지원되는 알고리즘에는 RSA가 포함됩니다.
@@ -1224,7 +1224,7 @@ subcollection: get-support
 [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}으로 이동하십시오.
 
 ## BXNUI2080E
-**메시지**: 인증서 및 키를 수정하는 중에 오퍼레이션이 제한시간 초과되었습니다.
+**메시지**: 인증서 및 키를 수정하는 중에 오퍼레이션이 제한시간이 초과되었습니다. 
 
 [{{site.data.keyword.Bluemix_notm}} 지원 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}으로 이동하십시오.
 
