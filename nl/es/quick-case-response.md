@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: escalate, support case, case, ticket
 
@@ -43,7 +43,7 @@ La siguiente tabla lista algunos ejemplos comunes de los problemas de soporte, n
 
 | Gravedad | Definición de gravedad | Objetivos de tiempo de respuesta |
 |-----|------- | ----- |
-| Gravedad 1 | <strong>El servicio o impacto empresarial crítico está inactivo.</strong> <br> La función crítica de empresa no funciona o la interfaz crítica ha fallado. Esta gravedad normalmente se aplica a un entorno de producción e indica que la incapacidad de acceder a servicios está causando un impacto crítico sobre operaciones. Esta condición requiere una solución inmediata. | Premium: Menos de 15 minutos <br> Avanzado: En el plazo de 1 hora <br> Básico: N/D, no se puede abrir casos de gravedad 1 |
+| Gravedad 1 | <strong>El servicio o impacto empresarial crítico está inactivo.</strong> <br> Una función crítica para la empresa no funciona o una interfaz crítica ha fallado. Esta gravedad normalmente se aplica a un entorno de producción e indica que la incapacidad de acceder a servicios está causando un impacto crítico sobre operaciones. Esta condición requiere una solución inmediata. | Premium: Menos de 15 minutos <br> Avanzado: En el plazo de 1 hora <br> Básico: N/D, no se puede abrir casos de gravedad 1 |
 | Gravedad 2 | <strong>Impacto empresarial importante.</strong> <br> Una función o característica de servicio tiene el uso gravemente restringido o corre el peligro de no cumplir los plazos de la empresa. | Premium: En el plazo de 1 hora <br> Avanzado: En el plazo de 2 horas <br> Básico: N/D, no se puede abrir casos de gravedad 2 |
 | Gravedad 3 | <strong>Impacto empresarial menor.</strong> <br> Una función o característica de servicio se puede utilizar, pero tiene algunos problemas que afectan su uso. No ha causado ningún impacto crítico en operaciones. | Premium: En el plazo de 2 horas <br> Avanzado: En el plazo de 4 horas <br> Básico: N/D, no se pueden abrir casos de gravedad 3 |
 | Gravedad 4 | <strong>Impacto empresarial mínimo.</strong> <br> Una consulta o solicitud no técnica. | Premium: En el plazo de 4 horas <br> Avanzado: En el plazo de 8 horas <br> Básico: Máximo esfuerzo |

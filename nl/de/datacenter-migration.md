@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -80,7 +80,7 @@ Die meisten Betriebssysteme stellen Tools bereit, die Sie verwenden können, um 
 ## Wie kann ich alte und neue Prozessoren vergleichen?
 {: #old-new}
 
-Um die Spezifikationen alter und neuer Intel-Prozessoren zu vergleichen, wechseln Sie zu [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link"). Wenn Sie den Prozessortyp kennen, können Sie durch die Menüs navigieren. Alternativ können Sie die Suchoption verwenden, um die Spezifikationen der beiden Prozessoren zu lokalisieren. Neuere Prozessoren weisen tendenziell mehr Prozessorkerne auf und werden in der Regel mit langsameren Taktgeschwindigkeiten ausgeführt als ältere Varianten. Wenn Ihre Auslastung prozessorgebunden ist (ihre Leistung wird durch die Geschwindigkeit des Prozessors begrenzt), raten wir Ihnen, einen Prozessor mit weniger Kernen und einer höheren Taktgeschwindigkeit auszuwählen.  Wenn Sie viele Workloads ausführen, die nicht speziell durch die Prozessorgeschwindigkeit eingeschränkt sind, kann die Auswahl eines Prozessors mit mehr Kernen und einer ähnlichen oder langsameren Taktgeschwindigkeit eine bessere Wahl sein.
+Um die Spezifikationen alter und neuer Intel-Prozessoren zu vergleichen, wechseln Sie zu [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link"). Wenn Sie den Prozessortyp kennen, können Sie durch die Menüs navigieren. Alternativ können Sie die Suchoption verwenden, um die Spezifikationen der beiden Prozessoren zu lokalisieren. Neuere Prozessoren weisen tendenziell mehr Prozessorkerne auf und werden in der Regel mit langsameren Taktgeschwindigkeiten ausgeführt als ältere Varianten. Wenn Ihre Auslastung prozessorgebunden ist (ihre Leistung wird durch die Geschwindigkeit des Prozessors begrenzt), raten wir Ihnen, einen Prozessor mit weniger Kernen und einer höheren Taktgeschwindigkeit auszuwählen.  Wenn Sie viele Workloads ausführen, die nicht durch die Prozessorgeschwindigkeit eingeschränkt sind, kann die Auswahl eines Prozessors mit mehr Kernen und einer ähnlichen oder langsameren Taktgeschwindigkeit eine bessere Wahl sein.
 
 ## Wie wähle ich mein neues Betriebssystem aus?
 {: #operating-system}
@@ -102,7 +102,7 @@ Sie erhalten ein aktuelles Paket mit der Bandbreite, die am ehesten mit dem Pake
 Nachdem Sie die Verbindung zwischen dem alten und dem neuen Server hergestellt haben, sollten Sie darüber nachdenken, wie Sie Daten zwischen den beiden Servern verschieben können.  Angenommen, Sie haben genügend Speicherplatz auf dem neuen Server, um das Datenvolumen aufzunehmen, dann ist eine direkte Server-zu-Server-Kopie die einfachste Möglichkeit.  Es stehen viele Tools zur Verfügung, die Sie dafür verwenden können.  
 
 * So ist zum Beispiel 'scp' eine gute Wahl, um eine Datei sicher von der Quelle zum Ziel zu kopieren.  Es führt eine einfache lineare Kopie durch. 
-* Wenn Sie eine große Anzahl von Dateien kopieren müssen, ist 'rsync' über 'ssh' viel schneller als 'scp'. Außerdem kopiert 'rsync' auch Verzeichnisstrukturen und erhält die Dateiberechtigungen.
+* Wenn Sie zahlreiche Dateien kopieren müssen, ist 'rsync' über 'ssh' viel schneller als 'scp'. Außerdem kopiert 'rsync' auch Verzeichnisstrukturen und erhält die Dateiberechtigungen.
 
 Im Allgemeinen sollten Sie Anwendungen und Anwendungsdaten nur zwischen Systemen kopieren. Das Kopieren älterer Versionen von Betriebssystemdateien auf neuere Versionen kann zu Problemen führen.
 
@@ -116,7 +116,7 @@ Höchstwahrscheinlich müssen Sie die Vernetzung ändern, um mit den neuen Serve
 ## Was mache ich, wenn ich nicht über die Fähigkeiten verfüge, die Migration durchzuführen?
 {: #migrate-skills}
 
-Die Anwendungsmigration kann ein komplexes Unterfangen sein. Nicht zuletzt sind auch die Fähigkeiten komplex, die dazu erforderlich sind. Wenn Codeänderungen für die Anwendung erforderlich sind, stellen Sie sicher, dass die erforderlichen Programmierkenntnisse vorhanden sind. Dies ist insbesondere bei älteren Systemen wichtig, in denen die Kenntnisse möglicherweise selten sind oder die Dokumentation oder die Kenntnisse über das System selbst fehlen. Wenn erhebliche Anstrengungen unternommen werden müssen und das System besonders kritisch für das Unternehmen ist, sollten Sie in die bezahlten Services oder in andere Migrationsservices investieren, damit Ihnen professionell geholfen wird.
+Die Anwendungsmigration kann ein komplexes Unterfangen sein. Nicht zuletzt sind auch die Fähigkeiten komplex, die dazu erforderlich sind. Wenn Codeänderungen für die Anwendung erforderlich sind, stellen Sie sicher, dass die erforderlichen Programmierkenntnisse vorhanden sind. Dies ist bei älteren Systemen wichtig, in denen die Kenntnisse möglicherweise selten sind oder die Dokumentation oder die Kenntnisse über das System selbst fehlen. Wenn erhebliche Anstrengungen unternommen werden müssen und das System kritisch für das Unternehmen ist, sollten Sie in die bezahlten Services oder in andere Migrationsservices investieren, damit Ihnen professionell geholfen wird.
 
 ## Wie bekomme ich allgemeine Hilfe bei der Migration?
 {: #gen-migration}

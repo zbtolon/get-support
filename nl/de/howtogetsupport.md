@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -48,7 +48,7 @@ Sie können das Suchfeld im Support Center verwenden, um Antworten auf Ihre Frag
 
 Wenn Sie über einen Basic-, Advanced- oder Premium-[Supportplan](/docs/get-support?topic=get-support-support-plans#support-plans) verfügen, finden Sie Telefonnummern und eine Chat-Möglichkeit, über die Sie Hilfe anfordern können.
 
-Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Neuer Supportfall](https://{DomainName}/unifiedsupport/cases/add) verwenden, um einen Fall zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können. 
+Das Support Center ist die bevorzugte Methode zum Anfordern von Unterstützung, Sie können jedoch auch die Seite [Neuer Supportfall](https://{DomainName}/unifiedsupport/cases/add) verwenden, um einen Fall zu erstellen, wenn Sie sich nicht bei {{site.data.keyword.Bluemix_notm}} anmelden können.
 
 ### Fragen stellen
 {: #asking-a-question}

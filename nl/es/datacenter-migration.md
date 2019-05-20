@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -80,7 +80,7 @@ La mayoría de los sistemas operativos proporcionan herramientas que puede utili
 ## ¿Cómo se compara el procesador antiguo con el nuevo?
 {: #old-new}
 
-Para comparar las especificaciones de los procesadores Intel antiguos y nuevos, vaya a [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo"). Si conoce el tipo de procesador, puede navegar por los menús. Si no, puede utilizar la opción de búsqueda para localizar las especificaciones de los dos procesadores. Los procesadores nuevos tienden a tener más núcleos de procesador y suelen ejecutarse a velocidades de reloj más lentas que las variantes antiguas. Si tiene una carga de trabajo limitada por el procesador (su rendimiento está limitado por la velocidad del procesador), le aconsejamos que elija un procesador con menos núcleos y una velocidad de reloj más alta.  Si ejecuta muchas cargas de trabajo que no están especialmente restringidas por la velocidad del procesador, la elección de un procesador con más núcleos y una velocidad de reloj similar o más lenta podría resultar la mejor opción.
+Para comparar las especificaciones de los procesadores Intel antiguos y nuevos, vaya a [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo"). Si conoce el tipo de procesador, puede navegar por los menús. Si no, puede utilizar la opción de búsqueda para localizar las especificaciones de los dos procesadores. Los procesadores nuevos tienden a tener más núcleos de procesador y suelen ejecutarse a velocidades de reloj más lentas que las variantes antiguas. Si tiene una carga de trabajo limitada por el procesador (su rendimiento está limitado por la velocidad del procesador), le aconsejamos que elija un procesador con menos núcleos y una velocidad de reloj más alta.  Si ejecuta muchas cargas de trabajo que no están restringidas por la velocidad del procesador, la elección de un procesador con más núcleos y una velocidad de reloj similar o más lenta podría resultar la mejor opción.
 
 ## ¿Cómo elijo mi nuevo sistema operativo?
 {: #operating-system}
@@ -102,7 +102,7 @@ Recibirá un paquete de ancho de banda estrechamente relacionado con el paquete 
 Después de establecer la conectividad entre el servidor antiguo y el nuevo, debe pensar cómo moverá los datos entre los mismos.  Suponiendo que tiene almacenamiento suficiente en el nuevo servidor para acomodar el volumen de datos, una copia directa de servidor a servidor es la forma más sencilla de conseguirlo.  Existen varias herramientas que puede utilizar.  
 
 * scp es una buena opción para copiar de forma segura un archivo del origen en el destino.  Realiza una copia lineal sin formato. 
-* Si tiene que copiar un gran número de archivos, rsync sobre ssh es mucho más rápido que scp. rsync también copia las estructuras de directorios y conserva los permisos de los archivos.
+* Si tiene que copiar varios archivos, rsync sobre ssh es mucho más rápido que scp. rsync también copia las estructuras de directorios y conserva los permisos de los archivos.
 
 En general, solo debe copiar aplicaciones y datos de aplicaciones entre los sistemas. El hecho de copiar versiones antiguas de archivos del sistema operativo en una versión más nueva puede ocasionar problemas.
 
@@ -116,7 +116,7 @@ Lo más probable es que su red tenga que cambiar para trabajar con los nuevos se
 ## ¿Qué debo hacer si no tengo los conocimientos necesarios para realizar la migración?
 {: #migrate-skills}
 
-La migración de aplicaciones puede resultar una tarea compleja. Uno de los requisitos es disponer de los conocimientos necesarios para hacerlo. Si es necesario realizar cambios de código en la aplicación, asegúrese de tener los conocimientos de programación necesarios. Este es particularmente importante en el caso de sistemas más antiguos en que los conocimientos pueden quedarse cortos o cuando no hay suficiente documentación o conocimientos sobre el propio sistema. Si esto supone un esfuerzo significativo y el sistema resulta esencial para el negocio, baraje la posibilidad de invertir en servicios de pago o en otros servicios de migración que le puedan ayudar.
+La migración de aplicaciones puede resultar una tarea compleja. Uno de los requisitos es disponer de los conocimientos necesarios para hacerlo. Si es necesario realizar cambios de código en la aplicación, asegúrese de tener los conocimientos de programación necesarios. Este es importante en el caso de sistemas más antiguos en que los conocimientos pueden quedarse cortos o cuando no hay suficiente documentación o conocimientos sobre el propio sistema. Si esto supone un esfuerzo significativo y el sistema resulta esencial para el negocio, baraje la posibilidad de invertir en servicios de pago o en otros servicios de migración que le puedan ayudar.
 
 ## ¿Cómo puedo obtener ayuda general con la migración?
 {: #gen-migration}

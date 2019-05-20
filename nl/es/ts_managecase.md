@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 

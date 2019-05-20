@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -42,7 +42,7 @@ Die folgende Liste enthält Beispiele für URL-Suchoptionen:
 | ----- | ----- | ----- | ----- |
 | `?type` | Ein Filter, der nur für die Registerkarte 'Status' gilt. Verwenden Sie die Abfrage `?type`, um die Registerkarte 'Status' nach Vorfällen oder Wartung zu filtern. | `=incident`, `=maintenance` |
 | `?region` | Filtert die Seite nach Standorten.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | Filtert die Seite nach {{site.data.keyword.Bluemix_notm}}-Komponenten. Sie können zum Beispiel nach einem Service filtern, der für Sie von Interesse ist. | Gilt für die meisten globalen Katalog-IDs. So filtern zum Beispiel `?component=iotf-service` die Seite und zeigt nur Ereignisse an, die das Internet der Dinge betreffen.  |
+| `?component` | Filtert die Seite nach {{site.data.keyword.Bluemix_notm}}-Komponenten. Sie können zum Beispiel nach einem Service filtern, der für Sie von Interesse ist. | Gilt für die meisten globalen Katalog-IDs. So filtert zum Beispiel `?component=iotf-service` die Seite und zeigt Ereignisse an, die das Internet der Dinge betreffen.  |
 {: caption="Tabelle 1. URL-Abfragefilter" caption-side="top"}
 
 Sie können jederzeit die Filter **Filtern nach** verwenden und die generierte URL-Abfrage kopieren oder mit einen Lesezeichen versehen. Die Filter werden in Ihrer URL angezeigt und können Ihnen bei der Erstellung zukünftiger Abfragen helfen.

@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-04-22"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ Puede comprobar si hay mantenimientos planificados próximamente utilizando la p
 {: #escalate_support}
 {: faq}
 
-Como cliente de IBM Cloud, puede escalar los casos de soporte para exponer problemas críticos si un caso no se está gestionando de manera adecuada. Una vez que se haya escalado un caso, el equipo de soporte de IBM Cloud revisa la información y responde con las actualizaciones adecuadas. 
+Como cliente de IBM Cloud, puede escalar los casos de soporte para exponer problemas críticos. Una vez que se haya escalado un caso, el equipo de soporte de IBM Cloud revisa la información y responde con actualizaciones. 
 
 Para escalar un caso de soporte, siga los pasos siguientes: 
 1. Póngase en contacto con el equipo de soporte de IBM Cloud por teléfono o a través del chat:

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -50,7 +50,7 @@ Weitere Informationen zum Typ der E-Mail-Benachrichtigungen, die Sie basierend a
 ## RSS-Feed abonnieren
 {: #subscribing-rss-feed}
 
-Sie erhalten Alerts für alle Benachrichtigungen, indem Sie den RSS-Feed für die Statusseite abonnieren. Dieser Ansatz bietet Ihnen eine Möglichkeit, Aktualisierungen zu beziehen, ohne die Statusseite regelmäßig aufsuchen zu müssen.
+Sie erhalten Alerts für alle Benachrichtigungen, indem Sie den RSS-Feed für die Statusseite abonnieren. Dieser Ansatz bietet Ihnen eine Möglichkeit, Aktualisierungen zu beziehen, ohne dass die Statusseite regelmäßig aufgerufen werden muss. 
 
 Führen Sie zum Abonnieren die folgenden Schritte aus:
 

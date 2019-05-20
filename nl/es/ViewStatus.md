@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-05-13"
 
 keywords: cloud status, view cloud status
 
@@ -50,7 +50,7 @@ Para obtener más información sobre el tipo de notificaciones de correo electr�
 ## Suscripción a un hilo RSS
 {: #subscribing-rss-feed}
 
-Para recibir alertas de notificaciones, suscríbase al hilo RSS de la página Estado. Este enfoque proporciona una forma de recibir las actualizaciones sin tener que consultar la página de estado.
+Para recibir alertas de notificaciones, suscríbase al hilo RSS de la página Estado. Este enfoque proporciona una forma de recibir las actualizaciones sin tener que ir a la página de estado.
 
 Para suscribirse, siga estos pasos:
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -59,13 +59,13 @@ Wenn Sie der Kontoeigner oder ein Administrator des Support Centers sind, führe
 ## Warum kann ich nicht alle Fälle im Konto anzeigen?
 {: #ts_viewcasedetails}
 
-Sie können nicht alle Fälle im Konto anzeigen, da Sie keinen Zugriff haben, um alle Benutzer im Konto anzuzeigen. 
+Sie können nicht alle Fälle im Konto anzeigen, da Sie keinen Zugriff haben, um alle Benutzer im Konto anzuzeigen.
 {:shortdesc}
 
 Wenn Sie versuchen, die Supportfälle anzuzeigen, die dem Konto zugeordnet sind, können Sie nicht alle offenen Fälle sehen. 
 {: tsSymptoms}
 
-Der Kontoeigner hat die Einstellung für die [Sichtbarkeit der Benutzerliste](/docs/iam?topic=iam-userlistview#userlistview) eingeschränkt. Wenn für die Sichtbarkeit 'eingeschränkt' eingestellt ist und Sie nicht über eine zusätzliche Zugriffsrichtlinie zur Anzeige von Benutzern im Konto verfügen, dann haben Sie nicht den erforderlichen Zugriff zur Anzeige aller Fälle im Konto. Sie können nur die Benutzer anzeigen, die Sie zum Konto eingeladen haben, mit denen Sie eine Cloud Foundry-Organisationsmitgliedschaft teilen oder Benutzer, die sich in der Benutzerhierarchie Ihrer klassischen Infrastruktur befinden. 
+Der Kontoeigner hat die Einstellung für die [Sichtbarkeit der Benutzerliste](/docs/iam?topic=iam-userlistview#userlistview) eingeschränkt. Wenn für die Sichtbarkeit 'eingeschränkt' festgelegt ist und Sie nicht über eine zusätzliche Zugriffsrichtlinie zur Anzeige von Benutzern im Konto verfügen, dann haben Sie nicht den erforderlichen Zugriff zur Anzeige aller Fälle im Konto. Sie können nur die Benutzer anzeigen, die Sie zum Konto eingeladen haben, mit denen Sie eine Cloud Foundry-Organisationsmitgliedschaft teilen oder Benutzer, die sich in der Benutzerhierarchie Ihrer klassischen Infrastruktur befinden. 
 {: tsCauses}
 
 Ihnen muss über eine IAM-Richtlinie mindestens die Rolle des Anzeigeberechtigtem im Benutzerverwaltungs- und Kontoverwaltungsservice

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -1204,7 +1204,7 @@ Korrigieren Sie den Domänennamen im Zertifikat und wiederholen Sie den Vorgang.
 Wechseln Sie zum [{{site.data.keyword.Bluemix_notm}}-Support![Symbol für externen Link](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
-**Nachricht**: Der private Schlüssel wird nicht unterstützt. Es wird ein unverschlüsselter RSA-Schlüssel erwartet.
+**Nachricht**: Der private Schlüssel wird nicht unterstützt. Es wird ein entschlüsselter RSA-Schlüssel erwartet.
 
 ## BXNUI2075E
 **Nachricht**: Der öffentliche Schlüssel wird nicht unterstützt. Unterstützte Algorithmen: RSA.

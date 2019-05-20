@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-01-30"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -43,7 +43,7 @@ La lista siguiente incluye ejemplos de opciones de búsqueda de URL:
 | `?type` | Un filtro que solo se aplica al separador Estado. Utilice la consulta `?type` para filtrar el separador Estado por incidencias o mantenimiento. | `=incident`, `=maintenance` |
 | `?region` | Filtrar la página por ubicación geográfica.  | `=na`, `=eu`, `=sa`, `=ap` |
 | `?component` | Filtre la página por componentes de {{site.data.keyword.Bluemix_notm}}. Por ejemplo, puede filtrar por el servicio en el que está interesado. | Se aplica a la mayoría de los ID de catálogo globales; por ejemplo, `?component=iotf-service`
-filtra la página y solo mostrará los sucesos que afecten a la plataforma Internet de las cosas  |
+filtra la página y muestra los sucesos que afecten a la plataforma Internet de las cosas  |
 {: caption="Tabla 1. Filtros de consultas de URL" caption-side="top"}
 
 Siempre puede utilizar los filtros **Filtrar por** y luego copiar o marcar la consulta de URL que se genera. Los filtros se muestran en el URL y pueden ayudarle a crear consultas futuras.
