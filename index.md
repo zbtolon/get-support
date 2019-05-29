@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,7 +29,7 @@ You're provided free technical support through the {{site.data.keyword.Bluemix}}
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
 | Description |	Basic business protection that is included with your {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go or Subscription account | Prioritized case handling and support experience that is aligned with your business needs | Client engagement that is aligned with your business outcomes to accelerate time-to-value |
-| Availability | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, and phone <br/> <br/> Phone and chat available only to PayGo and Subscription accounts | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
+| Availability | Access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases <br/> <br/> Phone and chat available only for PayGo and Subscription accounts | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
 | Initial response time objectives | Not applicable | Severity 1: Less than 1 hour <br/> Severity 2: Less than 2 hours <br/> Severity 3: Less than 4 hours <br/> Severity 4: Less than 8 hours | Severity 1: Less than 15 minutes <br/> Severity 2: Less than 1 hour <br/> Severity 3: Less than 2 hours <br/> Severity 4: Less than 4 hours |
 | Case severity | Not applicable | Case severity ranking available | Case severity ranking available |
 | Additional support | Not applicable | Not applicable | Technical Account Manager assigned <br/> <br/> Quarterly business reviews <br/><br/> Access to experts |
