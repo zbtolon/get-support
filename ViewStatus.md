@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
 
   You can filter this list by selecting specific locations and components or by using keyword searches.
 
-You can search across all tabs on the Status page, but did you know that you can build URL search values by using query parameters from outside the console? For more details, see [Advanced status search](/docs/get-support/status_search.html).
+You can search across all tabs on the Status page, but did you know that you can build URL search values by using query parameters from outside the console? For more details, see [Advanced status search](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-For more information about the type of email notifications you can receive based on your account type, see [Setting email preferences](/docs/account/email.html). 
+For more information about the type of email notifications you can receive based on your account type, see [Setting email preferences](/docs/account?topic=account-email-prefs). 
 
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
