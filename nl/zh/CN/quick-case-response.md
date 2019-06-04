@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # 上报支持案例
 {: #escalation}
 
-{{site.data.keyword.Bluemix}} 客户可以使用上报过程来报告严重问题，并在客户认为他们的支持凭单未得到妥善处理时发表意见。案例上报后，{{site.data.keyword.Bluemix_notm}} 支持团队会复查支持案例中的信息，进行回复并提供相应的更新。
+{{site.data.keyword.Bluemix}} 客户可以使用上报过程来报告严重问题，并在客户认为他们的支持凭单未得到处理时发表意见。案例上报后，{{site.data.keyword.Bluemix_notm}} 支持团队会复查支持案例中的信息，进行回复并提供相应的更新。
 
  要上报案例，请完成以下步骤：
 

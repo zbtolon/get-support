@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # Supportfälle eskalieren
 {: #escalation}
 
-{{site.data.keyword.Bluemix}}-Kunden können den Eskalationsprozess nutzen, um kritische Probleme auf den Punkt zu bringen und ihr Anliegen zu adressieren, wenn sie den Eindruck haben, dass ihr Support-Ticket nicht angemessen gehandhabt wird. Bei Eskalation eines Falls prüft das {{site.data.keyword.Bluemix_notm}}-Support-Team die Informationen im Supportfall und informiert den Kunden über entsprechende Updates.
+{{site.data.keyword.Bluemix}}-Kunden können den Eskalationsprozess nutzen, um kritische Probleme auf den Punkt zu bringen und ihr Anliegen zu adressieren, wenn sie den Eindruck haben, dass ihr Support-Ticket nicht bearbeitet wird. Bei Eskalation eines Falls prüft das {{site.data.keyword.Bluemix_notm}}-Support-Team die Informationen im Supportfall und informiert den Kunden über entsprechende Updates.
 
  Führen Sie die folgenden Schritte aus, um einen Fall zu eskalieren:
 

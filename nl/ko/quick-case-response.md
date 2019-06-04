@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # 지원 케이스 에스컬레이션
 {: #escalation}
 
-{{site.data.keyword.Bluemix}} 고객은 에스컬레이션 프로세스를 사용하여 중요한 문제를 표면화하고 지원 티켓이 적절하게 처리되고 있지 않다고 생각하는 경우 우려를 표명할 수 있습니다. 케이스가 에스컬레이션되면 {{site.data.keyword.Bluemix_notm}} 지원 팀이 지원 케이스의 정보를 검토하고 적절한 업데이트를 제공하여 대응합니다.
+{{site.data.keyword.Bluemix}} 고객은 에스컬레이션 프로세스를 사용하여 중요한 문제를 표면화하고 지원 티켓이 처리되고 있지 않다고 생각하는 경우 우려를 표명할 수 있습니다. 케이스가 에스컬레이션되면 {{site.data.keyword.Bluemix_notm}} 지원 팀이 지원 케이스의 정보를 검토하고 적절한 업데이트를 제공하여 대응합니다.
 
  케이스를 에스컬레이션하려면 다음 단계를 완료하십시오.
 
