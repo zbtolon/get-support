@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # Escalade de cas de support
 {: #escalation}
 
-Les clients {{site.data.keyword.Bluemix}} peuvent utiliser le processus d'escalade pour signaler des problèmes critiques et exprimer leurs inquiétudes s'ils ont le sentiment que leur ticket de demande n'est pas traité de manière appropriée. Lorsqu'un cas est transféré, l'équipe de support {{site.data.keyword.Bluemix_notm}} examine les informations se trouvant dans le cas de support et vous fournit les mises à jour appropriées.
+Les clients {{site.data.keyword.Bluemix}} peuvent utiliser le processus d'escalade pour signaler des problèmes critiques et exprimer leurs inquiétudes s'ils ont le sentiment que leur ticket de demande n'est pas traité. Lorsqu'un cas est transféré, l'équipe de support {{site.data.keyword.Bluemix_notm}} examine les informations se trouvant dans le cas de support et vous fournit les mises à jour appropriées.
 
  Pour faire remonter un cas, procédez comme suit :
 

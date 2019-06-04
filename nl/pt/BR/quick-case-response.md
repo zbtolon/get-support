@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,9 +24,7 @@ subcollection: get-support
 # Escalando casos de suporte
 {: #escalation}
 
-Os clientes do {{site.data.keyword.Bluemix}} podem usar o processo de encaminhamento para apresentar
-problemas críticos e expressar sua preocupação se sentirem que seu chamado de suporte não está sendo tratado
-apropriadamente. Quando um caso é encaminhado, a equipe de suporte do {{site.data.keyword.Bluemix_notm}}
+Os clientes do {{site.data.keyword.Bluemix}} podem usar o processo de encaminhamento para expor problemas críticos e expressar sua preocupação se sentirem que o chamado de suporte não está sendo tratado. Quando um caso é encaminhado, a equipe de suporte do {{site.data.keyword.Bluemix_notm}}
 revisa as informações no caso de suporte e responde com as atualizações apropriadas.
 
  Para escalar um caso, conclua as etapas a seguir:
@@ -46,7 +44,7 @@ A tabela a seguir lista alguns exemplos comuns de problemas de suporte, níveis 
 
 | Severidade | Definição de Severidade | Objetivos de Tempo |
 |-----|------- | ----- |
-| Severidade 1 | <strong>Impacto crítico nos negócios ou o serviço está inativo.</strong> <br> A função crítica aos negócios é inoperável ou a interface crítica está com falha. Essa severidade geralmente se aplica a um ambiente de produção e indica que uma incapacidade de acessar os serviços está levando a um impacto crítico nas operações. Essa condição requer uma solução imediata. | Premium: Menos de 15 minutos <br> Avançado: Dentro de 1 hora <br> Básico: N/D, não é possível abrir casos de gravidade 1 |
+| Severidade 1 | <strong>Impacto crítico nos negócios ou o serviço está inativo.</strong> <br> A função crítica para os negócios está inoperável ou a interface crítica falhou. Essa severidade geralmente se aplica a um ambiente de produção e indica que uma incapacidade de acessar os serviços está levando a um impacto crítico nas operações. Essa condição requer uma solução imediata. | Premium: Menos de 15 minutos <br> Avançado: Dentro de 1 hora <br> Básico: N/D, não é possível abrir casos de gravidade 1 |
 | Severidade 2 | <strong>Impacto significativo nos negócios.</strong> <br> Um recurso ou função de serviço está seriamente restrito em seu uso ou há o risco de perder os prazos finais dos negócios. | Premium: Dentro de 1 hora <br> Avançado: Dentro de 2 horas <br> Básico: N/D, não é possível abrir casos de gravidade 2 |
 | Severidade 3 | <strong>Impacto menor nos negócios.</strong> <br> Um recurso ou função de serviço é utilizável, mas tem alguns problemas que afetam seu uso. Nenhum impacto crítico é causado nas operações. | Premium: em 2 horas <br> Avançado: Dentro de 4 horas <br> Básico: N/D, não é possível abrir casos de gravidade 3 |
 | Severidade 4 | <strong>Impacto mínimo nos negócios.</strong> <br> Uma consulta ou solicitação não técnica. | Premium: Em 4 horas <br> Avançado: Dentro de 8 horas <br> Básico: Melhor esforço |
