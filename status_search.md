@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ The following list includes examples of URL search options:
 
 ### URL query filters:
 {: #url-query}
+
+The following table provides information on URL query filters that you can use to search across all tabs on the status page. 
 
 | URL Query Parameter | Description | Values |
 | ----- | ----- | ----- | ----- |
