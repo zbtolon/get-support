@@ -24,7 +24,6 @@ subcollection: get-support
 IBM is withdrawing support for the following data centers in the United States: 
 
 * dal01 pods 1, 4, and 5
-* wdc01 pods 1 and 2
 {:shortdesc}
 
 ##  Why am I required to move to another data center?
