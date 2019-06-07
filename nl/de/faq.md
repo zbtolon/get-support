@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ Sie können sich über bevorstehende Wartungsarbeiten informieren, indem Sie die
 {: #escalate_support}
 {: faq}
 
-Als IBM Cloud-Kunde können Sie Supportfälle eskalieren, um die Aufmerksamkeit auf kritische Probleme zu lenken. Bei der Eskalation eines Falls prüft das IBM Cloud-Support-Team die Informationen und reagiert mit den entsprechenden Aktualisierungen.  
+Als IBM Cloud-Kunde können Sie Supportfälle eskalieren, um die Aufmerksamkeit auf kritische Probleme zu lenken. Bei der Eskalation eines Falls prüft das IBM Cloud-Support-Team die Informationen und reagiert mit den entsprechenden Aktualisierungen. 
 
 Führen Sie die folgenden Schritte aus, um einen Supportfall zu eskalieren: 
 1. Kontaktieren Sie den IBM Cloud-Support telefonisch oder über den Chat:
@@ -66,7 +66,7 @@ Standardmäßig haben Benutzer in Ihrem Konto keinen Zugriff zum Erstellen, Aktu
 
 Wenn Sie einen Fall erstellen, können Sie anderen Benutzern den uneingeschränkten Zugriff auf bestimmte Fälle im Konto gewähren, indem Sie deren E-Mail-Adresse im Feld **Andere Person zu diesem Fall hinzufügen** ... angeben. Alle hinzugefügten Benutzer erhalten Zugriff zum Anzeigen, Bearbeiten und Aktualisieren für genau diesen Fall im Konto. Sie erhalten außerdem Benachrichtigungen, wenn der Fall aktualisiert wird. 
 
-Für Benutzer der klassischen Infrastruktur stehen die Berechtigungen für die Zuweisung von Zugriff auf Supportfälle nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam?topic=iam-predefined#predefined) zur Verfügung.
+Für Benutzer der klassischen Infrastruktur stehen die Berechtigungen für die Zuweisung von Zugriff auf Supportfälle nun in [migrierten Zugriffsgruppen für klassische Infrastruktur](/docs/iam?topic=iam-predefined) zur Verfügung.
 
 ## Welche Schritte sind erforderlich, bevor ein Supportfall geöffnet wird? 
 {: #steps_before_opencase}
