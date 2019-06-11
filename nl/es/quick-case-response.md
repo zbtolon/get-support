@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: escalate, support case, case, ticket
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # Escalado de casos de soporte
 {: #escalation}
 
-Los clientes de {{site.data.keyword.Bluemix}} pueden utilizar el proceso de escalado para exponer problemas críticos y para expresar su preocupación si creen que su incidencia de soporte no se está gestionando de manera adecuada. Una vez que se haya escalado un caso, el equipo de soporte de {{site.data.keyword.Bluemix_notm}} revisa la información del caso de soporte y responde con las actualizaciones adecuadas.
+Los clientes de {{site.data.keyword.Bluemix}} pueden utilizar el proceso de escalado para exponer problemas críticos y para expresar su preocupación si creen que su incidencia de soporte no se está gestionando. Una vez que se haya escalado un caso, el equipo de soporte de {{site.data.keyword.Bluemix_notm}} revisa la información del caso de soporte y responde con las actualizaciones adecuadas.
 
  Para escalar un caso, complete los pasos siguientes:
 

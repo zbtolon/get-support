@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -30,12 +30,12 @@ IBM retire le support des centres de données suivants aux Etats-Unis :
 ##  Pourquoi dois-je migrer vers un autre centre de données ?
 {: #required-data}
 
-Pour continuer à vous faire bénéficier des meilleurs services, matériels et connectivité, nous évaluons continuellement tous nos sites pour nous assurer qu'ils répondent aux réseaux, aux équipements électriques et aux autres normes d'infrastructure. Même si ces sites sont adéquats, ils ne répondent plus à nos normes actuelles.
+Pour continuer à vous faire bénéficier des meilleurs services, matériels et connectivité, nous évaluons continuellement tous nos sites pour nous assurer qu'ils répondent aux réseaux, aux équipements électriques et autres normes d'infrastructure. Même si ces sites sont adéquats, ils ne répondent plus aux normes actuelles.
 
 ## Dois-je avoir terminé la migration à la date indiquée ?
 {: #data-list}
 
-Oui. Pour éviter toute interruption de service, nous essayons d'accorder un délai de mise en oeuvre le plus long possible afin de rendre la transition quasiment transparente pour vous. Nous avons évoqué le déplacement de ce site en mai 2018.
+Oui. Pour éviter toute interruption de service, nous essayons d'accorder un délai de mise en oeuvre le plus long possible afin de simplifier la transition. Nous avons évoqué le déplacement de ce site en mai 2018.
 
 ## Devrais-je à nouveau migrer un jour vers un autre centre de données ?
 {: #move-data}
@@ -65,7 +65,7 @@ Vous pouvez utiliser n'importe que site {{site.data.keyword.cloud_notm}} mondial
 ## Les deux mois gratuits des ressources de transition s'ajoutent-ils à mon temps serveur existant ?
 {: #free}
 
-Oui. Vous pouvez nous contacter et un représentant du support technique peut vous aider pour la procédure d'acquisition de serveurs pour votre période de transition.
+Oui. Vous pouvez contacter et un représentant du support technique à même de vous aider pour la procédure d'acquisition de serveurs pour votre période de transition.
 
 ## Comment déterminer quelle est ma configuration matérielle actuelle ?
 {: #current-hardware}
@@ -75,7 +75,7 @@ Connectez-vous au portail client. Dans **Liste des unités**, sélectionnez le s
 ## Comment puis-je déterminer l'utilisation de mon matériel actuel ?
 {: #utilization} 
 
-La plupart des systèmes d'exploitation fournissent des outils que vous pouvez utiliser pour comprendre l'utilisation de votre système, par exemple, la commande vmstat et iostat sur Linux ou Windows System Performance Monitor. Beaucoup d'autres outils de surveillance des performances peuvent aussi vous être disponibles. La surveillance et le réglage des performances peuvent demander un investissement conséquent en temps et en efforts. En général, vous devez comprendre si des ressources spécifiques dans le système (processeur, mémoire, disque, réseau) sont lourdement utilisées ou ne sont pas utilisées comme elles le devraient. Ces informations peuvent vous aider à mieux dimensionner votre nouveau système. Par exemple, un système où la capacité de mémoire est fréquemment sursollicitée est susceptible de bénéficier d'une mémoire plus volumineuse dans le système cible où vous migrez.
+La plupart des systèmes d'exploitation fournissent des outils que vous pouvez utiliser pour comprendre l'utilisation de votre système, par exemple, la commande vmstat et iostat sur Linux ou Windows System Performance Monitor. Beaucoup d'autres outils de surveillance des performances peuvent aussi vous être disponibles. La surveillance et le réglage des performances peuvent demander un investissement conséquent en temps et en efforts. En général, vous devez comprendre si des ressources spécifiques dans le système (processeur, mémoire, disque, réseau) sont lourdement utilisées ou non utilisées. Ces informations peuvent vous aider à mieux dimensionner votre nouveau système. Par exemple, un système où la capacité de mémoire est fréquemment sursollicitée est susceptible de bénéficier d'une mémoire plus volumineuse dans le système cible où vous migrez.
 
 ## Comment comparer anciens et nouveaux processeurs ?
 {: #old-new}
@@ -89,7 +89,7 @@ Si vous utilisez le serveur depuis plusieurs années sans l'avoir mis jour, il e
 
 Votre choix de système d'exploitation peut être dicté par les applications que vous exécutez. Dans le cadre de la migration, vous pouvez être amené à exécuter l'application sur une version ultérieure du système d'exploitation. Vérifiez qu'elle fonctionne sur la version plus récente.
 
-Les compétences disponibles avec un système d'exploitation spécifique peuvent aussi influencer votre choix. Si vous disposez du code source de l'application, vérifiez que les outils de développement et les fonctions de système et de middleware sont disponibles sur la nouvelle plateforme.  En général, les systèmes Linux sont plus à même que Windows de prendre en charge les anciennes applications sur de nouvelles versions du système d'exploitation, mais ceci n'est pas garanti.
+Les compétences disponibles avec un système d'exploitation spécifique peuvent aussi influencer votre choix. Si vous disposez du code source de l'application, vérifiez que les outils de développement et les fonctions de système et de middleware sont disponibles sur la nouvelle plateforme. En général, les systèmes Linux sont plus à même que Windows de prendre en charge les anciennes applications sur de nouvelles versions du système d'exploitation.
 
 ## Quelle bande passante est-elle obtenue avec ma nouvelle configuration et est-elle la même que ma bande passante actuelle ?
 {: #bandwidth}
@@ -101,17 +101,17 @@ Vous recevez un package de bande passante actuel étroitement associé à celui 
 
 Une fois établie la connectivité entre l'ancien et le nouveau serveur, vous devez prendre en compte la manière dont vous transférez des données entre eux.  En supposant que vous disposez d'un stockage suffisant sur le nouveau serveur pour gérer le volume de données, une copie directe serveur à serveur est la méthode la plus simple pour ce faire.  Il existe de nombreux outils disponibles que vous pouvez utiliser.  
 
-* scp est un choix idoine pour copier en sécurité un fichier de la source à la destination.  Il effectue une copie linéaire ordinaire. 
+* scp est un choix idoine pour copier en sécurité un fichier de la source à la destination. Il effectue une copie linéaire ordinaire. 
 * Si vous avez besoin de copier plusieurs fichiers, la resynchronisation sous ssh est bien plus rapide que sous scp. rsync copie également les structures de répertoires et préserve les autorisations d'accès aux fichiers.
 
 En général, vous de devriez copier que des applications et des données d'application entre les systèmes. La copie d'anciennes versions des fichiers de systèmes d'exploitation vers une nouvelle version peut provoquer des problèmes.
 
-Arrêtez les bases de données avant de les copier entre les systèmes afin de garantir que les données sont cohérentes. Lors de la migration des données de base de données, vérifiez que les données sont migrées d'une façon qui ne limitent pas vos options d'importation dans le nouveau système. Au lieu de copier des données de base de données de système à système, envisagez de les exporter sous un format vous permettant de les importer dans une base de données plus récente. Les fichiers texte à plat, les fichiers CSV, etc., fournissent plus d'options que l'utilisation de formats de fichier propriétaire ou fermé lorsqu'il s'agit de transférer des données entre les systèmes. Testez systématiquement vos approches de migration de données sur un petit jeu de données de test avant d'effectuer la copie officielle.
+Arrêtez les bases de données avant de les copier entre les systèmes afin de garantir que les données sont cohérentes. Lors de la migration des données de base de données, vérifiez que les données sont migrées d'une façon qui ne limitent pas vos options d'importation dans le nouveau système. Au lieu de copier des données de base de données de système à système, envisagez de les exporter sous un format vous permettant de les importer dans une base de données plus récente. Les fichiers texte à plat, les fichiers CSV, et d'autres fichiers, fournissent plus d'options que l'utilisation de formats de fichier propriétaire ou fermé lorsqu'il s'agit de transférer des données entre les systèmes. Testez systématiquement vos approches de migration de données sur un petit jeu de données de test avant d'effectuer la copie officielle.
 
 ## Dois-je configurer mon réseau à nouveau sur le nouveau site ?
 {: #networking}
 
-Votre réseau doit probablement être modifié pour opérer avec les nouveaux serveurs et le nouveau site.  Si vous avez besoin d'aide pour ce processus, contactez l'équipe de support par téléphone ou via une discussion.
+Votre réseau doit probablement être modifié pour opérer avec les nouveaux serveurs et le nouveau site. Si vous avez besoin d'aide pour ce processus, contactez l'équipe de support par téléphone ou via une discussion.
 
 ## Que dois-je faire si je n'ai pas les compétences nécessaires pour migrer ?
 {: #migrate-skills}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: cloud status, view cloud status
 
@@ -26,7 +26,7 @@ La page Statut est l'emplacement central permettant de rechercher les incidents 
 
 Vous pouvez afficher la page Statut en vous connectant à la console {{site.data.keyword.Bluemix_notm}}. Cliquez sur **Support** dans la barre de menus, puis cliquez sur **Afficher le statut du cloud** dans le Centre de support. Ou vous pouvez accéder à la page directement à partir de [{{site.data.keyword.Bluemix_notm}} - Statut ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/status){: new_window}.
 
-* Cliquez sur **Statut** pour afficher le statut actuel des ressources dans tous les emplacements {{site.data.keyword.Bluemix_notm}}. 
+* Cliquez sur **Statut** pour afficher le statut des ressources dans tous les emplacements {{site.data.keyword.Bluemix_notm}}. 
 
   Vous pouvez afficher une liste d'événements, dans l'ordre chronologique, pour la maintenance et les incidents. Vous pouvez effectuer une recherche dans toutes les notifications ou filtrer par type, par emplacement géographique et par ressource. Vous pouvez également afficher les fenêtres de maintenance planifiée pour lesquelles une notification préalable est fournie ainsi que les incidents ou les pannes imprévus, qui sont signalés dès que l'équipe {{site.data.keyword.Bluemix_notm}} en a connaissance. Les notifications d'incident sont régulièrement mises à jour jusqu'à leur résolution.
 

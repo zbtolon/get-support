@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: cloud status, view cloud status
 
@@ -26,7 +26,7 @@ subcollection: get-support
 
 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하여 상태 페이지를 찾을 수 있습니다. 메뉴 표시줄에서 **지원**을 클릭한 다음 지원 센터에서 **클라우드 상태 보기**를 클릭하십시오. 또는 [{{site.data.keyword.Bluemix_notm}} - 상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/status){: new_window}에서 직접 페이지에 액세스할 수 있습니다.
 
-* **상태**를 클릭하여 모든 {{site.data.keyword.Bluemix_notm}} 위치에서 리소스의 현재 상태를 보십시오. 
+* **상태**를 클릭하여 모든 {{site.data.keyword.Bluemix_notm}} 위치에서 리소스의 상태를 보십시오. 
 
   유지보수 및 인시던트에 대한 이벤트 목록을 시간 순서로 볼 수 있습니다. 모든 알림에서 검색하거나 유형, 지리적 위치 및 개별 리소스를 기준으로 필터링할 수 있습니다. 또한 사전통고가 제공된 계획된 유지보수 기간 및 {{site.data.keyword.Bluemix_notm}} 팀이 인식하게 되면 바로 게시되는 계획되지 않은 인시던트 또는 정전을 볼 수 있습니다. 인시던트 알림은 해결될 때까지 정기적으로 업데이트됩니다.
 
@@ -50,7 +50,7 @@ subcollection: get-support
 ## RSS 피드 구독
 {: #subscribing-rss-feed}
 
-상태 페이지에 대한 RSS 피드를 구독하여 알림 경보를 받습니다. 이 접근 방법은 정기적으로 상태 페이지로 이동하지 않고도 업데이트를 받을 수 있는 방법을 제공합니다. 
+상태 페이지에 대한 RSS 피드를 구독하여 알림 경보를 받습니다. 이 접근 방법은 정기적으로 상태 페이지로 이동하지 않고도 업데이트를 받을 수 있는 방법을 제공합니다.
 
 구독하려면 다음 단계를 따르십시오.
 

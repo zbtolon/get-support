@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-21"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,10 +29,10 @@ Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
 | Beschreibung |	Grundlegende Geschäftsabsicherung im Rahmen Ihres nutzungsabhängigen Kontos oder Ihres Abonnementkontos in {{site.data.keyword.Bluemix_notm}} | Priorisierte Fallbearbeitung und Unterstützung, die auf Ihre Geschäftsanforderungen abgestimmt sind | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
-| Verfügbarkeit | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle und Telefon | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
-| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als 1 Stunde <br/> Priorität 2: Weniger als zwei Stunden <br/> Priorität 3: Weniger als vier Stunden <br/> Priorität 4: Weniger als acht Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als zwei Stunden <br/> Priorität 4: Weniger als vier Stunden |
+| Verfügbarkeit |24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle und Telefon<br/> <br/> Telefon und Chat nur für nutzungsabhängige Konten und Abonnementkonten | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
+| Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als 1 Stunde <br/> Priorität 2: Weniger als 2 Stunden <br/> Priorität 3: Weniger als 4 Stunden <br/> Priorität 4: Weniger als 8 Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als 2 Stunden <br/> Priorität 4: Weniger als 4 Stunden |
 | Fallpriorität | Nicht zutreffend | Einstufung nach Fallpriorität verfügbar | Einstufung nach Fallpriorität verfügbar |
-| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Kontakt zu Experten <br/> <br/> Einladung zu Cloud Insights |
+| Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Kontakt zu Experten |
 {:caption="Tabelle 1. Supportpläne" caption-side="top"}
 
 Die SLO-Aktualisierung für die angestrebte Erstreaktionszeit im Rahmen des Premium Supports ist ab 01. Oktober 2018 gültig. Die Aktualisierungen beziehen sich auf Supportfälle, die am oder nach dem 01. Oktober 2018 erstellt wurden. Die angestrebte Erstreaktionszeit im Rahmen des Premium Supports vor dem 01. Oktober 2018 beträgt 1 Stunde für Priorität 1 und 90 Minuten für Priorität 2.
@@ -49,7 +49,6 @@ Premium Support wird für geschäftskritische Umgebungen mit strategischer Abhä
   * Technical Account Manager, damit Sie schneller wieder produktiv sind
   * Zugang zu Experten zwecks spezialisierter technischer Beratungen und Unterstützung
   * Vierteljährliche Geschäftsprüfungen
-  * Einladung zu *Cloud Insights*, das Forum, über das Sie technische Experten von IBM kontaktieren können
 
 ## Advanced Support
 {: #standard-support}

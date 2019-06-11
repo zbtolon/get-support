@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # 状況をモニターするためのベスト・プラクティス
 {: #best-practices}
 
-常に最新の情報を取得し、その情報に基づいて計画を立てるには、{{site.data.keyword.Bluemix}} の状況をモニターするための以下のベスト・プラクティスを使用します。
+プランを作成して最新情報を入手するには、{{site.data.keyword.Bluemix}} の状況をモニターするための以下のベスト・プラクティスを使用します。
 {: shortdesc}
 
 ## 近く予定されているメンテナンス時間帯を確認する
@@ -46,7 +46,8 @@ subcollection: get-support
 ## 小規模の中断に備える
 {: #monbp-prepmininter}
 
-ほとんどの場合、メンテナンス時間帯の間でも {{site.data.keyword.Bluemix_notm}} の通常使用を継続できます。 しかし、サービスの小規模の中断を回避できない場合もあります。 {{site.data.keyword.Bluemix_notm}} のアプリケーション管理機能(アプリの開始や停止など) が一時的に中断されても、稼働中のアプリケーションは通常、利用可能な状態を維持します。 稼働中のアプリケーションの可用性を最大にするために、アプリケーションごとに少なくとも 3 つのインスタンスを実行してください。
+ほとんどの場合、メンテナンス時間帯の間でも {{site.data.keyword.Bluemix_notm}} の通常使用を継続できます。 しかし、サービスの小規模の中断を回避できない場合もあります。 {{site.data.keyword.Bluemix_notm}} のアプリケーション管理機能
+(アプリの開始や停止など) が一時的に中断されても、稼働中のアプリケーションは通常、利用可能な状態を維持します。 稼働中のアプリケーションの可用性を最大にするために、アプリケーションごとに少なくとも 3 つのインスタンスを実行してください。
 
 ## E メール通知のサブスクライブ
 {: #monbp-subscribing}

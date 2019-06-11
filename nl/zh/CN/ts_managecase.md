@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ subcollection: get-support
 ## 为什么无法创建或编辑支持案例？ 
 {: #ts_service_broker}
 
-您无法创建或编辑 {{site.data.keyword.Bluemix_notm}} 支持案例，并且会显示一条错误消息，说明您没有相应的访问权。
+您无法创建或编辑 {{site.data.keyword.Bluemix_notm}} 支持案例，并且会收到一条错误消息，说明您没有相应的访问权。
 {:shortdesc}
 
 尝试创建案例时，将显示以下错误消息：   
@@ -79,7 +79,7 @@ subcollection: get-support
 您无法查找在增强 {{site.data.keyword.Bluemix_notm}} 平台体验之前创建的案例。
 {:shortdesc}
 
-在转至支持中心的**管理案例**选项卡后，即无法查找在 2018 年 12 月 2 日之前创建的任何案例。
+在转至支持中心的**管理案例**选项卡后，找不到在 2018 年 12 月 2 日之前创建的任何案例。
 {: tsSymptoms}
 
 2018 年 12 月 2 日之前打开的案例仅在**查看归档案例**中显示。

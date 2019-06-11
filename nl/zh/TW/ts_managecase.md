@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ subcollection: get-support
 ## 為什麼我無法建立或編輯支援案例？ 
 {: #ts_service_broker}
 
-您無法建立或編輯 {{site.data.keyword.Bluemix_notm}} 支援案例，並且顯示了指出您沒有適當存取權的錯誤訊息。
+您無法建立或編輯 {{site.data.keyword.Bluemix_notm}} 支援案例，並且收到您沒有適當存取權的錯誤訊息。
 {:shortdesc}
 
 當您嘗試建立案例時，會顯示下列錯誤訊息：   

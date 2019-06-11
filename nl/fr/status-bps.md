@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Bonnes pratiques de surveillance du statut
 {: #best-practices}
 
-Pour rester informé et planifier en conséquence, utilisez les bonnes pratiques suivantes pour surveiller le statut d'{{site.data.keyword.Bluemix}}.
+Pour créer un plan et rester informé, utilisez les meilleures pratiques suivantes pour surveiller le statut d'{{site.data.keyword.Bluemix}}.
 {: shortdesc}
 
 ## Vérification des fenêtres de maintenance prévues

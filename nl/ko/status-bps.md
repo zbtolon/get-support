@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # 상태 모니터링의 우수 사례
 {: #best-practices}
 
-계속 정보를 받고 이에 따라 계획하려면 {{site.data.keyword.Bluemix}}의 상태를 모니터하기 위한 다음 우수 사례를 사용하십시오.
+플랜을 작성하고 계속 정보를 받으려면 {{site.data.keyword.Bluemix}}의 상태를 모니터하기 위한 다음 우수 사례를 사용하십시오.
 {: shortdesc}
 
 ## 다가오는 유지보수 기간 확인

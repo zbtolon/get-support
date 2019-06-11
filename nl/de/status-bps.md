@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Bewährte Verfahren für die Statusüberwachung
 {: #best-practices}
 
-Verwenden Sie die folgenden bewährten Verfahren für die Überwachung des Status von {{site.data.keyword.Bluemix}}, um informiert zu bleiben und entsprechend planen zu können.
+Verwenden Sie die folgenden bewährten Verfahren für die Überwachung des Status von {{site.data.keyword.Bluemix}}, um einen Plan zu erstellen und die neuesten Informationen zu erhalten.
 {: shortdesc}
 
 ## Prüfen, ob Wartungszeiten bevorstehen

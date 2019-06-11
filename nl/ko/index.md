@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-21"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,10 +29,11 @@ subcollection: get-support
 |  |기본 지원 |고급 지원 |프리미엄 지원 |
 |-------------|-------------|-------------|-------------|
 |설명 |	{{site.data.keyword.Bluemix_notm}} 종량과금제 또는 구독 계정에 포함된 기본 비즈니스 보호 |케이스 우선 처리 및 비즈니스 요구사항에 따른 지원 경험 |가치 창출 시간을 가속화하기 위한, 비즈니스 결과에 따른 클라이언트 응대 |
-|가용성 | 케이스 및 전화를 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |
+|가용성 |케이스 및 전화를 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 <br/> <br/> 전화 및 대화는 PayGo 및 구독 계정을 통해서만 사용 가능
+|케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |
 |초기 응답 시간 목표 |해당사항 없음 | 심각도 1: 한 시간 내 <br/> 심각도 2: 두 시간 내 <br/> 심각도 3: 네 시간 내 <br/> 심각도 4: 여덟 시간 내 | 심각도 1: 15분 내 <br/> 심각도 2: 한 시간 내 <br/> 심각도 3: 두 시간 내 <br/> 심각도 4: 네 시간 내 |
 |케이스 심각도 |해당사항 없음 |케이스 심각도 순위 사용 가능 |케이스 심각도 순위 사용 가능 |
-|추가 지원 |해당사항 없음 |해당사항 없음 | 기술 영업 담당자가 지정됨 <br/> <br/> 분기별 비즈니스 검토 <br/><br/> 전문가 문의 가능 <br/> <br/> Cloud Insights 초대 |
+|추가 지원 |해당사항 없음 |해당사항 없음 | 기술 영업 담당자가 지정됨 <br/> <br/> 분기별 비즈니스 검토 <br/><br/> 전문가 문의 가능 |
 {:caption="표 1. 지원 플랜" caption-side="top"}
 
 프리미엄 지원 초기 응답 시간 목표에 대한 업데이트된 SLO는 2018년 10월 1일부터 유효합니다. 업데이트는 2018년 10월 1일 또는 그 이후에 작성된 지원 케이스에 적용될 수 있습니다. 2018년 10월 1일 이전의 프리미엄 지원 초기 응답 시간 목표는 심각도 1의 경우 1시간 이내이며 심각도 2의 경우 90분 이내입니다.
@@ -49,7 +50,6 @@ subcollection: get-support
   * 가치 창출 시간의 가속화를 지원하는 기술 영업 담당자
   * 전문 기술 자문 및 지원을 위한 전문가와 연결
   * 분기별 비즈니스 검토
-  * IBM 기술 전문가와 만날 수 있는 포럼인 *Cloud Insights*에 대한 초대
 
 ## 고급 지원
 {: #standard-support}
@@ -64,6 +64,6 @@ subcollection: get-support
 ## 지원 플랜 변경
 {:changing-support}
 
-{{site.data.keyword.Bluemix_notm}} 영업팀에 문의하여 언제든지 현재 지원 플랜을 변경할 수 있습니다. [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘") 페이지를 방문하여 스크롤한 후에 **담당자**를 클릭하십시오. 여기서 채팅, 전화 또는 이메일을 통해 전문가와 상담할 수 있습니다.  
+{{site.data.keyword.Bluemix_notm}} 영업팀에 문의하여 언제든지 현재 지원 플랜을 변경할 수 있습니다. [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘") 페이지로 이동하여 스크롤한 후에 **담당자**를 클릭하십시오. 여기서 채팅, 전화 또는 이메일을 통해 전문가와 상담할 수 있습니다.  
 
 

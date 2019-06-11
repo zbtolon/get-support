@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ Es können Probleme beim Erstellen und Verwalten von {{site.data.keyword.Bluemix
 ## Warum kann ich keinen Supportfall erstellen oder bearbeiten? 
 {: #ts_service_broker}
 
-Sie können keinen {{site.data.keyword.Bluemix_notm}}-Supportfall erstellen und es wird eine Fehlernachricht angezeigt, die besagt, dass Sie nicht über den entsprechenden Zugriff verfügen. 
+Sie können keinen {{site.data.keyword.Bluemix_notm}}-Supportfall erstellen und sie erhalten eine Fehlernachricht, die angibt, dass Sie nicht über den entsprechenden Zugriff verfügen.
 {:shortdesc}
 
 Wenn Sie versuchen, einen Fall zu erstellen, wird die folgende Fehlernachricht angezeigt:   
@@ -43,7 +43,7 @@ Wenn Sie versuchen, einen Fall zu erstellen, wird die folgende Fehlernachricht a
 Allgemeine Probleme beim Zugriff auf und der Verwaltung von Supportfällen können dadurch verursacht werden, dass die Zugriffsrichtlinie Identity and Access Management (IAM) für den Kontoverwaltungsservice des Support Centers nicht vorhanden ist. Ihnen muss die Editor- oder die Administratorrolle auf dem Kontoverwaltungsservice des Support Centers zugeordnet werden, um Fälle zu erstellen. 
 {: tsCauses}
 
-Um das Problem zu lösen, kann der Kontoeigner, ein Administrator für den Service Support Center oder der Administrator für alle Kontoverwaltungsservices eine IAM-Richtlinie für das Support Center zur Verwaltung von Fällen zuweisen. 
+Um das Problem zu lösen, kann der Kontoeigner, ein Administrator für den Service Support Center oder der Administrator für alle Kontoverwaltungsservices eine IAM-Richtlinie für das Support Center zur Verwaltung von Fällen zuweisen.
 {: tsResolve}
 
 Wenn Sie der Kontoeigner oder ein Administrator des Support Centers sind, führen Sie die folgenden Schritte aus, um eine Zugriffsrichtlinie für die Arbeit mit Supportfällen zu erstellen:
@@ -59,7 +59,7 @@ Wenn Sie der Kontoeigner oder ein Administrator des Support Centers sind, führe
 ## Warum kann ich nicht alle Fälle im Konto anzeigen?
 {: #ts_viewcasedetails}
 
-Sie können nicht alle Fälle im Konto anzeigen, da Sie keinen Zugriff haben, um alle Benutzer im Konto anzuzeigen.
+Sie können nicht alle Fälle im Konto anzeigen, da Sie keinen Zugriff haben, um alle Benutzer im Konto anzuzeigen. 
 {:shortdesc}
 
 Wenn Sie versuchen, die Supportfälle anzuzeigen, die dem Konto zugeordnet sind, können Sie nicht alle offenen Fälle sehen. 
@@ -80,10 +80,10 @@ Um das Problem zu beheben, setzen Sie sich mit dem Kontoeigner in Verbindung, um
 Sie können Ihre Fälle, die Sie vor dem erweiterten {{site.data.keyword.Bluemix_notm}}-Plattformerlebnis erstellt haben, nicht finden. 
 {:shortdesc}
 
-Sie haben im Support Center die Registerkarte **Fälle verwalten** aufgerufen. Dort werden keine Fälle angezeigt, die Sie vor dem 2. Dezember 2018 erstellt haben. 
+Sie haben im Support Center die Registerkarte **Fälle verwalten** aufgerufen. Dort werden keine Fälle angezeigt, die Sie vor dem 2. Dezember 2018 erstellt haben.
 {: tsSymptoms}
 
-Fälle, die vor dem 2. Dezember 2018 angelegt (d. h. geöffnet) wurden, sind nur über die Anzeigeoption **Archivierte Fälle anzeigen** sichtbar. 
+Fälle, die vor dem 2. Dezember 2018 angelegt (d. h. geöffnet) wurden, sind nur über die Anzeigeoption **Archivierte Fälle anzeigen** sichtbar.
 {: tsCauses}
 
 Rufen Sie zum Anzeigen Ihrer Fälle **Support** auf, wählen Sie die Option **Fälle verwalten** aus und klicken Sie auf **Archivierte Fälle anzeigen**.

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: cloud status, view cloud status
 
@@ -26,7 +26,7 @@ subcollection: get-support
 
 您可以通过登录到 {{site.data.keyword.Bluemix_notm}} 控制台找到“状态”页面。单击菜单栏中的**支持**，然后从支持中心单击**查看云状态**。或者，您可以通过 [{{site.data.keyword.Bluemix_notm}} - 状态 ![外部链接图标](../icons/launch-glyph.svg "外部链接图标")](https://cloud.ibm.com/status){: new_window} 直接访问页面。
 
-* 单击**状态**以查看所有 {{site.data.keyword.Bluemix_notm}} 位置的资源的当前状态。 
+* 单击**状态**以查看所有 {{site.data.keyword.Bluemix_notm}} 位置的资源的状态。 
 
   您可以按时间顺序查看事件列表以了解维护和事件。您可以在所有通知中进行搜索，或者按类型、地理位置和个别资源进行过滤。您还可以查看预先通知的计划维护时段以及计划外的事件或中断，这些信息会在 {{site.data.keyword.Bluemix_notm}} 团队获知后立即发布。事件通知会定期更新，直到解决为止。
 

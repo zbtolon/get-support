@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -30,12 +30,12 @@ IBM está retirando el soporte para los siguientes centros de datos de los Estad
 ##  ¿Por qué tengo que trasladarme a otro centro de datos?
 {: #required-data}
 
-Para seguir ofreciendo el mejor servicio, hardware y conectividad, evaluamos continuamente todos nuestros sitios para asegurarnos de que cumplen con los estándares de red, eléctricos y otros estándares de infraestructura. A pesar de que estos sitios son adecuados, ya no cumplen con nuestros estándares actuales.
+Para seguir ofreciendo el mejor servicio, hardware y conectividad, todos los sitios se evalúan de forma continua para garantizar que cumplen con los estándares de red, eléctricos y otros estándares de infraestructura. A pesar de que estos sitios son adecuados, ya no cumplen con los estándares actuales.
 
 ## ¿Tengo que haber finalizado la migración por completo en la fecha que aparece en la lista?
 {: #data-list}
 
-Sí. Para garantizar que no sufra ninguna interrupción en el servicio, estamos intentando dejar el máximo tiempo posible para facilitarle la transición lo máximo posible. Comunicamos este traslado de sitio en mayo de 2018.
+Sí. Para garantizar que no sufra ninguna interrupción en el servicio, estamos intentando dejar el máximo tiempo posible para facilitarle la transición. Comunicamos este traslado de sitio en mayo de 2018.
 
 ## ¿Tendré que volver a trasladarme a otro centro de datos en el futuro?
 {: #move-data}
@@ -65,7 +65,7 @@ Puede utilizar cualquier sitio de {{site.data.keyword.cloud_notm}} del mundo dur
 ## ¿Los dos meses gratuitos de recursos en periodo de transición se suman a mi tiempo de servidor existente?
 {: #free}
 
-Sí. Póngase en contacto con nosotros y un representante de soporte le puede ayudar en el proceso de adquirir sus servidores en periodo de transición.
+Sí. Póngase en contacto con un representante de soporte, que le puede ayudar en el proceso de adquirir sus servidores en periodo de transición.
 
 ## ¿Cómo puedo determinar mi configuración de hardware actual?
 {: #current-hardware}
@@ -75,7 +75,7 @@ Inicie una sesión en el portal de clientes. En la **Lista de dispositivos**, se
 ## ¿Cómo puedo determinar la utilización de mi hardware actual?
 {: #utilization} 
 
-La mayoría de los sistemas operativos proporcionan herramientas que puede utilizar para comprender la utilización de su sistema, por ejemplo vmstat e iostat en Linux o Windows System Performance Monitor. Es posible que también disponga de otras herramientas de supervisión del rendimiento. La supervisión y el ajuste del rendimiento es algo en lo que puede invertir un tiempo y esfuerzo considerables. En general, tiene que comprender si hay recursos específicos dentro del sistema (procesador, memoria, disco, red) que estén sobreutilizados o que no se utilicen como se debería. Esta información le puede ayudar a calcular mejor el tamaño de su nuevo sistema. Por ejemplo, un sistema en el que se suele agotar la capacidad de memoria probablemente se beneficiará de un tamaño de memoria mayor en el sistema de destino al que migre.
+La mayoría de los sistemas operativos proporcionan herramientas que puede utilizar para comprender la utilización de su sistema, por ejemplo vmstat e iostat en Linux o Windows System Performance Monitor. Es posible que también disponga de otras herramientas de supervisión del rendimiento. La supervisión y el ajuste del rendimiento es algo en lo que puede invertir un tiempo y esfuerzo considerables. En general, tiene que comprender si hay recursos específicos dentro del sistema (procesador, memoria, disco, red) que estén sobreutilizados o que no se utilicen. Esta información le puede ayudar a calcular mejor el tamaño de su nuevo sistema. Por ejemplo, un sistema en el que se suele agotar la capacidad de memoria probablemente se beneficiará de un tamaño de memoria mayor en el sistema de destino al que migre.
 
 ## ¿Cómo se compara el procesador antiguo con el nuevo?
 {: #old-new}
@@ -89,7 +89,7 @@ Si el servidor se ha utilizado durante muchos años y no se mantiene actualizado
 
 La selección del sistema operativo puede venir impuesta por las aplicaciones que ejecute. Como parte de la migración, es posible que tenga que ejecutar la aplicación en una versión posterior del sistema operativo. Asegúrese de que esto funciona en la versión nueva.
 
-Los conocimientos de los que dispone sobre un determinado sistema operativo también pueden afectar a su selección. Si tiene el código fuente de la aplicación, asegúrese de disponer en la nueva plataforma de las herramientas de desarrollo y de las funciones de sistema operativo o de middleware necesarias.  En general, los sistemas de tipo Linux suelen dar mejor soporte a aplicaciones antiguas en versiones nuevas del sistema operativo que Windows, pero no hay ninguna garantía.
+Los conocimientos de los que dispone sobre un determinado sistema operativo también pueden afectar a su selección. Si tiene el código fuente de la aplicación, asegúrese de disponer en la nueva plataforma de las herramientas de desarrollo y de las funciones de sistema operativo o de middleware necesarias. En general, los sistemas de tipo Linux suelen dar mejor soporte a aplicaciones antiguas en versiones nuevas del sistema operativo que Windows.
 
 ## ¿Qué ancho de banda recibiré con mi nueva configuración y es la tasa la misma que la que tengo ahora?
 {: #bandwidth}
@@ -101,17 +101,17 @@ Recibirá un paquete de ancho de banda estrechamente relacionado con el paquete 
 
 Después de establecer la conectividad entre el servidor antiguo y el nuevo, debe pensar cómo moverá los datos entre los mismos.  Suponiendo que tiene almacenamiento suficiente en el nuevo servidor para acomodar el volumen de datos, una copia directa de servidor a servidor es la forma más sencilla de conseguirlo.  Existen varias herramientas que puede utilizar.  
 
-* scp es una buena opción para copiar de forma segura un archivo del origen en el destino.  Realiza una copia lineal sin formato. 
+* scp es una buena opción para copiar de forma segura un archivo del origen en el destino. Realiza una copia lineal sin formato. 
 * Si tiene que copiar varios archivos, rsync sobre ssh es mucho más rápido que scp. rsync también copia las estructuras de directorios y conserva los permisos de los archivos.
 
 En general, solo debe copiar aplicaciones y datos de aplicaciones entre los sistemas. El hecho de copiar versiones antiguas de archivos del sistema operativo en una versión más nueva puede ocasionar problemas.
 
-Cierre las bases de datos antes de copiarlas entre los sistemas para asegurarse de que los datos son coherentes. Cuando migre datos de bases de datos, asegúrese de que los datos se migren de modo que no limiten sus opciones para importarlos en el nuevo sistema. En lugar de copiar datos de bases de datos de un sistema en otro, tenga en cuenta la posibilidad de exportarlos a un formato que le permita importarlos en una base de datos más nueva. Los archivos de texto sin formato, los archivos CSV, etc. proporcionan más opciones que el uso de formatos de archivo propietario o cerrado cuando se trata de mover datos entre sistemas. Pruebe siempre los métodos de migración de datos en un pequeño conjunto de datos de prueba antes de realizar la copia oficial.
+Cierre las bases de datos antes de copiarlas entre los sistemas para asegurarse de que los datos son coherentes. Cuando migre datos de bases de datos, asegúrese de que los datos se migren de modo que no limiten sus opciones para importarlos en el nuevo sistema. En lugar de copiar datos de bases de datos de un sistema en otro, tenga en cuenta la posibilidad de exportarlos a un formato que le permita importarlos en una base de datos más nueva. Los archivos de texto sin formato, los archivos CSV, y otros archivos, proporcionan más opciones que el uso de formatos de archivo propietario o cerrado cuando se trata de mover datos entre sistemas. Pruebe siempre los métodos de migración de datos en un pequeño conjunto de datos de prueba antes de realizar la copia oficial.
 
 ## ¿Tengo que volver a configurar mi red en el nuevo sitio?
 {: #networking}
 
-Lo más probable es que su red tenga que cambiar para trabajar con los nuevos servidores y el nuevo sitio.  Si necesita ayuda con este proceso, póngase en contacto con el equipo de soporte técnico por teléfono o chat.
+Lo más probable es que su red tenga que cambiar para trabajar con los nuevos servidores y el nuevo sitio. Si necesita ayuda con este proceso, póngase en contacto con el equipo de soporte técnico por teléfono o chat.
 
 ## ¿Qué debo hacer si no tengo los conocimientos necesarios para realizar la migración?
 {: #migrate-skills}

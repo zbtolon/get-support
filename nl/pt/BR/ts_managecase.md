@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ subcollection: get-support
 ## Por que não posso criar ou editar casos de suporte? 
 {: #ts_service_broker}
 
-Não é possível criar ou editar um caso de suporte do {{site.data.keyword.Bluemix_notm}}, e é exibida uma mensagem de erro informando que você não tem o acesso apropriado. 
+Não é possível criar ou editar um caso de suporte do {{site.data.keyword.Bluemix_notm}} e você recebe uma mensagem de erro de que não tem o acesso apropriado.
 {:shortdesc}
 
 Quando você tenta criar um caso, a mensagem de erro a seguir é exibida:   
@@ -44,7 +44,7 @@ Problemas gerais com o acesso e o gerenciamento de casos de suporte podem ser ca
 não ter a política de acesso do Identity and Access Management (IAM) para o serviço de gerenciamento de conta do Centro de suporte. A função de editor ou administrador no serviço de gerenciamento de conta do centro de suporte deve ser designada a você para criar casos. 
 {: tsCauses}
 
-Para resolver o problema, o proprietário da conta, um administrador no serviço do centro de suporte ou o administrador em todos os serviços de gerenciamento de conta podem designar uma política do IAM no centro de suporte para gerenciar casos. 
+Para resolver o problema, o proprietário da conta, um administrador no serviço do centro de suporte ou o administrador em todos os serviços de gerenciamento de conta pode designar uma política do IAM no centro de suporte para gerenciar casos.
 {: tsResolve}
 
 Se você for o proprietário da conta ou um administrador do Centro de suporte, conclua as etapas a seguir para criar uma política de acesso para trabalhar com casos de suporte:
@@ -60,7 +60,8 @@ Se você for o proprietário da conta ou um administrador do Centro de suporte, 
 ## Por que não posso visualizar todos os casos na conta?
 {: #ts_viewcasedetails}
 
-Não é possível visualizar todos os casos na conta porque você não tem acesso para visualizar todos os usuários na conta. {:shortdesc}
+Não é possível visualizar todos os casos na conta porque você não tem acesso para visualizar todos os usuários na conta. 
+{:shortdesc}
 
 Quando você tenta visualizar os casos de suporte associados à conta, não é possível ver todos os casos abertos. 
 {: tsSymptoms}
@@ -79,10 +80,10 @@ Para resolver o problema, entre em contato com o proprietário da conta para sol
 Não é possível localizar os casos criados antes da experiência de plataforma aprimorada do {{site.data.keyword.Bluemix_notm}}. 
 {:shortdesc}
 
-Depois de acessar a guia **Gerenciar casos** no Centro de suporte, não é possível localizar nenhum caso criado antes de 2 de dezembro de 2018. 
+Depois de acessar a guia **Gerenciar casos** no centro de suporte, não é possível localizar nenhum caso que você criou antes de 2 de dezembro de 2018.
 {: tsSymptoms}
 
-Os casos abertos antes de 2 de dezembro de 2018 são visíveis apenas em **Visualizar casos arquivados**. 
+Os casos abertos antes de 2 de dezembro de 2018 são visíveis apenas em **Visualizar casos arquivados**.
 {: tsCauses}
 
 Para visualizar seus casos, acesse **Suporte**, selecione **Gerenciar casos** e clique em **Visualizar casos arquivados**.

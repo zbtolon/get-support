@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Procedure consigliate per il monitoraggio dello stato
 {: #best-practices}
 
-Per rimanere informato e pianificare di conseguenza, utilizza le seguenti procedure consigliate per monitorare lo stato di {{site.data.keyword.Bluemix}}.
+Per creare un piano e rimanere informato, utilizza le seguenti procedure consigliate per monitorare lo stato di {{site.data.keyword.Bluemix}}.
 {: shortdesc}
 
 ## Controlla le prossime finestre di manutenzione

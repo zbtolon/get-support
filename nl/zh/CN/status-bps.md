@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # 监视状态的最佳做法
 {: #best-practices}
 
-要随时获得最新信息并相应进行规划，请使用以下最佳做法来监视 {{site.data.keyword.Bluemix}} 的状态。
+要创建计划并随时获得最新信息，请使用下列最佳做法来监视 {{site.data.keyword.Bluemix}} 的状态。
 {: shortdesc}
 
 ## 检查即将开始的维护时段

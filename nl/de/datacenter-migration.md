@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -30,12 +30,12 @@ IBM bietet keine weitere Unterstützung für folgende Rechenzentren in den Verei
 ##  Warum muss ich zu einem anderen Rechenzentrum wechseln?
 {: #required-data}
 
-Um Ihnen weiterhin den besten Service, die beste Hardware und die beste Konnektivität zu bieten, evaluieren wir kontinuierlich alle unsere Standorte, um sicherzustellen, dass sie die Standards bezüglich Netzbetrieb und Elektrik sowie andere Infrastrukturstandards erfüllen. Auch wenn diese Standorte angemessene Bewertungen aufweisen, erfüllen Sie nicht mehr unsere sich weiterentwickelnden Standards.
+Um Ihnen weiterhin den besten Service, die beste Hardware und die beste Konnektivität zu bieten, werden alle Standorte kontinuierlich evaluiert, um sicherzustellen, dass sie die Standards bezüglich Netzbetrieb und Elektrik sowie andere Infrastrukturstandards erfüllen. Auch wenn diese Standorte angemessene Bewertungen aufweisen, erfüllen Sie nicht mehr die sich weiterentwickelnden Standards.
 
 ## Muss die Migration bis zum angegebenen Datum vollständig abgeschlossen sein?
 {: #data-list}
 
-Ja. Um sicherzustellen, dass keine Betriebsunterbrechung notwendig wird, versuchen wir, so viel Vorlaufzeit wie möglich zu ermöglichen, um den Übergang für Sie möglichst reibungslos zu gestalten. Wir haben diese Standortverschiebung bereits im Mai 2018 angekündigt.
+Ja. Um sicherzustellen, dass keine Betriebsunterbrechung notwendig wird, versuchen wir, so viel Vorlaufzeit wie möglich zu ermöglichen, um den Übergang für Sie einfach zu gestalten. Wir haben diese Standortverschiebung bereits im Mai 2018 angekündigt.
 
 ## Muss ich mit einem erneuten Wechsel zu einem anderen Rechenzentrum rechnen?
 {: #move-data}
@@ -65,7 +65,7 @@ Während der 60 Tage dauernden Übergangszeit können Sie einen beliebigen {{sit
 ## Sind diese beiden freien Monate der Übergangszeit Ressourcen, die zusätzlich zu meiner vorhandenen Serverzeit gelten?
 {: #free}
 
-Ja. Sie können sich mit uns in Verbindung setzen, damit ein entsprechender Supportmitarbeiter Ihnen dabei hilft, Ihre Server für die Übergangszeit anzufordern.
+Ja. Sie können sich mit einem entsprechenden Supportmitarbeiter in Verbindung setzen, der Ihnen dabei hilft, Ihre Server für die Übergangszeit anzufordern. 
 
 ## Wie bestimme ich meine aktuelle Hardwarekonfiguration?
 {: #current-hardware}
@@ -75,7 +75,7 @@ Melden Sie sich beim Kundenportal an. Wählen Sie in der **Einheitenliste** den 
 ## Wie stelle ich die Auslastung meiner aktuellen Hardware fest?
 {: #utilization} 
 
-Die meisten Betriebssysteme stellen Tools bereit, die Sie verwenden können, um die Auslastung Ihres Systems zu analysieren, z. B. vmstat und iostat unter Linux oder Windows System Performance Monitor. Es gibt darüber hinaus viele andere Tools zur Leistungsüberwachung, die Ihnen zur Verfügung stehen. Leistungsüberwachung und Optimierung sind Themen, auf die Sie viel Zeit und Mühe verwenden können. Im Allgemeinen müssen Sie wissen, ob bestimmte Ressourcen im System vorhanden sind (Prozessor, Speicher, Platte, Netz), die sehr stark ausgelastet sind oder nicht wie geplant verwendet werden. Mit diesen Informationen können Sie dazu beitragen, die Größe Ihres neuen Systems besser zu veranschlagen. Ein System, das zum Beispiel häufig überbelegte Speicherkapazität aufweist, kann von einer größeren Speicherkapazität in einem Zielsystem profitieren, in das Sie die Migration vornehmen.
+Die meisten Betriebssysteme stellen Tools bereit, die Sie verwenden können, um die Auslastung Ihres Systems zu analysieren, z. B. vmstat und iostat unter Linux oder Windows System Performance Monitor. Es gibt darüber hinaus viele andere Tools zur Leistungsüberwachung, die Ihnen zur Verfügung stehen. Leistungsüberwachung und Optimierung sind Themen, auf die Sie viel Zeit und Mühe verwenden können. Im Allgemeinen müssen Sie wissen, ob bestimmte Ressourcen im System vorhanden sind (Prozessor, Speicher, Platte, Netz), die sehr stark ausgelastet sind oder nicht verwendet werden. Mit diesen Informationen können Sie dazu beitragen, die Größe Ihres neuen Systems besser zu veranschlagen. Ein System, das zum Beispiel häufig überbelegte Speicherkapazität aufweist, kann von einer größeren Speicherkapazität in einem Zielsystem profitieren, in das Sie die Migration vornehmen.
 
 ## Wie kann ich alte und neue Prozessoren vergleichen?
 {: #old-new}
@@ -89,7 +89,7 @@ Wenn der Server seit vielen Jahren im Gebrauch ist und nicht auf dem neuesten St
 
 Die Flexibilität bei der Betriebssystemauswahl ist möglicherweise durch die Anwendungen eingeschränkt, die ausgeführt werden. Als Teil der Migration müssen Sie möglicherweise die Anwendung auf einer späteren Version des Betriebssystems ausführen. Stellen Sie sicher, dass sie auch auf der neueren Version ausgeführt werden kann.
 
-Die verfügbaren Kenntnisse in einem bestimmten Betriebssystem können ebenfalls Einfluss auf Ihre Auswahl haben. Wenn Sie den Quellcode für die Anwendung haben, stellen Sie sicher, dass die erforderlichen Entwicklungstools und unterstützende Betriebssystem- oder Middlewarefunktionen auf der neuen Plattform verfügbar sind.  Im Allgemeinen sind Linux-Systeme besser bei der Unterstützung älterer Anwendungen auf neueren Versionen des Betriebssystems als Windows-Systeme. Es gibt dafür aber keine Garantien.
+Die verfügbaren Kenntnisse in einem bestimmten Betriebssystem können ebenfalls Einfluss auf Ihre Auswahl haben. Wenn Sie den Quellcode für die Anwendung haben, stellen Sie sicher, dass die erforderlichen Entwicklungstools und unterstützende Betriebssystem- oder Middlewarefunktionen auf der neuen Plattform verfügbar sind. Im Allgemeinen sind Linux-Systeme besser bei der Unterstützung älterer Anwendungen auf neueren Versionen des Betriebssystems als Windows-Systeme. 
 
 ## Welche Bandbreite erhalte ich mit meiner neuen Konfiguration und gilt dabei derselbe Preis?
 {: #bandwidth}
@@ -101,17 +101,17 @@ Sie erhalten ein aktuelles Paket mit der Bandbreite, die am ehesten mit dem Pake
 
 Nachdem Sie die Verbindung zwischen dem alten und dem neuen Server hergestellt haben, sollten Sie darüber nachdenken, wie Sie Daten zwischen den beiden Servern verschieben können.  Angenommen, Sie haben genügend Speicherplatz auf dem neuen Server, um das Datenvolumen aufzunehmen, dann ist eine direkte Server-zu-Server-Kopie die einfachste Möglichkeit.  Es stehen viele Tools zur Verfügung, die Sie dafür verwenden können.  
 
-* So ist zum Beispiel 'scp' eine gute Wahl, um eine Datei sicher von der Quelle zum Ziel zu kopieren.  Es führt eine einfache lineare Kopie durch. 
+* So ist zum Beispiel 'scp' eine gute Wahl, um eine Datei sicher von der Quelle zum Ziel zu kopieren. Es führt eine einfache lineare Kopie durch. 
 * Wenn Sie zahlreiche Dateien kopieren müssen, ist 'rsync' über 'ssh' viel schneller als 'scp'. Außerdem kopiert 'rsync' auch Verzeichnisstrukturen und erhält die Dateiberechtigungen.
 
 Im Allgemeinen sollten Sie Anwendungen und Anwendungsdaten nur zwischen Systemen kopieren. Das Kopieren älterer Versionen von Betriebssystemdateien auf neuere Versionen kann zu Problemen führen.
 
-Beenden Sie die Datenbanken, bevor Sie sie zwischen den Systemen kopieren, um sicherzustellen, dass die Daten konsistent sind. Stellen Sie bei der Migration der Datenbankdaten sicher, dass die Daten auf eine Weise migriert werden, die Ihre Möglichkeiten beim Import in ein neues System nicht einschränkt. Anstatt Datenbankdaten von einem System auf ein anderes System zu kopieren, sollten Sie sie in ein Format exportieren, das es Ihnen ermöglicht, sie in eine neuere Datenbank zu importieren. Unstrukturierte Textdateien, CSV-Dateien usw. bieten mehr Optionen als die Verwendung proprietärer oder geschlossener Dateiformate, wenn es um das Verschieben von Daten zwischen Systemen geht. Testen Sie Ihre Datenmigrationsmethoden immer mit einem kleinen Satz von Testdaten, bevor Sie den kompletten Kopiervorgang ausführen.
+Beenden Sie die Datenbanken, bevor Sie sie zwischen den Systemen kopieren, um sicherzustellen, dass die Daten konsistent sind. Stellen Sie bei der Migration der Datenbankdaten sicher, dass die Daten auf eine Weise migriert werden, die Ihre Möglichkeiten beim Import in ein neues System nicht einschränkt. Anstatt Datenbankdaten von einem System auf ein anderes System zu kopieren, sollten Sie sie in ein Format exportieren, das es Ihnen ermöglicht, sie in eine neuere Datenbank zu importieren. Unstrukturierte Textdateien, CSV-Dateien und andere Dateien bieten mehr Optionen als die Verwendung proprietärer oder geschlossener Dateiformate, wenn es um das Verschieben von Daten zwischen Systemen geht. Testen Sie Ihre Datenmigrationsmethoden immer mit einem kleinen Satz von Testdaten, bevor Sie den kompletten Kopiervorgang ausführen.
 
 ## Muss ich die Vernetzung auf der neuen Site erneut konfigurieren?
 {: #networking}
 
-Höchstwahrscheinlich müssen Sie die Vernetzung ändern, um mit den neuen Servern und dem neuen Standort arbeiten zu können.  Wenn Sie dabei Hilfe benötigen, setzen Sie sich telefonisch oder per Chat mit dem Support in Verbindung.
+Höchstwahrscheinlich müssen Sie die Vernetzung ändern, um mit den neuen Servern und dem neuen Standort arbeiten zu können. Wenn Sie dabei Hilfe benötigen, setzen Sie sich telefonisch oder per Chat mit dem Support in Verbindung.
 
 ## Was mache ich, wenn ich nicht über die Fähigkeiten verfüge, die Migration durchzuführen?
 {: #migrate-skills}
@@ -121,7 +121,7 @@ Die Anwendungsmigration kann ein komplexes Unterfangen sein. Nicht zuletzt sind 
 ## Wie bekomme ich allgemeine Hilfe bei der Migration?
 {: #gen-migration}
 
-Abhängig von der Art der erforderlichen Hilfe, können Sie sich telefonisch oder per Chat an den Support wenden. Oder Sie können unser Managed Service-Team um Hilfe bitten.
+Abhängig von der Art der erforderlichen Hilfe, können Sie sich telefonisch oder per Chat an den Support wenden. Oder Sie können unser Managed Service-Team kontaktieren. 
 
 ## An wen kann ich mich wenden, wenn ich keinen Account-Manager habe?
 {: #account-contact}

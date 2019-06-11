@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: status page, status query
 

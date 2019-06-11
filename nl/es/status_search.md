@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: status page, status query
 
@@ -33,7 +33,7 @@ La lista siguiente incluye ejemplos de opciones de búsqueda de URL:
 * Cargue la página con una consulta de búsqueda especificada: `console.cloud.ibm.com/status?selected=<selected>&query=<query>`
 * Acceda a la página con filtros seleccionados. Por ejemplo, puede definir la ubicación geográfica correspondiente a América del Norte con la siguiente búsqueda de URL: `console.cloud.ibm.com/status?selected=status&region=na`
 
-* Utilice identificadores de notificación exclusivos como parámetro de búsqueda para ir directamente a los detalles de la notificación.  Por ejemplo, `query=INC1000001` tiene como destino los elementos con el ID: `INC1000001`. En este ejemplo, `INC1000001` es el número de caso correspondiente a una notificación de mantenimiento.
+* Utilice identificadores de notificación exclusivos como parámetro de búsqueda para ir directamente a los detalles de la notificación. Por ejemplo, `query=INC1000001` tiene como destino los elementos con el ID: `INC1000001`. En este ejemplo, `INC1000001` es el número de caso correspondiente a una notificación de mantenimiento.
 
 ### Filtros de consultas de URL:
 {: #url-query}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2019-04-29"
+lastupdated: "2019-05-16"
 
 keywords: upcoming maintenance, stay up-to-date, monitor status
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Prácticas recomendadas para supervisar el estado
 {: #best-practices}
 
-Para mantenerse informado y planificar en consecuencia, utilice las siguientes prácticas recomendadas para la supervisión del estado de {{site.data.keyword.Bluemix}}.
+Para crear un plan y mantenerse informado, utilice las siguientes prácticas recomendadas para la supervisión del estado de {{site.data.keyword.Bluemix}}.
 {: shortdesc}
 
 ## Comprobar los próximos períodos de mantenimiento

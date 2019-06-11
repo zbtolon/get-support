@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-05-16"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ Es posible que encuentre problemas durante la creación y gestión de casos de s
 ## ¿Por qué no puedo crear o editar casos de soporte? 
 {: #ts_service_broker}
 
-No se puede crear o editar un caso de soporte de {{site.data.keyword.Bluemix_notm}} y se muestra un mensaje de error que indica que no tiene el acceso adecuado. 
+No se puede crear o editar un caso de soporte de {{site.data.keyword.Bluemix_notm}} y recibe un mensaje de error que indica que no tiene el acceso adecuado. 
 {:shortdesc}
 
 Cuando intenta suprimir un caso, aparece el siguiente mensaje de error:   
