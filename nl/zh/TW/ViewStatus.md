@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -43,10 +43,10 @@ subcollection: get-support
   您可以透過選取特定位置及元件，或透過使用關鍵字搜尋，來過濾此清單。
 
 您可以在「狀態」頁面上的所有標籤中搜尋，但您是否知道可以從主控台之外使用查詢參數來建置 URL 搜尋值？
-如需詳細資料，請參閱[進階狀態搜尋](/docs/get-support/status_search.html)。
+如需詳細資料，請參閱[進階狀態搜尋](/docs/get-support?topic=get-support-adv-search)。
 {: tip}
 
-如需您可以根據帳戶類型收到之電子郵件通知類型的相關資訊，請參閱[設定電子郵件喜好設定](/docs/account/email.html)。 
+如需您可以根據帳戶類型收到之電子郵件通知類型的相關資訊，請參閱[設定電子郵件喜好設定](/docs/account?topic=account-email-prefs)。 
 
 ## 訂閱 RSS 資訊來源
 {: #subscribing-rss-feed}

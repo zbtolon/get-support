@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-06"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -23,8 +23,7 @@ subcollection: get-support
 
 A IBM está retirando o suporte para os seguintes data centers nos Estados Unidos: 
 
-* Pods dal01 2 e 3
-* Pods wdc01 1 e 2
+* Pods 1, 4 e 5 de dal01
 {:shortdesc}
 
 ##  Por que a mudança para outro data center é necessária?

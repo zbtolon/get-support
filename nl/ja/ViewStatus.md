@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ subcollection: get-support
 
   特定のロケーションおよびコンポーネントを選択するか、キーワード検索を使用して、リストをフィルタリングできます。
 
-「状況」ページではすべてのタブにわたって検索できますが、コンソールの外部から照会パラメーターを使用して URL 検索値を作成できることをご存じでしたか? 詳しくは、[拡張状況検索](/docs/get-support/status_search.html)を参照してください。
+「状況」ページではすべてのタブにわたって検索できますが、コンソールの外部から照会パラメーターを使用して URL 検索値を作成できることをご存じでしたか? 詳しくは、[拡張状況検索](/docs/get-support?topic=get-support-adv-search)を参照してください。
 {: tip}
 
-アカウント・タイプに基づいて受信できる E メール通知のタイプについて詳しくは、[E メール・プリファレンスの設定](/docs/account/email.html)を参照してください。 
+アカウント・タイプに基づいて受信できる E メール通知のタイプについて詳しくは、[E メール・プリファレンスの設定](/docs/account?topic=account-email-prefs)を参照してください。 
 
 ## RSS フィードの購読
 {: #subscribing-rss-feed}

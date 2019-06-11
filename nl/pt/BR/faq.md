@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -67,7 +67,7 @@ Por padrão, os usuários em sua conta não têm acesso para criar, atualizar, p
 
 Ao criar um caso, é possível fornecer a outros usuários acesso total a esse caso incluindo seu e-mail no campo **Incluir outra pessoa nesse caso**. Todos os usuários incluídos têm acesso para visualizar, editar e atualizar somente esse caso na conta. Eles também recebem notificações quando o caso é atualizado. 
 
-Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-predefined#predefined).
+Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-predefined).
 
 ## Quais etapas devo executar antes de abrir um caso de suporte? 
 {: #steps_before_opencase}

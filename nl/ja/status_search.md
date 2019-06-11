@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ subcollection: get-support
 
 ### URL 照会フィルター:
 {: #url-query}
+
+「状況」ページのすべてのタブにわたる検索に使用できる URL 照会フィルターは次の表のとおりです。 
 
 | URL 照会パラメーター | 説明 | 値 |
 | ----- | ----- | ----- | ----- |

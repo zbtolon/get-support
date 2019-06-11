@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ Die Seite 'Status' wird angezeigt, wenn Sie sich an der {{site.data.keyword.Blue
 
   Sie können diese Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern.
 
-Sie können alle Registerkarten auf der Seite "Status" durchsuchen, aber wussten Sie, dass Sie URL-Suchwerte mithilfe von Abfrageparametern außerhalb der Konsole erstellen können? Weitere Details finden Sie in [Erweiterte Statussuche](/docs/get-support/status_search.html).
+Sie können alle Registerkarten auf der Seite "Status" durchsuchen, aber wussten Sie, dass Sie URL-Suchwerte mithilfe von Abfrageparametern außerhalb der Konsole erstellen können? Weitere Details finden Sie in [Erweiterte Statussuche](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Weitere Informationen zum Typ der E-Mail-Benachrichtigungen, die Sie basierend auf Ihrem Kontotyp erhalten können, finden Sie unter [E-Mail-Einstellungen festlegen](/docs/account/email.html). 
+Weitere Informationen zum Typ der E-Mail-Benachrichtigungen, die Sie basierend auf Ihrem Kontotyp erhalten können, finden Sie unter [E-Mail-Einstellungen festlegen](/docs/account?topic=account-email-prefs). 
 
 ## RSS-Feed abonnieren
 {: #subscribing-rss-feed}

@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ Die folgende Liste enthält Beispiele für URL-Suchoptionen:
 
 ### URL-Abfragefilter:
 {: #url-query}
+
+Die folgende Tabelle enthält Informationen zu URL-Abfragefiltern, die Sie für die Suche in allen Registerkarten auf der Statusseite verwenden können.  
 
 | URL-Abfrageparameter | Beschreibung | Werte |
 | ----- | ----- | ----- | ----- |

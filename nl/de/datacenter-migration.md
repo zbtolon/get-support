@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-06"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -23,8 +23,7 @@ subcollection: get-support
 
 IBM bietet keine weitere Unterstützung für folgende Rechenzentren in den Vereinigte Staaten: 
 
-* dal01 Pods 2 und 3
-* wdc01 Pods 1 und 2
+* dal01-Pods 1, 4 und 5
 {:shortdesc}
 
 ##  Warum muss ich zu einem anderen Rechenzentrum wechseln?
@@ -65,7 +64,7 @@ Während der 60 Tage dauernden Übergangszeit können Sie einen beliebigen {{sit
 ## Sind diese beiden freien Monate der Übergangszeit Ressourcen, die zusätzlich zu meiner vorhandenen Serverzeit gelten?
 {: #free}
 
-Ja. Sie können sich mit einem entsprechenden Supportmitarbeiter in Verbindung setzen, der Ihnen dabei hilft, Ihre Server für die Übergangszeit anzufordern. 
+Ja. Sie können sich mit einem entsprechenden Supportmitarbeiter in Verbindung setzen, der Ihnen dabei hilft, Ihre Server für die Übergangszeit anzufordern.
 
 ## Wie bestimme ich meine aktuelle Hardwarekonfiguration?
 {: #current-hardware}
@@ -89,7 +88,7 @@ Wenn der Server seit vielen Jahren im Gebrauch ist und nicht auf dem neuesten St
 
 Die Flexibilität bei der Betriebssystemauswahl ist möglicherweise durch die Anwendungen eingeschränkt, die ausgeführt werden. Als Teil der Migration müssen Sie möglicherweise die Anwendung auf einer späteren Version des Betriebssystems ausführen. Stellen Sie sicher, dass sie auch auf der neueren Version ausgeführt werden kann.
 
-Die verfügbaren Kenntnisse in einem bestimmten Betriebssystem können ebenfalls Einfluss auf Ihre Auswahl haben. Wenn Sie den Quellcode für die Anwendung haben, stellen Sie sicher, dass die erforderlichen Entwicklungstools und unterstützende Betriebssystem- oder Middlewarefunktionen auf der neuen Plattform verfügbar sind. Im Allgemeinen sind Linux-Systeme besser bei der Unterstützung älterer Anwendungen auf neueren Versionen des Betriebssystems als Windows-Systeme. 
+Die verfügbaren Kenntnisse in einem bestimmten Betriebssystem können ebenfalls Einfluss auf Ihre Auswahl haben. Wenn Sie den Quellcode für die Anwendung haben, stellen Sie sicher, dass die erforderlichen Entwicklungstools und unterstützende Betriebssystem- oder Middlewarefunktionen auf der neuen Plattform verfügbar sind. Im Allgemeinen sind Linux-Systeme besser bei der Unterstützung älterer Anwendungen auf neueren Versionen des Betriebssystems als Windows-Systeme.
 
 ## Welche Bandbreite erhalte ich mit meiner neuen Konfiguration und gilt dabei derselbe Preis?
 {: #bandwidth}
@@ -121,7 +120,7 @@ Die Anwendungsmigration kann ein komplexes Unterfangen sein. Nicht zuletzt sind 
 ## Wie bekomme ich allgemeine Hilfe bei der Migration?
 {: #gen-migration}
 
-Abhängig von der Art der erforderlichen Hilfe, können Sie sich telefonisch oder per Chat an den Support wenden. Oder Sie können unser Managed Service-Team kontaktieren. 
+Abhängig von der Art der erforderlichen Hilfe, können Sie sich telefonisch oder per Chat an den Support wenden. Oder Sie können unser Managed Service-Team kontaktieren.
 
 ## An wen kann ich mich wenden, wenn ich keinen Account-Manager habe?
 {: #account-contact}

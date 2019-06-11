@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ A página Status é o local central para localizar incidentes não planejados, m
 
   É possível filtrar essa lista selecionando locais e componentes específicos ou usando pesquisas por palavra-chave.
 
-É possível procurar em todas as guias na página Status, mas você sabia que é possível construir valores de procura de URL usando parâmetros de consulta de fora do console? Para obter mais detalhes, consulte [Procura de status avançado](/docs/get-support/status_search.html).
+É possível procurar em todas as guias na página Status, mas você sabia que é possível construir valores de procura de URL usando parâmetros de consulta de fora do console? Para obter mais detalhes, consulte [Procura de status avançado](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Para obter mais informações sobre o tipo de notificações por e-mail que é possível receber com base em seu tipo de conta, consulte [Configurando preferências de e-mail](/docs/account/email.html). 
+Para obter mais informações sobre o tipo de notificações por e-mail que é possível receber com base em seu tipo de conta, consulte [Configurando preferências de e-mail](/docs/account?topic=account-email-prefs). 
 
 ## Assinando um feed RSS
 {: #subscribing-rss-feed}
