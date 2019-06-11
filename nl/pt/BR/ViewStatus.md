@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -26,7 +26,7 @@ A página Status é o local central para localizar incidentes não planejados, m
 
 É possível localizar a página Status efetuando login no console do {{site.data.keyword.Bluemix_notm}}. Clique em **Suporte** na barra de menus e, em seguida, clique em **Visualizar status da nuvem** no Centro de suporte. Ou é possível acessar a página diretamente em [{{site.data.keyword.Bluemix_notm}} - Status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status){: new_window}.
 
-* Clique em **Status** para visualizar o status atual de recursos em todos os locais do {{site.data.keyword.Bluemix_notm}}. 
+* Clique em **Status** para visualizar o status de recursos em todos as localizações do {{site.data.keyword.Bluemix_notm}}. 
 
   É possível visualizar uma lista de eventos, em ordem cronológica, para manutenção e incidentes. É possível procurar em todas as notificações ou filtrar por tipo, localizações geográficas e recursos individuais. Também é possível visualizar janelas de manutenção planejadas, para as quais o aviso prévio é fornecido, e incidentes ou indisponibilidades não planejados, que são postados assim que a equipe do {{site.data.keyword.Bluemix_notm}} se torna ciente deles. As notificações de incidentes são atualizadas regularmente até que sejam resolvidas.
 
@@ -42,15 +42,15 @@ A página Status é o local central para localizar incidentes não planejados, m
 
   É possível filtrar essa lista selecionando locais e componentes específicos ou usando pesquisas por palavra-chave.
 
-É possível procurar em todas as guias na página Status, mas você sabia que é possível construir valores de procura de URL usando parâmetros de consulta de fora do console? Para obter mais detalhes, consulte [Procura de status avançado](/docs/get-support/status_search.html).
+É possível procurar em todas as guias na página Status, mas você sabia que é possível construir valores de procura de URL usando parâmetros de consulta de fora do console? Para obter mais detalhes, consulte [Procura de status avançado](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Para obter mais informações sobre o tipo de notificações por e-mail que é possível receber com base em seu tipo de conta, consulte [Configurando preferências de e-mail](/docs/account/email.html). 
+Para obter mais informações sobre o tipo de notificações por e-mail que é possível receber com base em seu tipo de conta, consulte [Configurando preferências de e-mail](/docs/account?topic=account-email-prefs). 
 
 ## Assinando um feed RSS
 {: #subscribing-rss-feed}
 
-Você recebe alertas de quaisquer notificações assinando o feed RSS da página Status. Essa abordagem fornece uma maneira de obter atualizações sem precisar consultar regularmente a página Status.
+Você recebe alertas de quaisquer notificações assinando o feed RSS da página Status. Essa abordagem fornece uma maneira para que você obtenha atualizações sem ter que acessar regularmente a página Status.
 
 Para assinar, siga estas etapas:
 

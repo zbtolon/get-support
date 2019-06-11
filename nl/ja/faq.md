@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ subcollection: get-support
 {: #escalate_support}
 {: faq}
 
-IBM Cloud のお客様は、サポート Case をエスカレートさせることで重要な問題が目に留まるようにすることができます。Case がエスカレートされると、IBM Cloud サポート・チームは情報を検討し、更新情報で応答します。 
+IBM Cloud のお客様は、サポート Case をエスカレートさせることで重要な問題が目に留まるようにすることができます。 Case がエスカレートされると、IBM Cloud サポート・チームは情報を検討し、更新情報で応答します。 
 
 サポート Case をエスカレートするには、以下のステップを実行します。 
 1. 電話またはチャットを使用して IBM Cloud サポートに連絡します。
@@ -66,7 +66,7 @@ IBM Cloud のお客様は、サポート Case をエスカレートさせるこ�
 
 Case を作成するとき、**「この Case に別のユーザーを追加」**フィールドに他のユーザーの E メールを追加することにより、それらのユーザーにその Case へのフルアクセスを提供することができます。 追加されたユーザーには、アカウント内のその Case のみを表示、編集、および更新するアクセス権限が与えられます。 また、それらのユーザーは、Case が更新されると通知を受け取ります。 
 
-クラシック・インフラストラクチャー・ユーザーの場合、サポート Case のアクセス権限を割り当てるための許可は、[マイグレーションされたクラシック・インフラストラクチャー許可のアクセス・グループ](/docs/iam?topic=iam-predefined#predefined)で使用できるようになりました。
+クラシック・インフラストラクチャー・ユーザーの場合、サポート Case のアクセス権限を割り当てるための許可は、[マイグレーションされたクラシック・インフラストラクチャー許可のアクセス・グループ](/docs/iam?topic=iam-predefined)で使用できるようになりました。
 
 ## サポート Case をオープンする前にどのような手順を行えはいいですか? 
 {: #steps_before_opencase}
