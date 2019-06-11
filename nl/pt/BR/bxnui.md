@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -739,7 +739,7 @@ Tente selecionar outra organização ou crie um espaço ou solicite a função d
 
 ## BXNUI0515E
 
-**Mensagem**: os espaços na organização não foram recuperados. Ocorreu um problema de conexão de rede ou a sua organização atual não tem um espaço associado a ela.
+**Mensagem**: os espaços na organização não foram recuperados. Ocorreu um problema de conexão de rede ou sua organização atual não tem um espaço associado a ela.
 
 Tente novamente mais tarde. Se você vir essa mensagem novamente, acesse a [{{site.data.keyword.Bluemix_notm}} página de status ![Ícone de link externo](../icons/launch-glyph.svg "Ícone de link externo")](https://cloud.ibm.com/status?selected=status){: new_window} para verificar se um serviço ou componente tem um problema. Ou para obter instruções para corrigir esse problema, consulte o tópico de resolução de problemas [Não é possível recuperar espaços na organização](/docs/apps/tutorials?topic=creating-apps-managingapps#managingapps){: new_window}.
 
@@ -952,7 +952,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2024E
-**Mensagem**: o registro automático para usuários não está ativado.
+**Mensagem**: o autorregistro para usuários não está ativado.
 
 Entre em contato com o proprietário da conta.
 
@@ -1198,7 +1198,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 ## BXNUI2072E
 **Mensagem**: o certificado não foi transferido por upload.
 
-O nome de domínio {0} especificado no certificado não corresponde ao nome do domínio customizado.
+O nome do domínio, {0}, especificado no certificado não corresponde ao seu nome do domínio customizado.
 
 Corrija o nome de domínio no certificado e tente novamente.
 
@@ -1208,7 +1208,7 @@ Corrija o nome de domínio no certificado e tente novamente.
 Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
-**Mensagem**: a chave privada não é suportada. Uma chave RSA não criptografada é esperada.
+**Mensagem**: a chave privada não é suportada. Uma chave RSA decriptografada é esperada.
 
 ## BXNUI2075E
 **Mensagem**: a chave pública não é suportada. Os algoritmos suportados incluem: RSA.
@@ -1228,7 +1228,7 @@ Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](
 Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2080E
-**Mensagem**: a operação atingiu o tempo limite enquanto os certificados e as chaves estavam sendo modificados.
+**Mensagem**: a operação que atingiu o tempo limite enquanto certificados e chaves eram modificados.
 
 Acesse [Suporte do {{site.data.keyword.Bluemix_notm}} ![Ícone de link externo](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 

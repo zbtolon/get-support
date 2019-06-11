@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-06-05"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -37,8 +37,6 @@ subcollection: get-support
 
 ### URL 查詢過濾器：
 {: #url-query}
-
-下表提供可用來搜尋狀態頁面上所有標籤的 URL 查詢過濾器相關資訊。 
 
 |URL 查詢參數| 說明                                                  |值|
 | ----- | ----- | ----- | ----- |

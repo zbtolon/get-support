@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-06-06"
+lastupdated: "2019-05-13"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -23,18 +23,19 @@ subcollection: get-support
 
 A IBM está retirando o suporte para os seguintes data centers nos Estados Unidos: 
 
-* Pods 1, 4 e 5 de dal01
+* Pods dal01 2 e 3
+* Pods wdc01 1 e 2
 {:shortdesc}
 
 ##  Por que a mudança para outro data center é necessária?
 {: #required-data}
 
-Para continuar a trazer o melhor serviço, hardware e conectividade, todos os sites são continuamente avaliados para assegurar que atendam aos padrões de rede, elétricos e outros padrões de infraestrutura. Mesmo que esses sites sejam adequados, eles não atendem mais aos padrões atuais.
+Para continuar trazendo a você o melhor serviço, hardware e conectividade, nós avaliamos continuamente todos os nossos sites para assegurar que eles atendam aos padrões de rede, elétricos e outros padrões de infraestrutura. Embora esses sites sejam adequados, eles não atendem mais às nossas normas vigentes.
 
 ## A migração deve estar totalmente concluída até a data listada?
 {: #data-list}
 
-Sim. Para assegurar que você não tenha nenhuma interrupção no serviço, estamos tentando permitir o máximo de tempo de avanço para facilitar a transição. Comunicamos o movimento desse site em maio de 2018.
+Sim. Para assegurar que não haja nenhuma interrupção no serviço, estamos tentando permitir o máximo de tempo de avanço possível para tornar a transição quase imperceptível. Comunicamos o movimento desse site em maio de 2018.
 
 ## Será necessário mudar para outro data center de novo?
 {: #move-data}
@@ -64,7 +65,7 @@ Os fatores a seguir podem influenciar a sua seleção de data center:
 ## Os dois meses grátis de recursos do período de transição são adicionados ao meu tempo de servidor existente?
 {: #free}
 
-Sim. É possível entrar em contato com um representante de suporte apropriado que possa ajudá-lo a passar pelo processo de aquisição de seus servidores de período de transição.
+Sim. Entre em contato conosco, e um representante de suporte apropriado ajudará você durante o processo de aquisição de seus servidores de período de transição.
 
 ## Como determino minha configuração de hardware atual?
 {: #current-hardware}
@@ -78,7 +79,9 @@ de memória (RAM), armazenamento e outros dados.
 
 A maioria dos sistemas operacionais fornece ferramentas que podem ser usadas para entender a utilização do
 sistema, por exemplo, vmstat e iostat no Linux ou o Windows System Performance Monitor. Também existem muitas outras
-ferramentas de monitoramento de desempenho que podem ser disponibilizadas para você. O monitoramento e o ajuste de desempenho são algo em que você pode investir tempo e esforço significativos. Em geral, é necessário entender se há recursos específicos dentro do sistema (processador, memória, disco, rede) que são intensamente usados ou não usados. Ter essas informações pode ajudá-lo a dimensionar melhor o novo sistema. Por exemplo, um
+ferramentas de monitoramento de desempenho que podem ser disponibilizadas para você. Monitoramento e ajuste de desempenho são coisas na quais você poderia investir tempo e esforço significativos. Em geral, é necessário entender se
+há recursos específicos dentro do sistema (processador, memória, disco, rede) intensamente utilizados ou não
+utilizados como deveriam ser. Ter essas informações pode ajudá-lo a dimensionar melhor o novo sistema. Por exemplo, um
 sistema no qual a capacidade de memória frequentemente tem comprometimento excessivo, provavelmente se beneficiará de tamanhos de
 memória maiores no sistema de destino para o qual você migrar.
 
@@ -101,7 +104,9 @@ talvez seja necessário executar o aplicativo em uma versão mais recente do sis
 
 O conhecimento técnico disponível de um sistema operacional específico também podem influenciar a escolha. Se você
 tiver o código-fonte para o aplicativo, assegure-se de que as ferramentas de desenvolvimento necessárias e o sistema
-operacional de suporte ou as funções de middleware estejam disponíveis na nova plataforma. Em geral, os sistemas do tipo Linux são melhores em suportar aplicativos mais antigos em versões mais recentes do sistema operacional do que o Windows.
+operacional de suporte ou as funções de middleware estejam disponíveis na nova plataforma.  Em geral, os sistemas de tipo
+Linux são melhores para suportar aplicativos mais antigos em versões mais recentes do sistema operacional do que o
+Windows, mas não há garantias.
 
 ## Qual largura da banda eu terei com a nova configuração e ela terá a mesma taxa que atualmente?
 {: #bandwidth}
@@ -117,7 +122,7 @@ mover os dados entre eles.  Supondo que você tenha armazenamento suficiente no 
 dados, uma cópia direta de servidor para servidor é a maneira mais simples de fazer isso.  Há muitas ferramentas
 disponíveis que podem ser usadas.  
 
-* O SCP é uma boa opção para copiar com segurança um arquivo da origem para o destino. Ele executa uma cópia
+* O SCP é uma boa opção para copiar com segurança um arquivo da origem para o destino.  Ele executa uma cópia
 linear simples. 
 * Se você precisa copiar vários arquivos, rsync por ssh é muito mais rápido que scp. O rsync também copia estruturas de diretório e preserva permissões de arquivo.
 
@@ -126,13 +131,14 @@ mais antigas de arquivos de sistema operacional para uma versão mais nova pode 
 
 Encerre os bancos de dados antes de copiá-los entre os sistemas para assegurar que os dados sejam consistentes. Ao
 migrar os dados do banco de dados, certifique-se de que eles sejam migrados de tal forma que não limitem as opções
-para importá-los para o novo sistema. Em vez de copiar dados do banco de dados de sistema para sistema, considere exportá-los para um formato para que seja possível importar para um banco de dados mais novo. Arquivos de texto simples, arquivos CSV e outros arquivos, fornecem mais opções do que usar formatos de arquivo proprietários ou fechados quando se trata de mover dados entre os sistemas. Sempre teste as abordagens de migração de dados em um pequeno conjunto de dados
+para importá-los para o novo sistema. Em vez de copiar os dados do banco de dados de sistema para sistema, considere
+exportá-los para um formato que permita importá-los em um banco de dados mais novo. Arquivos de texto simples, arquivos CSV e similares fornecem mais opções do que o uso de formatos de arquivo proprietários ou fechados para mover dados entre sistemas. Sempre teste as abordagens de migração de dados em um pequeno conjunto de dados
 de teste antes de executar a cópia oficial.
 
 ## É necessário configurar minha rede novamente no novo site?
 {: #networking}
 
-Provavelmente a sua rede precisará de mudanças para funcionar com os servidores e o site novos. Se você
+Provavelmente a sua rede precisará de mudanças para funcionar com os servidores e o site novos.  Se você
 precisar de ajuda com esse processo, entre em contato com a equipe de suporte por telefone ou bate-papo.
 
 ## O que eu faço se não tiver conhecimento técnico para realizar a migração?
@@ -144,7 +150,7 @@ A migração do aplicativo pode ser uma tarefa complexa. Não menos importante s
 {: #gen-migration}
 
 Dependendo do nível de ajuda que você precisar, é possível entrar em contato com o suporte por telefone ou
-bate-papo. Ou é possível entrar em contato com a equipe de serviços gerenciados para obter assistência.
+bate-papo. Ou é possível acessar a nossa equipe de serviços gerenciados para obter assistência.
 
 ## Quem eu contato se não tiver um gerente de contas?
 {: #account-contact}

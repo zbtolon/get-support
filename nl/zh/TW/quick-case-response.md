@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-23"
+lastupdated: "2019-05-13"
 
-keywords: escalate, support case, case, ticket, case severity, severity 
+keywords: escalate, support case, case, ticket
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # 呈報支援案例
 {: #escalation}
 
-{{site.data.keyword.Bluemix}} 客戶可以使用呈報處理程序來顯現重要問題，並且在認為未解決其支援問題單時提出他們的顧慮。呈報案例之後，{{site.data.keyword.Bluemix_notm}} 支援團隊會檢閱支援案例中的資訊，然後以適當的更新作為回應。
+{{site.data.keyword.Bluemix}} 客戶可以使用呈報處理程序來顯現重要問題，並且在認為未適當地解決其支援問題單時提出他們的顧慮。呈報案例之後，{{site.data.keyword.Bluemix_notm}} 支援團隊會檢閱支援案例中的資訊，然後以適當的更新作為回應。
 
  若要呈報案例，請完成下列步驟：
 

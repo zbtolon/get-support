@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-05-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -67,7 +67,7 @@ subcollection: get-support
 當您建立案例時，在**將另一位人員新增至此案例**欄位中新增其他使用者的電子郵件，即可為這些使用者提供該案例的完整存取權。任何新增的使用僅能檢視、編輯及更新帳戶中的該案例。他們還會在案例更新時收到通知。
  
 
-對於標準基礎架構使用者，現在在[移轉的標準基礎架構許可權存取群組](/docs/iam?topic=iam-predefined)中提供了可指派支援案例存取權的許可權。
+對於標準基礎架構使用者，現在在[移轉的標準基礎架構許可權存取群組](/docs/iam?topic=iam-predefined#predefined)中提供了可指派支援案例存取權的許可權。
 
 ## 開立支援案例之前應該採取什麼步驟？ 
 {: #steps_before_opencase}

@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-23"
+lastupdated: "2019-05-13"
 
-keywords: escalate, support case, case, ticket, case severity, severity 
+keywords: escalate, support case, case, ticket
 
 subcollection: get-support
 
@@ -24,7 +24,9 @@ subcollection: get-support
 # Escalando casos de suporte
 {: #escalation}
 
-Os clientes do {{site.data.keyword.Bluemix}} podem usar o processo de encaminhamento para expor problemas críticos e expressar sua preocupação se sentirem que o chamado de suporte não está sendo tratado. Quando um caso é encaminhado, a equipe de suporte do {{site.data.keyword.Bluemix_notm}}
+Os clientes do {{site.data.keyword.Bluemix}} podem usar o processo de encaminhamento para apresentar
+problemas críticos e expressar sua preocupação se sentirem que seu chamado de suporte não está sendo tratado
+apropriadamente. Quando um caso é encaminhado, a equipe de suporte do {{site.data.keyword.Bluemix_notm}}
 revisa as informações no caso de suporte e responde com as atualizações apropriadas.
 
  Para escalar um caso, conclua as etapas a seguir:

@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-06-05"
+lastupdated: "2019-05-13"
 
 keywords: status page, status query
 
@@ -33,12 +33,10 @@ Die folgende Liste enthält Beispiele für URL-Suchoptionen:
 * Laden Sie die Seite mit einer eingegebenen Suchabfrage: `console.cloud.ibm.com/status?selected=<selected>&query=<query>`
 * Blättern Sie zu der Seite mit ausgewählten Filtern. Sie können zum Beispiel den Standort Nordamerika mithilfe der folgenden URL-Suche festlegen: `console.cloud.ibm.com/status?selected=status&region=na`
 
-* Verwenden Sie eindeutige Benachrichtigungskennungen wie Suchparameter, um direkt zu den Details für die Benachrichtigung zu gelangen. Beispiel: `query=INC1000001` hat Elemente mit der folgenden ID zum Ziel: `INC1000001`. In diesem Beispiel ist `INC1000001` die Fallnummer für eine Benachrichtigung über Wartung.
+* Verwenden Sie eindeutige Benachrichtigungskennungen wie Suchparameter, um direkt zu den Details für die Benachrichtigung zu gelangen.  Beispiel: `query=INC1000001` hat Elemente mit der folgenden ID zum Ziel: `INC1000001`. In diesem Beispiel ist `INC1000001` die Fallnummer für eine Benachrichtigung über Wartung.
 
 ### URL-Abfragefilter:
 {: #url-query}
-
-Die folgende Tabelle enthält Informationen zu URL-Abfragefiltern, die Sie für die Suche in allen Registerkarten auf der Statusseite verwenden können.  
 
 | URL-Abfrageparameter | Beschreibung | Werte |
 | ----- | ----- | ----- | ----- |

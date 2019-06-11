@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-04-18"
+lastupdated: "2019-05-13"
 
 keywords: access to cases, get access for cases, assign cases
 
@@ -41,7 +41,7 @@ Para aperfeiçoar o processo de designação de acesso, é possível aproveitar 
 3. Clique em **Políticas de acesso** > **Designar acesso**.
 4. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
 5. Selecione **Centro de suporte**.
-6. Selecione a função **Visualizador**, **Editor** ou **Administrador**, dependendo do tipo de acesso que você deseja que esse grupo tenha e clique em **Designar**.
+6. Selecione a função **Visualizador**, **Editor** ou **Administrador** dependendo do tipo de acesso que deseja que esse grupo tenha e clique em **Designar**.
 
 Se você deseja que seus usuários sejam capazes de visualizar todos os outros usuários na conta, também é possível incluir a função de visualizador de gerenciamento de usuários em seu grupo de acesso:
 
@@ -62,7 +62,7 @@ A tabela a seguir lista as permissões que estão incluídas em cada função pa
 ## Incluindo usuários em seu grupo de acesso de gerenciamento de caso
 {: #add-user-access-group} 
 
-Agora que o grupo de acesso foi criado, inclua usuários:
+Agora que você tem o grupo de acesso que foi criado, inclua usuários:
 
 1. Na guia **Usuários** para seu grupo de acesso, clique em **Incluir usuários**.
 2. Selecione o usuário que você deseja incluir no grupo e clique em **Incluir no grupo**.
@@ -75,5 +75,5 @@ O uso de grupos de acesso para designar os serviços de centro de suporte e de g
 2. Clique em **Políticas de acesso** > **Designar acesso**.
 3. Selecione **Designar acesso aos serviços de gerenciamento de conta**.
 4. Selecione **Centro de suporte**.
-5. Selecione a função **Visualizador**, **Editor** ou **Administrador**, dependendo do tipo de acesso que você deseja que esse grupo tenha e clique em **Designar**.
+5. Selecione a função **Visualizador**, **Editor** ou **Administrador** dependendo do tipo de acesso que deseja que esse grupo tenha e clique em **Designar**.
 6. Se você deseja que um usuário seja capaz de visualizar todos os outros usuários na conta, também é possível designar a ele a função de visualizador de gerenciamento de usuários. 

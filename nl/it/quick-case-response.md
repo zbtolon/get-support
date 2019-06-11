@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-23"
+lastupdated: "2019-05-13"
 
-keywords: escalate, support case, case, ticket, case severity, severity 
+keywords: escalate, support case, case, ticket
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # Escalation dei casi di supporto
 {: #escalation}
 
-I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} esamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati.
+I clienti {{site.data.keyword.Bluemix}} possono utilizzare il processo di escalation per dare rilievo ai problemi critici o esprimere la loro preoccupazione se ritengono che non ci si stia occupando in modo appropriato del loro ticket di supporto. Dopo l'esecuzione dell'escalation di un caso, il team di supporto {{site.data.keyword.Bluemix_notm}} esamina le informazioni nel caso di supporto e risponde con gli aggiornamenti appropriati. 
 
  Per eseguire l'escalation di un caso, completa la seguente procedura:
 

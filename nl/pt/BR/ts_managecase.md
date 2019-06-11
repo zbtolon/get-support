@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-02-19"
+lastupdated: "2019-05-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -60,13 +60,12 @@ Se você for o proprietário da conta ou um administrador do Centro de suporte, 
 ## Por que não posso visualizar todos os casos na conta?
 {: #ts_viewcasedetails}
 
-Não é possível visualizar todos os casos na conta, pois você não tem acesso para visualizar todos os usuários na conta. 
-{:shortdesc}
+Não é possível visualizar todos os casos na conta porque você não tem acesso para visualizar todos os usuários na conta. {:shortdesc}
 
 Quando você tenta visualizar os casos de suporte associados à conta, não é possível ver todos os casos abertos. 
 {: tsSymptoms}
 
-O proprietário da conta define a [configuração de visibilidade da lista de usuários](/docs/iam?topic=iam-userlistview#userlistview) como restrita. Quando a configuração é definida como restrita e você não tem uma política de acesso adicional para visualizar usuários na conta, você não tem o acesso necessário para visualizar todos os casos na conta. É possível visualizar somente os usuários convidados para a conta, compartilhar uma associação de organização do Cloud Foundry ou usuários que estão em sua hierarquia de usuário da infraestrutura clássica. 
+O proprietário da conta define a [configuração de visibilidade da lista de usuários](/docs/iam?topic=iam-userlistview#userlistview) como restrita. Quando a configuração está configurada como restrita e você não tem uma política de acesso adicional para visualizar usuários na conta, você não tem o acesso necessário para visualizar todos os casos na conta. É possível visualizar somente os usuários convidados para a conta, compartilhar uma associação de organização do Cloud Foundry ou usuários que estão em sua hierarquia de usuário da infraestrutura clássica. 
 {: tsCauses}
 
 Deve-se estar designado a uma política do IAM com pelo menos a função Visualizador no serviço de gerenciamento de conta de Gerenciamento de usuário, além de sua política de acesso ao serviço de gerenciamento de conta do Centro de suporte. Para visualizar seu acesso atual, acesse **Gerenciar** &gt; **Acesso (IAM)** e selecione o seu nome na página **Usuários**. Clique na guia **Políticas de acesso** e revise suas políticas designadas. 
