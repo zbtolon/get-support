@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 

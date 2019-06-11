@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,7 +29,7 @@ Vous bénéficiez d'un support technique gratuit via la communauté {{site.data.
 |  | Support de base | Support avancé | Support Premium |
 |-------------|-------------|-------------|-------------|
 | Description |	La protection métier de base incluse avec votre compte {{site.data.keyword.Bluemix_notm}} de type Paiement à la carte ou Abonnement | Traitement prioritaire des cas et support aligné avec vos besoins métier | Mandat client aligné avec votre résultat métier pour accélérer votre retour sur investissement |
-| Disponibilité | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas et le téléphone <br/> <br/> Téléphone et discussion en ligne disponibles uniquement pour les comptes de paiement à la carte et d'abonnement | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. |
+| Disponibilité | Accédez à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, <br/> <br/> le téléphone et les discussions en ligne disponibles uniquement pour les comptes de type Paiement à la carte et Abonnement | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. | Accès 24 heures sur 24 et 7 jours sur 7 à l'équipe de support technique {{site.data.keyword.Bluemix_notm}} via des cas, le téléphone et les discussions en ligne. |
 | Objectifs de temps de réponse initiaux | Non applicable | Gravité 1 : moins d'une heure <br/> Gravité 2 : moins de deux heures <br/> Gravité 3 : moins de quatre heures <br/> Gravité 4 : moins de huit heures | Gravité 1 : moins de 15 minutes <br/> Gravité 2 : moins d'une heure <br/> Gravité 3 : moins de deux heures <br/> Gravité : moins de quatre heures |
 | Gravité des cas | Non applicable | Classement de gravité cas disponible | Classement de gravité cas disponible |
 | Support supplémentaire | Non applicable | Non applicable | Chargé de compte technique affecté <br/> <br/> Revues métier trimestrielles <br/><br/> Accès aux spécialistes |

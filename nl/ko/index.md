@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,8 +29,7 @@ subcollection: get-support
 |  |기본 지원 |고급 지원 |프리미엄 지원 |
 |-------------|-------------|-------------|-------------|
 |설명 |	{{site.data.keyword.Bluemix_notm}} 종량과금제 또는 구독 계정에 포함된 기본 비즈니스 보호 |케이스 우선 처리 및 비즈니스 요구사항에 따른 지원 경험 |가치 창출 시간을 가속화하기 위한, 비즈니스 결과에 따른 클라이언트 응대 |
-|가용성 |케이스 및 전화를 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 <br/> <br/> 전화 및 대화는 PayGo 및 구독 계정을 통해서만 사용 가능
-|케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |
+|가용성 |케이스를 통해 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 <br/> <br/> PayGo 및 구독 계정에서만 사용 가능한 전화 및 대화 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |케이스, 전화 및 채팅을 통해 연중무휴 24시간 {{site.data.keyword.Bluemix_notm}} 기술 지원 팀에 액세스 |
 |초기 응답 시간 목표 |해당사항 없음 | 심각도 1: 한 시간 내 <br/> 심각도 2: 두 시간 내 <br/> 심각도 3: 네 시간 내 <br/> 심각도 4: 여덟 시간 내 | 심각도 1: 15분 내 <br/> 심각도 2: 한 시간 내 <br/> 심각도 3: 두 시간 내 <br/> 심각도 4: 네 시간 내 |
 |케이스 심각도 |해당사항 없음 |케이스 심각도 순위 사용 가능 |케이스 심각도 순위 사용 가능 |
 |추가 지원 |해당사항 없음 |해당사항 없음 | 기술 영업 담당자가 지정됨 <br/> <br/> 분기별 비즈니스 검토 <br/><br/> 전문가 문의 가능 |

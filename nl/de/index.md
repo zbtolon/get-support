@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,7 +29,7 @@ Sie erhalten kostenfreie technische Unterstützung über die {{site.data.keyword
 |  | Basic Support | Advanced Support | Premium Support |
 |-------------|-------------|-------------|-------------|
 | Beschreibung |	Grundlegende Geschäftsabsicherung im Rahmen Ihres nutzungsabhängigen Kontos oder Ihres Abonnementkontos in {{site.data.keyword.Bluemix_notm}} | Priorisierte Fallbearbeitung und Unterstützung, die auf Ihre Geschäftsanforderungen abgestimmt sind | Kundenbindung, die zur schnelleren Wertschöpfung auf Ihre Geschäftsergebnisse abgestimmt ist |
-| Verfügbarkeit |24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle und Telefon<br/> <br/> Telefon und Chat nur für nutzungsabhängige Konten und Abonnementkonten | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
+| Verfügbarkeit | Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle <br/> <br/> Telefon und Chat nur für nutzungsabhängige Konten und Abonnementkonten | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat | 24 x 7-Verfügbarkeit des technischen {{site.data.keyword.Bluemix_notm}}-Support-Teams über Fälle, Telefon und Chat |
 | Ursprünglich angestrebte Reaktionszeiten | Nicht zutreffend | Priorität 1: Weniger als 1 Stunde <br/> Priorität 2: Weniger als 2 Stunden <br/> Priorität 3: Weniger als 4 Stunden <br/> Priorität 4: Weniger als 8 Stunden | Priorität 1: Weniger als 15 Minuten <br/> Priorität 2: Weniger als eine Stunde <br/> Priorität 3: Weniger als 2 Stunden <br/> Priorität 4: Weniger als 4 Stunden |
 | Fallpriorität | Nicht zutreffend | Einstufung nach Fallpriorität verfügbar | Einstufung nach Fallpriorität verfügbar |
 | Zusätzliche Unterstützung | Nicht zutreffend | Nicht zutreffend | Technical Account Manager zugewiesen <br/> <br/> Vierteljährliche Geschäftsprüfungen <br/><br/> Kontakt zu Experten |

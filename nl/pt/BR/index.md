@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,7 +29,7 @@ subcollection: get-support
 |  | Suporte básico | Suporte avançado | Suporte premium |
 |-------------|-------------|-------------|-------------|
 | Descrição |	Proteção básica de negócios que está incluída na sua conta pré-paga ou da assinatura do {{site.data.keyword.Bluemix_notm}} | Manipulação de caso priorizada e experiência de suporte que é alinhada com as suas necessidades de negócios | O engajamento do cliente alinhado a seus resultados de negócios para acelerar o tempo de maturação |
-| Disponibilidade | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos e telefone <br/><br/> Telefone e bate-papo disponíveis apenas para as contas pré-pagas e de assinatura | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo |
+| Disponibilidade | Acesso à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos <br/><br/> Telefone e bate-papo disponíveis somente para contas Pré-pagas e de Assinatura | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo | Acesso 24x7 à equipe de suporte técnico do {{site.data.keyword.Bluemix_notm}} por meio de casos, telefone e bate-papo |
 | Objetivos de tempo de resposta iniciais | Não aplicável | Severidade 1: menos de 1 hora <br/> Severidade 2: menos de 2 horas <br/> Severidade 3: menos de 4 horas <br/> Severidade 4: menos de 8 horas | Severidade 1: menos de 15 minutos <br/> Severidade 2: menos de 1 hora <br/> Severidade 3: menos de 2 horas <br/> Severidade 4: menos de 4 horas |
 | Gravidade do caso | Não aplicável | Classificação de gravidade de caso disponível | Classificação de gravidade de caso disponível |
 | Suporte adicional | Não aplicável | Não aplicável | Gerente de conta técnica designado <br/><br/> Revisões de negócios trimestrais <br/><br/> Acesso a especialistas |

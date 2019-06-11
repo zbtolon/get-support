@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -30,7 +30,7 @@ subcollection: get-support
 |-------------|-------------|-------------|-------------|
 |描述
 |	{{site.data.keyword.Bluemix_notm}} 现收现付或预订帐户随附的基本业务保护|您的案例将优先得到处理，而且您可以根据自己的业务需求来定制支持体验|客户参与，帮助您缩短价值实现时间，从而实现目标业务结果|
-|服务时间| {{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过案例、电话与之互动<br/> <br/> 仅为现收现付帐户和预订帐户提供电话和交谈服务|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过案例、电话和交谈选项与之互动|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过案例、电话和交谈选项与之互动|
+|服务时间|通过案例与 {{site.data.keyword.Bluemix_notm}} 技术支持团队互动<br/> <br/>仅为现收现付帐户和预订帐户提供电话和交谈服务|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过案例、电话和交谈选项与之互动|{{site.data.keyword.Bluemix_notm}} 技术支持团队提供全天候服务，您可以通过案例、电话和交谈选项与之互动|
 |初始响应时间目标|不适用 |严重性 1：1 小时内<br/>严重性 2：2 小时内<br/>严重性 3：4 小时内<br/>严重性 4：8 小时内|严重性 1：15 分钟内<br/>严重性 2：1 小时内<br/>严重性 3：2 小时内<br/>严重性 4：4 小时内|
 |案例严重性|不适用 |提供案例严重性排名|提供案例严重性排名|
 |其他支持|不适用 |不适用 |已分配技术客户经理<br/><br/>每季度业务审查<br/><br/>联系专家|

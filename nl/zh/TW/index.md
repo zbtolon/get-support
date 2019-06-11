@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-21"
+lastupdated: "2019-05-29"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -29,7 +29,7 @@ subcollection: get-support
 |  |基本支援|進階支援|超值支援|
 |-------------|-------------|-------------|-------------|
 |說明|	{{site.data.keyword.Bluemix_notm}} 隨收隨付制或訂閱帳戶所包含的基本商業保護。|優先案例處理，以及符合您業務需要的支援體驗|符合您業務成果的客戶參與，以加快價值創造時間|
-|可用性|能透過案例及電話與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休<br/> <br/> 電話與會談僅適用於 PayGo 帳戶及「訂閱」帳戶|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|
+|可用性|能透過案例與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫<br/> <br/> 電話與會談僅適用於 PayGo 帳戶及「訂閱」帳戶|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|能透過案例、電話及會談與 {{site.data.keyword.Bluemix_notm}} 技術支援團隊聯繫且全年無休|
 |起始回應時間目標|不適用|嚴重性 1：少於 1 小時<br/> 嚴重性 2：少於 2 小時<br/> 嚴重性 3：少於 4 小時<br/> 嚴重性 4：少於 8 小時|嚴重性 1：少於 15 分鐘<br/> 嚴重性 2：少於 1 小時<br/> 嚴重性 3：少於 2 小時<br/> 嚴重性 4：少於 4 小時|
 |案例嚴重性|不適用|有案例嚴重性分級可用|有案例嚴重性分級可用|
 |其他支援|不適用|不適用|指派技術客戶經理<br/> <br/> 每季業務檢閱<br/><br/> 能與專家聯繫|

@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-05-23"
 
-keywords: escalate, support case, case, ticket
+keywords: escalate, support case, case, ticket, case severity, severity 
 
 subcollection: get-support
 
@@ -24,7 +24,7 @@ subcollection: get-support
 # サポート Case のエスカレート
 {: #escalation}
 
-{{site.data.keyword.Bluemix}} のお客様は、エスカレーション・プロセスを使用して重大な問題を明示し、サポート・チケットが対処されていないと思われる場合には懸念を表明することができます。Case がエスカレートされると、{{site.data.keyword.Bluemix_notm}} サポート・チームがそのサポート Case 内の情報を検討し、適切な更新情報で応答します。
+{{site.data.keyword.Bluemix}} のお客様は、エスカレーション・プロセスを使用して重大な問題を明示し、サポート・チケットが対処されていないと思われる場合には懸念を表明することができます。 Case がエスカレートされると、{{site.data.keyword.Bluemix_notm}} サポート・チームがそのサポート Case 内の情報を検討し、適切な更新情報で応答します。
 
  問題事項をエスカレートするには、以下のステップを実行します。
 
