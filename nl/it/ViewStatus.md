@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ Puoi trovare la pagina Stato accedendo alla console {{site.data.keyword.Bluemix_
 
   Puoi filtrare questo elenco selezionando ubicazioni e componenti specifici o utilizzando ricerche per parole chiave.
 
-Puoi eseguire ricerche in tutte le schede della pagina Stato, ma sapevi che puoi creare valori di ricerca degli URL utilizzando parametri di query dall'esterno della console? Per ulteriori dettagli, vedi [Ricerca avanzata dello stato](/docs/get-support/status_search.html).
+Puoi eseguire ricerche in tutte le schede della pagina Stato, ma sapevi che puoi creare valori di ricerca degli URL utilizzando parametri di query dall'esterno della console? Per ulteriori dettagli, vedi [Ricerca avanzata dello stato](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Per ulteriori informazioni sul tipo di notifiche email che puoi ricevere in base al tuo tipo di account, vedi [Impostazione delle preferenze email](/docs/account/email.html). 
+Per ulteriori informazioni sul tipo di notifiche email che puoi ricevere in base al tuo tipo di account, vedi [Impostazione delle preferenze email](/docs/account?topic=account-email-prefs). 
 
 ## Sottoscrizione a un feed RSS
 {: #subscribing-rss-feed}

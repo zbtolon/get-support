@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -66,7 +66,7 @@ Per impostazione predefinita, gli utenti nel tuo account non hanno accesso per c
 
 Quando crei un caso, puoi dare ad altri utenti un accesso completo a tale caso aggiungendo la loro email nel campo **Aggiungi un'altra persona a questo caso**. Gli utenti aggiunti hanno un accesso per visualizzare, modificare e aggiornare solo tale caso nell'account. Ricevono anche delle notifiche quando il caso viene aggiornato. 
 
-Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-predefined#predefined).
+Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-predefined).
 
 ## Quali operazioni devo eseguire prima di aprire un caso di supporto? 
 {: #steps_before_opencase}
