@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ subcollection: get-support
 
   您可以通过选择特定位置和组件或使用关键字搜索来过滤列表。
 
-您可以在“状态”页面上的所有选项卡上进行搜索，但您是否知道可以通过从控制台外部使用查询参数来构建 URL 搜索值？有关更多详细信息，请参阅[高级状态搜索](/docs/get-support/status_search.html)。
+您可以在“状态”页面上的所有选项卡上进行搜索，但您是否知道可以通过从控制台外部使用查询参数来构建 URL 搜索值？有关更多详细信息，请参阅[高级状态搜索](/docs/get-support?topic=get-support-adv-search)。
 {: tip}
 
-有关根据您的帐户类型您可以接收哪种电子邮件通知类型的更多信息，请参阅[设置电子邮件首选项](/docs/account/email.html)。 
+有关根据您的帐户类型您可以接收哪种电子邮件通知类型的更多信息，请参阅[设置电子邮件首选项](/docs/account?topic=account-email-prefs)。 
 
 ## 预订 RSS 订阅源
 {: #subscribing-rss-feed}

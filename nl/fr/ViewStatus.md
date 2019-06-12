@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ Vous pouvez afficher la page Statut en vous connectant à la console {{site.data
 
   Vous pouvez filtrer cette liste en sélectionnant des emplacements et des composants spécifiques ou en utilisant des recherches par mot-clé.
 
-Vous pouvez effectuer une recherche dans tous les onglets de la page Statut, mais saviez-vous que vous pouvez créer des valeurs de recherche d'URL en utilisant des paramètres de requête extérieurs à la console ? Pour plus de détails, voir [Recherche de statut avancée](/docs/get-support/status_search.html).
+Vous pouvez effectuer une recherche dans tous les onglets de la page Statut, mais saviez-vous que vous pouvez créer des valeurs de recherche d'URL en utilisant des paramètres de requête extérieurs à la console ? Pour plus de détails, voir [Recherche de statut avancée](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Pour plus d'informations sur le type de notifications par courrier électronique que vous pouvez recevoir en fonction de votre type de compte, voir [Définition des préférences de courrier](/docs/account/email.html). 
+Pour plus d'informations sur le type de notifications par courrier électronique que vous pouvez recevoir en fonction de votre type de compte, voir [Définition des préférences de courrier](/docs/account?topic=account-email-prefs). 
 
 ## Abonnement à un flux RSS
 {: #subscribing-rss-feed}

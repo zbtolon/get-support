@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ Vous pouvez vérifier les maintenances prévues dans la page de tableau de bord 
 {: #escalate_support}
 {: faq}
 
-En tant que client IBM Cloud, vous pouvez transférer à un niveau supérieur des cas de support de manière à faire ressortir des problèmes critiques. Lorsqu'un cas est transféré à un niveau supérieur, l'équipe de support IBM Cloud examine les informations et vous fournit des mises à jour.  
+En tant que client IBM Cloud, vous pouvez transférer à un niveau supérieur des cas de support de manière à faire ressortir des problèmes critiques. Lorsqu'un cas est transféré à un niveau supérieur, l'équipe de support IBM Cloud examine les informations et vous fournit des mises à jour. 
 
 Pour transférer un cas à un niveau supérieur, procédez comme suit : 
 1. Contactez le support IBM Cloud par téléphone ou via une discussion en ligne :
@@ -66,7 +66,7 @@ Par défaut, les utilisateurs de votre compte n'ont pas accès à la création, 
 
 Lorsque vous créez un cas, vous pouvez accorder à d'autres utilisateurs l'accès complet à ce dernier en ajoutant leur adresse électronique dans la zone **Ajouter une autre personne à ce cas**. Tout utilisateur ajouté peut afficher, éditer et mettre à jour uniquement ce cas dans le compte. Il reçoit également des notifications lors de la mise à jour du cas. 
 
-Pour les utilisateurs d'infrastructure classique, les droits d'affectation de l'accès au cas de support sont désormais disponibles dans les [groupes d'accès migrés des droits d'infrastructure classique](/docs/iam?topic=iam-predefined#predefined).
+Pour les utilisateurs d'infrastructure classique, les droits d'affectation de l'accès au cas de support sont désormais disponibles dans les [groupes d'accès migrés des droits d'infrastructure classique](/docs/iam?topic=iam-predefined).
 
 ## Quelle procédure dois-je effectuer avant d'ouvrir un cas de support ? 
 {: #steps_before_opencase}

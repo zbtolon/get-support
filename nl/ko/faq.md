@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -38,7 +38,7 @@ subcollection: get-support
 {: #escalate_support}
 {: faq}
 
-IBM Cloud 고객은 중요한 문제를 표면화하기 위해 지원 케이스를 에스컬레이션할 수 있습니다. 케이스가 에스컬레이션되면 IBM Cloud 지원 팀에서 정보를 검토한 후 업데이트로 대응합니다.  
+IBM Cloud 고객은 중요한 문제를 표면화하기 위해 지원 케이스를 에스컬레이션할 수 있습니다. 케이스가 에스컬레이션되면 IBM Cloud 지원 팀에서 정보를 검토한 후 업데이트로 대응합니다. 
 
 지원 케이스를 에스컬레이션하려면 다음 단계를 완료하십시오. 
 1. 전화 또는 채팅으로 IBM Cloud 지원 팀에 문의하십시오.
@@ -66,7 +66,7 @@ IBM Cloud 고객은 중요한 문제를 표면화하기 위해 지원 케이스�
 
 케이스를 작성할 때는 다른 사용자의 이메일을 **이 케이스에 다른 사람 추가** 필드에 추가하여 해당 사용자에게 해당 케이스에 대한 전체 액세스 권한을 부여할 수 있습니다. 추가된 사용자는 계정의 해당 케이스에 대해서만 보고, 편집하고 업데이트할 수 있는 액세스 권한을 갖습니다. 또한 이들은 해당 케이스가 업데이트된 경우 알림을 수신합니다. 
 
-클래식 인프라 사용자의 경우, 지원 케이스 액세스 권한을 지정할 권한은 이제 [마이그레이션된 클래식 인프라 권한 액세스 그룹](/docs/iam?topic=iam-predefined#predefined)에서 사용할 수 있습니다.
+클래식 인프라 사용자의 경우, 지원 케이스 액세스 권한을 지정할 권한은 이제 [마이그레이션된 클래식 인프라 권한 액세스 그룹](/docs/iam?topic=iam-predefined)에서 사용할 수 있습니다.
 
 ## 지원 케이스를 열기 전에 어떤 단계를 수행해야 합니까? 
 {: #steps_before_opencase}

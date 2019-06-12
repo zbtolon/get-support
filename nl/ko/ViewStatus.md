@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ subcollection: get-support
 
   특정 위치와 컴포넌트를 선택하거나 키워드 검색을 사용하여 이 목록을 필터링할 수 있습니다.
 
-상태 페이지의 모든 탭에서 검색할 수 있지만, 콘솔 외부에서 조회 매개변수를 사용하여 URL 검색 값을 빌드할 수 있는지 알고 있었습니까? 세부사항은 [고급 상태 검색](/docs/get-support/status_search.html)을 참조하십시오.
+상태 페이지의 모든 탭에서 검색할 수 있지만, 콘솔 외부에서 조회 매개변수를 사용하여 URL 검색 값을 빌드할 수 있는지 알고 있었습니까? 세부사항은 [고급 상태 검색](/docs/get-support?topic=get-support-adv-search)을 참조하십시오.
 {: tip}
 
-계정 유형에 따라 수신할 수 있는 이메일 알림 유형에 대한 자세한 정보는 [이메일 환경 설정](/docs/account/email.html)을 참조하십시오. 
+계정 유형에 따라 수신할 수 있는 이메일 알림 유형에 대한 자세한 정보는 [이메일 환경 설정](/docs/account?topic=account-email-prefs)을 참조하십시오. 
 
 ## RSS 피드 구독
 {: #subscribing-rss-feed}

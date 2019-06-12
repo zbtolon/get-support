@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-06"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -23,8 +23,7 @@ subcollection: get-support
 
 IBM 将撤销对美国下列数据中心的支持： 
 
-* dal01 pods 2、3
-* wdc01 pods 1、2
+* dal01 pod 1、4 和 5
 {:shortdesc}
 
 ##  为什么要求我移动到其他数据中心？

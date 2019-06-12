@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-04"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -67,7 +67,7 @@ subcollection: get-support
 创建案例时，可以通过在**将其他人添加至此案例**字段中添加其他用户的电子邮件，从而为这些用户授予对该案例的完全访问权。任何添加的用户有权查看、编辑和更新的只有帐户中的该案例。他们还会在该案例更新时收到相应通知。
  
 
-对于经典基础架构用户，用于分配支持案例访问权的许可权现在位于[已迁移的经典基础架构许可权访问组](/docs/iam?topic=iam-predefined#predefined)中。
+对于经典基础架构用户，用于分配支持案例访问权的许可权现在位于[已迁移的经典基础架构许可权访问组](/docs/iam?topic=iam-predefined)中。
 
 ## 打开支持案例之前，应执行哪些步骤？ 
 {: #steps_before_opencase}

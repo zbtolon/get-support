@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ subcollection: get-support
 
 ### URL 조회 필터:
 {: #url-query}
+
+다음 표에서는 상태 페이지의 모든 탭에서 검색할 때 사용할 수 있는 URL 조회 필터에 대한 정보를 제공합니다.  
 
 | URL 조회 매개변수 |설명 | 값 |
 | ----- | ----- | ----- | ----- |

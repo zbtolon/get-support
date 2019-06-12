@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ La liste suivante comprend des exemples d'options de recherche d'URL :
 
 ### Filtres de requête d'URL :
 {: #url-query}
+
+Le tableau suivant contient des informations sur les filtres de requête d'URL que vous pouvez utiliser pour effectuer des recherches dans tous les onglets de la page d'état : 
 
 | Paramètre de requête d'URL | Description | Valeurs |
 | ----- | ----- | ----- | ----- |

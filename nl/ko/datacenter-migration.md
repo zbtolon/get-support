@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-06"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -23,8 +23,7 @@ subcollection: get-support
 
 IBM은 미국에 있는 다음 데이터 센터에 대한 지원을 중단합니다. 
 
-* dal01 팟(Pod) 2 및 3
-* wdc01 팟(Pod) 1 및 2
+* dal01 팟(Pod) 1, 4, 5
 {:shortdesc}
 
 ##  다른 데이터 센터로 이동해야 하는 이유는 무엇입니까?

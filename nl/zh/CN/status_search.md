@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ subcollection: get-support
 
 ### URL 查询过滤器：
 {: #url-query}
+
+下表提供了有关 URL 查询过滤器的信息，您可以使用这些过滤器在状态页面上的所有选项卡中进行搜索。 
 
 |URL 查询参数|描述
 |值|
