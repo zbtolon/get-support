@@ -43,8 +43,6 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
   You can filter this list by selecting specific locations and components or by using keyword searches.
 
 * Click **History** to view a list of completed events from the last 30 days. 
-
-
 You can search across all tabs on the Status page, but did you know that you can build URL search values by using query parameters from outside the console? For more details, see [Advanced status search](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
