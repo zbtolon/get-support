@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-05"
 
 keywords: status page, status query
 
@@ -37,6 +37,8 @@ La lista siguiente incluye ejemplos de opciones de búsqueda de URL:
 
 ### Filtros de consultas de URL:
 {: #url-query}
+
+La tabla siguiente contiene información sobre los filtros de consulta de URL que puede utilizar para realizar búsquedas en todos los separadores de la página de estado. 
 
 | Parámetro consulta URL | Descripción | Valores |
 | ----- | ----- | ----- | ----- |

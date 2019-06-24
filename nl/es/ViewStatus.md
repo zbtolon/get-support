@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-06-04"
 
 keywords: cloud status, view cloud status
 
@@ -42,10 +42,10 @@ Para acceder a la página Estado, inicie una sesión en la consola de {{site.dat
 
   Puede filtrar esta lista seleccionando ubicaciones y componentes específicos y utilizando búsquedas por palabras.
 
-Puede realizar búsquedas en todos los separadores de la página Estado, pero ¿sabía que puede crear valores de búsqueda de URL utilizando parámetros de consulta desde fuera de la consola? Para obtener más información, consulte [Búsqueda avanzada de estado](/docs/get-support/status_search.html).
+Puede realizar búsquedas en todos los separadores de la página Estado, pero ¿sabía que puede crear valores de búsqueda de URL utilizando parámetros de consulta desde fuera de la consola? Para obtener más información, consulte [Búsqueda avanzada de estado](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-Para obtener más información sobre el tipo de notificaciones de correo electrónico que puede recibir en función de su tipo de cuenta, consulte [Establecimiento de preferencias de correo electrónico](/docs/account/email.html). 
+Para obtener más información sobre el tipo de notificaciones de correo electrónico que puede recibir en función de su tipo de cuenta, consulte [Establecimiento de preferencias de correo electrónico](/docs/account?topic=account-email-prefs). 
 
 ## Suscripción a un hilo RSS
 {: #subscribing-rss-feed}
