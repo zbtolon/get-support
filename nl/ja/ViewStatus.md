@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-06-18"
 
-keywords: cloud status, view cloud status
+keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
 subcollection: get-support
 
@@ -26,7 +26,7 @@ subcollection: get-support
 
 「状況」ページは、{{site.data.keyword.Bluemix_notm}} コンソールにログインすることによって表示できます。 メニュー・バーで**「サポート」**をクリックし、サポート・センターで**「クラウドの状況の表示 (View cloud status)」**をクリックします。 または、[{{site.data.keyword.Bluemix_notm}} - 状況 ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status){: new_window} でページに直接アクセスできます。
 
-* **「状況」**をクリックすると、すべての {{site.data.keyword.Bluemix_notm}} ロケーションにおけるリソースの状況が表示されます。 
+* **「状況」**をクリックすると、すべての {{site.data.keyword.Bluemix_notm}} ロケーションにおけるリソースの現在の状況が表示されます。アクティブ・イベントのみが表示されます。  
 
   保守およびインシデントのイベントのリストを日時順に表示できます。 すべての通知を検索することも、タイプ、地理的位置、および個別リソースでフィルタリングすることもできます。 事前に通知されている計画保守の時間帯や計画外のインシデントまたは停止を表示することもできます。これらは、{{site.data.keyword.Bluemix_notm}} チームが認識するとすぐに掲示されます。 問題に関する通知は、解決まで定期的に更新されます。
 
@@ -41,6 +41,9 @@ subcollection: get-support
 * **「発表」** をクリックすると、一般的に関心を持つ可能性がある発表のリストが表示されます。
 
   特定のロケーションおよびコンポーネントを選択するか、キーワード検索を使用して、リストをフィルタリングできます。
+
+* **「履歴」**をクリックすると、直近 30 日間の完了イベントのリストが表示されます。 
+
 
 「状況」ページではすべてのタブにわたって検索できますが、コンソールの外部から照会パラメーターを使用して URL 検索値を作成できることをご存じでしたか? 詳しくは、[拡張状況検索](/docs/get-support?topic=get-support-adv-search)を参照してください。
 {: tip}

@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-06-18"
 
-keywords: cloud status, view cloud status
+keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
 subcollection: get-support
 
@@ -26,7 +26,7 @@ subcollection: get-support
 
 {{site.data.keyword.Bluemix_notm}} 콘솔에 로그인하여 상태 페이지를 찾을 수 있습니다. 메뉴 표시줄에서 **지원**을 클릭한 다음 지원 센터에서 **클라우드 상태 보기**를 클릭하십시오. 또는 [{{site.data.keyword.Bluemix_notm}} - 상태 ![외부 링크 아이콘](../icons/launch-glyph.svg "외부 링크 아이콘")](https://cloud.ibm.com/status){: new_window}에서 직접 페이지에 액세스할 수 있습니다.
 
-* **상태**를 클릭하여 모든 {{site.data.keyword.Bluemix_notm}} 위치에서 리소스의 상태를 보십시오. 
+* **상태**를 클릭하여 모든 {{site.data.keyword.Bluemix_notm}} 위치에서 리소스의 현재 상태를 보십시오. 활성 이벤트만 표시됩니다.  
 
   유지보수 및 인시던트에 대한 이벤트 목록을 시간 순서로 볼 수 있습니다. 모든 알림에서 검색하거나 유형, 지리적 위치 및 개별 리소스를 기준으로 필터링할 수 있습니다. 또한 사전통고가 제공된 계획된 유지보수 기간 및 {{site.data.keyword.Bluemix_notm}} 팀이 인식하게 되면 바로 게시되는 계획되지 않은 인시던트 또는 정전을 볼 수 있습니다. 인시던트 알림은 해결될 때까지 정기적으로 업데이트됩니다.
 
@@ -41,6 +41,9 @@ subcollection: get-support
 * **공지사항**을 클릭하여 관심 있는 공지사항 목록을 보십시오.
 
   특정 위치와 컴포넌트를 선택하거나 키워드 검색을 사용하여 이 목록을 필터링할 수 있습니다.
+
+* **히스토리**를 클릭하여 지난 30일부터의 전체 이벤트 목록을 볼 수 있습니다. 
+
 
 상태 페이지의 모든 탭에서 검색할 수 있지만, 콘솔 외부에서 조회 매개변수를 사용하여 URL 검색 값을 빌드할 수 있는지 알고 있었습니까? 세부사항은 [고급 상태 검색](/docs/get-support?topic=get-support-adv-search)을 참조하십시오.
 {: tip}
