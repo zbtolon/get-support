@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-06-18"
 
-keywords: cloud status, view cloud status
+keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
 subcollection: get-support
 
@@ -26,7 +26,7 @@ La página Estado es el lugar central donde encontrar incidencias no planificada
 
 Para acceder a la página Estado, inicie una sesión en la consola de {{site.data.keyword.Bluemix_notm}}. Pulse **Soporte** en la barra de menús y, a continuación, pulse **Ver estado de la nube** en el Centro de soporte. También puede acceder directamente en [{{site.data.keyword.Bluemix_notm}} - Estado ![Icono de enlace externo](../icons/launch-glyph.svg "Icono de enlace externo")](https://cloud.ibm.com/status){: new_window}.
 
-* Pulse **Estado** para ver el estado de los recursos de todas las ubicaciones de {{site.data.keyword.Bluemix_notm}}. 
+* Pulse **Estado** para ver el estado actual de los recursos de todas las ubicaciones de {{site.data.keyword.Bluemix_notm}}. Solo se muestran los sucesos activos.  
 
   Puede ver una lista de sucesos, en orden cronológico, sobre mantenimiento e incidencias. Puede realizar búsquedas en todas las notificaciones, o filtrar por tipo, ubicaciones geográficas y recursos individuales. También puede ver ventajas de mantenimiento planificado sobre las que se proporciona aviso previo e incidencias o paradas no planificadas, que se publican en cuanto las conoce el equipo de {{site.data.keyword.Bluemix_notm}}. Las notificaciones de incidencias se actualizan con regularidad hasta que quedan resueltas.
 
@@ -41,6 +41,9 @@ Para acceder a la página Estado, inicie una sesión en la consola de {{site.dat
 * Pulse **Anuncios** para ver una lista de los anuncios que pueden ser de interés general para usted.
 
   Puede filtrar esta lista seleccionando ubicaciones y componentes específicos y utilizando búsquedas por palabras.
+
+* Pulse **Historial** para ver una lista de sucesos completados de los últimos 30 días. 
+
 
 Puede realizar búsquedas en todos los separadores de la página Estado, pero ¿sabía que puede crear valores de búsqueda de URL utilizando parámetros de consulta desde fuera de la consola? Para obtener más información, consulte [Búsqueda avanzada de estado](/docs/get-support?topic=get-support-adv-search).
 {: tip}
