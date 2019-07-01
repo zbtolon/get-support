@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-06-18"
 
-keywords: cloud status, view cloud status
+keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
 subcollection: get-support
 
@@ -26,7 +26,7 @@ La page Statut est l'emplacement central permettant de rechercher les incidents 
 
 Vous pouvez afficher la page Statut en vous connectant à la console {{site.data.keyword.Bluemix_notm}}. Cliquez sur **Support** dans la barre de menus, puis cliquez sur **Afficher le statut du cloud** dans le Centre de support. Ou vous pouvez accéder à la page directement à partir de [{{site.data.keyword.Bluemix_notm}} - Statut ![Icône de lien externe](../icons/launch-glyph.svg "Icône de lien externe")](https://cloud.ibm.com/status){: new_window}.
 
-* Cliquez sur **Statut** pour afficher le statut des ressources dans tous les emplacements {{site.data.keyword.Bluemix_notm}}. 
+* Cliquez sur **Statut** pour afficher le statut en cours des ressources dans tous les emplacements {{site.data.keyword.Bluemix_notm}}. Seuls les événements actifs sont affichés.  
 
   Vous pouvez afficher une liste d'événements, dans l'ordre chronologique, pour la maintenance et les incidents. Vous pouvez effectuer une recherche dans toutes les notifications ou filtrer par type, par emplacement géographique et par ressource. Vous pouvez également afficher les fenêtres de maintenance planifiée pour lesquelles une notification préalable est fournie ainsi que les incidents ou les pannes imprévus, qui sont signalés dès que l'équipe {{site.data.keyword.Bluemix_notm}} en a connaissance. Les notifications d'incident sont régulièrement mises à jour jusqu'à leur résolution.
 
@@ -41,6 +41,9 @@ Vous pouvez afficher la page Statut en vous connectant à la console {{site.data
 * Cliquez sur **Annonces** pour afficher une liste des annonces susceptibles de vous intéresser.
 
   Vous pouvez filtrer cette liste en sélectionnant des emplacements et des composants spécifiques ou en utilisant des recherches par mot-clé.
+
+* Cliquez sur **Historique** pour afficher la liste des événements terminés au cours des 30 derniers jours. 
+
 
 Vous pouvez effectuer une recherche dans tous les onglets de la page Statut, mais saviez-vous que vous pouvez créer des valeurs de recherche d'URL en utilisant des paramètres de requête extérieurs à la console ? Pour plus de détails, voir [Recherche de statut avancée](/docs/get-support?topic=get-support-adv-search).
 {: tip}
