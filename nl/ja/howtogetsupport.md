@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -16,6 +16,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # サポートの利用
@@ -49,6 +50,9 @@ IBM は、お客様サポートでの最近の体験に関するフィードバ�
 [サポート・プラン](/docs/get-support?topic=get-support-support-plans#support-plans)が基本、アドバンスト、またはプレミアムの場合、ヘルプを利用するための電話番号およびチャット・オプションが提供されます。
 
 サポート・センターの利用は、サポートを受ける上で望ましい方法ですが、{{site.data.keyword.Bluemix_notm}} にログインできない場合は [「新規サポート Case」](https://{DomainName}/unifiedsupport/cases/add) ページを利用して Case を送信できます。
+
+クラシック・インフラストラクチャー・ユーザーの場合は、サポート・チケットに慣れているかもしれません。チケットは、IBM Cloud では Case と呼ばれるようになりました。
+{: note} 
 
 ### 質問する
 {: #asking-a-question}
