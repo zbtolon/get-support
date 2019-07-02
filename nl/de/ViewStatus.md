@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-06-18"
 
-keywords: cloud status, view cloud status
+keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
 subcollection: get-support
 
@@ -26,7 +26,7 @@ Die Seite 'Status' ist die zentrale Position für die Suche nach ungeplanten Vor
 
 Die Seite 'Status' wird angezeigt, wenn Sie sich an der {{site.data.keyword.Bluemix_notm}}-Konsole anmelden. Klicken Sie in der Menüleiste auf **Unterstützung** und klicken Sie anschließend im Support Center auf **Cloudstatus anzeigen**. Oder greifen Sie direkt über [{{site.data.keyword.Bluemix_notm}} - Status ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://cloud.ibm.com/status){: new_window} darauf zu.
 
-* Klicken Sie auf **Status**, um den Status der Ressourcen in allen {{site.data.keyword.Bluemix_notm}} Positionen anzuzeigen. 
+* Klicken Sie auf **Status**, um den aktuellen Status der Ressourcen in allen {{site.data.keyword.Bluemix_notm}}-Positionen anzuzeigen. Es werden nur aktive Ereignisse angezeigt.  
 
   Sie können eine Liste der Ereignisse für Wartungsarbeiten und Vorfälle in chronologischer Reihenfolge anzeigen. Sie können alle Benachrichtigungen oder Filter nach Typ, Standorten und einzelnen Ressourcen durchsuchen. Sie können auch geplante Wartungszeitfenster anzeigen, die im Voraus angekündigt werden, sowie ungeplante Vorfälle oder Ausfallzeiten, die mitgeteilt werden, sobald das {{site.data.keyword.Bluemix_notm}}-Team diese bemerkt. Benachrichtigungen zu Vorfällen werden regelmäßig aktualisiert, bis die Probleme behoben sind.
 
@@ -41,6 +41,9 @@ Die Seite 'Status' wird angezeigt, wenn Sie sich an der {{site.data.keyword.Blue
 * Klicken Sie auf **Ankündigungen**, um eine Liste der Ankündigungen anzuzeigen, die möglicherweise von allgemeinem Interesse für Sie sind.
 
   Sie können diese Liste durch Auswahl bestimmter Standorte und Positionen und Komponenten oder mithilfe der Schlüsselwortsuche filtern.
+
+* Klicken Sie auf **Protokoll**, um eine Liste der abgeschlossenen Ereignisse der letzten 30 Tage anzuzeigen. 
+
 
 Sie können alle Registerkarten auf der Seite "Status" durchsuchen, aber wussten Sie, dass Sie URL-Suchwerte mithilfe von Abfrageparametern außerhalb der Konsole erstellen können? Weitere Details finden Sie in [Erweiterte Statussuche](/docs/get-support?topic=get-support-adv-search).
 {: tip}
