@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -16,12 +16,14 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Richiesta di supporto
 {: #getting-customer-support}
 
-Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni per ottenere assistenza nel determinare la causa del problema e per trovare una soluzione. Se hai effettuato l'accesso, puoi andare direttamente al [Centro di supporto](https://{DomainName}/unifiedsupport/supportcenter) per consultare le domande frequenti comuni, aprire un caso di supporto o cercare nei contenuti della community. {:shortdesc}
+Se riscontri dei problemi con {{site.data.keyword.Bluemix}}, hai diverse opzioni per ottenere assistenza nel determinare la causa del problema e per trovare una soluzione. Se hai effettuato l'accesso, puoi andare direttamente al [Centro di supporto](https://{DomainName}/unifiedsupport/supportcenter) per consultare le domande frequenti comuni, aprire un caso di supporto o cercare nei contenuti della community.
+{:shortdesc}
 
 ## Come funziona il processo del supporto clienti
 {: #gs_supoverview}
@@ -47,7 +49,10 @@ Puoi utilizzare il campo di ricerca del Centro di supporto per trovare risposte 
 
 Se hai un [piano di supporto](/docs/get-support?topic=get-support-support-plans#support-plans) di base, avanzato o premium, puoi trovare i numeri da chiamare e un'opzione di chat per ottenere assistenza.
 
-Il Centro di supporto è il metodo preferito per ottenere supporto ma, se non riesci ad accedere a {{site.data.keyword.Bluemix_notm}}, puoi utilizzare la pagina [Nuovo caso di supporto](https://{DomainName}/unifiedsupport/cases/add) per inviare un caso. 
+Il Centro di supporto è il metodo preferito per ottenere supporto ma, se non riesci ad accedere a {{site.data.keyword.Bluemix_notm}}, puoi utilizzare la pagina [Nuovo caso di supporto](https://{DomainName}/unifiedsupport/cases/add) per inviare un caso.
+
+Come utente dell'infrastruttura classica, potresti avere familiarità con i ticket di supporto. I ticket sono ora chiamati casi in IBM Cloud. 
+{: note} 
 
 ### Porre una domanda
 {: #asking-a-question}
@@ -94,7 +99,7 @@ Puoi impostare l'opzione **Supportato UE** per il tuo account dalla finestra Fat
 {: #eusupportedservices}
 
 Dopo aver impostato l'opzione **Supportato UE**, puoi anche usufruire di controlli aggiuntivi per supportare e utilizzare i servizi {{site.data.keyword.Bluemix_notm}} dall'Unione Europea. Puoi filtrare la tua ricerca di servizi di piattaforma con i piani supportati nel catalogo {{site.data.keyword.Bluemix_notm}}. Per visualizzare i piani supportati dall'UE per un servizio della piattaforma, completa la seguente procedura:
-  1. Apri il [catalogo {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://{DomainName}/catalog/){: new_window}. 
+  1. Apri il [catalogo {{site.data.keyword.Bluemix_notm}} ![Icona link esterno](../icons/launch-glyph.svg "Icona link esterno")](https://{DomainName}/catalog/){: new_window}.
   2. Fai clic su **Filtro**.
   3. Seleziona **Supportato UE** dall'elenco a discesa. Con il filtro Supportato UE impostato, vedi solo i servizi nelle categorie **Infrastruttura** e **Piattaforma** che hanno dei piani supportati dall'UE.
   4. Selezionare il servizio che desideri. Puoi vedere che alcune regioni e alcuni piani per il servizio sono supportati dall'UE.

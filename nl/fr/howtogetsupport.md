@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -16,6 +16,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # Support
@@ -49,6 +50,9 @@ Vous pouvez utiliser la zone de recherche du centre de support pour trouver des 
 Si vous avez un [plan de support](/docs/get-support?topic=get-support-support-plans#support-plans) de base, avancé ou premium, vous trouverez des numéros d'appel entrant et une option de dialogue en ligne pour obtenir de l'aide.
 
 Bien que le centre de support soit généralement la méthode privilégiée si vous avez besoin d'assistance, si vous ne parvenez pas à vous connecter à {{site.data.keyword.Bluemix_notm}}, vous pouvez utiliser la page [Nouveau cas de support](https://{DomainName}/unifiedsupport/cases/add) pour soumettre un cas.
+
+En tant qu'utilisateur d'une infrastructure classique, vous connaissez peut-être déjà les tickets de demande de service. Les tickets sont désormais appelés des cas dans IBM Cloud. 
+{: note} 
 
 ### Poser une question
 {: #asking-a-question}

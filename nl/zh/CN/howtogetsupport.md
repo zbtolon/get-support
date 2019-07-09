@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -16,6 +16,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # 获取支持
@@ -50,6 +51,9 @@ IBM 会定期向 {{site.data.keyword.Bluemix_notm}} 客户发送调查，以获�
 如果您拥有基本、高级或高端[支持套餐](/docs/get-support?topic=get-support-support-plans#support-plans)，那么可以找到相关电话号码和交谈选项来获取帮助。
 
 支持中心是获取支持的首选方法，但如果您无法登录到 {{site.data.keyword.Bluemix_notm}}，那么可以使用[新建支持案例](https://{DomainName}/unifiedsupport/cases/add)页面来提交案例。
+
+作为经典基础架构用户，您可能熟悉支持凭单。现在，凭单在 IBM Cloud 中称为案例。
+{: note} 
 
 ### 提出问题
 {: #asking-a-question}

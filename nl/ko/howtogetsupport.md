@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -16,6 +16,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 # 지원 받기
@@ -49,6 +50,9 @@ IBM은 주기적으로 {{site.data.keyword.Bluemix_notm}} 고객에게 설문조
 기본, 고급 또는 프리미엄 [지원 플랜](/docs/get-support?topic=get-support-support-plans#support-plans)이 있는 경우 도움을 받기 위한 전화번호 및 채팅 옵션을 찾을 수 있습니다.
 
 지원 센터는 지원을 받기 위한 선호되는 방법입니다. 하지만 {{site.data.keyword.Bluemix_notm}}에 로그인할 수 없는 경우에는 [새 지원 케이스](https://{DomainName}/unifiedsupport/cases/add) 페이지를 사용하여 케이스를 제출할 수 있습니다.
+
+클래식 인프라 사용자는 지원 티켓에 익숙해져야 합니다. IBM Cloud에서는 이제 티켓을 케이스라고 부릅니다. 
+{: note} 
 
 ### 질문하기
 {: #asking-a-question}

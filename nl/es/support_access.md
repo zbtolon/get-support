@@ -4,9 +4,9 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-06-25"
 
-keywords: access to cases, get access for cases, assign cases
+keywords: access to cases, get access for cases, assign cases, watchlist
 
 subcollection: get-support
 
@@ -17,6 +17,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:important: .important}
 {:new_window: target="_blank"}
 
@@ -29,7 +30,10 @@ De forma predeterminada, los usuarios de una cuenta no tienen acceso para crear,
 Cuando crea un caso, puede dar a otros usuarios acceso total a dicho caso añadiendo su correo electrónico en el campo **Añadir otra persona a este caso**. Los usuarios que añada tendrán acceso para ver, editar y actualizar solo ese caso en la cuenta. Además, recibirán notificaciones cuando se actualice el caso.
 {: tip}
 
+Aunque otorgar acceso a un usuario mediante la asignación de un rol sobre el servicio de centro de soporte le permite ver, editar y crear casos de uso, es posible que no pueda ver todos los casos en una cuenta. Si el propietario de la cuenta establece el valor de visibilidad de la lista de usuarios en restringido, los usuarios solo verán los casos que hayan creado ellos mismos. Para garantizar que un usuario siempre pueda ver o editar todos los casos de la cuenta, debe asignar una segunda política de acceso con el rol de visor sobre el servicio de gestión de usuarios.  
+
 Para los usuarios de la infraestructura clásica, los permisos para asignar acceso a casos de soporte están ahora disponibles en [grupos de acceso de permisos migrados de la infraestructura clásica](/docs/iam?topic=iam-infrapermission#predefined). Los grupos de acceso de permisos migrados incluyen la política de IAM sobre el servicio de gestión de usuarios con el rol de visor asignado.
+{: note}
 
 ## Creación de un grupo de acceso para trabajar con casos
 {: #creating-access-group}
@@ -41,16 +45,7 @@ Para agilizar el proceso de asignación de accesos, puede aprovechar la función
 3. Pulse **Políticas de acceso** > **Asignar acceso**.
 4. Seleccione **Asignar acceso a servicios de gestión de cuentas**.
 5. Seleccione **Centro de soporte**.
-6. Seleccione el rol **Visor**, **Editor** o **Administrador**, en función del tipo de acceso que desea que tenga este grupo, y pulse **Asignar**.
-
-Si desea que los usuarios puedan ver a los demás usuarios de la cuenta, añada el rol de visor de gestión de usuarios al grupo de acceso:
-
-1. Pulse **Políticas de acceso** > **Asignar acceso**.
-2. Seleccione **Asignar acceso a servicios de gestión de cuentas**.
-3. Seleccione **Gestión de usuarios**.
-4. Seleccione **Visor** y pulse **Asignar**.
-
-En la tabla siguiente, se indican los permisos incluidos en cada rol para trabajar con los casos.
+6. Seleccione el rol Visor, Editor o Administrador, en función del tipo de acceso que desea que tenga este grupo, y pulse **Asignar**. En la tabla siguiente, se indican las acciones incluidas en cada rol para trabajar con los casos.
 
 | Rol | Acción | 
 |--------|---------------|
@@ -59,13 +54,27 @@ En la tabla siguiente, se indican los permisos incluidos en cada rol para trabaj
 |Administrador | Ver, buscar, crear y actualizar casos; gestionar roles del centro de soporte para otros usuarios|
 {: caption="Tabla 1. Roles y acciones para el servicio del Centro de soporte" caption-side="top"}
 
+De forma predeterminada, los usuarios con un rol de servicio del centro de soporte pueden acceder únicamente a casos de soporte que tengan asignados, a menos que se cumpla una de las condiciones siguientes: 
+
+* El propietario de la cuenta ha establecido la visibilidad de la lista de usuarios en Vista no restringida. 
+* El usuario tiene asignado un rol del servicio de gestión de cuentas de gestión de usuarios. 
+
+
+Si desea asegurarse de que los usuarios pueden ver todos los casos de soporte en la cuenta, también puede añadir una política con el rol de visor para el servicio de gestión de usuarios al grupo de acceso: 
+
+1. Pulse **Políticas de acceso** > **Asignar acceso**.
+2. Seleccione **Asignar acceso a servicios de gestión de cuentas**.
+3. Seleccione **Gestión de usuarios**.
+4. Seleccione **Visor** y pulse **Asignar**.
+
+
 ## Adición de usuarios a su cuenta grupo de acceso de gestión de casos
 {: #add-user-access-group} 
 
-Ahora que ya ha creado el grupo de acceso, añada usuarios:
+Tras crear el grupo de acceso, realice los pasos siguientes para añadir usuarios: 
 
 1. En el separador **Usuarios** del grupo de acceso, pulse **Añadir usuarios**.
-2. Seleccione el usuario que desea añadir al grupo y pulse **Añadir a grupo**.
+2. Seleccione el usuario que desee añadir y pulse **Añadir a grupo**.
 
 ## Cómo otorgar acceso a los casos a usuarios individuales 
 
