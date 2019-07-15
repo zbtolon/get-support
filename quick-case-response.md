@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-06-07"
+lastupdated: "2019-07-15"
 
 keywords: escalate, support case, case, ticket, case severity, severity 
 
@@ -37,7 +37,7 @@ subcollection: get-support
 ## Case severity and response times
 {: #support-case-severity}
 
-How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case.
+How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case. With your agreement, the support team adjusts the assigned severity if an incorrect severity level is selected.
 
 The following table lists some common examples of support issues, suggested severity levels, and the initial response time objectives. The initial response time objectives are used to describe IBM goals only, and don't represent a performance guarantee.
 
