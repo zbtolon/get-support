@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-17"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # FAQs
 {: #get-supportfaq}
+
+## Why can't I see my support cases? 
+{: #view-support-cases}
+{: faq}
+
+Tickets are now called cases in IBM Cloud. To access support cases, go to **Support** > **Manage cases**. 
+
+If you're unable to view your cases, try clicking **View archived cases**. If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions). 
 
 ## How do I check for planned maintenance?
 {: #planned_maintenance_gs}
