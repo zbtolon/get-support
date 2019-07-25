@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-06-25"
+lastupdated: "2019-07-25"
 
 keywords: access to cases, get access for cases, assign cases, watchlist
 
@@ -30,7 +30,7 @@ By default, users in your account don't have access to create, update, search, o
 When you create a case, you can give other users full access to that case by adding their email on the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
 {: tip}
 
-While giving a user access by assigning a role on the Support Center service enables users to view, edit, or create support cases, they might not be able to view all cases in an account. If the account owner sets the user list visbility setting to restricted, then users only see the cases that they create themselves. To ensure a user can always view or edit all cases in the account, you must assign a second access policy with the viewer role on the user management service. 
+When you give a user access by assigning a role on the Support Center service enables users to view, edit, or create support cases, they might not be able to view all cases in an account. If the account owner sets the user list visibility setting to restricted, then users see only the cases that they create themselves. To ensure that a user can always view or edit all cases in the account, you must assign a second access policy with the viewer role on the user management service. 
 
 For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-infrapermission#predefined). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 {: note}

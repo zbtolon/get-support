@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-07-17"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -76,7 +76,7 @@ When you create a case, you can give other users full access to that case by add
 
 For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-predefined).
 
-## What steps should I take before opening a support case? 
+## What steps can I take before opening a support case? 
 {: #steps_before_opencase}
 {: faq}
 
