@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -25,6 +25,14 @@ subcollection: get-support
 # FAQ
 {: #get-supportfaq}
 
+## サポート Case を表示できないのはなぜですか?
+{: #view-support-cases}
+{: faq}
+
+チケットは、IBM Cloud では Case と呼ばれるようになりました。 サポート Case にアクセスするには、**「サポート」** > **「Case の管理」**に進みます。
+
+Case を表示できない場合は、**「アーカイブされた Case の表示」**をクリックしてみてください。 それでも表示できない場合は、必要な許可がない可能性があります。 アカウント所有者に「サポート Case」アクセス・グループに追加するよう依頼してください。 詳しくは、[SoftLayer アカウント許可](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions)を参照してください。
+
 ## 計画保守を確認する方法
 {: #planned_maintenance_gs}
 {: faq}
@@ -34,17 +42,17 @@ subcollection: get-support
 1. [「IBM Cloud ダッシュボード」](https://cloud.ibm.com/)で、計画保守ウィジェットから**「イベントの表示」**を選択します。 
 2. 直接[「状況 - 計画保守」![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://cloud.ibm.com/status?selected=maintenance){: new_window} ページにアクセスします。
 
-## サポート Case はどのようにエスカレートさせればいいですか? 
+## サポート Case のエスカレーションはどのようにあげればいいですか? 
 {: #escalate_support}
 {: faq}
 
-IBM Cloud のお客様は、サポート Case をエスカレートさせることで重要な問題が目に留まるようにすることができます。 Case がエスカレートされると、IBM Cloud サポート・チームは情報を検討し、更新情報で応答します。 
+IBM Cloud のお客様は、サポート Case をエスカレーションすることで重要な問題が目に留まるようにすることができます。 Case がエスカレーションされると、IBM Cloud サポート・チームは情報を検討し、更新情報で応答します。 
 
-サポート Case をエスカレートするには、以下のステップを実行します。 
+サポート Case のエスカレーションをあげるには、以下のステップを実行します。 
 1. 電話またはチャットを使用して IBM Cloud サポートに連絡します。
     * 電話の場合は番号 +1-866-403-7638 を使用します。
     * チャットの場合は[サポート・センター ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](https://{DomainName}/unifiedsupport/supportcenter){: new_window} から問い合わせます。
-2. 既存の Case 番号を知らせ、その問題をエスカレートするよう依頼します。 
+2. 既存の Case 番号を知らせ、その問題をエスカレーションするよう依頼します。 
 3. エスカレーションの理由付けと、ビジネスへのその問題の影響を説明します。 
 
 ## E メールの通知の設定は、どうしたら変更できますか? 
@@ -68,13 +76,13 @@ Case を作成するとき、**「この Case に別のユーザーを追加」*
 
 クラシック・インフラストラクチャー・ユーザーの場合、サポート Case のアクセス権限を割り当てるための許可は、[マイグレーションされたクラシック・インフラストラクチャー許可のアクセス・グループ](/docs/iam?topic=iam-predefined)で使用できるようになりました。
 
-## サポート Case をオープンする前にどのような手順を行えはいいですか? 
+## サポート Case をオープンする前に確認することはありますか? 
 {: #steps_before_opencase}
 {: faq}
 
-サポート Case をオープンする前に、直面している問題または質問が既に解決されているかどうかを確認するために、以下のリソースを調べてください。 
+サポート Case をオープンする前に以下のリソースを参照して、直面している問題または質問が既に解決されているかどうかを確認してください。 
 
-1. 弊社の[資料](https://cloud.ibm.com/docs)を確認する。 
+1. [資料](https://cloud.ibm.com/docs)にある情報を確認する。 
 2. [サポート・センター FAQ](https://cloud.ibm.com/unifiedsupport/supportcenter) を確認する。 
 3. [FAQ ライブラリー](https://cloud.ibm.com/docs/faqs) にアクセスする。 
 4. {{site.data.keyword.Bluemix_notm}} プラットフォームおよびサービスを使用してアプリの開発に関する技術的な質問をするには、[Stack Overflow ![外部リンク・アイコン](../icons/launch-glyph.svg "外部リンク・アイコン")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} にアクセスしてください。

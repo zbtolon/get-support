@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # Häufig gestellte Fragen (FAQs)
 {: #get-supportfaq}
+
+## Warum kann ich meine Supportfälle nicht anzeigen?
+{: #view-support-cases}
+{: faq}
+
+Tickets werden in IBM Cloud jetzt als "Fälle" bezeichnet. Für den Zugriff auf Supportfälle rufen Sie **Support** > **Fälle verwalten** auf. 
+
+Wenn Sie Ihre Fälle nicht anzeigen können, klicken Sie auf **Archivierte Fälle anzeigen**. Wenn die Fälle weiterhin nicht angezeigt werden können, verfügen Sie möglicherweise nicht über die erforderlichen Berechtigungen. Bitten Sie den Kontoeigner, Sie zur Zugriffsgruppe für Supportfälle hinzuzufügen. Weitere Informationen finden Sie in [SoftLayer-Kontoberechtigungen](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions). 
 
 ## Wie informiere ich mich über geplante Wartungsarbeiten?
 {: #planned_maintenance_gs}

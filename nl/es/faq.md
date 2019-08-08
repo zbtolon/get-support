@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # Preguntas más frecuentes
 {: #get-supportfaq}
+
+## ¿Por qué no puedo ver mis casos de soporte? 
+{: #view-support-cases}
+{: faq}
+
+Las incidencias ahora se denominan casos en IBM Cloud. Para acceder a los casos de soporte, vaya a **Soporte** > **Gestionar casos**. 
+
+Si no puede ver sus casos, pulse **Ver casos archivados**. Si sigue sin verlos, es posible que no tenga los permisos necesarios. Solicite al propietario de su cuenta que le añada al grupo de acceso de casos de soporte. Para obtener más información, consulte [Permisos de cuenta de SoftLayer](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions). 
 
 ## ¿Cómo puedo comprobar si hay un mantenimiento planificado?
 {: #planned_maintenance_gs}
@@ -68,7 +76,7 @@ Cuando crea un caso, puede dar a otros usuarios acceso total a dicho caso añadi
 
 Para los usuarios de la infraestructura clásica, los permisos para asignar acceso a casos de soporte están ahora disponibles en [grupos de acceso de permisos migrados de la infraestructura clásica](/docs/iam?topic=iam-predefined).
 
-## ¿Qué pasos se deben realizar antes de abrir un caso de soporte? 
+## ¿Qué pasos puedo realizar antes de abrir un caso de soporte? 
 {: #steps_before_opencase}
 {: faq}
 
