@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # 常見問題 (FAQ)
 {: #get-supportfaq}
+
+## 為什麼我看不到我的支援案例？
+{: #view-support-cases}
+{: faq}
+
+現在，問題單在 IBM Cloud 中稱為案例。要存取支援案例，請移至**支援** > **管理案例**。
+
+如果您無法檢視案例，請嘗試按一下**檢視保存案例**。如果您仍舊無法檢視案例，說明您可能沒有所需許可權。請求帳戶擁有者將您新增到支援案例存取群組。有關相關資訊，請參閱 [SoftLayer 帳戶許可權](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions)。
 
 ## 如何檢查是否有計劃性維護？
 {: #planned_maintenance_gs}
@@ -69,7 +77,7 @@ subcollection: get-support
 
 對於標準基礎架構使用者，現在在[移轉的標準基礎架構許可權存取群組](/docs/iam?topic=iam-predefined)中提供了可指派支援案例存取權的許可權。
 
-## 開立支援案例之前應該採取什麼步驟？ 
+## 開立支援案例之前可以採取哪些步驟？ 
 {: #steps_before_opencase}
 {: faq}
 

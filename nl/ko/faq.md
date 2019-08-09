@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # FAQ
 {: #get-supportfaq}
+
+## 지원 케이스를 볼 수 없는 이유
+{: #view-support-cases}
+{: faq}
+
+IBM Cloud에서는 이제 티켓을 케이스라고 부릅니다. 지원 케이스에 액세스하려면 **지원** > **케이스 관리**로 이동하십시오. 
+
+케이스를 볼 수 없는 경우 **아카이브된 케이스 보기**를 클릭해 보십시오. 계속해서 케이스를 볼 수 없으면 필요한 권한이 없는 것일 수도 있습니다. 지원 케이스 액세스 그룹을 추가하려면 계정 소유자에게 문의하십시오. 자세한 정보는 [SoftLayer 계정 권한](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions)을 참조하십시오.
 
 ## 계획된 유지보수는 어떻게 확인합니까?
 {: #planned_maintenance_gs}
@@ -68,7 +76,7 @@ IBM Cloud 고객은 중요한 문제를 표면화하기 위해 지원 케이스�
 
 클래식 인프라 사용자의 경우, 지원 케이스 액세스 권한을 지정할 권한은 이제 [마이그레이션된 클래식 인프라 권한 액세스 그룹](/docs/iam?topic=iam-predefined)에서 사용할 수 있습니다.
 
-## 지원 케이스를 열기 전에 어떤 단계를 수행해야 합니까? 
+## 지원 케이스를 열기 전에 수행할 수 있는 단계에는 무엇이 있습니까? 
 {: #steps_before_opencase}
 {: faq}
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-07-25"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ Vous pouvez rencontrer des problèmes lors de la création et de la gestion des 
 ## Pourquoi ne puis-je pas créer ou modifier des cas de support ? 
 {: #ts_service_broker}
 
-Vous ne pouvez pas créer ou éditer un cas de support {{site.data.keyword.Bluemix_notm}} et un message d'erreur indiquant que vous ne disposez pas de l'accès approprié s'affiche.
+Vous ne pouvez pas créer ou éditer un cas de support {{site.data.keyword.Bluemix_notm}} et un message d'erreur indiquant que vous ne disposez pas de l'accès approprié s'affiche. 
 {:shortdesc}
 
 Lorsque vous tentez de créer un cas, le message d'erreur suivant s'affiche :   
@@ -43,7 +43,7 @@ Lorsque vous tentez de créer un cas, le message d'erreur suivant s'affiche :
 Des problèmes généraux liés à l'accès et à la gestion des cas de support peuvent être dus à l'absence de règle d'accès IAM (Identity and Access Management) pour le service de gestion de compte du Centre de support. Le rôle d'éditeur ou d'administrateur sur le service de gestion des comptes du centre de support doit vous être attribué pour que vous puissiez créer des cas. 
 {: tsCauses}
 
-Pour résoudre le problème, le propriétaire du compte, un administrateur du service de centre de support ou l'administrateur de tous les services de gestion de compte peut affecter une règle IAM au centre de support pour gérer les cas.
+Pour résoudre le problème, le propriétaire du compte, un administrateur du service de centre de support ou l'administrateur de tous les services de gestion de compte peut affecter une règle IAM au centre de support pour gérer les cas. 
 {: tsResolve}
 
 Si vous êtes le propriétaire du compte ou un administrateur du Centre de support, procédez comme suit pour créer une règle d'accès permettant de traiter des cas de support :
@@ -82,7 +82,7 @@ Les cas créés avant l'amélioration de la plateforme {{site.data.keyword.Bluem
 Dans l'onglet **Gérer les cas** du centre de support, vous ne pouvez pas accéder aux cas créés avant le 2 décembre 2018.
 {: tsSymptoms}
 
-Les cas ouverts avant le 2 décembre 2018 sont visibles uniquement en sélectionnant **Afficher les cas archivés**.
+Les cas ouverts avant le 2 décembre 2018 sont visibles uniquement en sélectionnant **Afficher les cas archivés**. 
 {: tsCauses}
 
 Pour afficher vos cas, accédez à **Support**, sélectionnez **Gérer les cas** puis cliquez sur **Afficher les cas archivés**.

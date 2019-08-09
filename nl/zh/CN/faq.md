@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,15 @@ subcollection: get-support
 
 # 常见问题
 {: #get-supportfaq}
+
+## 为什么看不到我的支持案例？
+{: #view-support-cases}
+{: faq}
+
+现在，凭单在 IBM Cloud 中称为案例。
+要访问支持案例，请转至**支持** > **管理案例**。
+
+如果您无法查看案例，请尝试单击**查看归档案例**。如果您仍旧无法查看案例，说明您可能没有所需许可权。请求帐户所有者将您添加到支持案例访问组。有关更多信息，请参阅 [SoftLayer 帐户许可权](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions)。
 
 ## 如何检查计划的维护？
 {: #planned_maintenance_gs}
@@ -69,7 +78,7 @@ subcollection: get-support
 
 对于经典基础架构用户，用于分配支持案例访问权的许可权现在位于[已迁移的经典基础架构许可权访问组](/docs/iam?topic=iam-predefined)中。
 
-## 打开支持案例之前，应执行哪些步骤？ 
+## 打开支持案例之前，可执行哪些步骤？ 
 {: #steps_before_opencase}
 {: faq}
 

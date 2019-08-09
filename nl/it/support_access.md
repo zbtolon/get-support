@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-06-25"
+lastupdated: "2019-07-25"
 
 keywords: access to cases, get access for cases, assign cases, watchlist
 
@@ -30,7 +30,7 @@ Per impostazione predefinita, gli utenti nel tuo account non hanno accesso per c
 Quando crei un caso, puoi dare ad altri utenti un accesso completo a tale caso aggiungendo la loro email nel campo **Aggiungi un'altra persona a questo caso**. Gli utenti aggiunti hanno un accesso per visualizzare, modificare e aggiornare solo tale caso nell'account. Ricevono anche delle notifiche quando il caso viene aggiornato.
 {: tip}
 
-Mentre fornire un accesso utente assegnando un ruolo sul servizio del centro di supporto abilita gli utenti a visualizzare, modificare o creare dei casi di supporto, potrebbero non essere in grado di visualizzare tutti i casi in un account. Se il proprietario dell'account configura l'impostazione di visibilità dell'elenco utenti in modo che sia limitato, gli utenti visualizzano solo i casi da loro creati. Per assicurarti che un utente possa visualizzare o modificare tutti i casi nell'account, devi assegnare una seconda politica di accesso con il ruolo di visualizzatore sul servizio di gestione utenti. 
+Quando fornisci un accesso utente assegnando un ruolo sul servizio del centro di supporto abilita gli utenti a visualizzare, modificare o creare dei casi di supporto, potrebbero non essere in grado di visualizzare tutti i casi in un account. Se il proprietario dell'account configura l'impostazione di visibilità dell'elenco utenti in modo che sia limitato, gli utenti visualizzano solo i casi da loro creati. Per assicurarti che un utente possa sempre visualizzare o modificare tutti i casi nell'account, devi assegnare una seconda politica di accesso con il ruolo di visualizzatore sul servizio di gestione utenti. 
 
 Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-infrapermission#predefined). I gruppi di accesso di autorizzazione migrati includono la politica IAM sul servizio di gestione utenti con assegnato il ruolo visualizzatore.
 {: note}
@@ -45,7 +45,7 @@ Per semplificare il processo di assegnazione dell'accesso, puoi avvalerti dell'a
 3. Fai clic su **Politiche di accesso** > **Assegna accesso**.
 4. Seleziona **Assegna l'accesso ai servizi di gestione account**.
 5. Seleziona **Centro di supporto**.
-6. Seleziona il ruolo Visualizzatore, Editor o Amministratore a seconda del tipo di accesso che vuoi abbia questo gruppo e fai clic su **Assegna**.La seguente tabella elenca le azioni incluse in ciascun ruolo per la gestione dei casi.
+6. Seleziona il ruolo Visualizzatore, Editor o Amministratore a seconda del tipo di accesso che vuoi abbia questo gruppo e fai clic su **Assegna**. La seguente tabella elenca le azioni incluse in ciascun ruolo per la gestione dei casi.
 
 | Ruolo | Azione | 
 |--------|---------------|

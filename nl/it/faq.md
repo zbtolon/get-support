@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-06-04"
+lastupdated: "2019-07-25"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,6 +24,14 @@ subcollection: get-support
 
 # Domande frequenti
 {: #get-supportfaq}
+
+## Perché non posso visualizzare i miei casi di supporto?
+{: #view-support-cases}
+{: faq}
+
+I ticket sono ora chiamati casi in IBM Cloud. Per accedere ai casi di supporto, vai a **Supporto** > **Gestisci casi**.
+
+Se non riesci a visualizzare i tuoi casi, prova a fare clic su **Visualizza casi archiviati**. Se ancora non puoi visualizzarli, potresti non disporre dell'autorizzazione necessaria. Chiedi al tuo proprietario dell'account di aggiungerti al gruppo di accesso del caso di supporto. Per ulteriori informazioni, vedi [Autorizzazioni account SoftLayer](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions).
 
 ## Come verifico la manutenzione pianificata?
 {: #planned_maintenance_gs}
@@ -68,7 +76,7 @@ Quando crei un caso, puoi dare ad altri utenti un accesso completo a tale caso a
 
 Per gli utenti dell'infrastruttura classica, le autorizzazioni per assegnare l'accesso ai casi di supporto sono ora disponibili nei [gruppi di accesso di autorizzazione dell'infrastruttura classica migrati](/docs/iam?topic=iam-predefined).
 
-## Quali operazioni devo eseguire prima di aprire un caso di supporto? 
+## Quali operazioni posso eseguire prima di aprire un caso di supporto? 
 {: #steps_before_opencase}
 {: faq}
 

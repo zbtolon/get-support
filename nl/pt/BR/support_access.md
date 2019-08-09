@@ -4,7 +4,7 @@ copyright:
 
   years: 2018,2019
 
-lastupdated: "2019-06-25"
+lastupdated: "2019-07-25"
 
 keywords: access to cases, get access for cases, assign cases, watchlist
 
@@ -30,7 +30,7 @@ Por padrão, os usuários em sua conta não têm acesso para criar, atualizar, p
 Ao criar um caso, é possível fornecer a outros usuários acesso total a esse caso incluindo seu e-mail no campo **Incluir outra pessoa nesse caso**. Todos os usuários incluídos têm acesso para visualizar, editar e atualizar somente esse caso na conta. Eles também recebem notificações quando o caso é atualizado.
 {: tip}
 
-Embora forneça acesso a um usuário designando uma função no serviço do Centro de suporte e permita que os usuários visualizem, editem ou criem casos de suporte, eles podem não ser capazes de visualizar todos os casos em uma conta. Se o proprietário da conta definir a configuração de visibilidade da lista de usuários como restrita, então, os usuários verão somente os casos que eles mesmos criam. Para assegurar que um usuário possa sempre visualizar ou editar todos os casos na conta, deve-se designar uma segunda política de acesso com a função de visualizador no serviço de gerenciamento do usuário. 
+Ao dar acesso a um usuário designando uma função no serviço do Centro de suporte, você permite que os usuários visualizem, editem ou criem casos de suporte. Eles podem não ser capazes de visualizar todos os casos em uma conta. Se o proprietário da conta definir a configuração de visibilidade da lista de usuários como restrita, os usuários verão apenas os casos que eles mesmos criarem. Para assegurar que um usuário possa sempre visualizar ou editar todos os casos na conta, deve-se designar uma segunda política de acesso com a função de visualizador no serviço de gerenciamento de usuários. 
 
 Para usuários da infraestrutura clássica, as permissões para designar acesso ao caso de suporte agora estão disponíveis em [grupos de acesso de permissão de infraestrutura clássica migrados](/docs/iam?topic=iam-infrapermission#predefined). Os grupos de acesso de permissão migrados incluem a política do IAM no serviço de gerenciamento de usuários com a função de visualizador designada.
 {: note}
@@ -50,7 +50,7 @@ Para aperfeiçoar o processo de designação de acesso, é possível aproveitar 
 | Função | Ações | 
 |--------|---------------|
 |Visualizador  | Visualizar e procurar casos |
-|Aplicativos | Visualizar, procurar, criar e atualizar casos|
+|Editor | Visualizar, procurar, criar e atualizar casos|
 |Administrador | Visualizar, procurar, criar e atualizar casos; gerenciar funções do centro de suporte para outros usuários|
 {: caption="Tabela 1. Funções e ações para o serviço do Centro de suporte" caption-side="top"}
 

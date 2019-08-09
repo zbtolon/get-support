@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-16"
+lastupdated: "2019-07-25"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -32,7 +32,7 @@ Potresti riscontrare dei problemi con la creazione e la gestione dei casi di sup
 ## Perché non posso creare o modificare i casi di supporto? 
 {: #ts_service_broker}
 
-Non puoi creare o modificare un caso di supporto {{site.data.keyword.Bluemix_notm}} e ricevi un messaggio di errore che indica che non disponi dell'accesso appropriato.
+Non puoi creare o modificare un caso di supporto {{site.data.keyword.Bluemix_notm}} e ricevi un messaggio di errore che indica che non disponi dell'accesso appropriato. 
 {:shortdesc}
 
 Quando tenti di creare un caso, viene visualizzato il seguente messaggio di errore:   
@@ -44,7 +44,7 @@ I problemi generali relativi all'accesso e alla gestione dei casi di supporto po
 dalla mancanza della politica di accesso IAM (Identity and Access Management) per il servizio di gestione account Centro di supporto. Per creare i casi, è necessario che ti venga assegnato il ruolo di editor o di amministratore sul servizio di gestione account del centro di supporto. 
 {: tsCauses}
 
-Per risolvere il problema, il proprietario dell'account, un amministratore del servizio del centro di supporto o l'amministratore di tutti i servizi di gestione account possono assegnare una politica IAM sul centro di supporto per gestire i casi.
+Per risolvere il problema, il proprietario dell'account, un amministratore del servizio del centro di supporto o l'amministratore di tutti i servizi di gestione account possono assegnare una politica IAM sul centro di supporto per gestire i casi. 
 {: tsResolve}
 
 Se sei il proprietario dell'account o un amministratore del Centro di supporto, completa la seguente procedura per creare una politica di accesso per lavorare con i casi di supporto:
@@ -83,7 +83,7 @@ Non riesci a trovare i tuoi casi che hai creato prima dell'esperienza della piat
 Dopo essere andato alla scheda **Gestisci casi** nel Centro di supporto, non riesci a trovare alcun caso che hai creato prima del 2 dicembre 2018.
 {: tsSymptoms}
 
-I casi aperti prima del 2 dicembre 2018 sono visibili solo da **Visualizza casi archiviati**.
+I casi aperti prima del 2 dicembre 2018 sono visibili solo da **Visualizza casi archiviati**. 
 {: tsCauses}
 
 Per visualizzare i tuoi casi, vai a **Supporto**, seleziona **Gestisci casi** e fai clic su **Visualizza casi archiviati**.
