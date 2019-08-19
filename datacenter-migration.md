@@ -4,7 +4,7 @@ copyright:
 
   years: 1994, 2019
 
-lastupdated: "2019-06-06"
+lastupdated: "2019-08-19"
 
 keywords: data centers, data center support, dal01 pod, wdc01 pod 
 
@@ -79,7 +79,7 @@ Most operating systems provide tools that you can use to understand the utilizat
 ## How do I compare old and new processors?
 {: #old-new}
 
-To compare the specifications of old and new Intel processors, go to [https://ark.intel.com/#@Processors](https://ark.intel.com/#@Processors){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). If you know the processor type, you can navigate through the menus. Alternatively, you can use the search option to locate the specifications of the two processors. Newer processors tend to have more processor cores and typically run at slower clock speeds than older variants. If you have a workload that is processor-bound (its performance is limited by the speed of the processor), we advise choosing a processor with fewer cores and a higher clock speed.  If you run many workloads that aren't constrained by processor speed, choosing a processor with more cores and a similar, or slower, clock speed might be a better course of action.
+To compare the specifications of old and new Intel processors, go to [https://ark.intel.com/content/www/us/en/ark.html#@Processors](https://ark.intel.com/content/www/us/en/ark.html#@Processors){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). If you know the processor type, you can navigate through the menus. Alternatively, you can use the search option to locate the specifications of the two processors. Newer processors tend to have more processor cores and typically run at slower clock speeds than older variants. If you have a workload that is processor-bound (its performance is limited by the speed of the processor), we advise choosing a processor with fewer cores and a higher clock speed.  If you run many workloads that aren't constrained by processor speed, choosing a processor with more cores and a similar, or slower, clock speed might be a better course of action.
 
 ## How do I choose my new operating system?
 {: #operating-system}
