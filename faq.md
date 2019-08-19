@@ -86,4 +86,4 @@ Before you open a support case, explore these resources to see whether your issu
 2. Look at the [Support Center FAQs](https://cloud.ibm.com/unifiedsupport/supportcenter). 
 3. Go to the [FAQ library](https://cloud.ibm.com/docs/faqs). 
 4. Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
-5. Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/smart-spaces/12/bluemix.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
+5. Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/index.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
