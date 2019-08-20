@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-01-09"
+lastupdated: "2019-08-20"
 
 keywords: service support, type of service
 
@@ -44,7 +44,7 @@ If the root cause analysis determines the issue is a defect in the IBM Beta serv
 
 IBM releases services or container images that are classified as experimental, which you can try out. To view all available experimental services, boilerplates, and runtimes, log in to the {{site.data.keyword.Bluemix_notm}} console. Then, click **Catalog**, scroll to the end of the catalog, and click **{{site.data.keyword.Bluemix_notm}} Experimental Services**. These services might be unstable, change frequently in ways that aren't compatible with earlier versions, and might be discontinued with a short notice. These services aren't recommended for use in production environments.
 
-You can get community assistance for technical issues for experimental services through [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} and other issues through [Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window}. If a problem is a defect in an experimental service, IBM isn't required to provide a fix.
+You can get community assistance for technical issues for experimental services through [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: new_window} and other issues through [Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud.html){: new_window}. If a problem is a defect in an experimental service, IBM isn't required to provide a fix.
 
 ## Third-party service
 {: #s-services-3p}
