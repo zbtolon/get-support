@@ -21,7 +21,7 @@ subcollection: get-support
 # Working with support cases 
 {: #open-case}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you can use support cases to get help with technical, account and access, billing and invoice or sales inquiry issues. You can create and manage a support case by using the [Support Center](https://dev.console.cloud.ibm.com/unifiedsupport/supportcenter){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). After you submit a support case, the support team works to investigate and resolve the issue depending on your type of support plan.
+If you experience problems with {{site.data.keyword.Bluemix}}, you can use support cases to get help with technical, account and access, billing and invoice or sales inquiry issues. You can create and manage a support case by using the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). After you submit a support case, the support team works to investigate and resolve the issue depending on your type of support plan.
 {:shortdesc}
 
 By default, users in an account don't have access to create, update, search, or view cases. As the account owner, you must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Assigning user access for working with support cases](/docs/get-support?topic=get-support-access#access)
