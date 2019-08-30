@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-06-25"
+lastupdated: "2019-08-30"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -93,7 +93,7 @@ For {{site.data.keyword.Bluemix_notm}} platform, only services that are hosted i
 
 Setting the **EU Supported** option for your account applies to all future cases that you open for issues on any service or data center that is hosted in the EU region. Any cases that you opened before setting this option aren't affected. If you set this option and you add resources outside of an EU data center or the Germany region, issues for those resources are not necessarily handled by a support team in Europe.
 
-You can set the **EU Supported** option for your account from the Billing window of the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU Supported settings](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported).
+You can set the **EU Supported** option from your account settings in the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Enabling the EU Supported setting](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported).
 
 ### EU Supported services
 {: #eusupportedservices}
