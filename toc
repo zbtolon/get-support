@@ -24,12 +24,13 @@ Getting support
 
     {: .navgroup id="reference"}
     bxnui.md
+    customer-incident-report.md
     {: .navgroup-end}
 
     {: .navgroup id="help"}
     ts_managecase.md
     faq.md
-    
+
     {: .topicgroup}
     Known issues
         datacenter-migration.md
