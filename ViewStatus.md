@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-18"
+lastupdated: "2019-06-19"
 
 keywords: cloud status, view cloud status, planned maintenance, RSS feed 
 
@@ -65,9 +65,5 @@ To subscribe, follow these steps:
 For more information, see your reader's **Help** section.
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
-
-
-
-
 
 

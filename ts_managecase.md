@@ -20,6 +20,7 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
+{:note: .note}
 {:new_window: target="_blank"}
 
 
@@ -67,12 +68,13 @@ When you try to view the support cases that are associated with the account, you
 {: tsSymptoms}
 
 The account owner set the [user list visibility setting](/docs/iam?topic=iam-userlistview#userlistview) to restricted. When the setting is set as restricted, and you don't have an additional access policy for viewing users in the account, you don't have the required access to view all cases in the account. You can view only the users that you invited to the account, share a Cloud Foundry org membership with, or users who are in your classic infrastructure user hierarchy. 
-{: tsCauses}
+
 
 You must be assigned an IAM policy with at least the Viewer role on the User management account management service in addition to your Support Center account management service access policy. To view your current access, go to **Manage** &gt; **Access (IAM)**, and select your name from the **Users** page. Click the **Access policies** tab, and review your assigned policies. 
-{: tsResolve}
+{: tsCauses}
 
 To resolve the issue, contact the account owner to request the appropriate access. 
+{: tsResolve}
 
 ## Why can't I find a case that I previously created? 
 {: #ts_viewarchivedcase}

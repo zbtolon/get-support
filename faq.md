@@ -46,7 +46,7 @@ You can check for upcoming maintenance by using the IBM Cloud console Dashboard 
 {: #escalate_support}
 {: faq}
 
-As an IBM Cloud customer, you can escalate support cases to surface critical issues. Once a case is escalated, the IBM Cloud support team reviews the information and responds with updates. 
+As an IBM Cloud customer, you can escalate support cases to surface critical issues. After a case is escalated, the IBM Cloud support team reviews the information and responds with updates. 
 
 To escalate a support case, complete the following steps: 
 1. Contact IBM Cloud Support by phone or chat:

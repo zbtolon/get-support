@@ -195,7 +195,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0039E
-**Message**: The route associations for the '{0}'  domain must be deleted.
+**Message**: The route associations for the '{0}' domain must be deleted.
 
 On the app's Overview page, click **Routes and domains** drop-down, and select **Edit routes**.
 
@@ -347,7 +347,7 @@ Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_no
 To use a different plan for this service, you must delete the service and connect it again.
 
 ## BXNUI0077E
-**Message**: The '{0}' service already exists in the '{1}' space.
+**Message**: The '{0}' service exists in the '{1}' space.
 
 Choose another space, if needed.
 
@@ -473,7 +473,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 
 **Message**: The '{0}' credential wasn't added.
 
-Try using a different name, or try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Try to use a different name, or try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0100E
 
@@ -493,6 +493,7 @@ Change your browser settings to allow pop-up windows.
 **Message**: The login server can't be contacted at the moment.
 
 Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=status){: new_window} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+
 ## BXNUI0112E
 **Message**: The plan could not be updated.
 
@@ -949,7 +950,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2024E
-**Message**: Self-Registration for users isn't enabled.
+**Message**: Self registration for users isn't enabled.
 
 Contact the account owner.
 
@@ -1068,7 +1069,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2047E
-**Message**: The "{0}" service already exists.
+**Message**: The "{0}" service exists.
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -1195,7 +1196,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 ## BXNUI2072E
 **Message**: The certificate wasn't uploaded.
 
-The domain name, {0} that is specified in the certificate does not match your custom domain name.
+The domain name, {0}, that is specified in the certificate does not match your custom domain name.
 
 Correct the domain name in the certificate and try again.
 
@@ -1205,7 +1206,7 @@ Correct the domain name in the certificate and try again.
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2074E
-**Message**: The private key isn't supported. An decrypted RSA key is expected.
+**Message**: The private key isn't supported. An unencrypted RSA key is expected.
 
 ## BXNUI2075E
 **Message**: The public key isn't supported. Supported algorithms include: RSA.
@@ -1225,7 +1226,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI2080E
-**Message**: The operation that is timed out while certificates and keys were being modified.
+**Message**: The operation timed out while certificates and keys were being modified.
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
@@ -1292,7 +1293,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons
 ## BXNUI2093E
 **Message**: The number of intermediate certificates exceeds the number allowed.
 
-For details about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window} topic.
+For more information about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/apps?topic=creating-apps-ssl_csr#ssl_certificate){: new_window} topic.
 
 ## BXNUI2094E
 **Message**: The attempted operation failed because of a connection error.
