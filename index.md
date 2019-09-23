@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-08-30"
+lastupdated: "2019-09-23"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support 
 
@@ -65,4 +65,11 @@ Basic Support is provided for non-production environments or workloads in which 
 
 You can change your current support plan at any time by contacting {{site.data.keyword.Bluemix_notm}} sales. Visit the [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") page, scroll, and then click **Contact us**. From there, you can communicate with an expert through chat, phone, or email.
 
+## Tracking your support costs
 
+Advanced and Premium support plans have a starting price for providing support for your cloud workload at the stated service level. This starting price includes support for a certain amount of resource usage. If your resource usage exceeds this amount, you're charged for the associated extra support costs. You can keep track of your support costs from the **Manage > Billing and usage > Support costs** page. See [Viewing your support costs](/docs/billing-usage?topic=billing-usage-support) for more information.
+
+## Support levels in enterprises
+{:support_level_enterprise}
+
+The level of support that is assigned to an [{{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-enterprise) defaults to the highest support plan within the enterprise. All child accounts within the enterprise also default to the highest support plan.
