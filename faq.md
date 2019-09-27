@@ -29,7 +29,7 @@ subcollection: get-support
 {: #view-support-cases}
 {: faq}
 
-Tickets are now called cases in IBM Cloud. To access support cases, go to **Support** > **Manage cases**. 
+Tickets are now called cases in {{site.data.keyword.cloud}}. To access support cases, go to **Support** > **Manage cases**. 
 
 If you're unable to view your cases, try clicking **View archived cases**. If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions). 
 
@@ -37,19 +37,19 @@ If you're unable to view your cases, try clicking **View archived cases**. If yo
 {: #planned_maintenance_gs}
 {: faq}
 
-You can check for upcoming maintenance by using the IBM Cloud console Dashboard page at least once every 24 hours. You can use one of the following options: 
+You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud_notm}} console at least once every 24 hours. You can use one of the following options: 
 
-1. On the [IBM Cloud Dashboard](https://cloud.ibm.com/), select **View events** from the Planned maintenance widget. 
+1. From your [dashboard](https://cloud.ibm.com/), select **View events** from the Planned maintenance widget. 
 2. Go directly to the [Status - Planned maintenance ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=maintenance){: new_window} page.
 
 ## How do I escalate support cases? 
 {: #escalate_support}
 {: faq}
 
-As an IBM Cloud customer, you can escalate support cases to surface critical issues. After a case is escalated, the IBM Cloud support team reviews the information and responds with updates. 
+As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases to surface critical issues. After a case is escalated, the {{site.data.keyword.cloud_notm}} support team reviews the information and responds with updates. 
 
 To escalate a support case, complete the following steps: 
-1. Contact IBM Cloud Support by phone or chat:
+1. Contact {{site.data.keyword.cloud_notm}} Support by phone or chat:
     * By phone at the following number: +1-866-403-7638.
     * By chat from the [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 2. Provide your existing case number and request to escalate the case. 
