@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-08-19"
+lastupdated: "2019-09-27"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -82,8 +82,8 @@ For classic infrastructure users, the permissions to assign support case access 
 
 Before you open a support case, explore these resources to see whether your issue or question has already been resolved: 
 
-1. Review our [Documentation](https://cloud.ibm.com/docs). 
-2. Look at the [Support Center FAQs](https://cloud.ibm.com/unifiedsupport/supportcenter). 
+1. Review the [documentation](https://cloud.ibm.com/docs). 
+2. Review the [Support Center FAQs](https://cloud.ibm.com/unifiedsupport/supportcenter). 
 3. Go to the [FAQ library](https://cloud.ibm.com/docs/faqs). 
 4. Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
 5. Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/index.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
