@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-09-27"
+lastupdated: "2019-10-07"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -24,14 +24,6 @@ subcollection: get-support
 
 # FAQs
 {: #get-supportfaq}
-
-## Why can't I see my support cases? 
-{: #view-support-cases}
-{: faq}
-
-Tickets are now called cases in {{site.data.keyword.cloud}}. To access support cases, go to **Support** > **Manage cases**. 
-
-If you're unable to view your cases, try clicking **View archived cases**. If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](https://test.cloud.ibm.com/docs/iam?topic=iam-migrated_permissions). 
 
 ## How do I check for planned maintenance?
 {: #planned_maintenance_gs}
@@ -65,16 +57,6 @@ Are you receiving too many emails from us? You can change which email notificati
 1. Select whether to receive email notifications for each type of event.
 
 For `control.softlayer.com`, you can change your email preferences by going to **Account** > **Users** > **Email Preferences**. 
-
-## What access is needed to work with support cases? 
-{: #access_supportcases}
-{: faq}
-
-By default, users in your account don't have access to create, update, search, or view cases. As the account owner, you must provide users access by assigning an Identity and Access Management (IAM) access policy. 
-
-When you create a case, you can give other users full access to that case by adding their email on the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated. 
-
-For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-infrapermission).
 
 ## What steps can I take before opening a support case? 
 {: #steps_before_opencase}
