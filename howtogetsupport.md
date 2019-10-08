@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019 
 
-lastupdated: "2019-08-30"
+lastupdated: "2019-10-08"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -83,7 +83,7 @@ At your request, a list of users in your org who can serve as contacts for suppo
 ## Requesting support for resources in the European Union
 {: #eusupported}
 
-European Union (EU) support is provided, 24 hours a day and 7 days a week, by engineers who are located in Europe for customers who choose the EU supported option. Global teams provide support only at the discretion and under the direction of the EU support team. Global teams might be contacted, for example, when issues are not resolved by the Level 1 or Level 2 support team in the EU, and more expertise is needed.
+European Union (EU) support is provided, 24 hours a day and 7 days a week, by engineers who are located in Europe for customers who choose the EU supported option. Global teams provide support only at the discretion and under the direction of the EU support team. Global teams might be contacted, for example, when issues are not resolved by the Advanced Customer Support (ACS) team in the EU, and more expertise is needed.
 
 You can specify that you want support for your account from the support team that is physically located in Europe if the following criteria are true:
   * Your master user or account owner set the EU Supported option for your account
