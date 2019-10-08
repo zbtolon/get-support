@@ -4,7 +4,7 @@ copyright:
 
   years: 2019
 
-lastupdated: "2019-10-07"
+lastupdated: "2019-10-08"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -69,3 +69,11 @@ Before you open a support case, explore these resources to see whether your issu
 3. Go to the [FAQ library](https://cloud.ibm.com/docs/faqs). 
 4. Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
 5. Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/index.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
+
+## How am I charged for support? 
+{: #support-costs}
+{: faq}
+
+If you have Advanced or Premium support, you can track your monthly support costs by going to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly price for providing support for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost. 
+
+To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [IAM access](/docs/iam?topic=iam-userroles).
