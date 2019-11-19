@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-07-25"
+lastupdated: "2019-11-19"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases
 
@@ -79,17 +79,17 @@ To resolve the issue, contact the account owner to request the appropriate acces
 ## Why can't I find a case that I previously created? 
 {: #ts_viewarchivedcase}
 
-You can't find your cases that you created before the enhanced {{site.data.keyword.Bluemix_notm}} platform experience. 
+You can't find your cases that you created before the migration from SoftLayer to the enhanced {{site.data.keyword.Bluemix_notm}} experience. 
 {:shortdesc}
 
 After you go to the **Manage cases** tab in the Support Center, you can't find any cases that you created before 2018 December 2. 
 {: tsSymptoms}
 
-Cases that were opened before 2018 December 2 are visible only from the **View archived cases**. 
+Cases that were opened before 2018 December 2 are visible only from the **View archived cases** tab
 {: tsCauses}
 
-To view your cases, go to **Support**, select **Manage cases**, and click **View archived cases**.
-{: tsResolve} 
+To view your cases, click **Support** > **Manage cases** > **View archived cases**.
+{: tsResolve}  
 
 
 
