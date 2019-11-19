@@ -51,9 +51,7 @@ Complete the following steps to create a support case from the Support Center:
 ### Supported file types for cases 
 {: #supported-file-types}
 
-When you create a case, you have the option of attaching a file and only certain file types are supported. 
-
-The following file types are supported: 
+When you create a case, you have the option of attaching a file and only certain file types are supported. The following file types are supported: 
 
 ```
 7z, ace, ams, arm, asp, bash, history, bkp, big, bmp, bz2, ca, ca-bundle, ca-crt, cabundle, cap, cer, cert, cfg, cnf, crt, csr, csv, dat, dbs, debug, dib, dmesg, dmp, doc, docx, dotx, dump, email, eml, emz, env, eps, error, evt, evtx, fragment, gif, gz, gz_aa, gz_ab, gz_ac, har, hosts, htaccess, html, iaf, ics, id, img, info, jpb, jpe, jpeg, jpg, key, lic, log, logsm lon02, lst, lzh, mai, md5, mib, mjpg, msg, mso, odp, ods, odt, oft, openssh, out, ovf, ovpn, p7b, p7s, pages, pcap, pcf, pcx, pdb, pem, pfx, pic, pix, png, ppk, ppt, pptx, psd, psp, pspimage, pub_key, rar, raw, rdp, req, rpt, rtf, sjc03-raid-2, sjc03-raid-log-1, snag, sql, ssh, stats, sth, svg, sxc, tar, targz, tbz2, tcpdump, text, tgz, tgz-aa, tgz-ab, tgz-ac, tgz-ad, tgz-ae, tgz-af, tgz-ag, tgz-ah, tgz-ai, tgz-aj, tgz-ak, tgz-ak, tgz-al, tgz-al, tgz-am, tif, tiff, tip, trace, tsv, txt, ufo, vcf, vdx, vsdx, webarchive, wml, wps, wpz, wrf, wri, xcf, xlog, xlr, xls, xis, xism, xisx, xit, xml, xpm, xps, xslic, xz, yaml, zip, zipaa, zipx, zone
@@ -69,8 +67,8 @@ To view and manage your support cases, use the following steps:
 
   1. Click **Support** from the console menu bar.
   2. To view a listing of open cases, select **Manage cases**.
-  3. Select a case from the list to add comments or update a case.
-  4. Closed or resolved cases can be found by using the filter option to retrieve cases in any status. 
+  3. Select a case from the list to add comments or update a case. You can also add users that are in the account to a watchlist so they can receive alerts about a case.
+  4. You can find closed or resolved cases by using the filter option to retrieve cases in any status.
 
 If you're a classic infrastructure user, and you don't see a listing of a previous case, go to **View archived cases**. 
 {: tip}
