@@ -1,0 +1,56 @@
+{
+  "planned_maintenance_gs": [
+    "check for planned maintenance",
+    "upcoming maintenance",
+    "when is the next maintenance",
+    "when is planned maintenance",
+    "maintenance planned for this week",
+    "maintenance plans for tomorrow",
+    "maintenance plans"
+     ],
+  "escalate_support": [
+    "escalate support cases",
+    "escalation for my support ticket",
+    "support case escalation",
+    "support case be escalated",
+    "escalate my case",
+    "ticket escalation",
+    "increase priority on a support ticket",
+    "help escalating a ticket"
+     ],
+  "steps_before_opencase": [
+    "before I open a case what can I do",
+    "steps before opening a support case",
+    "actions before opening a case",
+    "prior to opening a ticket what do I do",
+    "steps to take before open a support case",
+    "can I do anything before opening a case"
+     ],    
+   "support-costs": [
+    "charged for support",
+    "the cost for support",
+    "how much is support",
+    "how much is support each month",
+    "support costs",
+    "cost of support",
+    "costs for support"
+     ],   
+   "ts_service_broker": [
+    "looks like you don't have access to create cases for this account",
+    "don't have access to create cases",
+    "can't create a case",
+    "unable to create a case",
+    "can't create tickets",
+    "cant edit a support case",
+    "unable to access cases"
+     ],   
+   "ts_viewarchivedcase": [
+    "can't find all of the cases in the account",
+    "can't find all open cases",
+    "cant find all the support tickets",
+    "unable to find all my cases",
+    "my cases been archived",
+    "where are archived cases",
+    "can't locate all the cases"
+     ]
+}
