@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2018, 2019 
 
-lastupdated: "2019-06-19"
+lastupdated: "2019-11-22"
 
-keywords: cloud status, view cloud status, planned maintenance, RSS feed 
+keywords: cloud status, view cloud status, planned maintenance, RSS feed, infrastructure notifications, notifications, email preferences 
 
 subcollection: get-support
 
@@ -49,6 +49,15 @@ You can search across all tabs on the Status page, but did you know that you can
 {: tip}
 
 For more information about the type of email notifications you can receive based on your account type, see [Setting email preferences](/docs/account?topic=account-email-prefs). 
+
+## Viewing Infrastructure notifications
+{: viewing-infrastructure}
+
+Infrastructure notifications keep you updated on planned and unplanned events, maintenance, and announcements that might be impacting your account. 
+
+* To get alerts and notifications about events and notifications you can subscribe to email notifications. For more information, see [Setting user notifications for classic infrastructure resources](/docs/account?topic=account-email-prefs#setting-user-notifications).
+* View the [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status){: new_window} page to view the current status of resources in all {{site.data.keyword.Bluemix_notm}} locations. Only unplanned events of high severity (Severity 1) for IBM Cloud Infrastructure services are listed.
+* To see a complete list of infrastructure events, go to the **Bell** icon ![Notification icon](../icons/Notification.svg). You can select Announcements, Planned, or Unplanned to view all infrastructure events. 
 
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
