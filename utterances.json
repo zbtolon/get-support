@@ -16,6 +16,8 @@
     "escalate my case",
     "ticket escalation",
     "increase priority on a support ticket",
+    "change severity of a case",
+    "update case severity",
     "help escalating a ticket"
      ],
   "steps_before_opencase": [
