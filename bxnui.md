@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-05-13"
+lastupdated: "2019-12-11"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -481,7 +481,7 @@ Try to use a different name, or try again later. If the problem continues, go to
 
 The credential might have already been deleted.
 
-Return to the resource list and try again. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
+Return to the My resources page and try again. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support ![External link icon](../icons/launch-glyph.svg)](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
 
 ## BXNUI0101E
 
