@@ -2,11 +2,11 @@
 
 copyright:
 
-  years: 2015, 2019
+  years: 2015, 2020
 
-lastupdated: "2019-11-19"
+lastupdated: "2020-01-08"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases
+keywords: help managing cases, resolve issues managing cases, trouble working with cases, technical case,
 
 subcollection: get-support
 
@@ -51,7 +51,7 @@ To resolve the issue, the account owner, an administrator on the support center 
 If you're the account owner or an administrator of the Support Center, complete the following steps to create an access policy for working with support cases:
 
 1. Go to **Manage** &gt; **Access (IAM)** and select **Users**.
-2. Select a user name, and click **Access policies**. 
+2. Select a username, and click **Access policies**. 
 3. Click **Assign Access**. 
 4. Select **Assign access to account management services**. 
 5. From the **Service** menu, select **Support Center**. 
@@ -89,8 +89,22 @@ Cases that were opened before 2018 December 2 are visible only from the **View a
 {: tsCauses}
 
 To view your cases, click **Support** > **Manage cases** > **View archived cases**.
-{: tsResolve}  
+{: tsResolve} 
 
+## Why can't I create a technical support case? 
+{: #ts_viewarchivedcase}
+
+You can't create a technical support case.
+{:shortdesc}
+
+You can create cases that are related to access management, accounts, and billing and usage only. 
+{: tsSymptoms}
+
+Technical cases can be created only by accounts with advanced and premium support. If you have a Lite account, you must upgrade your account to create a technical support case. 
+{: tsCauses}
+
+To update your support plan, go to [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"), and click **Contact us**. From there, you can communicate with an expert through chat, phone, or email.
+{: tsResolve}
 
 
 
