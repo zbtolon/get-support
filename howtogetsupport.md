@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2019 
+  years: 2015, 2020 
 
-lastupdated: "2019-10-08"
+lastupdated: "2020-01-08"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -22,48 +22,39 @@ subcollection: get-support
 # Getting support
 {: #getting-customer-support}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review common FAQs, open a support case, or search community content.
+If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review recommended topics, popular FAQs, open or manage a support case, or search community content.
 {:shortdesc}
 
-
-## How the customer support process works
-{: #gs_supoverview}
-
-All {{site.data.keyword.Bluemix}} customers are provided with free technical support through communities and blogs. The types of support that are available, and when they're available, depend on the support level of the account.
-{:shortdesc}
-
-You can access the support options, such as the {{site.data.keyword.Bluemix_notm}} community or Stack Overflow for technical issues, from the {{site.data.keyword.Bluemix_notm}} console Support Center.
-
-You can use the Support Center to access your support options. For more information, see [Using the Support Center](/docs/get-support?topic=get-support-using-avatar#using-avatar). The support plan that you selected for your account determines the level of support available and the severity you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
+All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through communities and blogs. The types of support that are available, and when they're available, depend on the support level of the account. Your support plan also determines the severity that you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
 
 ## Satisfaction surveys for {{site.data.keyword.Bluemix_notm}} support  
 {: #survey}
 
-IBM periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get their feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. IBM management reviews the survey results to improve the support experience.
+{{site.data.keyword.IBM_notm}} periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. {{site.data.keyword.IBM_notm}} management reviews the survey results to improve the support experience.
 
 ## Using the Support Center
 {: #using-avatar}
 
 To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console, and click **Support** from the menu bar.  
 
-You can use the Support Center search field to find answers to your questions from across the {{site.data.keyword.Bluemix_notm}} documentation and Stack Overflow forum. You can also manage support cases from the Support Center. You can find links to both the Stack Overflow forum for technical questions and the developerWorks (IBM Developer Answers) forum for all other questions under the Forums section of the Support Center.  
+Review the recommended topics section to get a quick overview of {{site.data.keyword.Bluemix_notm}} documentation. The recommended topics offer common tasks based on what is provisioned on your account. You can search by offering to view topics based on a specific offering. You also can view and search through Popular FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, you can create and manage support cases from the Support Center. If you have technical questions, you can find a link to Stack Overflow by going to the **Still need help** section. 
 
-If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find call-in numbers and a chat option to get help.
+If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find contact numbers to get help. Premium and advanced support can chat with a support agent for additional help. 
 
 The Support Center is the preferred method for getting support, but if you can't log in to {{site.data.keyword.Bluemix_notm}}, you can use the [New support case](https://{DomainName}/unifiedsupport/cases/add) page to submit a case.
 
-As a classic infrastructure user, you might be familiar with support tickets. Tickets are now called cases in IBM Cloud. 
+As a classic infrastructure user, you might be familiar with support tickets. Tickets are now called cases in {{site.data.keyword.Bluemix_notm}}. 
 {: note} 
 
 ### Asking a question
 {: #asking-a-question}
 
-The Stack Overflow forum, for technical questions, and the IBM Developer Answers forum, for general questions, both provide a wide variety of searchable answers to your {{site.data.keyword.Bluemix_notm}} questions. If you don't find an existing answer, ask a new question. You can access Stack Overflow and IBM Developer Answers from the Support Center, or use the following links:
+The Stack Overflow forum, for technical questions, and the {{site.data.keyword.IBM_notm}} Developer Answers forum, for general questions, both provide a wide variety of searchable answers to your {{site.data.keyword.Bluemix_notm}} questions. If you don't find an existing answer, ask a new question. You can access Stack Overflow and {{site.data.keyword.IBM_notm}} Developer Answers from the Support Center, or use the following links:
 
   * Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](https://stackoverflow.com/questions/tagged/ibm-cloud){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
-  * Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
+  * Go to [{{site.data.keyword.IBM_notm}} Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
 
-{{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and IBM Developer Answers, and follow the questions that are tagged with **ibm-cloud**. When you create a question in either forum, add the **ibm-cloud** tag to your question to ensure that it's seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
+{{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and {{site.data.keyword.IBM_notm}} Developer Answers, and follow the questions that are tagged with **ibm-cloud**. When you create a question in either forum, add the **ibm-cloud** tag to your question to ensure that it's seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
 
 If the problem isn't due to an outage, and if you can't find an answer for your specific problem, you can contact customer support by opening a support case. 
 
