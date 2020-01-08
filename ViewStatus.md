@@ -2,11 +2,11 @@
 
 copyright:
 
-  years: 2015, 2018, 2019 
+  years: 2015, 2020
 
-lastupdated: "2019-11-22"
+lastupdated: "2020-01-08"
 
-keywords: cloud status, view cloud status, planned maintenance, RSS feed, infrastructure notifications, notifications, email preferences 
+keywords: cloud status, view cloud status, planned maintenance, RSS feed, infrastructure notifications, notifications, email preferences, today's incidents 
 
 subcollection: get-support
 
@@ -21,7 +21,7 @@ subcollection: get-support
 # Viewing cloud status
 {: #viewing-cloud-status}
 
-The Status page is the central place to find unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix}} platform, infrastructure, and major services.
+The Status page is the central place to find unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix}} platform, infrastructure, and major services. You can also view unplanned incidents that are specific to your account in the [Support center](https://{DomainName}/unifiedsupport/supportcenter) by going to **today's incidents**. 
 {:shortdesc}
 
 You can find the Status page by logging in to the {{site.data.keyword.Bluemix_notm}} console. Click **Support** from the menu bar, and then click **View cloud status** from the Support Center. Or, you can access the page directly at [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status){: new_window}.
