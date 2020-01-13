@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-01-08"
+lastupdated: "2020-01-13"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases, technical case,
+keywords: help managing cases, resolve issues managing cases, trouble working with cases, technical case, support center, help support center, resolve issues support center, help getting support, help support 
 
 subcollection: get-support
 
@@ -24,10 +24,10 @@ subcollection: get-support
 {:new_window: target="_blank"}
 
 
-# Troubleshooting for managing support cases
+# Troubleshooting for getting support
 {: #Supportcases}
 
-You might encounter problems with creating and managing {{site.data.keyword.Bluemix}} support cases. In many cases, you can recover from these problems by following a few easy steps.
+You might encounter problems creating and managing {{site.data.keyword.Bluemix}} support cases, or general problems as you use the support center. In many cases, you can recover from these problems by following a few easy steps.
 {:shortdesc}
 
 ## Why can't I create or edit support cases? 
@@ -51,7 +51,7 @@ To resolve the issue, the account owner, an administrator on the support center 
 If you're the account owner or an administrator of the Support Center, complete the following steps to create an access policy for working with support cases:
 
 1. Go to **Manage** &gt; **Access (IAM)** and select **Users**.
-2. Select a username, and click **Access policies**. 
+2. Select a user name, and click **Access policies**. 
 3. Click **Assign Access**. 
 4. Select **Assign access to account management services**. 
 5. From the **Service** menu, select **Support Center**. 
@@ -106,6 +106,17 @@ Technical cases can be created only by accounts with advanced and premium suppor
 To update your support plan, go to [{{site.data.keyword.Bluemix_notm}} support](https://www.ibm.com/cloud/support){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"), and click **Contact us**. From there, you can communicate with an expert through chat, phone, or email.
 {: tsResolve}
 
+## Why can't I find help information in the Support Center for my services? 
+{: #supportcenter-service}
 
+You can't find any help information that's tailored to the services that are in your account. 
+{:shortdesc}
 
+The Support Center doesn't include recommended topics, common tasks, or FAQs that are specific to the services that you're working with. 
+{: tsSymptoms}
 
+Not all services provide personalized help information in the Support Center. 
+{: tsCauses}
+
+The Support Center is updated as help information for more services becomes available. You can explore the [{{site.data.keyword.Bluemix}} FAQ library](https://cloud.ibm.com/docs/faqs) to view FAQs for your services that aren't highlighted in the Support Center.
+{: tsResolve}
