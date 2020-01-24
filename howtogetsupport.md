@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020 
 
-lastupdated: "2020-01-08"
+lastupdated: "2020-01-24"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -22,7 +22,7 @@ subcollection: get-support
 # Getting support
 {: #getting-customer-support}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review recommended topics, popular FAQs, open or manage a support case, or search community content.
+If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review recommended topics, Featured FAQs, open or manage a support case, or search community content.
 {:shortdesc}
 
 All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through communities and blogs. The types of support that are available, and when they're available, depend on the support level of the account. Your support plan also determines the severity that you can assign to support cases. For more information, see [Case severity and response time](/docs/get-support?topic=get-support-support-case-severity#support-case-severity).
@@ -37,7 +37,7 @@ All {{site.data.keyword.Bluemix_notm}} customers are provided with free technica
 
 To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console, and click **Support** from the menu bar.  
 
-Review the recommended topics section to get a quick overview of {{site.data.keyword.Bluemix_notm}} documentation. The recommended topics offer common tasks based on what is provisioned on your account. You can search by offering to view topics based on a specific offering. You also can view and search through Popular FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, you can create and manage support cases from the Support Center. If you have technical questions, you can find a link to Stack Overflow by going to the **Still need help** section. 
+Review the recommended topics section to get a quick overview of {{site.data.keyword.Bluemix_notm}} documentation. The recommended topics offer common tasks based on what is provisioned on your account. You can search by offering to view topics based on a specific offering. You also can view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, you can create and manage support cases from the Support Center. If you have technical questions, you can find a link to Stack Overflow by going to the **Still need help** section. 
 
 If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find contact numbers to get help. Premium and advanced support can chat with a support agent for additional help. 
 
