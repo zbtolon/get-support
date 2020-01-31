@@ -73,8 +73,8 @@ To view and manage your support cases, use the following steps:
 To view closed or resolved cases use the filter option to retrieve cases in any status. If you're a classic infrastructure user, and you don't see a listing of a previous case, go to **View archived cases**. 
 {: tip}
 
-### Search options in the Manage cases page
-{: #search-options-manage}
+### Searching for support cases 
+{: #search-options}
 
 From the Manage cases page, you can search for all of your support cases by using query parameters in the search bar. All parameters can be used together and can be entered in any order. 
 
