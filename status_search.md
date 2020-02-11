@@ -2,11 +2,11 @@
 
 copyright:
 
-  years: 2018,2019
+  years: 2018,2020
 
-lastupdated: "2019-06-05"
+lastupdated: "2020-01-21"
 
-keywords: status page, status query
+keywords: status page, status query, incident, maintenance, search query
 
 subcollection: get-support
 
@@ -40,11 +40,11 @@ The following list includes examples of URL search options:
 
 The following table provides information on URL query filters that you can use to search across all tabs on the status page. 
 
-| URL Query Parameter | Description | Values |
-| ----- | ----- | ----- | ----- |
-| `?type` | A filter that applies only to the Status tab. Use the `?type` query to filter the Status tab by incidents or maintenance. | `=incident`, `=maintenance` |
-| `?region` | Filter the page by geographic location.  | `=na`, `=eu`, `=sa`, `=ap` |
-| `?component` | Filter the page by {{site.data.keyword.Bluemix_notm}} components. For example, you might filter by a service you are interested in. | Applies to most global catalog IDs; for example, `?component=iotf-service` filters the page and display events that affect Internet of Things Platform  |
+| URL Query Parameter | Description                                                                                                                         | Values                      |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| `?type`             | A filter that applies only to the Status tab. Use the `?type` query to filter the Status tab by incidents or maintenance.           | `=incident`, `=maintenance` |
+| `?region`           | Filter the page by geographic location.                                                                                             | `=na`, `=eu`, `=sa`, `=ap`  |
+| `?component`        | Filter the page by {{site.data.keyword.Bluemix_notm}} components. For example, you might filter by a service you are interested in. | Applies to most global catalog IDs; for example, `?component=iotf-service` filters the page and display events that affect Internet of Things Platform |
 {: caption="Table 1. URL query filters" caption-side="top"}
 
 You can always use the **Filter by** filters, and then copy or bookmark the URL query that is generated. The filters are displayed in your URL and can help you build future queries.

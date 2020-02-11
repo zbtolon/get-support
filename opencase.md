@@ -17,12 +17,12 @@ subcollection: get-support
 {:screen: .screen}
 {:tip: .tip}
 {:note: .note}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
 # Working with support cases 
 {: #open-case}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you can use support cases to get help with technical, access (IAM), billing & usage, and invoice or sales inquiry issues. You can create and manage a support case by using the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). After you submit a support case, the support team investigates the issue based on your type of [support plan](/docs/get-support?topic=get-support-support-plans).
+If you experience problems with {{site.data.keyword.Bluemix}}, you can use support cases to get help with technical, access (IAM), billing & usage, and invoice or sales inquiry issues. You can create and manage a support case by using the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external}. After you submit a support case, the support team investigates the issue based on your type of [support plan](/docs/get-support?topic=get-support-support-plans).
 {:shortdesc}
 
 By default, account users don't have access to create, update, search, or view cases. The account owner must provide users access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Assigning user access for working with support cases](/docs/get-support?topic=get-support-access#access).
@@ -32,7 +32,7 @@ By default, account users don't have access to create, update, search, or view c
 ## Creating support cases
 {: #opentechcase}
 
-All users can open a support case, but Lite accounts can't open technical support cases. Technical support for Lite accounts is provided by the IBM Cloud docs, the [{{site.data.keyword.Bluemix}} community](https://developer.ibm.com/answers/topics/ibm-cloud/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon") and [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). 
+All users can open a support case, but Lite accounts can't open technical support cases. Technical support for Lite accounts is provided by the IBM Cloud docs, the [{{site.data.keyword.Bluemix}} community](https://developer.ibm.com/answers/topics/ibm-cloud/){: external} and [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}. 
 
 Complete the following steps to create a support case from the Support Center: 
 

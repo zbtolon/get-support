@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-01-08"
+lastupdated: "2020-02-10"
 
-keywords: cloud status, view cloud status, planned maintenance, RSS feed, infrastructure notifications, notifications, email preferences, today's incidents 
+keywords: cloud status, view cloud status, planned maintenance, RSS feed, unfied notifications, iaas notifications, classic infrastructure notifications
 
 subcollection: get-support
 
@@ -16,15 +16,22 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
-{:new_window: target="_blank"}
+{:note: .note}
+{:external: target="_blank" .external}
 
 # Viewing cloud status
 {: #viewing-cloud-status}
 
-The Status page is the central place to find unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix}} platform, infrastructure, and major services. You can also view unplanned incidents that are specific to your account in the [Support center](https://{DomainName}/unifiedsupport/supportcenter) by going to **today's incidents**. 
+The Status page is the central place to find all unplanned incidents, planned maintenance, announcements, and security bulletin notifications about key events that affect the {{site.data.keyword.Bluemix}} platform, infrastructure, and major services.
 {:shortdesc}
 
-You can find the Status page by logging in to the {{site.data.keyword.Bluemix_notm}} console. Click **Support** from the menu bar, and then click **View cloud status** from the Support Center. Or, you can access the page directly at [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status){: new_window}.
+To view key events that are specifically affecting your account, go to the [Notifications](https://{DomainName}/notifications) page. 
+{: note}
+
+To view the status page, use the following steps:
+
+1. From the console, click **Support** from the menu bar. 
+1. From the Today's Incidents tile, click **View notifications**. Or, you can access the page directly at [{{site.data.keyword.Bluemix_notm}} - Status](https://cloud.ibm.com/status){: external}.
 
 * Click **Status** to view the current status of resources in all {{site.data.keyword.Bluemix_notm}} locations. Only active events are shown.  
 
@@ -44,20 +51,19 @@ You can find the Status page by logging in to the {{site.data.keyword.Bluemix_no
 
 * Click **History** to view a list of completed events from the last 30 days. 
 
+For more information about the type of email notifications you can receive based on your account type, see [Setting email preferences](/docs/account?topic=account-email-prefs). 
 
-You can search across all tabs on the Status page, but did you know that you can build URL search values by using query parameters from outside the console? For more details, see [Advanced status search](/docs/get-support?topic=get-support-adv-search).
+You can build URL search values by using query parameters from outside the console. For more details, see [Advanced status search](/docs/get-support?topic=get-support-adv-search).
 {: tip}
 
-For more information about the type of email notifications you can receive based on your account type, see [Setting email preferences](/docs/account?topic=account-email-prefs). 
 
 ## Viewing Infrastructure notifications
 {: viewing-infrastructure}
 
-Infrastructure notifications keep you updated on planned and unplanned events, maintenance, and announcements that might be impacting your account. 
 
-* To get alerts and notifications about events and notifications you can subscribe to email notifications. For more information, see [Setting user notifications for classic infrastructure resources](/docs/account?topic=account-email-prefs#setting-user-notifications).
-* View the [{{site.data.keyword.Bluemix_notm}} - Status ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status){: new_window} page to view the current status of resources in all {{site.data.keyword.Bluemix_notm}} locations. Only unplanned events of high severity (Severity 1) for IBM Cloud Infrastructure services are listed.
-* To see a complete list of infrastructure events, go to the **Bell** icon ![Notification icon](../icons/Notification.svg). You can select Announcements, Planned, or Unplanned to view all infrastructure events. 
+Infrastructure notifications are now hosted on the [Notifications](https://cloud.ibm.com/notifications) page. You can still view planned and unplanned events, maintenance, and announcements that might be impacting your account. 
+
+To learn more about the unified notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications). 
 
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
@@ -67,12 +73,13 @@ You receive alerts of any notifications by subscribing to the RSS feed for the S
 To subscribe, follow these steps:
 
 1. Access your favorite RSS readers. Many browsers have built-in RSS capabilities or extensions available. Several third-party RSS reader offerings are also available. 
-2. Use your reader to subscribe to the feed with one of the following methods:
+1. Use your reader to subscribe to the feed with one of the following methods:
     * Drag the RSS icon ![RSS-24px](../icons/RSS-24px.svg) into your RSS reader.
     * Right-click the RSS icon, select **Copy link address**, and paste the URL into your RSS reader.
 
 For more information, see your reader's **Help** section.
 
 {{site.data.keyword.Bluemix_notm}} typically has approximately 50 updates per month.
+{: note}
 
 

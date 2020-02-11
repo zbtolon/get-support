@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2019
+  years: 2019, 2020
 
-lastupdated: "2019-10-08"
+lastupdated: "2020-02-11"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq 
 
@@ -20,19 +20,20 @@ subcollection: get-support
 {:codeblock: .codeblock}
 {:screen: .screen}
 {:tip: .tip}
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 
-# FAQs
+# FAQs for getting support
 {: #get-supportfaq}
 
 ## How do I check for planned maintenance?
 {: #planned_maintenance_gs}
 {: faq}
 
-You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud_notm}} console at least once every 24 hours. You can use one of the following options: 
+You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud}} console at least once every 24 hours. You can use one of the following options: 
 
-1. From your [dashboard](https://cloud.ibm.com/), select **View events** from the Planned maintenance widget. 
-2. Go directly to the [Status - Planned maintenance ![External link icon](../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/status?selected=maintenance){: new_window} page.
+* Check out the Planned maintenance widget on the [Dashboard](https://cloud.ibm.com){: external}, and click **View events** to view all planned maintenance.
+* Go directly to the [Status - Planned maintenance page](https://cloud.ibm.com/status?selected=maintenance){: external}.
+
 
 ## How do I escalate support cases? 
 {: #escalate_support}
@@ -42,21 +43,22 @@ As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases 
 
 To escalate a support case, complete the following steps: 
 1. Contact {{site.data.keyword.cloud_notm}} Support by phone or chat:
-    * By phone at the following number: +1-866-403-7638.
-    * By chat from the [Support Center ![External link icon](../icons/launch-glyph.svg "External link icon")](https://{DomainName}/unifiedsupport/supportcenter){: new_window}.
-2. Provide your existing case number and request to escalate the case. 
-3. Provide the justification for escalation and the business impact of your problem or issue. 
+  * By phone at the following number: +1-866-403-7638.
+  * By chat from the [Support Center](https://{DomainName}/unifiedsupport/supportcenter){: external}.
+    Chat is available only for premium and advanced support. 
+    {: note} 
+1. Provide your existing case number and request to escalate the case. 
+1. Provide the justification for escalation and the business impact of your problem or issue. 
 
 ## How do I change my email preferences for notifications? 
 {: #email_preferences_gs}
 {: faq}
 
-Are you receiving too many emails from us? You can change which email notifications you receive for planned events, unplanned events, and announcements in your profile settings. To change your email preferences, choose one of the following options: 
+You can change which email notifications you receive for planned events, unplanned events, and announcements in your profile settings. To change your email preferences, choose one of the following options: 
 
-1. Go to [Notifications](https://cloud.ibm.com/user/notifications) in your profile settings.
-1. Select whether to receive email notifications for each type of event.
+* Go to [Notifications](https://cloud.ibm.com/user/notifications) in your profile settings.
+* For `control.softlayer.com`, you can change your email preferences by going to **Account** > **Users** > **Email Preferences**. 
 
-For `control.softlayer.com`, you can change your email preferences by going to **Account** > **Users** > **Email Preferences**. 
 
 ## What steps can I take before opening a support case? 
 {: #steps_before_opencase}
@@ -65,10 +67,11 @@ For `control.softlayer.com`, you can change your email preferences by going to *
 Before you open a support case, explore these resources to see whether your issue or question has already been resolved: 
 
 1. Review the [documentation](https://cloud.ibm.com/docs). 
-2. Review the [Support Center FAQs](https://cloud.ibm.com/unifiedsupport/supportcenter). 
-3. Go to the [FAQ library](https://cloud.ibm.com/docs/faqs). 
-4. Go to [Stack Overflow ![External link icon](../icons/launch-glyph.svg "External link icon")](http://stackoverflow.com/questions/tagged/ibm-bluemix){: new_window} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
-5. Go to [IBM Developer Answers ![External link icon](../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/answers/index.html){: new_window} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
+1. Review the [Featured FAQs](https://cloud.ibm.com/unifiedsupport/supportcenter) on the Support Center. 
+1. Go to the [FAQ library](https://cloud.ibm.com/docs/faqs). 
+1. Go to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
+1. Go to [{{site.data.keyword.IBM_notm}} Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/){: external} to ask general questions about the {{site.data.keyword.Bluemix_notm}} offering and about getting started instructions.
+
 
 ## How am I charged for support? 
 {: #support-costs}
