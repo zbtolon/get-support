@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-01-31"
+lastupdated: "2020-02-11"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -73,7 +73,7 @@ To view and manage your support cases, use the following steps:
 To view closed or resolved cases use the filter option to retrieve cases in any status. If you're a classic infrastructure user, and you don't see a listing of a previous case, go to **View archived cases**. 
 {: tip}
 
-### Searching for support cases 
+## Searching for support cases 
 {: #search-options}
 
 From the Manage cases page, you can search for all of your support cases by using query parameters in the search bar. All parameters can be used together and can be entered in any order. 
@@ -92,7 +92,7 @@ The following table shows search parameters and their use.
 If a term is entered without a parameter, the search results are shown for the support case number and the case subject. 
 {: note}
 
-#### Query examples
+### Query examples
 {: #search-query-examples}
 
 You want to search support cases by case number. Enter the following search query:
