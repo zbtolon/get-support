@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-02-04"
+lastupdated: "2020-02-19"
 
 keywords: service support, type of service
 
@@ -30,21 +30,21 @@ You can use the Support Center to access your available support options. The sup
 ## {{site.data.keyword.IBM_notm}} generally available service
 {: #s-services-gaorcont}
 
-Support is provided for problems that are determined to be a defect for services or container images that are generally available and provided by {{site.data.keyword.IBM_notm}}. The case is addressed based on the severity that you assign.
+Support is provided for problems that are determined to be a defect for services or container images that are generally available (GA) and provided by {{site.data.keyword.IBM_notm}}. The case is addressed based on the severity that you assign.
 
 
-## {{site.data.keyword.IBM_notm}} Beta service
+## {{site.data.keyword.IBM_notm}} beta service
 {: #s-services-betaorcont}
 
-{{site.data.keyword.IBM_notm}} releases services or container images that are classified as Beta releases. These services are in a trial stage of development and they aren't production-ready. A Beta release helps {{site.data.keyword.IBM_notm}} development and marketing teams to assess the value of the service in the market. This assessment enables teams to make changes before it's released as a generally available service or container image.
+{{site.data.keyword.IBM_notm}} releases services or container images that are classified as beta releases. These services are in a trial stage of development and they aren't production-ready. A beta release helps {{site.data.keyword.IBM_notm}} development and marketing teams to assess the value of the service in the market. This assessment enables teams to make changes before it's released as a GA service or container image.
 
-If the root cause analysis determines the issue is a defect in the {{site.data.keyword.IBM_notm}} Beta service or container image, then {{site.data.keyword.IBM_notm}} isn't required to provide a fix. Additionally, the case is assigned the appropriate 3 or 4 severity level.
+If the root cause analysis determines the issue is a defect in the beta service or container image,  {{site.data.keyword.IBM_notm}} isn't required to provide a fix. Additionally, the case is assigned the appropriate 3 or 4 severity level.
 
 
 ## {{site.data.keyword.IBM_notm}} experimental service
 {: #s-services-exporcont}
 
-{{site.data.keyword.IBM_notm}} releases services or container images that are classified as experimental, which you can try out. To view all available experimental services, boilerplates, and runtimes, log in to the {{site.data.keyword.Bluemix_notm}} console. Then, click **Catalog**, scroll to the end of the catalog, and click **{{site.data.keyword.Bluemix_notm}} Experimental Services**. These services might be unstable, change frequently in ways that aren't compatible with earlier versions, and might be discontinued with a short notice. These services aren't recommended for use in production environments.
+{{site.data.keyword.IBM_notm}} releases services or container images that are classified as experimental, which you can try out. To view all available experimental offerings, log in to the {{site.data.keyword.Bluemix_notm}} console. Then, click **Catalog**, scroll to the end of the catalog, and click **{{site.data.keyword.Bluemix_notm}} Experimental Services**. These services might be unstable, change frequently in ways that aren't compatible with earlier versions, and might be discontinued with a short notice. These services aren't recommended for use in production environments.
 
 You can get community assistance for technical issues for experimental services through [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external} and other issues through [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud.html){: external}. If a problem is a defect in an experimental service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix.
 
@@ -52,7 +52,7 @@ You can get community assistance for technical issues for experimental services 
 ## Third-party service
 {: #s-services-3p}
 
-Third-party services are provided by vendors outside of IBM. These services are provided by individual software entities, {{site.data.keyword.IBM_notm}} Business Partners, or independent software vendors (ISV).
+Third-party services are provided by vendors outside of {{site.data.keyword.IBM_notm}}. These services are provided by individual software entities, {{site.data.keyword.IBM_notm}} Business Partners, or independent software vendors (ISV).
 
 Support for third-party services is provided by the service provider. If the root cause analysis determines that the issue is a defect in a third-party service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party service provider, if needed, and can work through Marketplace with the third-party service to help solve the issue.
 
