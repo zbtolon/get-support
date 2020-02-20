@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-02-11"
+lastupdated: "2020-02-20"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases, support center, help support center, resolve issues support center, help getting support, help support 
 
@@ -93,7 +93,7 @@ To view your cases, click **Support** and select **View all open cases** from th
 
 
 ## Why can't I create a technical support case? 
-{: #ts_viewarchivedcase}
+{: #ts_tech-support-case}
 
 You can't create a technical support case.
 {:shortdesc}
