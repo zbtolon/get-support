@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-02-11"
+lastupdated: "2020-02-21"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time, SLO 
 
@@ -71,7 +71,7 @@ Basic Support is provided for non-production environments or workloads that don'
 ## Changing your support plan
 {:changing-support}
 
-You can change your current support plan at any time by contacting {{site.data.keyword.Bluemix_notm}} sales. Go to the [{{site.data.keyword.Bluemix_notm}} support page](https://www.ibm.com/cloud/support){: external}, scroll, and then click **Contact IBM Support**. From there, you can communicate with an expert through chat, phone, or email.
+You can change your current support plan at any time by contacting {{site.data.keyword.Bluemix_notm}} sales. Go to the [{{site.data.keyword.Bluemix_notm}} support page](https://www.ibm.com/cloud/support){: external} and click **Contact Us**. From there, you can communicate with an expert through chat, phone, or email.
 
 
 ## Tracking your support costs
