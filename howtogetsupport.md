@@ -22,7 +22,7 @@ subcollection: get-support
 # Getting support
 {: #getting-customer-support}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review recommended topics, featured FAQs, open or manage a support case, or search community content.
+If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](https://{DomainName}/unifiedsupport/supportcenter) to review your offering topics and featured FAQs, open or manage a support case, or search community content.
 {:shortdesc}
 
 All {{site.data.keyword.Bluemix_notm}} customers are provided with free technical support through the community and blogs. Go to [Asking a question](/docs/get-support?topic=get-support-getting-customer-support#asking-a-question) for more information. 
@@ -41,7 +41,7 @@ The types of support that are available, and when they're available, depend on t
 
 To access the Support Center, log in to the {{site.data.keyword.Bluemix_notm}} console, and click **Support** from the menu bar.  
 
-Review the recommended topics section to get a quick overview of {{site.data.keyword.Bluemix_notm}} documentation. The recommended topics offer common tasks based on what is provisioned on your account. You can search to view topics based on specific offerings. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center. If you have technical questions, you can find a link to Stack Overflow by going to the Contact support section.
+Review your offering topics to get a quick overview of {{site.data.keyword.Bluemix_notm}} documentation. These topics offer common tasks based on what is provisioned on your account. You can search to view topics based on specific offerings. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center. If you have technical questions, you can find a link to Stack Overflow by going to the Contact support section. You can also filter to view all offerings. 
 
 If you have a basic, advanced, or premium [support plan](/docs/get-support?topic=get-support-support-plans#support-plans), you can find contact numbers to get help. Premium and advanced support can chat with a support agent for additional help. 
 
@@ -64,15 +64,14 @@ The Stack Overflow forum, for technical questions, and the {{site.data.keyword.I
 ## Contacting support for {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}
 {: #contacting-ibmcloud-support-dedicated-local}
 
-If your account is either {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}, support is provided by the {{site.data.keyword.Bluemix_notm}} support team. However, if you don't have an {{site.data.keyword.ibmid}}, you have a few different options for getting support.
+If your account is either {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}, support is provided by the {{site.data.keyword.Bluemix_notm}} support team. 
 
 * Contact support by opening a new case by using the
-[{{site.data.keyword.Bluemix_notm}} Support](https://{DomainName}/unifiedsupport/supportcenter){: external} help page. You can use an email address or your {{site.data.keyword.ibmid}} for this form. Select the **{{site.data.keyword.Bluemix_dedicated_notm}}** or **{{site.data.keyword.Bluemix_local_notm}}** option for the Region field.
-* If you have an {{site.data.keyword.ibmid}} and have access to the {{site.data.keyword.Bluemix_notm}} Public environment, click **Support** from the menu bar. Then, click **Create new case** on the Get support tab. Select the topic area for your issue and follow the prompts to submit your case.
-* If you don't have an {{site.data.keyword.ibmid}}, you can contact someone in your organization who does have one, or work with your IBM representative.
+[{{site.data.keyword.Bluemix_notm}} Support](https://{DomainName}/unifiedsupport/supportcenter){: external} help page. Mention that your account is either **{{site.data.keyword.Bluemix_dedicated_notm}}** or **{{site.data.keyword.Bluemix_local_notm}}** in the Subject and Description of the support case. 
+* If you don't have an {{site.data.keyword.ibmid}}, contact someone in your organization that does, or work with your {{site.data.keyword.IBM_notm}} representative.
 
-A list of potential user contacts in your org for support cases can be displayed on the Support page in the {{site.data.keyword.Bluemix_notm}} console in your Dedicated or Local environment.
-{:tip}
+<!--A list of potential user contacts in your org for support cases can be displayed on the Support page in the {{site.data.keyword.Bluemix_notm}} console in your Dedicated or Local environment.
+{:tip}-->
 
 
 ## Requesting support for resources in the European Union
@@ -119,4 +118,4 @@ If you see a potential {{site.data.keyword.Bluemix_notm}} security vulnerability
 1. Clearly describe in the case summary that the case is about a potential security vulnerability.
 1. Provide details of the potential security vulnerability by including one of the following items:
 * A phone number at which you can be reached to discuss the issue.
-* Details of the issue. You must encrypt the details as a block of text in the body of the case. You must also provide instructions on how IBM Support can securely contact you to get decryption instructions.
+* Details of the issue. You must encrypt the details as a block of text in the body of the case. You must also provide instructions on how {{site.data.keyword.IBM_notm}} Support can securely contact you to get decryption instructions.
