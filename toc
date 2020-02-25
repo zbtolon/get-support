@@ -6,17 +6,18 @@ Getting support
 
     {: .navgroup id="learn"}
     index.md
+    servicessupport.md
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
     howtogetsupport.md
-    servicessupport.md
     opencase.md
     quick-case-response.md
     support_access.md
 
     {: topicgroup}
-    Monitoring status
+    Monitoring notifications and status
+        view_notifications.md
         ViewStatus.md
         status-bps.md
         status_search.md
@@ -30,6 +31,11 @@ Getting support
     {: .navgroup id="help"}
     ts_managecase.md
     faq.md
+    
+    {: .topicgroup}
+    Known issues
+        datacenter-migration.md
+    
     [Developer Answers](https://developer.ibm.com/answers/topics/ibm-cloud/)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
     {: .navgroup-end}
