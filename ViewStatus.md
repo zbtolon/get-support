@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-02-10"
+lastupdated: "2020-03-02"
 
 keywords: cloud status, view cloud status, planned maintenance, RSS feed, unfied notifications, iaas notifications, classic infrastructure notifications
 
@@ -63,7 +63,7 @@ You can build URL search values by using query parameters from outside the conso
 
 Infrastructure notifications are now hosted on the [Notifications](https://cloud.ibm.com/notifications) page. You can still view planned and unplanned events, maintenance, and announcements that might be impacting your account. 
 
-To learn more about the unified notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications). 
+<!--To learn more about the unified notifications experience, see [Viewing notifications](/docs/get-support?topic=get-support-viewing-notifications).--> 
 
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
